@@ -75,6 +75,7 @@
     - [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
     - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
     - [TSLint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint)
+    - [Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport)
     - [Git History (git log)](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
     - [Git Blame](https://marketplace.visualstudio.com/items?itemName=waderyan.gitblame)
     - [HTMLHint](https://marketplace.visualstudio.com/items?itemName=mkaufman.HTMLHint)
