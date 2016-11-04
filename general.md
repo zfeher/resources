@@ -70,12 +70,14 @@
 ## Editor/IDE
 - [Visual Studio Code](https://code.visualstudio.com/)
   - [JavaScript Extensions Part 1](https://code.visualstudio.com/blogs/2016/09/14/js_roundup_1)
+  - [JavaScript Extensions Part 2](http://code.visualstudio.com/blogs/2016/10/31/js_roundup_2)
   - Extensions
     - [Babel ES6/ES7](https://marketplace.visualstudio.com/items?itemName=dzannotti.vscode-babel-coloring)
     - [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
     - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
     - [TSLint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint)
     - [Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport)
+    - [Git Project Manager](https://marketplace.visualstudio.com/items?itemName=felipecaputo.git-project-manager)
     - [Git History (git log)](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
     - [Git Blame](https://marketplace.visualstudio.com/items?itemName=waderyan.gitblame)
     - [HTMLHint](https://marketplace.visualstudio.com/items?itemName=mkaufman.HTMLHint)
