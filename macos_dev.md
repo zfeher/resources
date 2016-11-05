@@ -46,6 +46,11 @@
 - [Shell Awesomeness With Prezto](http://joshsymonds.com/blog/2014/06/12/shell-awesomeness-with-prezto/)
 - [Customizing Your Prezto Prompt](http://mikebuss.com/2014/04/07/customizing-prezto/)
 
+### Update ZSH
+- [How to Use Homebrew Zsh Instead of Mac OS X Default](http://zanshin.net/2013/09/03/how-to-use-homebrew-zsh-instead-of-max-os-x-default/)
+- [How do I update zsh to the latest version?](http://stackoverflow.com/questions/17648621/how-do-i-update-zsh-to-the-latest-version)
+- [Use Homebrew zsh Instead of the OS X Default](http://rick.cogley.info/post/use-homebrew-zsh-instead-of-the-osx-default/)
+
 ### Related Stuff
 - Frameworks
   - [prezto](https://github.com/sorin-ionescu/prezto)
@@ -75,6 +80,7 @@
 
 
 ## Development
+- [HOW TO INSTALL PREZTO WITH ZSH FOR YOUR OS X TERMINAL](https://codurance.com/2015/03/16/installing-zprezto-a-quick-guide/)
 - [Setting Up an Apple Mac for Software Development](http://www.stuartellis.name/articles/mac-setup/)
 - [Mac OS X Setup Guide](http://sourabhbajaj.com/mac-setup/index.html) [book]
 - [Setting up a new OS X development machine](https://mattstauffer.co/blog/series/setting-up-a-new-os-x-development-machine)
