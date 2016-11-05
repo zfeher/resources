@@ -69,6 +69,11 @@
   - [FAQ](https://github.com/Homebrew/brew/blob/master/docs/FAQ.md)
 
 
+# Update git to latest
+- install via `brew install git` which will cause permission issues
+- [resolve linking permission problem](http://stackoverflow.com/questions/26809799/install-git-via-homebrew-on-mac-osx-10-10-results-in-error-permission-denied)
+
+
 ## Development
 - [Setting Up an Apple Mac for Software Development](http://www.stuartellis.name/articles/mac-setup/)
 - [Mac OS X Setup Guide](http://sourabhbajaj.com/mac-setup/index.html) [book]
