@@ -2,6 +2,10 @@
 - Check if something is installed correctly: `command -v nvm`
 
 
+## mac OS general
+- [10 MacBook Trackpad Gestures That Save You Time](http://lifehacker.com/10-macbook-trackpad-gestures-that-save-you-time-1788778916)
+
+
 ## Notes
 - Be carful with sudo everything [sudo]
   - Homebrew, NVM works without sudo
@@ -74,7 +78,7 @@
   - [FAQ](https://github.com/Homebrew/brew/blob/master/docs/FAQ.md)
 
 
-# Update git to latest
+## Update git to latest
 - install via `brew install git` which will cause permission issues
 - [resolve linking permission problem](http://stackoverflow.com/questions/26809799/install-git-via-homebrew-on-mac-osx-10-10-results-in-error-permission-denied)
 
