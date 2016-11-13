@@ -99,3 +99,8 @@
   - [zsh .nvmrc](https://github.com/creationix/nvm#calling-nvm-use-automatically-in-a-directory-with-a-nvmrc-file)
 - Xcode: [download](https://developer.apple.com/xcode/), [AppStore](https://itunes.apple.com/hu/app/xcode/id497799835?mt=12)
   - the full version only needed for mac/ios development
+
+
+## VirtualBox
+- [Resizing Virtual drive](http://askubuntu.com/questions/101715/resizing-virtual-drive/558215#558215)
+- [IE virtual machines](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/)
