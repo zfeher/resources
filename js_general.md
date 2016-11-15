@@ -7,6 +7,7 @@
 
 
 ## Learning
+- [6 Quick & Proven Tips to Help You Learn JavaScript](http://blog.alexdevero.com/6-quick-proven-tips-learn-javascript/)
 - [3 Different Kinds of Prototypal Inheritance: ES6+ Edition](https://medium.com/javascript-scene/3-different-kinds-of-prototypal-inheritance-es6-edition-32d777fa16c9#.9ivcvgv58) [delegation][inheritance][mixin][composition][stamp]
 - [Essential JavaScript Links](https://github.com/ericelliott/essential-javascript-links#essential-javascript-links)
 - [Learn JavaScript Essentials (for all skill levels)](https://medium.com/javascript-scene/learn-javascript-b631a4af11f2#.ka5qu9pp8)
@@ -140,10 +141,12 @@
 
 
 ## Charts
+- [How to Draw Charts Using JavaScript and HTML5 Canvas](https://code.tutsplus.com/tutorials/how-to-draw-a-pie-chart-and-doughnut-chart-using-javascript-and-html5-canvas--cms-27197)
 - [SVG Charting Libraries](http://mediatemple.net/blog/tips/svg-charting-libraries/)
 
 
 ## Testing
+- [An Intro to Monkey Testing with Gremlins.js](https://css-tricks.com/intro-monkey-testing-gremlins-js/)
 - [Getting Started with Create React App and AVA](https://semaphoreci.com/community/tutorials/getting-started-with-create-react-app-and-ava) [react][nvm][macos][homebrew]
 - [Page object for testing React.js components](https://medium.com/@boriscoder/page-object-for-testing-react-js-components-49cddb59adb7#.dyff9fk8e) [react][component]
 - [5 Common Misconceptions About TDD & Unit Tests](https://medium.com/javascript-scene/5-common-misconceptions-about-tdd-unit-tests-863d5beb3ce9#.4047dv8gk)
