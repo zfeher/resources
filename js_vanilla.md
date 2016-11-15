@@ -39,6 +39,9 @@
 - [When 'not' to use arrow functions](https://rainsoft.io/when-not-to-use-arrow-functions-in-javascript/) [tip]
 
 
+## Strings
+- [4 New String Methods in ES6 that you should know](http://wesbos.com/new-es6-string-methods/)
+
 ## Arrays
 - [Search JavaScript Arrays Efficiently with includes and indexOf](http://thenewcode.com/1152/Search-JavaScript-Arrays-Efficiently-with-includes-and-indexOf)
 
