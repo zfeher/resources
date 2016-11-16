@@ -1,3 +1,7 @@
+## Books
+- [DevFreeBooks](https://devfreebooks.github.io)
+
+
 ## Tools
 - [The Bash Guide](http://guide.bash.academy)
 
