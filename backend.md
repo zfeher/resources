@@ -3,6 +3,7 @@
 
 
 ## Node
+- [Node.js at Scale - Node.js Garbage Collection Explained](https://blog.risingstack.com/node-js-at-scale-node-js-garbage-collection/)
 - [6 of the Most Exciting ES6 Features in Node.js v6 LTS](https://nodesource.com/blog/six-of-the-most-exciting-es6-features-in-node-js-v6-lts)
 
 
