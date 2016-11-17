@@ -1,4 +1,7 @@
 ## CSS
+- [3 Ways to Center in CSS](https://appendto.com/2016/11/3-ways-to-center-in-css/)
+- [The Power of the rgba() Color Function in CSS](https://css-tricks.com/the-power-of-rgba/)
+- [AtoZ CSS Quick Tip: Mastering Z-index](https://www.sitepoint.com/atoz-css-z-index/)
 - [What is the difference between CSS variables and preprocessor variables?] (https://css-tricks.com/difference-between-types-of-css-variables/)
 - [Responsive Images in CSS](https://css-tricks.com/responsive-images-css/)
 - [Automatic responsive images with client hints](http://www.webdesignerdepot.com/2016/10/automatic-responsive-images-with-client-hints/)
@@ -15,6 +18,7 @@
 
 
 ## HTML
+- [HTML 5 CHEAT SHEET](https://makeawebsitehub.com/the-html-5-mega-cheat-sheet/)
 - [HTML forms guide](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Forms)
   - [Data form validation](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Forms/Data_form_validation)
 - [How to get the current cursor position (and selection) within a text input or textarea in Javascript](http://ourcodeworld.com/articles/read/282/how-to-get-the-current-cursor-position-and-selection-within-a-text-input-or-textarea-in-javascript) [html]
