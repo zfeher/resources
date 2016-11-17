@@ -16,7 +16,6 @@
 - [The Single Biggest Mistake Programmers Make Every Day](https://medium.com/javascript-scene/the-single-biggest-mistake-programmers-make-every-day-62366b432308#.qp5wmprzh)
 - [Common Misconceptions About Inheritance in JavaScript](https://medium.com/javascript-scene/common-misconceptions-about-inheritance-in-javascript-d5d9bab29b0a#.lkt23l2ay)
 
-
 ### Related Libs
 - [Stampit](https://github.com/stampit-org/stampit)
 - [stamp-utils](https://github.com/stampit-org/stamp-utils)
@@ -24,6 +23,13 @@
 
 ## Foundations
 - [JS Foundation](https://js.foundation)
+
+
+## General
+- [Web Developer Checklist](http://webdevchecklist.com)
+
+## Accessibility
+- [Accessibility Basics: Designing for Visual Impairment](https://webdesign.tutsplus.com/articles/accessibility-basics-designing-for-visual-impairment--cms-27634)
 
 
 ## Immutability
