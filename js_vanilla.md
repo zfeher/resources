@@ -1,6 +1,7 @@
 ## Compatibility
 - [Kangax ES6 compatibility table](http://kangax.github.io/compat-table/es6/)
 
+
 ## ES Proposals / Next
 - [ES proposal: Rest/Spread Properties](http://www.2ality.com/2016/10/rest-spread-properties.html)
 - Async/Await
@@ -35,12 +36,17 @@
 - [Babel.js](https://babeljs.io)
 
 
+## Tricks
+- [Require Parameters for JavaScript Functions](https://davidwalsh.name/javascript-function-parameters)
+
+
 ## Arrow Function/Fat Arrow/=>
 - [When 'not' to use arrow functions](https://rainsoft.io/when-not-to-use-arrow-functions-in-javascript/) [tip]
 
 
 ## Strings
 - [4 New String Methods in ES6 that you should know](http://wesbos.com/new-es6-string-methods/)
+
 
 ## Arrays
 - [Search JavaScript Arrays Efficiently with includes and indexOf](http://thenewcode.com/1152/Search-JavaScript-Arrays-Efficiently-with-includes-and-indexOf)
@@ -49,10 +55,14 @@
 ## Typed Arrays
 - [Exploring JavaScript: Typed Arrays](https://codingbox.io/exploring-javascript-typed-arrays-c8fd4f8bd24f#.cotf6ljbp)
 
+
 ## Template Strings
 - [Tagged Template Literals](http://wesbos.com/tagged-template-literals/)
 - [Easy Creation of HTML with JavaScript’s Template Strings](http://wesbos.com/template-strings-html/)
 
+
+## Proxies
+- [Pitfall: not all objects can be proxied transparently](http://www.2ality.com/2016/11/proxying-builtins.html)
 
 ## Promises
 - [Exploring ES6: Promises](http://exploringjs.com/es6/ch_promises.html)
