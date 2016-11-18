@@ -33,6 +33,7 @@
 
 
 ## Immutability
+- [The Missing Immutable.js Manual with all the Examples you’ll ever need](http://untangled.io/the-missing-immutable-js-manual/)
 - [Embracing Immutable Architecture](https://medium.com/react-weekly/embracing-immutable-architecture-dc04e3f08543#.lkceku4fh) [react] [redux] [elm]
 
 ### Related Libs
@@ -141,6 +142,7 @@
 
 
 ## Animation
+- [Animating the DOM with Anime.js](https://www.sitepoint.com/animating-the-dom-with-anime-js/)
 - [Bringing to life with Web Animations API](https://codequs.com/p/H1oa_vGqA/bringing-to-life-with-web-animations-api/)
 
 ### Related Libs
@@ -173,6 +175,7 @@
 ## Package/Dependency Management
 - [Yarn](https://yarnpkg.com)
 - [Node/NPM](https://www.npmjs.com)
+  - [10 Tips and Tricks That Will Make You an npm Ninja](https://www.sitepoint.com/10-npm-tips-and-tricks/)
   - [Using npm update and npm outdated to update dependencies](http://bytearcher.com/articles/using-npm-update-and-npm-outdated-to-update-dependencies/)
 - [JSPM](http://jspm.io)
 - [Bower](https://bower.io)
