@@ -88,6 +88,7 @@
 
 
 ## React
+- [Next.Js Is it the next big thing in JavaScript?](https://medium.com/javascript-mantra/next-js-53e9cf4da5af#.pu3g5fazg)
 - Performance Optimizing a React Single Page App: [part 1](https://medium.com/front-end-hacking/performance-optimizing-a-react-single-page-app-a68985fa72cc#.vplw2bu63), [part 2](https://medium.com/@ryancollinsio/performance-optimizing-a-react-single-page-app-part-2-92a0f0c83202#.7ft94rvn2)
 - [Setting up your React /ES6 Development environment with Webpack, Express and Babel](https://blog.hellojs.org/setting-up-your-react-es6-development-environment-with-webpack-express-and-babel-e2a53994ade#.m8q42caiv) [tutorial][webpack][hot module]
 - [React.Js: Achieving 20ms server response time with Server Side Rendering and caching](https://ateev.in/react-js-achieving-20ms-server-response-time-with-server-side-rendering-1ea80e420d88#.nybh1w4z7) [server side render][redis]
@@ -142,10 +143,12 @@
 
 
 ## Animation
+- [An Introduction to mo.js](https://css-tricks.com/introduction-mo-js/)
 - [Animating the DOM with Anime.js](https://www.sitepoint.com/animating-the-dom-with-anime-js/)
 - [Bringing to life with Web Animations API](https://codequs.com/p/H1oa_vGqA/bringing-to-life-with-web-animations-api/)
 
 ### Related Libs
+- [mo.js](http://mojs.io)
 - [Web Animations API](https://github.com/web-animations/web-animations-js)
 
 
