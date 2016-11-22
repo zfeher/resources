@@ -32,6 +32,9 @@
 - [Accessibility Basics: Designing for Visual Impairment](https://webdesign.tutsplus.com/articles/accessibility-basics-designing-for-visual-impairment--cms-27634)
 
 
+## Keyboard
+- [Mousetrap](https://craig.is/killing/mice)
+
 ## Immutability
 - [The Missing Immutable.js Manual with all the Examples you’ll ever need](http://untangled.io/the-missing-immutable-js-manual/)
 - [Embracing Immutable Architecture](https://medium.com/react-weekly/embracing-immutable-architecture-dc04e3f08543#.lkceku4fh) [react] [redux] [elm]
