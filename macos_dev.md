@@ -1,4 +1,5 @@
 ## Unsorted
+- list processes which uses a certain port: `lsof -i tcp:8888` after this you can do `kill -9 PID` 
 - Check if something is installed correctly: `command -v nvm`
 
 
