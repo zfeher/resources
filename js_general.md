@@ -28,12 +28,17 @@
 ## General
 - [Web Developer Checklist](http://webdevchecklist.com)
 
+
+## Development
+- [ngrok](https://ngrok.com) // share localhost stuff via tunneling
+
 ## Accessibility
 - [Accessibility Basics: Designing for Visual Impairment](https://webdesign.tutsplus.com/articles/accessibility-basics-designing-for-visual-impairment--cms-27634)
 
 
 ## Keyboard
 - [Mousetrap](https://craig.is/killing/mice)
+
 
 ## Immutability
 - [The Missing Immutable.js Manual with all the Examples you’ll ever need](http://untangled.io/the-missing-immutable-js-manual/)
@@ -72,6 +77,7 @@
 
 
 ## Components
+- [How to use React’s higher-order components](https://medium.freecodecamp.com/react-higher-order-components-635d0bc38b6c#.zdbrjdgm5) [react]
 - [Why you should learn the highlights of Angular 1.5](https://medium.com/@JCastigliano/why-you-should-learn-the-highlights-of-angular-1-5-bb6c320928a5#.5n8n3qebi) [angular]
 - [Flattening Deep Hierarchies of Components](http://blog.rangle.io/flattening-deep-hierarchies-of-components/)
 
@@ -106,6 +112,8 @@
 
 
 ## State Management
+- [Why Redux Need Reducers To Be “Pure Functions”](https://medium.com/@rajaraodv/why-redux-needs-reducers-to-be-pure-functions-d438c58ae468#.odq3goo99)
+- [Epic Middleware in Redux](https://medium.com/@kevinsalter/epic-middleware-in-redux-e4385b6ff7c6#.a91vsdwy5)
 - [Lazy registration with Redux and Sagas](http://goshakkk.name/lazy-auth-redux-saga-flow/) [redux-saga][redux]
 - [Managing State in Angular 2 Applications](http://blog.oasisdigital.com/2016/managing-state-angular-2/) [angular]
 - [Redux Step by Step: A Simple and Robust Workflow for Real Life Apps](https://hackernoon.com/redux-step-by-step-a-simple-and-robust-workflow-for-real-life-apps-1fdf7df46092#.cnq6yww5k) [tutorial] [react] [flux]
@@ -161,6 +169,7 @@
 
 
 ## Testing
+- [Worthwhile Testing: What to test in a React app (and why)](https://daveceddia.com/what-to-test-in-react-app/) [react]
 - [An Intro to Monkey Testing with Gremlins.js](https://css-tricks.com/intro-monkey-testing-gremlins-js/)
 - [Getting Started with Create React App and AVA](https://semaphoreci.com/community/tutorials/getting-started-with-create-react-app-and-ava) [react][nvm][macos][homebrew]
 - [Page object for testing React.js components](https://medium.com/@boriscoder/page-object-for-testing-react-js-components-49cddb59adb7#.dyff9fk8e) [react][component]
