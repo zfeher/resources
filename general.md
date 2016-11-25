@@ -7,6 +7,7 @@
 
 
 ## Git
+- [Stop using `git pull`: A better workflow](https://adamcod.es/2014/12/10/git-pull-correct-workflow.html)
 - [Try Git](https://try.github.io)
 - [git - the simple guide](http://rogerdudler.github.io/git-guide/)
 - [Learn Git Branching](http://learngitbranching.js.org)
@@ -26,6 +27,7 @@
 - [Distributed Git - Contributing to a Project](https://git-scm.com/book/en/v2/Distributed-Git-Contributing-to-a-Project)
 - [Distributed Git - Maintaining a Project](https://git-scm.com/book/en/v2/Distributed-Git-Maintaining-a-Project)
 - Some commands
+  - `git fetch origin --prune` fetches origin end cleans up a bit, removes deleted remote branches but not the checked out ones
   - `git config --global user.name "John Doe"`
   - `git config --global user.email johndoe@example.com`
   - `git config --global core.editor emacs`
