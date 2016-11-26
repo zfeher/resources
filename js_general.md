@@ -112,6 +112,7 @@
 
 
 ## State Management
+- [Taking Advantage of combineReducers](http://randycoulman.com/blog/2016/11/22/taking-advantage-of-combinereducers/)
 - [Why Redux Need Reducers To Be “Pure Functions”](https://medium.com/@rajaraodv/why-redux-needs-reducers-to-be-pure-functions-d438c58ae468#.odq3goo99)
 - [Epic Middleware in Redux](https://medium.com/@kevinsalter/epic-middleware-in-redux-e4385b6ff7c6#.a91vsdwy5)
 - [Lazy registration with Redux and Sagas](http://goshakkk.name/lazy-auth-redux-saga-flow/) [redux-saga][redux]
