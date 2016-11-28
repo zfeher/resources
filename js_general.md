@@ -97,6 +97,7 @@
 
 
 ## React
+- [Single-Prop HOCs – Better Composition in React](https://www.okgrow.com/posts/compose-react-sphoc)
 - [Next.Js Is it the next big thing in JavaScript?](https://medium.com/javascript-mantra/next-js-53e9cf4da5af#.pu3g5fazg)
 - Performance Optimizing a React Single Page App: [part 1](https://medium.com/front-end-hacking/performance-optimizing-a-react-single-page-app-a68985fa72cc#.vplw2bu63), [part 2](https://medium.com/@ryancollinsio/performance-optimizing-a-react-single-page-app-part-2-92a0f0c83202#.7ft94rvn2)
 - [Setting up your React /ES6 Development environment with Webpack, Express and Babel](https://blog.hellojs.org/setting-up-your-react-es6-development-environment-with-webpack-express-and-babel-e2a53994ade#.m8q42caiv) [tutorial][webpack][hot module]
