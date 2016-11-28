@@ -1,4 +1,6 @@
 ## CSS
+- [CSS Vertical Align for Everyone (Dummies Included)](https://medium.com/outsystems-experts/css-vertical-align-for-everyone-dummies-included-44af86f4ba40#.peu2u0pzo)
+- [STUNNING EXAMPLES OF CSS PSEUDO-CLASSES IN ACTION](http://www.catswhocode.com/blog/stunning-examples-of-css-pseudo-classes-in-action)
 - [AtoZ CSS Quick Tip: Difference between Translate & Position Relative](https://www.sitepoint.com/atoz-css-translate-vs-position/)
 - [Native Browser Copy To Clipboard](https://css-tricks.com/native-browser-copy-clipboard/)
 - [20 essential CSS tricks every designer should know](https://medium.com/@WebdesignerDepot/20-essential-css-tricks-every-designer-should-know-bccf0ca81b1c#.bmrxc49zc)
