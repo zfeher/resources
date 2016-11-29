@@ -1,3 +1,7 @@
+## Fun
+- [Hype Driven Development](https://blog.daftcode.pl/hype-driven-development-3469fc2e9b22#.6yid21oth)
+
+
 ## Books
 - [DevFreeBooks](https://devfreebooks.github.io)
 
