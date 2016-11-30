@@ -49,8 +49,12 @@
 - [Immutable JS](http://facebook.github.io/immutable-js/)
 
 
-## Functional Programmings (FP)
+## Functional Programming (FP)
 - So You Want to be a Functional Programmer - Charles Scalfani: [Part 1](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536), [Part 2](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-2-7005682cec4a), [Part 3](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-3-1b0fd14eb1a7), [Part 4](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-4-18fbe3ea9e49), [Part 5](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-5-c70adc9cf56a), [Part 6](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-6-db502830403#.8wfy3yabr)
+
+### Related Libs
+- [functional.js](http://functionaljs.com)
+- [Ramda](http://ramdajs.com)
 
 
 ## Functional Reactive Programming (FRP)
@@ -72,6 +76,7 @@
 
 
 ## Typescript
+- [TypeScript 2.0: Read-Only Properties](https://blog.mariusschulz.com/2016/10/31/typescript-2-0-read-only-properties)
 - [TypeSearch](http://microsoft.github.io/TypeSearch/)
 - [How to write multi-module Typescript declaration files](https://medium.com/@DzoQiEuoi/how-to-write-multi-module-typescript-declaration-files-8f45935636d2#.ja6g8k90v)
 
@@ -81,6 +86,9 @@
 - [Why you should learn the highlights of Angular 1.5](https://medium.com/@JCastigliano/why-you-should-learn-the-highlights-of-angular-1-5-bb6c320928a5#.5n8n3qebi) [angular]
 - [Flattening Deep Hierarchies of Components](http://blog.rangle.io/flattening-deep-hierarchies-of-components/)
 
+
+## Routing
+- [Do I Even Need A Routing Library?](http://jamesknelson.com/even-need-routing-library/)
 
 ## Angular 2
 - [Angular 2 Testing In Depth: Services](https://auth0.com/blog/angular-2-testing-in-depth-services/)
@@ -156,6 +164,7 @@
 
 
 ## Animation
+- [10 principles for smooth web animations](https://blog.gyrosco.pe/smooth-css-animations-7d8ffc2c1d29#.g0x4ti6he)
 - [An Introduction to mo.js](https://css-tricks.com/introduction-mo-js/)
 - [Animating the DOM with Anime.js](https://www.sitepoint.com/animating-the-dom-with-anime-js/)
 - [Bringing to life with Web Animations API](https://codequs.com/p/H1oa_vGqA/bringing-to-life-with-web-animations-api/)
