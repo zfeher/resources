@@ -11,6 +11,7 @@
 
 
 ## Git
+- [Git bisect](https://glebbahmutov.com/blog/git-bisect/)
 - [Stop using `git pull`: A better workflow](https://adamcod.es/2014/12/10/git-pull-correct-workflow.html)
 - [Try Git](https://try.github.io)
 - [git - the simple guide](http://rogerdudler.github.io/git-guide/)
