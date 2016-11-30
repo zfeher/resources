@@ -76,6 +76,7 @@
 
 
 ## Typescript
+- [Typescript decorators](http://www.sparkbit.pl/typescript-decorators/)
 - [TypeScript 2.0: Read-Only Properties](https://blog.mariusschulz.com/2016/10/31/typescript-2-0-read-only-properties)
 - [TypeSearch](http://microsoft.github.io/TypeSearch/)
 - [How to write multi-module Typescript declaration files](https://medium.com/@DzoQiEuoi/how-to-write-multi-module-typescript-declaration-files-8f45935636d2#.ja6g8k90v)
