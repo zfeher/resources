@@ -1,4 +1,5 @@
 ## CSS
+- [Pure CSS Horizontal Scrolling](https://css-tricks.com/pure-css-horizontal-scrolling/)
 - [CSS Vertical Align for Everyone (Dummies Included)](https://medium.com/outsystems-experts/css-vertical-align-for-everyone-dummies-included-44af86f4ba40#.peu2u0pzo)
 - [STUNNING EXAMPLES OF CSS PSEUDO-CLASSES IN ACTION](http://www.catswhocode.com/blog/stunning-examples-of-css-pseudo-classes-in-action)
 - [AtoZ CSS Quick Tip: Difference between Translate & Position Relative](https://www.sitepoint.com/atoz-css-translate-vs-position/)
@@ -23,6 +24,7 @@
 
 
 ## HTML
+- [What’s New in HTML 5.1](https://www.sitepoint.com/whats-new-in-html-5-1/)
 - [HTML 5 CHEAT SHEET](https://makeawebsitehub.com/the-html-5-mega-cheat-sheet/)
 - [HTML forms guide](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Forms)
   - [Data form validation](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Forms/Data_form_validation)
