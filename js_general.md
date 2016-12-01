@@ -32,9 +32,13 @@
 ## Development
 - [ngrok](https://ngrok.com) // share localhost stuff via tunneling
 
+
 ## Accessibility
 - [Accessibility Basics: Designing for Visual Impairment](https://webdesign.tutsplus.com/articles/accessibility-basics-designing-for-visual-impairment--cms-27634)
 
+
+## Security
+- [The Most Common XSS Vulnerability in React.js Applications](https://medium.com/node-security/the-most-common-xss-vulnerability-in-react-js-applications-2bdffbcc1fa0#.ozdwlcx2g) [xss][react]
 
 ## Keyboard
 - [Mousetrap](https://craig.is/killing/mice)
