@@ -1,3 +1,7 @@
+## Unsorted
+- [inferno](https://github.com/trueadm/inferno)[react][component][lib]
+
+
 ## Books
 - [DevFreeBooks](https://devfreebooks.github.io)
 - [Exploring ES2016 and ES2017 - Dr. Axel Rauschmayer](https://leanpub.com/exploring-es2016-es2017/read)
@@ -185,6 +189,8 @@
 
 
 ## Testing
+- [DOM Testing React Applications with Jest](https://www.codementor.io/pkodmad/tutorials/dom-testing-react-application-jest-k4ll4f8sd) [react]
+- [Unit testing front-end JavaScript with AVA and jsdom](http://www.damianmullins.com/unit-testing-front-end-javacript-with-ava-and-jsdom/)
 - [Worthwhile Testing: What to test in a React app (and why)](https://daveceddia.com/what-to-test-in-react-app/) [react]
 - [An Intro to Monkey Testing with Gremlins.js](https://css-tricks.com/intro-monkey-testing-gremlins-js/)
 - [Getting Started with Create React App and AVA](https://semaphoreci.com/community/tutorials/getting-started-with-create-react-app-and-ava) [react][nvm][macos][homebrew]
@@ -204,6 +210,7 @@
 
 
 ## Package/Dependency Management
+- [https://medium.com/@jacob.h.page/common-npm-mistakes-51bf8989079f#.9nhzzq697](https://medium.com/@jacob.h.page/common-npm-mistakes-51bf8989079f#.9nhzzq697)
 - [Yarn](https://yarnpkg.com)
 - [Node/NPM](https://www.npmjs.com)
   - [10 Tips and Tricks That Will Make You an npm Ninja](https://www.sitepoint.com/10-npm-tips-and-tricks/)
