@@ -84,6 +84,7 @@
 
 
 ## Typescript
+- [Announcing TypeScript 2.1](https://blogs.msdn.microsoft.com/typescript/2016/12/07/announcing-typescript-2-1/)
 - [Typescript decorators](http://www.sparkbit.pl/typescript-decorators/)
 - [TypeScript 2.0: Read-Only Properties](https://blog.mariusschulz.com/2016/10/31/typescript-2-0-read-only-properties)
 - [TypeSearch](http://microsoft.github.io/TypeSearch/)
@@ -189,6 +190,7 @@
 
 
 ## Testing
+- [Testing React components with Jest and Enzyme](https://hackernoon.com/testing-react-components-with-jest-and-enzyme-41d592c174f#.xroi6dne0)
 - [DOM Testing React Applications with Jest](https://www.codementor.io/pkodmad/tutorials/dom-testing-react-application-jest-k4ll4f8sd) [react]
 - [Unit testing front-end JavaScript with AVA and jsdom](http://www.damianmullins.com/unit-testing-front-end-javacript-with-ava-and-jsdom/)
 - [Worthwhile Testing: What to test in a React app (and why)](https://daveceddia.com/what-to-test-in-react-app/) [react]
