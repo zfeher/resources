@@ -14,6 +14,7 @@
 
 
 ## Git
+- [A Small Matter of Programming](http://blog.wuwon.id.au/2010/09/painless-merge-conflict-resolution-in.html)
 - [Git bisect](https://glebbahmutov.com/blog/git-bisect/)
 - [Stop using `git pull`: A better workflow](https://adamcod.es/2014/12/10/git-pull-correct-workflow.html)
 - [Try Git](https://try.github.io)
