@@ -1,3 +1,6 @@
+## Watchout for
+- [The Languages, Frameworks and Tools You Should Learn in 2017](http://tutorialzine.com/2016/12/the-languages-frameworks-tools-you-should-learn-in-2017/)
+
 ## Fun
 - [Hype Driven Development](https://blog.daftcode.pl/hype-driven-development-3469fc2e9b22#.6yid21oth)
 
