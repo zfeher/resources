@@ -12,6 +12,7 @@
 
 
 ## Learning
+- [Top JavaScript Frameworks & Topics to Learn in 2017](https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711#.o8j9rv8qv)
 - [6 Quick & Proven Tips to Help You Learn JavaScript](http://blog.alexdevero.com/6-quick-proven-tips-learn-javascript/)
 - [3 Different Kinds of Prototypal Inheritance: ES6+ Edition](https://medium.com/javascript-scene/3-different-kinds-of-prototypal-inheritance-es6-edition-32d777fa16c9#.9ivcvgv58) [delegation][inheritance][mixin][composition][stamp]
 - [Essential JavaScript Links](https://github.com/ericelliott/essential-javascript-links#essential-javascript-links)
@@ -30,6 +31,8 @@
 
 
 ## General
+- [How tabs should work](https://remysharp.com/2016/12/11/how-tabs-should-work)
+- [Native JavaScript Development after Internet Explorer](https://www.sitepoint.com/native-javascript-development-after-internet-explorer/)
 - [Web Developer Checklist](http://webdevchecklist.com)
 
 
@@ -66,6 +69,8 @@
 
 
 ## Functional Reactive Programming (FRP)
+- [How To Debug RxJs - A Simple Way For Debugging Rxjs Observables](http://blog.angular-university.io/debug-rxjs/)
+- [On The Subject Of Subjects (in RxJS)](https://medium.com/@benlesh/on-the-subject-of-subjects-in-rxjs-2b08b7198b93#.emvh3ijjd)
 
 
 ## CSP/Processes/Channels/Transducers
@@ -83,7 +88,11 @@
 - [Rules For Structuring (Redux) Applications](http://jaysoo.ca/2016/02/28/organizing-redux-application/) [react] [redux] [structure]
 
 
+## Progressive Web Apps
+- [Learning Progressive Web App](https://github.com/ragingwind/learning-pwa)
+
 ## Typescript
+- [TypeScript 2.1: async/await for ES3/ES5](https://blog.mariusschulz.com/2016/12/09/typescript-2-1-async-await-for-es3-es5)
 - [Announcing TypeScript 2.1](https://blogs.msdn.microsoft.com/typescript/2016/12/07/announcing-typescript-2-1/)
 - [Typescript decorators](http://www.sparkbit.pl/typescript-decorators/)
 - [TypeScript 2.0: Read-Only Properties](https://blog.mariusschulz.com/2016/10/31/typescript-2-0-read-only-properties)
