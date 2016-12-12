@@ -1,3 +1,6 @@
+## General
+- [JS: Basics and Tricky Questions](https://medium.com/@Hollyzhou/js-basics-and-tricky-questions-33a88f80d4b4#.6j7ctzbf4)
+
 ## Security
 - Cross-Site Scripting (XSS): [wiki](https://en.wikipedia.org/wiki/Cross-site_scripting), [owasp](https://www.owasp.org/index.php/Cross-site_Scripting_(XSS))
   - How to prevent XSS ?
