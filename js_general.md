@@ -31,6 +31,9 @@
 
 
 ## General
+- [Three Rules For Structuring (Redux) Applications](http://jaysoo.ca/2016/02/28/organizing-redux-application/) [react][redux][project structure][organization]
+  - [The Anatomy Of A React & Redux Module (Applying The Three Rules)](http://jaysoo.ca/2016/02/28/applying-code-organization-rules-to-concrete-redux-code/)
+  - [Additional Guidelines For (Redux) Project Structure](http://jaysoo.ca/2016/12/12/additional-guidelines-for-project-structure/)
 - [How tabs should work](https://remysharp.com/2016/12/11/how-tabs-should-work)
 - [Native JavaScript Development after Internet Explorer](https://www.sitepoint.com/native-javascript-development-after-internet-explorer/)
 - [Web Developer Checklist](http://webdevchecklist.com)
@@ -61,11 +64,13 @@
 
 
 ## Functional Programming (FP)
+- [If Else vs Either Monad vs FRP](https://glebbahmutov.com/blog/if-else-vs-either-monad-vs-frp/)
 - So You Want to be a Functional Programmer - Charles Scalfani: [Part 1](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536), [Part 2](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-2-7005682cec4a), [Part 3](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-3-1b0fd14eb1a7), [Part 4](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-4-18fbe3ea9e49), [Part 5](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-5-c70adc9cf56a), [Part 6](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-6-db502830403#.8wfy3yabr)
 
 ### Related Libs
 - [functional.js](http://functionaljs.com)
 - [Ramda](http://ramdajs.com)
+- [ramda-fantasy](https://github.com/ramda/ramda-fantasy) [maybe][either][io][monad]
 
 
 ## Functional Reactive Programming (FRP)
