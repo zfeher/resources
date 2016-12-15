@@ -145,6 +145,7 @@
 
 
 ## State Management
+- [Managing Side Effects In React + Redux Using Sagas](http://jaysoo.ca/2016/01/03/managing-processes-in-redux-using-sagas/) [redux][sagas]
 - [Globalizing Redux Selectors](http://randycoulman.com/blog/2016/11/29/globalizing-redux-selectors/)
 - [Modular Reducers and Selectors](http://randycoulman.com/blog/2016/09/27/modular-reducers-and-selectors/)
 - [Taking Advantage of combineReducers](http://randycoulman.com/blog/2016/11/22/taking-advantage-of-combinereducers/)
