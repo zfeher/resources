@@ -5,6 +5,7 @@
 
 
 ## mac OS general
+- [Fabulous macOS Tips & Tricks](https://blog.sindresorhus.com/macos-tips-tricks-13046cf377f8#.oqfloh7j9)
 - [10 MacBook Trackpad Gestures That Save You Time](http://lifehacker.com/10-macbook-trackpad-gestures-that-save-you-time-1788778916)
 
 
