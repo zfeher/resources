@@ -47,6 +47,9 @@
 - [Accessibility Basics: Designing for Visual Impairment](https://webdesign.tutsplus.com/articles/accessibility-basics-designing-for-visual-impairment--cms-27634)
 
 
+## Async
+- [Yield and Async notations](https://ouicar.github.io/2016/12/14/async-yield.html)
+
 ## Security
 - [The Most Common XSS Vulnerability in React.js Applications](https://medium.com/node-security/the-most-common-xss-vulnerability-in-react-js-applications-2bdffbcc1fa0#.ozdwlcx2g) [xss][react]
 
@@ -220,6 +223,7 @@
 - [What is property based testing (and how to do it in JavaScript)?](http://codeutopia.net/blog/2016/10/03/what-is-property-based-testing-and-how-to-do-it-in-javascript/)
 
 ### Related Libs
+- [TestCafe](https://devexpress.github.io/testcafe/)
 - [AVA](https://github.com/avajs/ava) [test runner]
 - [Karma](https://github.com/karma-runner/karma) [test runner]
 - [WebdriverIO](http://webdriver.io)
