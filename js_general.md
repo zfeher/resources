@@ -110,6 +110,7 @@
 
 
 ## Components
+- [Why use reactive streams for components?](https://glebbahmutov.com/blog/why-use-reactive-streams-for-components/)
 - [How to use React’s higher-order components](https://medium.freecodecamp.com/react-higher-order-components-635d0bc38b6c#.zdbrjdgm5) [react]
 - [Why you should learn the highlights of Angular 1.5](https://medium.com/@JCastigliano/why-you-should-learn-the-highlights-of-angular-1-5-bb6c320928a5#.5n8n3qebi) [angular]
 - [Flattening Deep Hierarchies of Components](http://blog.rangle.io/flattening-deep-hierarchies-of-components/)
