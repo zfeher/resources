@@ -237,6 +237,7 @@
 ## Package/Dependency Management
 - [https://medium.com/@jacob.h.page/common-npm-mistakes-51bf8989079f#.9nhzzq697](https://medium.com/@jacob.h.page/common-npm-mistakes-51bf8989079f#.9nhzzq697)
 - [Yarn](https://yarnpkg.com)
+- [npms.io](https://npms.io)
 - [Node/NPM](https://www.npmjs.com)
   - [10 Tips and Tricks That Will Make You an npm Ninja](https://www.sitepoint.com/10-npm-tips-and-tricks/)
   - [Using npm update and npm outdated to update dependencies](http://bytearcher.com/articles/using-npm-update-and-npm-outdated-to-update-dependencies/)
