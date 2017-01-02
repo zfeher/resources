@@ -87,6 +87,7 @@
 
 
 ## Development
+- [Setting up a Brand New Mac for Development](https://www.taniarascia.com/setting-up-a-brand-new-mac-for-development/)
 - [THE DEVELOPER'S MACBOOK](http://martiancraft.com/blog/2015/08/macbook-for-developers/)
 - [HOW TO INSTALL PREZTO WITH ZSH FOR YOUR OS X TERMINAL](https://codurance.com/2015/03/16/installing-zprezto-a-quick-guide/)
 - [Setting Up an Apple Mac for Software Development](http://www.stuartellis.name/articles/mac-setup/)
