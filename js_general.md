@@ -28,6 +28,11 @@
 - [stamp-utils](https://github.com/stampit-org/stamp-utils)
 
 
+## Conferences
+- [https://css-tricks.com/guide-2017-conferences/](https://css-tricks.com/guide-2017-conferences/)
+- [JavaScript conferences you can look forward to in 2017](https://medium.freecodecamp.com/javascript-conferences-to-attend-in-2017-b46b288a5df0#.wh4t4oi0c)
+
+
 ## Foundations
 - [JS Foundation](https://js.foundation)
 
@@ -40,6 +45,9 @@
 - [Native JavaScript Development after Internet Explorer](https://www.sitepoint.com/native-javascript-development-after-internet-explorer/)
 - [Web Developer Checklist](http://webdevchecklist.com)
 
+
+## Performance
+- [10 things I learned making the fastest site in the world](https://hackernoon.com/10-things-i-learned-making-the-fastest-site-in-the-world-18a0e1cdf4a7#.dr9tgftzw)
 
 ## Development
 - [ngrok](https://ngrok.com) // share localhost stuff via tunneling
@@ -137,6 +145,7 @@
 
 
 ## React
+- [Optimizing react-redux store for high performance updates](https://medium.com/@lavrton/optimizing-react-redux-store-for-high-performance-updates-3ae6f7f1e4c1#.xneqspd4v) [redux]
 - [Single-Prop HOCs – Better Composition in React](https://www.okgrow.com/posts/compose-react-sphoc)
 - [Next.Js Is it the next big thing in JavaScript?](https://medium.com/javascript-mantra/next-js-53e9cf4da5af#.pu3g5fazg)
 - Performance Optimizing a React Single Page App: [part 1](https://medium.com/front-end-hacking/performance-optimizing-a-react-single-page-app-a68985fa72cc#.vplw2bu63), [part 2](https://medium.com/@ryancollinsio/performance-optimizing-a-react-single-page-app-part-2-92a0f0c83202#.7ft94rvn2)
