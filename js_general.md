@@ -61,6 +61,7 @@
 - [Yield and Async notations](https://ouicar.github.io/2016/12/14/async-yield.html)
 
 ## Security
+- [Web security essentials - Password storage](http://www.sohamkamani.com/blog/2016/11/24/web-security-password-storage/)
 - [The Most Common XSS Vulnerability in React.js Applications](https://medium.com/node-security/the-most-common-xss-vulnerability-in-react-js-applications-2bdffbcc1fa0#.ozdwlcx2g) [xss][react]
 
 ## Keyboard
@@ -118,6 +119,14 @@
 - [TypeScript 2.0: Read-Only Properties](https://blog.mariusschulz.com/2016/10/31/typescript-2-0-read-only-properties)
 - [TypeSearch](http://microsoft.github.io/TypeSearch/)
 - [How to write multi-module Typescript declaration files](https://medium.com/@DzoQiEuoi/how-to-write-multi-module-typescript-declaration-files-8f45935636d2#.ja6g8k90v)
+
+
+## Flow
+- [Authoring and publishing JavaScript modules with Flow](http://javascriptplayground.com/blog/2017/01/npm-flowjs-javascript/)
+
+## Related Libs
+- [flow-copy-source](https://github.com/AgentME/flow-copy-source)
+- [flow-typed](https://github.com/flowtype/flow-typed)
 
 
 ## Components
