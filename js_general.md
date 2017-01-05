@@ -1,4 +1,5 @@
 ## Unsorted
+- [Svelte](https://svelte.technology)
 - [inferno](https://github.com/trueadm/inferno)[react][component][lib]
 
 
