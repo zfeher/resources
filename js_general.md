@@ -112,6 +112,7 @@
 ## Progressive Web Apps
 - [Learning Progressive Web App](https://github.com/ragingwind/learning-pwa)
 
+
 ## Typescript
 - [TypeScript 2.1: External Helpers Library](https://blog.mariusschulz.com/2016/12/16/typescript-2-1-external-helpers-library)
 - [TypeScript 2.1: async/await for ES3/ES5](https://blog.mariusschulz.com/2016/12/09/typescript-2-1-async-await-for-es3-es5)
@@ -172,6 +173,7 @@
 
 
 ## State Management
+- [Idiomatic Redux: Thoughts on Thunks, Sagas, Abstraction, and Reusability](http://blog.isquaredsoftware.com/2017/01/idiomatic-redux-thoughts-on-thunks-sagas-abstraction-and-reusability/) [redux]
 - [Managing Side Effects In React + Redux Using Sagas](http://jaysoo.ca/2016/01/03/managing-processes-in-redux-using-sagas/) [redux][sagas]
 - [Globalizing Redux Selectors](http://randycoulman.com/blog/2016/11/29/globalizing-redux-selectors/)
 - [Modular Reducers and Selectors](http://randycoulman.com/blog/2016/09/27/modular-reducers-and-selectors/)
