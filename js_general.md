@@ -15,6 +15,7 @@
 
 
 ## Learning
+- [11 JavaScript Blogs to Follow in 2017](http://blog.mdnbar.com/blogs-to-follow-to-learn-javascript)
 - [Top JavaScript Frameworks & Topics to Learn in 2017](https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711#.o8j9rv8qv)
 - [6 Quick & Proven Tips to Help You Learn JavaScript](http://blog.alexdevero.com/6-quick-proven-tips-learn-javascript/)
 - [3 Different Kinds of Prototypal Inheritance: ES6+ Edition](https://medium.com/javascript-scene/3-different-kinds-of-prototypal-inheritance-es6-edition-32d777fa16c9#.9ivcvgv58) [delegation][inheritance][mixin][composition][stamp]
@@ -39,6 +40,8 @@
 
 
 ## General
+- [JavaScript APIs: Console](https://hackernoon.com/javascript-apis-console-23ebce270419#.kpb34ippg)
+- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 - [Three Rules For Structuring (Redux) Applications](http://jaysoo.ca/2016/02/28/organizing-redux-application/) [react][redux][project structure][organization]
   - [The Anatomy Of A React & Redux Module (Applying The Three Rules)](http://jaysoo.ca/2016/02/28/applying-code-organization-rules-to-concrete-redux-code/)
   - [Additional Guidelines For (Redux) Project Structure](http://jaysoo.ca/2016/12/12/additional-guidelines-for-project-structure/)
@@ -89,7 +92,8 @@
 - [ramda-fantasy](https://github.com/ramda/ramda-fantasy) [maybe][either][io][monad]
 
 
-## Functional Reactive Programming (FRP)
+## Reactive / Functional Reactive Programming (FRP)
+- [Reactive Programming versus Reactive Systems](https://www.lightbend.com/reactive-programming-versus-reactive-systems)
 - [How To Debug RxJs - A Simple Way For Debugging Rxjs Observables](http://blog.angular-university.io/debug-rxjs/)
 - [On The Subject Of Subjects (in RxJS)](https://medium.com/@benlesh/on-the-subject-of-subjects-in-rxjs-2b08b7198b93#.emvh3ijjd)
 
@@ -168,6 +172,7 @@
 - [Building D3 Components with React](https://medium.com/@_alanbsmith/building-d3-components-with-react-7510e4743288#.4qf99mp5d)
 
 ### Realted Libs
+- [Recompose](https://github.com/acdlite/recompose/)
 - [NEXT.js](https://github.com/zeit/next.js) [server side render]
 - [create-react-app](https://github.com/facebookincubator/create-react-app)
 
