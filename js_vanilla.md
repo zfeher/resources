@@ -3,6 +3,7 @@
 
 
 ## ES Proposals / Next
+- [ES proposal: import()](http://www.2ality.com/2017/01/import-operator.html)
 - [ES proposal: Rest/Spread Properties](http://www.2ality.com/2016/10/rest-spread-properties.html)
 - Async/Await
   - [Tips for using async functions (ES2017)](http://www.2ality.com/2016/10/async-function-tips.html)
