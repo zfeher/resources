@@ -178,6 +178,7 @@
 
 
 ## State Management
+- [Practical Redux](http://blog.isquaredsoftware.com/2016/10/practical-redux-part-0-introduction/) [redux]
 - [Idiomatic Redux: Thoughts on Thunks, Sagas, Abstraction, and Reusability](http://blog.isquaredsoftware.com/2017/01/idiomatic-redux-thoughts-on-thunks-sagas-abstraction-and-reusability/) [redux]
 - [Managing Side Effects In React + Redux Using Sagas](http://jaysoo.ca/2016/01/03/managing-processes-in-redux-using-sagas/) [redux][sagas]
 - [Globalizing Redux Selectors](http://randycoulman.com/blog/2016/11/29/globalizing-redux-selectors/)
@@ -194,6 +195,7 @@
 ### Related Libs
 - [ngrx/store](https://github.com/ngrx/store) [angular]
 - [Redux](http://redux.js.org) [flux]
+  - [redux-orm](https://github.com/tommikaikkonen/redux-orm)
   - [Thunk](https://github.com/gaearon/redux-thunk)
   - [Saga](http://yelouafi.github.io/redux-saga/)
   - [Reselect](https://github.com/reactjs/reselect)
@@ -278,6 +280,7 @@
 
 
 ## Module loader/Module Bundler/Task Runner
+- [A Guide to Managing Webpack Dependencies](https://www.toptal.com/javascript/a-guide-to-managing-webpack-dependencies) [webpack]
 - [Getting Started with Webpack 2](https://medium.com/written-with-envy/getting-started-with-webpack-2-ed2b86c68783#.jtr433xmp)
 - [History and Background of JavaScript Module Loaders](https://appendto.com/2016/06/the-short-history-of-javascript-module-loaders/)
 
