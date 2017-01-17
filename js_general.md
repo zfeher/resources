@@ -15,6 +15,7 @@
 
 
 ## Learning
+- [JavaScript The Right Way](http://jstherightway.org) [guide]
 - [11 JavaScript Blogs to Follow in 2017](http://blog.mdnbar.com/blogs-to-follow-to-learn-javascript)
 - [Top JavaScript Frameworks & Topics to Learn in 2017](https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711#.o8j9rv8qv)
 - [6 Quick & Proven Tips to Help You Learn JavaScript](http://blog.alexdevero.com/6-quick-proven-tips-learn-javascript/)
@@ -51,7 +52,9 @@
 
 
 ## Performance
+- [Optimization killers](https://github.com/petkaantonov/bluebird/wiki/Optimization-killers)
 - [10 things I learned making the fastest site in the world](https://hackernoon.com/10-things-i-learned-making-the-fastest-site-in-the-world-18a0e1cdf4a7#.dr9tgftzw)
+
 
 ## Development
 - [ngrok](https://ngrok.com) // share localhost stuff via tunneling
@@ -64,9 +67,11 @@
 ## Async
 - [Yield and Async notations](https://ouicar.github.io/2016/12/14/async-yield.html)
 
+
 ## Security
 - [Web security essentials - Password storage](http://www.sohamkamani.com/blog/2016/11/24/web-security-password-storage/)
 - [The Most Common XSS Vulnerability in React.js Applications](https://medium.com/node-security/the-most-common-xss-vulnerability-in-react-js-applications-2bdffbcc1fa0#.ozdwlcx2g) [xss][react]
+
 
 ## Keyboard
 - [Mousetrap](https://craig.is/killing/mice)
@@ -110,6 +115,7 @@
 
 
 ## Style/Guide
+- [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js)
 - [Rules For Structuring (Redux) Applications](http://jaysoo.ca/2016/02/28/organizing-redux-application/) [react] [redux] [structure]
 
 
