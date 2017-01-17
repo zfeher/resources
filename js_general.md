@@ -148,6 +148,12 @@
 - [Flattening Deep Hierarchies of Components](http://blog.rangle.io/flattening-deep-hierarchies-of-components/)
 
 
+## Vue.js
+- [Awesome Vue.js](https://github.com/vuejs/awesome-vue)
+- [Vue.js Github](https://github.com/vuejs/vue)
+- [Vue.js](https://vuejs.org)
+
+
 ## Routing
 - [Do I Even Need A Routing Library?](http://jamesknelson.com/even-need-routing-library/)
 
