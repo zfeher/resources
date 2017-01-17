@@ -14,6 +14,7 @@
 
 
 ## Git
+- [Git in 2016](https://hackernoon.com/git-in-2016-fad96ae22a15#.hftemdbv0)
 - [A Small Matter of Programming](http://blog.wuwon.id.au/2010/09/painless-merge-conflict-resolution-in.html)
 - [Git bisect](https://glebbahmutov.com/blog/git-bisect/)
 - [Stop using `git pull`: A better workflow](https://adamcod.es/2014/12/10/git-pull-correct-workflow.html)
@@ -36,7 +37,9 @@
 - [Distributed Git - Contributing to a Project](https://git-scm.com/book/en/v2/Distributed-Git-Contributing-to-a-Project)
 - [Distributed Git - Maintaining a Project](https://git-scm.com/book/en/v2/Distributed-Git-Maintaining-a-Project)
 - Some commands
+  - `git rebase master --autostash` will stash and reapply stashed stuff after rebase
   - `git fetch origin --prune` fetches origin end cleans up a bit, removes deleted remote branches but not the checked out ones
+  - `git config --global rebase.autostash true`
   - `git config --global user.name "John Doe"`
   - `git config --global user.email johndoe@example.com`
   - `git config --global core.editor emacs`
