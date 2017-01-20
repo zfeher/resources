@@ -151,6 +151,7 @@
 ## Vue.js
 - [Awesome Vue.js](https://github.com/vuejs/awesome-vue)
 - [Vuex](https://vuex.vuejs.org)
+- [vue-loader](http://vue-loader.vuejs.org)
 - [vue-devtools](https://github.com/vuejs/vue-devtools)
 - [vue-cli](https://github.com/vuejs/vue-cli)
 - [Vue.js Github](https://github.com/vuejs/vue)
