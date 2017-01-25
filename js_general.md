@@ -297,11 +297,13 @@
 
 
 ## Module loader/Module Bundler/Task Runner
+- [Optimising your application bundle size with webpack](https://hackernoon.com/optimising-your-application-bundle-size-with-webpack-e85b00bab579#.hcxhzoxkt)
 - [A Guide to Managing Webpack Dependencies](https://www.toptal.com/javascript/a-guide-to-managing-webpack-dependencies) [webpack]
 - [Getting Started with Webpack 2](https://medium.com/written-with-envy/getting-started-with-webpack-2-ed2b86c68783#.jtr433xmp)
 - [History and Background of JavaScript Module Loaders](https://appendto.com/2016/06/the-short-history-of-javascript-module-loaders/)
 
 ### Related Libs
+- [webpack-bundle-analyzer](https://github.com/th0r/webpack-bundle-analyzer)
 - [System.js](https://github.com/systemjs/systemjs)
 - [Webpack](https://webpack.github.io)
 - [Browserify](http://browserify.org)
