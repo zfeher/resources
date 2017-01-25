@@ -52,6 +52,7 @@
 
 
 ## Performance
+- [React at 60fps](https://hackernoon.com/react-at-60fps-4e36b8189a4c#.p84fkclmj) [react]
 - [Optimization killers](https://github.com/petkaantonov/bluebird/wiki/Optimization-killers)
 - [10 things I learned making the fastest site in the world](https://hackernoon.com/10-things-i-learned-making-the-fastest-site-in-the-world-18a0e1cdf4a7#.dr9tgftzw)
 
@@ -149,6 +150,7 @@
 
 
 ## Vue.js
+- [Integrating RxJS with Vue.js](https://alligator.io/vuejs/using-rxjs/)
 - [Awesome Vue.js](https://github.com/vuejs/awesome-vue)
 - [Vuex](https://vuex.vuejs.org)
 - [vue-loader](http://vue-loader.vuejs.org)
@@ -156,6 +158,10 @@
 - [vue-cli](https://github.com/vuejs/vue-cli)
 - [Vue.js Github](https://github.com/vuejs/vue)
 - [Vue.js](https://vuejs.org)
+
+### Related
+- [Vuetify.js](https://vuetifyjs.com)
+- [Vuelidate](https://monterail.github.io/vuelidate/)
 
 
 ## Routing
