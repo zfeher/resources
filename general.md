@@ -95,6 +95,8 @@
     - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
     - [TSLint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint)
     - [Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport)
+    - [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
+    - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
     - [Git Project Manager](https://marketplace.visualstudio.com/items?itemName=felipecaputo.git-project-manager)
     - [Git History (git log)](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
     - [Git Blame](https://marketplace.visualstudio.com/items?itemName=waderyan.gitblame)
