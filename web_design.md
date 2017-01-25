@@ -1,3 +1,8 @@
+## Unsorted
+- [Understanding the Critical Rendering Path](https://bitsofco.de/understanding-the-critical-rendering-path/)
+- [Best practices for prototyping websites](https://webflow.com/blog/best-practices-for-prototyping-websites)
+
+
 ## UX
 - [12 UX rules every designer should know](http://www.webdesignerdepot.com/2016/12/26-ux-rules-every-designer-should-know/)
 
@@ -40,8 +45,4 @@
   - [Data form validation](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Forms/Data_form_validation)
 - [How to get the current cursor position (and selection) within a text input or textarea in Javascript](http://ourcodeworld.com/articles/read/282/how-to-get-the-current-cursor-position-and-selection-within-a-text-input-or-textarea-in-javascript) [html]
 - [15 JavaScript Methods For DOM Manipulation for Web Developers](http://www.hongkiat.com/blog/dom-manipulation-javascript-methods/)
-
-
-## Unsorted
-- [Best practices for prototyping websites](https://webflow.com/blog/best-practices-for-prototyping-websites)
 
