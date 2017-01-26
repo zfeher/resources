@@ -218,6 +218,9 @@
 ### Related Libs
 - [ngrx/store](https://github.com/ngrx/store) [angular]
 - [Redux](http://redux.js.org) [flux]
+  - [React/Redux Links](https://github.com/markerikson/react-redux-links) [react]
+  - [Redux Ecosystem Links](https://github.com/markerikson/redux-ecosystem-links)
+  - [Awesome Redux](https://github.com/xgrommx/awesome-redux)
   - [redux-orm](https://github.com/tommikaikkonen/redux-orm)
   - [Thunk](https://github.com/gaearon/redux-thunk)
   - [Saga](http://yelouafi.github.io/redux-saga/)
