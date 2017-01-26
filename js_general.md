@@ -221,6 +221,8 @@
   - [React/Redux Links](https://github.com/markerikson/react-redux-links) [react]
   - [Redux Ecosystem Links](https://github.com/markerikson/redux-ecosystem-links)
   - [Awesome Redux](https://github.com/xgrommx/awesome-redux)
+  - [Loop](https://github.com/redux-loop/redux-loop)
+  - [Pack](https://github.com/lelandrichardson/redux-pack)
   - [redux-orm](https://github.com/tommikaikkonen/redux-orm)
   - [Thunk](https://github.com/gaearon/redux-thunk)
   - [Saga](http://yelouafi.github.io/redux-saga/)
