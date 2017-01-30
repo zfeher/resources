@@ -14,6 +14,7 @@
 
 
 ## Git
+- [Bash Shortcuts to Enhance Your Git Workflow](https://medium.freecodecamp.com/bash-shortcuts-to-enhance-your-git-workflow-5107d64ea0ff#.h0rseziqm)
 - [Git in 2016](https://hackernoon.com/git-in-2016-fad96ae22a15#.hftemdbv0)
 - [A Small Matter of Programming](http://blog.wuwon.id.au/2010/09/painless-merge-conflict-resolution-in.html)
 - [Git bisect](https://glebbahmutov.com/blog/git-bisect/)
