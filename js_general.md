@@ -160,6 +160,8 @@
 - [Vue.js](https://vuejs.org)
 
 ### Related
+- [vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur) [vscode]
+- [Vue Components](https://marketplace.visualstudio.com/items?itemName=seanwash.vue) [vscode]
 - [Vuetify.js](https://vuetifyjs.com)
 - [Vuelidate](https://monterail.github.io/vuelidate/)
 
