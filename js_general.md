@@ -125,6 +125,7 @@
 
 
 ## Typescript
+- [TypeScript 2.1: Mapped Types](https://blog.mariusschulz.com/2017/01/20/typescript-2-1-mapped-types)
 - [TypeScript 2.1: External Helpers Library](https://blog.mariusschulz.com/2016/12/16/typescript-2-1-external-helpers-library)
 - [TypeScript 2.1: async/await for ES3/ES5](https://blog.mariusschulz.com/2016/12/09/typescript-2-1-async-await-for-es3-es5)
 - [Announcing TypeScript 2.1](https://blogs.msdn.microsoft.com/typescript/2016/12/07/announcing-typescript-2-1/)
