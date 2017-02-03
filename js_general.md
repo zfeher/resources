@@ -301,6 +301,7 @@
 - [Yarn](https://yarnpkg.com)
 - [npms.io](https://npms.io)
 - [Node/NPM](https://www.npmjs.com)
+  - [NPM Windows Upgrade](https://github.com/felixrieseberg/npm-windows-upgrade)
   - [10 Tips and Tricks That Will Make You an npm Ninja](https://www.sitepoint.com/10-npm-tips-and-tricks/)
   - [Using npm update and npm outdated to update dependencies](http://bytearcher.com/articles/using-npm-update-and-npm-outdated-to-update-dependencies/)
 - [JSPM](http://jspm.io)
