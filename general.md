@@ -111,10 +111,11 @@
     - [beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)
     - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
     - [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
-    - [Reactjs code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.ReactSnippets)
-    - [jsx](https://marketplace.visualstudio.com/items?itemName=TwentyChung.jsx)
-    - [Angular 2 TypeScript + HTML Snippets](https://marketplace.visualstudio.com/items?itemName=UVBrain.Angular2)
-    - [language-vscode-javascript-angular2](https://marketplace.visualstudio.com/items?itemName=nwallace.language-vscode-javascript-angular2)
+    - [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur) [vue]
+    - [Reactjs code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.ReactSnippets) [react]
+    - [jsx](https://marketplace.visualstudio.com/items?itemName=TwentyChung.jsx) [react]
+    - [Angular 2 TypeScript + HTML Snippets](https://marketplace.visualstudio.com/items?itemName=UVBrain.Angular2) [angular]
+    - [language-vscode-javascript-angular2](https://marketplace.visualstudio.com/items?itemName=nwallace.language-vscode-javascript-angular2) [angular]
 
 - [Sublime Text](https://www.sublimetext.com/)
   - dotfiles
