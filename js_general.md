@@ -185,6 +185,7 @@
 
 
 ## React
+- [Optimizing the Performance of Your React Application](https://auth0.com/blog/optimizing-react/)
 - [Optimizing react-redux store for high performance updates](https://medium.com/@lavrton/optimizing-react-redux-store-for-high-performance-updates-3ae6f7f1e4c1#.xneqspd4v) [redux]
 - [Single-Prop HOCs – Better Composition in React](https://www.okgrow.com/posts/compose-react-sphoc)
 - [Next.Js Is it the next big thing in JavaScript?](https://medium.com/javascript-mantra/next-js-53e9cf4da5af#.pu3g5fazg)
@@ -238,6 +239,7 @@
 
 
 ## JQuery
+- [What’s New In jQuery 3 || 17 Added Features & How To Use Them](http://www.rankred.com/whats-new-in-jquery-3-added-features-how-to-use-them/)
 - [10 jQuery Performance Tips & Tricks](https://codingbox.io/10-jquery-performance-tips-tricks-872f170387cc#.e4c5n1net)
 - [Replace jQuery’s Ready() with Plain JavaScript](https://www.sitepoint.com/jquery-document-ready-plain-javascript/)
 
