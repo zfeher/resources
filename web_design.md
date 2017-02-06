@@ -8,6 +8,7 @@
 
 
 ## CSS
+- [Let’s Look at 50+ Interesting CSS Properties & Values](https://css-tricks.com/lets-look-50-interesting-css-properties-values/)
 - [What You Should Know About CSS Variables](https://web-crunch.com/know-css-variables/)
 - [BEM AND MAINTAINABLE CSS](https://www.stackbuilders.com/news/bem-and-maintainable-css)
 - [Pure CSS Horizontal Scrolling](https://css-tricks.com/pure-css-horizontal-scrolling/)

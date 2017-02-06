@@ -171,6 +171,7 @@
 - [Do I Even Need A Routing Library?](http://jamesknelson.com/even-need-routing-library/)
 
 ## Angular 2
+- [Techniques for Improving ng-repeat Performance](http://www.codelord.net/2017/01/25/techniques-for-improving-ng-repeat-performance/)
 - [Angular 2 Testing In Depth: Services](https://auth0.com/blog/angular-2-testing-in-depth-services/)
 - [Angular 2 — Explore The Renderer Service](https://medium.com/@NetanelBasal/angular-2-explore-the-renderer-service-e43ef673b26c#.vrl9xa5eq)
 - [Angular 2 — New features in Angular 2.1](https://medium.com/google-developer-experts/angular-2-new-features-in-angular-2-1-94132b1888f0#.7pnat0fsy)
