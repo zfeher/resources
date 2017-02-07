@@ -6,8 +6,18 @@ sudo apt-get install git
 ```
 
 ## Diff and merge tools
-- [DiffMerge](https://sourcegear.com/diffmerge)
-- [KDiff3](http://kdiff3.sourceforge.net)
+
+### [DiffMerge](https://sourcegear.com/diffmerge)
+
+### [KDiff3](http://kdiff3.sourceforge.net)
+- [install 1](https://www.howtoinstall.co/en/ubuntu/xenial/kdiff3)
+- [install 2](http://opensourceforgeeks.blogspot.hu/2014/07/how-to-install-kdiff3-on-ubuntu.html)
+- [install 3](http://uniqueminds.co/2013/08/14/how-to-install-kdiff3-on-ubuntu.html)
+
+
+## Node JS + NPM
+- [install 1](https://github.com/nodesource/distributions)
+- [install 2](https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-16-04)
 
 
 ## [NVM](https://github.com/creationix/nvm) - Node Version Manager
