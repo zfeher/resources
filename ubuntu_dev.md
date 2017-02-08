@@ -1,3 +1,8 @@
+## Latest Chrome
+- [install 1](http://askubuntu.com/questions/510056/how-to-install-google-chrome)
+- [install 2](http://tecadmin.net/install-google-chrome-in-ubuntu/#)
+
+
 ## Latest Git
 ```Bash
 sudo add-apt-repository ppa:git-core/ppa
