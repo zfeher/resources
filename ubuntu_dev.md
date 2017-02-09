@@ -10,6 +10,12 @@ sudo apt-get update
 sudo apt-get install git
 ```
 
+
+## Git Flow
+- [Using git-flow to automate your git branching workflow](http://jeffkreeftmeijer.com/2010/why-arent-you-using-git-flow/)
+- [Git Flow](https://github.com/nvie/gitflow)
+
+
 ## Diff and merge tools
 
 ### [DiffMerge](https://sourcegear.com/diffmerge)
