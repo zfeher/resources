@@ -3,16 +3,22 @@
 - [install 2](http://tecadmin.net/install-google-chrome-in-ubuntu/#)
 
 
-## Latest Git
+## Git
 ```Bash
 sudo add-apt-repository ppa:git-core/ppa
 sudo apt-get update
 sudo apt-get install git
 ```
+- [Bash completion](https://github.com/petervanderdoes/git-flow-completion/wiki/Install-Bash-git-completion)
 
 
 ## Git Flow
 - [Using git-flow to automate your git branching workflow](http://jeffkreeftmeijer.com/2010/why-arent-you-using-git-flow/)
+- [Bash ZSH completion AVH edition](https://github.com/petervanderdoes/git-flow-completion)
+- [Install AVH edition](https://github.com/petervanderdoes/gitflow-avh)
+- [Install AVH edition](https://github.com/petervanderdoes/gitflow-avh)
+- [Bash, ZSH completion](https://github.com/bobthecow/git-flow-completion)
+- [Install](https://github.com/nvie/gitflow/wiki/Installation)
 - [Git Flow](https://github.com/nvie/gitflow)
 
 
