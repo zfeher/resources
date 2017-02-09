@@ -49,13 +49,25 @@ npm fix if needed (won't fix the problem above)
 $ curl -0 -L https://npmjs.org/install.sh | sudo sh
 ```
 
-
 ## Pomodoro
 - [PomoDone](https://pomodoneapp.com/)
 - [Pomodoro Indicator](https://github.com/atareao/pomodoro-indicator)
 - [Tomighty](https://launchpad.net/~pwr22/+archive/ubuntu/tomighty)
 - [Tomate](https://github.com/eliostvs/tomate-gtk)
 - Pomodoro Chrome/Opera extensions ?
+
+
+## OpenConnect
+```Bash
+sudo apt-get install network-manager-openconnect-gnome # will be visible in GUI as well
+sudo openconnect vpn.acme.com
+```
+
+- [install 1](http://askubuntu.com/questions/154699/how-do-i-install-the-cisco-anyconnect-vpn-client)
+- [install 2](https://support.onevpn.com/knowledgebase/linux-ubuntu-anyconnect/)
+- [install 3](https://technicalsanctuary.wordpress.com/2016/05/28/installing-cisco-anyconnect-vpn-on-ubuntu-16-04/)
+- [install 4](http://ubuntuhandbook.org/index.php/2014/11/connect-cisco-anyconnect-vpn-ubuntu/)
+- [install 5](http://askubuntu.com/questions/627638/cisco-anyconnect-compatible-vpn-openconnect-in-ubuntu-15-04)
 
 
 ## VirtualBox
