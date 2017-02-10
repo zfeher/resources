@@ -52,6 +52,7 @@
 
 
 ## Performance
+- [How I wrote the world's fastest JavaScript memoization library](https://community.risingstack.com/the-worlds-fastest-javascript-memoization-library/)
 - [React at 60fps](https://hackernoon.com/react-at-60fps-4e36b8189a4c#.p84fkclmj) [react]
 - [Optimization killers](https://github.com/petkaantonov/bluebird/wiki/Optimization-killers)
 - [10 things I learned making the fastest site in the world](https://hackernoon.com/10-things-i-learned-making-the-fastest-site-in-the-world-18a0e1cdf4a7#.dr9tgftzw)
