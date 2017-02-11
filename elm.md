@@ -1,6 +1,10 @@
 # Elm
 
 - [elm vscode extension](https://marketplace.visualstudio.com/items?itemName=sbrink.elm) [vscode]
+- [Packages](http://package.elm-lang.org)
+- [Slack](http://elmlang.herokuapp.com)
+- [REPL](http://elmrepl.cuberoot.in)
+- [Online Editor](http://elm-lang.org/try)
 - [Interop](https://guide.elm-lang.org/interop/)
 - [Guide](https://guide.elm-lang.org)
 - [Home](http://elm-lang.org)
