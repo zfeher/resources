@@ -1,3 +1,19 @@
+## Node Js
+- [node-gyp](https://github.com/nodejs/node-gyp)
+- [Create an Offline Installation of Visual Studio](https://msdn.microsoft.com/en-us/library/mt706497.aspx) // works with build tools as well
+- [Visual C++ 2015 Build Tools](http://landinghub.visualstudio.com/visual-cpp-build-tools)
+- [Visual Studio Community](https://www.visualstudio.com/vs/community/)
+
+
+## Node Version Manager
+- [Node Version Manager (nvm) for Windows](https://github.com/coreybutler/nvm-windows)
+- [nodist](https://github.com/marcelklehr/nodist)
+
+
+## NPM
+- [Upgrade npm on Windows](https://github.com/felixrieseberg/npm-windows-upgrade)
+
+
 ## Bash/Shell
 - [Babun](http://babun.github.io)
   - [Take control of your console in Windows with Babun, Oh My Zsh, and Powerline fonts](https://www.sorendam.com/take-control-of-your-console-in-windows-with-babun-oh-my-zsh-and-powerline-fonts/)
