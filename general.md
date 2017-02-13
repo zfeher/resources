@@ -1,6 +1,7 @@
 ## Watchout for
 - [The Languages, Frameworks and Tools You Should Learn in 2017](http://tutorialzine.com/2016/12/the-languages-frameworks-tools-you-should-learn-in-2017/)
 
+
 ## Fun
 - [Hype Driven Development](https://blog.daftcode.pl/hype-driven-development-3469fc2e9b22#.6yid21oth)
 
@@ -14,6 +15,9 @@
 
 
 ## Git
+- [Git Tools - Credential Storage](https://git-scm.com/book/en/v2/Git-Tools-Credential-Storage)
+- [Caching your GitHub password in Git](https://help.github.com/articles/caching-your-github-password-in-git/#platform-all)
+- [Is there a way to skip password typing when using https://](http://stackoverflow.com/questions/5343068/is-there-a-way-to-skip-password-typing-when-using-https-on-github)
 - [Bash Shortcuts to Enhance Your Git Workflow](https://medium.freecodecamp.com/bash-shortcuts-to-enhance-your-git-workflow-5107d64ea0ff#.h0rseziqm)
 - [Git in 2016](https://hackernoon.com/git-in-2016-fad96ae22a15#.hftemdbv0)
 - [A Small Matter of Programming](http://blog.wuwon.id.au/2010/09/painless-merge-conflict-resolution-in.html)
