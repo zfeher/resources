@@ -15,6 +15,7 @@
 
 
 ## Git
+- [How to delete a Git branch both locally and remotely?](http://stackoverflow.com/questions/2003505/how-to-delete-a-git-branch-both-locally-and-remotely)
 - [Git Tools - Credential Storage](https://git-scm.com/book/en/v2/Git-Tools-Credential-Storage)
 - [Caching your GitHub password in Git](https://help.github.com/articles/caching-your-github-password-in-git/#platform-all)
 - [Is there a way to skip password typing when using https://](http://stackoverflow.com/questions/5343068/is-there-a-way-to-skip-password-typing-when-using-https-on-github)
