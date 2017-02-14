@@ -322,6 +322,8 @@
 - [History and Background of JavaScript Module Loaders](https://appendto.com/2016/06/the-short-history-of-javascript-module-loaders/)
 
 ### Related Libs
+- [fly](https://github.com/flyjs/fly) [generator]
+- [Gulp](http://gulpjs.com) [stream]
 - [webpack-bundle-analyzer](https://github.com/th0r/webpack-bundle-analyzer)
 - [System.js](https://github.com/systemjs/systemjs)
 - [Webpack](https://webpack.github.io)
