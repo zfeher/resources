@@ -152,6 +152,7 @@
 
 
 ## Vue.js
+- [How to unit test Vue components](http://www.coding123.org/tutorials/unit-test-vue-components/)
 - [Integrating RxJS with Vue.js](https://alligator.io/vuejs/using-rxjs/)
 - [Awesome Vue.js](https://github.com/vuejs/awesome-vue)
 - [Vuex](https://vuex.vuejs.org)
