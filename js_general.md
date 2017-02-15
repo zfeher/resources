@@ -152,6 +152,14 @@
 
 
 ## Vue.js
+- Intro to Vue.js
+  [part 1](https://css-tricks.com/intro-to-vue-1-rendering-directives-events/)
+  [part 2](https://css-tricks.com/intro-to-vue-2-components-props-slots/)
+  [part 3](https://css-tricks.com/intro-to-vue-3-vue-cli-lifecycle-hooks/)
+  [part 4](https://css-tricks.com/intro-to-vue-4-vuex/)
+  [part 5](https://css-tricks.com/intro-to-vue-5-animations/)
+- [DejaVue](http://dejavue.co) [visualization] [time travel]
+- [Vue.js Component Style Guide](https://github.com/pablohpsilva/vuejs-component-style-guide)
 - [How to unit test Vue components](http://www.coding123.org/tutorials/unit-test-vue-components/)
 - [Integrating RxJS with Vue.js](https://alligator.io/vuejs/using-rxjs/)
 - [Awesome Vue.js](https://github.com/vuejs/awesome-vue)
