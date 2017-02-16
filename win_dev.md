@@ -1,3 +1,7 @@
+## Disable file path limit
+- [How to Make Windows 10 Accept File Paths Over 260 Characters](https://www.howtogeek.com/266621/how-to-make-windows-10-accept-file-paths-over-260-characters/)
+
+
 ## Node Js
 - [node-gyp](https://github.com/nodejs/node-gyp)
 - [Create an Offline Installation of Visual Studio](https://msdn.microsoft.com/en-us/library/mt706497.aspx) // works with build tools as well
