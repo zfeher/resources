@@ -3,6 +3,7 @@
 
 
 ## Node Js
+- [Enabling symlinks](https://ember-cli.com/user-guide/#enabling-symlinks)
 - [node-gyp](https://github.com/nodejs/node-gyp)
 - [Create an Offline Installation of Visual Studio](https://msdn.microsoft.com/en-us/library/mt706497.aspx) // works with build tools as well
 - [Visual C++ 2015 Build Tools](http://landinghub.visualstudio.com/visual-cpp-build-tools)
