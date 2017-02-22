@@ -31,6 +31,10 @@
 - [stamp-utils](https://github.com/stampit-org/stamp-utils)
 
 
+## Interview
+- [Interview Algorithm Questions in Javascript() {...}](https://github.com/kennymkchan/interview-questions-in-javascript) [interview]
+
+
 ## Conferences
 - [https://css-tricks.com/guide-2017-conferences/](https://css-tricks.com/guide-2017-conferences/)
 - [JavaScript conferences you can look forward to in 2017](https://medium.freecodecamp.com/javascript-conferences-to-attend-in-2017-b46b288a5df0#.wh4t4oi0c)
@@ -126,6 +130,7 @@
 
 
 ## Typescript
+- [TypeScript 2.1: Untyped Imports](https://blog.mariusschulz.com/2017/02/17/typescript-2-1-untyped-imports)
 - [TypeScript 2.1: Mapped Types](https://blog.mariusschulz.com/2017/01/20/typescript-2-1-mapped-types)
 - [TypeScript 2.1: External Helpers Library](https://blog.mariusschulz.com/2016/12/16/typescript-2-1-external-helpers-library)
 - [TypeScript 2.1: async/await for ES3/ES5](https://blog.mariusschulz.com/2016/12/09/typescript-2-1-async-await-for-es3-es5)
