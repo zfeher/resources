@@ -45,6 +45,7 @@
 
 
 ## General
+- [Copy To Clipboard in JavaScript](http://www.codingdefined.com/2017/02/copy-to-clipboard-in-javascript.html)
 - [JavaScript APIs: Console](https://hackernoon.com/javascript-apis-console-23ebce270419#.kpb34ippg)
 - [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 - [Three Rules For Structuring (Redux) Applications](http://jaysoo.ca/2016/02/28/organizing-redux-application/) [react][redux][project structure][organization]
@@ -127,6 +128,10 @@
 
 ## Progressive Web Apps
 - [Learning Progressive Web App](https://github.com/ragingwind/learning-pwa)
+
+
+## Transpilers
+- [babel-preset-env: a preset that configures Babel for you](http://www.2ality.com/2017/02/babel-preset-env.html) [babel]
 
 
 ## Typescript
@@ -221,6 +226,8 @@
 
 
 ## State Management
+- [3 Things I Learned About Working with Data in Redux](https://dev.bleacherreport.com/3-things-i-learned-about-working-with-data-in-redux-5fa0d5f89c8b#.ktn8ipljz) [redux]
+- [How to use Redux on highly scalable javascript applications?](https://medium.com/@alexmngn/how-to-use-redux-on-highly-scalable-javascript-applications-4e4b8cb5ef38#.54xhu0dtk) [redux]
 - [Practical Redux](http://blog.isquaredsoftware.com/2016/10/practical-redux-part-0-introduction/) [redux]
 - [Idiomatic Redux: Thoughts on Thunks, Sagas, Abstraction, and Reusability](http://blog.isquaredsoftware.com/2017/01/idiomatic-redux-thoughts-on-thunks-sagas-abstraction-and-reusability/) [redux]
 - [Managing Side Effects In React + Redux Using Sagas](http://jaysoo.ca/2016/01/03/managing-processes-in-redux-using-sagas/) [redux][sagas]

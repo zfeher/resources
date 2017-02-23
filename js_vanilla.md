@@ -43,6 +43,11 @@
 - [Require Parameters for JavaScript Functions](https://davidwalsh.name/javascript-function-parameters)
 
 
+## General
+- [setTimeout VS setInterval](https://develoger.com/settimeout-vs-setinterval-cff85142555b#.kia6u6hik)
+- [JavaScript Unary Operators: Simple and Useful](https://scotch.io/tutorials/javascript-unary-operators-simple-and-useful)
+
+
 ## Arrow Function/Fat Arrow/=>
 - [When 'not' to use arrow functions](https://rainsoft.io/when-not-to-use-arrow-functions-in-javascript/) [tip]
 
