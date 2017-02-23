@@ -1,6 +1,6 @@
 ## Unsorted
 - [How to Run Two or More Terminal Commands at Once in Linux](http://www.howtogeek.com/269509/how-to-run-two-or-more-terminal-commands-at-once-in-linux/)
-- list processes which uses a certain port: `lsof -i tcp:8888` after this you can do `kill -9 PID` 
+- list processes which uses a certain port: `lsof -i tcp:8888` after this you can do `kill -9 PID`
 - Check if something is installed correctly: `command -v nvm`
 
 
@@ -30,6 +30,7 @@
 
 
 ## Bash/Shell/Profile
+- [My favorite command-line utilities](https://hackernoon.com/macbook-my-command-line-utilities-f8a121c3b019#.6x9qrombd)
 - [Awesome Shell](https://github.com/alebcay/awesome-shell)
 - [A Beautifully Productive Terminal Experience](http://mikebuss.com/2014/02/02/a-beautiful-productive-terminal-experience)
 - [zsh](https://en.wikipedia.org/wiki/Z_shell)

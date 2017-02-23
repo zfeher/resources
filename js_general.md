@@ -266,12 +266,16 @@
 - [10 jQuery Performance Tips & Tricks](https://codingbox.io/10-jquery-performance-tips-tricks-872f170387cc#.e4c5n1net)
 - [Replace jQuery’s Ready() with Plain JavaScript](https://www.sitepoint.com/jquery-document-ready-plain-javascript/)
 
+### Related
+- [Umbrella JS](https://umbrellajs.com)
+
 
 ## Networking
 - [Why I won’t be using Fetch API in my apps](https://medium.com/@shahata/why-i-wont-be-using-fetch-api-in-my-apps-6900e6c6fe78#.dbibpakjz) [axios]
 
 
-## Graphics
+## Graphics/Images
+- [Image Processing in Javascript](http://blog.webkid.io/image-processing-in-javascript/)
 - [A 'modern 3D API' wrapper for WebGL](http://floooh.github.io/2016/10/24/altai.html)
 - [Getting Started With Paper.js: Animation and Images](https://code.tutsplus.com/tutorials/getting-started-with-paperjs-animation-and-images--cms-26530)
 - [Getting Started With Paper.js: User Interaction](https://code.tutsplus.com/tutorials/getting-started-with-paperjs-user-interaction--cms-26509)
