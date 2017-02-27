@@ -60,6 +60,10 @@
 - [Search JavaScript Arrays Efficiently with includes and indexOf](http://thenewcode.com/1152/Search-JavaScript-Arrays-Efficiently-with-includes-and-indexOf)
 
 
+## Maps
+- (What You Should Know About ES6 Maps)[https://hackernoon.com/what-you-should-know-about-es6-maps-dc66af6b9a1e#.r16zpvvq7]
+
+
 ## Typed Arrays
 - [Exploring JavaScript: Typed Arrays](https://codingbox.io/exploring-javascript-typed-arrays-c8fd4f8bd24f#.cotf6ljbp)
 
@@ -70,6 +74,7 @@
 
 
 ## Proxies
+- [ES6 Proxies in Practice](http://www.zsoltnagy.eu/es6-proxies-in-practice/)
 - [Pitfall: not all objects can be proxied transparently](http://www.2ality.com/2016/11/proxying-builtins.html)
 
 ## Promises

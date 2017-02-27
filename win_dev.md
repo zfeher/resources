@@ -1,3 +1,7 @@
+## Cross X Testing
+- [A guide to cross-browser testing: installing all the things](https://hackernoon.com/a-guide-to-cross-browser-testing-installing-all-the-things-6e56c2bd8182#.m8dkdbxhj) [android][ios][emulator][simulator]
+
+
 ## Disable file path limit
 - [How to Make Windows 10 Accept File Paths Over 260 Characters](https://www.howtogeek.com/266621/how-to-make-windows-10-accept-file-paths-over-260-characters/)
 

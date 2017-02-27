@@ -3,11 +3,19 @@
 - [Best practices for prototyping websites](https://webflow.com/blog/best-practices-for-prototyping-websites)
 
 
+## SVG
+- [Transparent JPG (With SVG)](https://css-tricks.com/transparent-jpg-svg/)
+
+
 ## UX
 - [12 UX rules every designer should know](http://www.webdesignerdepot.com/2016/12/26-ux-rules-every-designer-should-know/)
 
 
 ## CSS
+- [The Unexpected Power of Viewport Units in CSS](https://www.lullabot.com/articles/unexpected-power-of-viewport-units-in-css) [viewport units]
+- [Responsive CSS Patterns without Media Queries](https://www.sitepoint.com/responsive-css-patterns-without-media-queries/) [flexbox]
+- [Is that how you center in CSS?](https://medium.com/@AmJustSam/is-that-how-you-center-in-css-672dd21a4d60#.qhuhyxpvz) [align][center]
+- [Margin or padding?](https://hackernoon.com/margin-or-padding-f5252562313#.4djmpoeg1)
 - [Let’s Look at 50+ Interesting CSS Properties & Values](https://css-tricks.com/lets-look-50-interesting-css-properties-values/)
 - [What You Should Know About CSS Variables](https://web-crunch.com/know-css-variables/)
 - [BEM AND MAINTAINABLE CSS](https://www.stackbuilders.com/news/bem-and-maintainable-css)

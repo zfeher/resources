@@ -94,6 +94,7 @@
 
 
 ## Functional Programming (FP)
+- [Mori](https://github.com/swannodette/mori) [persistent data structures][clojure]
 - [Functors encapsulate imperative logic](https://glebbahmutov.com/blog/functors-encapsulate-imperative-logic/)
 - [If Else vs Either Monad vs FRP](https://glebbahmutov.com/blog/if-else-vs-either-monad-vs-frp/)
 - So You Want to be a Functional Programmer - Charles Scalfani: [Part 1](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536), [Part 2](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-2-7005682cec4a), [Part 3](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-3-1b0fd14eb1a7), [Part 4](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-4-18fbe3ea9e49), [Part 5](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-5-c70adc9cf56a), [Part 6](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-6-db502830403#.8wfy3yabr)
@@ -105,6 +106,7 @@
 
 
 ## Reactive / Functional Reactive Programming (FRP)
+- [An Animated Intro to RxJS](https://css-tricks.com/animated-intro-rxjs/) [rxjs]
 - [Reactive Programming versus Reactive Systems](https://www.lightbend.com/reactive-programming-versus-reactive-systems)
 - [How To Debug RxJs - A Simple Way For Debugging Rxjs Observables](http://blog.angular-university.io/debug-rxjs/)
 - [On The Subject Of Subjects (in RxJS)](https://medium.com/@benlesh/on-the-subject-of-subjects-in-rxjs-2b08b7198b93#.emvh3ijjd)
@@ -135,6 +137,7 @@
 
 
 ## Typescript
+- [TypeScript 2.2: The object Type](https://blog.mariusschulz.com/2017/02/24/typescript-2-2-the-object-type)
 - [TypeScript 2.1: Untyped Imports](https://blog.mariusschulz.com/2017/02/17/typescript-2-1-untyped-imports)
 - [TypeScript 2.1: Mapped Types](https://blog.mariusschulz.com/2017/01/20/typescript-2-1-mapped-types)
 - [TypeScript 2.1: External Helpers Library](https://blog.mariusschulz.com/2016/12/16/typescript-2-1-external-helpers-library)
@@ -162,6 +165,7 @@
 
 
 ## Vue.js
+- [Vue.js’s Single File Components: Keeping It All In One Place](https://appendto.com/2017/02/vue-jss-single-file-components-keeping-it-all-in-one-place-2/?nabw=1&utm_referrer=https%3A%2F%2Fgetpocket.com%2F) [css modules]
 - Intro to Vue.js
   [part 1](https://css-tricks.com/intro-to-vue-1-rendering-directives-events/)
   [part 2](https://css-tricks.com/intro-to-vue-2-components-props-slots/)
@@ -206,6 +210,7 @@
 
 
 ## React
+- [Universal JavaScript Apps with React Router 4](https://ebaytech.berlin/universal-web-apps-with-react-router-4-15002bb30ccb#.8zmzcubd0) [routing][router]
 - [Optimizing the Performance of Your React Application](https://auth0.com/blog/optimizing-react/)
 - [Optimizing react-redux store for high performance updates](https://medium.com/@lavrton/optimizing-react-redux-store-for-high-performance-updates-3ae6f7f1e4c1#.xneqspd4v) [redux]
 - [Single-Prop HOCs – Better Composition in React](https://www.okgrow.com/posts/compose-react-sphoc)
@@ -341,6 +346,7 @@
 
 
 ## Module loader/Module Bundler/Task Runner
+- [Modern JavaScript Apps with Neutrino](https://davidwalsh.name/neutrino) [webpack]
 - [Optimising your application bundle size with webpack](https://hackernoon.com/optimising-your-application-bundle-size-with-webpack-e85b00bab579#.hcxhzoxkt)
 - [A Guide to Managing Webpack Dependencies](https://www.toptal.com/javascript/a-guide-to-managing-webpack-dependencies) [webpack]
 - [Getting Started with Webpack 2](https://medium.com/written-with-envy/getting-started-with-webpack-2-ed2b86c68783#.jtr433xmp)
