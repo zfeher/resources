@@ -67,6 +67,10 @@
 - [ngrok](https://ngrok.com) // share localhost stuff via tunneling
 
 
+## JSON
+- [What you didn’t know about JSON.Stringify](https://abdulapopoola.com/2017/02/27/what-you-didnt-know-about-json-stringify/)
+
+
 ## Accessibility
 - [Accessibility Basics: Designing for Visual Impairment](https://webdesign.tutsplus.com/articles/accessibility-basics-designing-for-visual-impairment--cms-27634)
 
