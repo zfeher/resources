@@ -57,6 +57,7 @@
 
 
 ## Performance
+- [Asynchronous vs Deferred JavaScript](https://bitsofco.de/async-vs-defer/) [html][script][async][defer]
 - [How I wrote the world's fastest JavaScript memoization library](https://community.risingstack.com/the-worlds-fastest-javascript-memoization-library/)
 - [React at 60fps](https://hackernoon.com/react-at-60fps-4e36b8189a4c#.p84fkclmj) [react]
 - [Optimization killers](https://github.com/petkaantonov/bluebird/wiki/Optimization-killers)
@@ -69,6 +70,10 @@
 
 ## JSON
 - [What you didn’t know about JSON.Stringify](https://abdulapopoola.com/2017/02/27/what-you-didnt-know-about-json-stringify/)
+
+
+## DOM
+- [Convert String to DOM Nodes](https://davidwalsh.name/convert-html-stings-dom-nodes)
 
 
 ## Accessibility
@@ -312,6 +317,7 @@
 
 
 ## Testing
+- [TDD the RITE Way](https://medium.com/javascript-scene/tdd-the-rite-way-53c9b46f45e3#.h0g3209ni) [tdd]
 - [Testing React components with Jest and Enzyme](https://hackernoon.com/testing-react-components-with-jest-and-enzyme-41d592c174f#.xroi6dne0)
 - [DOM Testing React Applications with Jest](https://www.codementor.io/pkodmad/tutorials/dom-testing-react-application-jest-k4ll4f8sd) [react]
 - [Unit testing front-end JavaScript with AVA and jsdom](http://www.damianmullins.com/unit-testing-front-end-javacript-with-ava-and-jsdom/)
