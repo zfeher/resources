@@ -74,6 +74,7 @@
 
 
 ## Proxies
+- [ES6 Features - 10 Use Cases for Proxy](http://dealwithjs.io/es6-features-10-use-cases-for-proxy/)
 - [ES6 Proxies in Practice](http://www.zsoltnagy.eu/es6-proxies-in-practice/)
 - [Pitfall: not all objects can be proxied transparently](http://www.2ality.com/2016/11/proxying-builtins.html)
 

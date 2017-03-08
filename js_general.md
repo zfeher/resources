@@ -45,6 +45,7 @@
 
 
 ## General
+- [How To Check If Javascript Event Was Triggered By Human](https://solidfoundationwebdev.com/blog/posts/how-to-check-if-javascript-event-was-triggered-by-human)
 - [Copy To Clipboard in JavaScript](http://www.codingdefined.com/2017/02/copy-to-clipboard-in-javascript.html)
 - [JavaScript APIs: Console](https://hackernoon.com/javascript-apis-console-23ebce270419#.kpb34ippg)
 - [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
@@ -103,6 +104,7 @@
 
 
 ## Functional Programming (FP)
+- [Reduce (Composing Software)](https://medium.com/javascript-scene/reduce-composing-software-fe22f0c39a1d#.sd2hrgjrg)
 - [Mori](https://github.com/swannodette/mori) [persistent data structures][clojure]
 - [Functors encapsulate imperative logic](https://glebbahmutov.com/blog/functors-encapsulate-imperative-logic/)
 - [If Else vs Either Monad vs FRP](https://glebbahmutov.com/blog/if-else-vs-either-monad-vs-frp/)
