@@ -15,6 +15,7 @@
 
 
 ## Learning
+- [Keeping up with Front-end development](http://blog.grossman.io/keeping-up-with-front-end-development/)
 - [JavaScript The Right Way](http://jstherightway.org) [guide]
 - [11 JavaScript Blogs to Follow in 2017](http://blog.mdnbar.com/blogs-to-follow-to-learn-javascript)
 - [Top JavaScript Frameworks & Topics to Learn in 2017](https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711#.o8j9rv8qv)
@@ -58,6 +59,7 @@
 
 
 ## Performance
+- [Performance Testing with the User Timing API](http://csskarma.com/blog/user-timing-api/)
 - [Asynchronous vs Deferred JavaScript](https://bitsofco.de/async-vs-defer/) [html][script][async][defer]
 - [How I wrote the world's fastest JavaScript memoization library](https://community.risingstack.com/the-worlds-fastest-javascript-memoization-library/)
 - [React at 60fps](https://hackernoon.com/react-at-60fps-4e36b8189a4c#.p84fkclmj) [react]
@@ -67,6 +69,10 @@
 
 ## Development
 - [ngrok](https://ngrok.com) // share localhost stuff via tunneling
+
+
+## Web Workers
+- [JavaScript in parallel](http://50linesofco.de/post/2017-02-06-javascript-in-parallel-web-workers-transferables-and-sharedarraybuffer.html?utm_source=ESnextNews.com&utm_medium=Weekly+Newsletter&utm_campaign=2017-02-07)
 
 
 ## JSON
@@ -148,6 +154,7 @@
 
 
 ## Typescript
+- [TypeScript 2.2: Dotted Properties and String Index Signatures](https://blog.mariusschulz.com/2017/03/03/typescript-2-2-dotted-properties-and-string-index-signatures)
 - [TypeScript 2.2: The object Type](https://blog.mariusschulz.com/2017/02/24/typescript-2-2-the-object-type)
 - [TypeScript 2.1: Untyped Imports](https://blog.mariusschulz.com/2017/02/17/typescript-2-1-untyped-imports)
 - [TypeScript 2.1: Mapped Types](https://blog.mariusschulz.com/2017/01/20/typescript-2-1-mapped-types)
