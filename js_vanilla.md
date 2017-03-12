@@ -18,6 +18,10 @@
 - [Babel: Async functions](https://babeljs.io/docs/plugins/syntax-async-functions/)
 
 
+## Feature, JS version detection
+- [ES Feature Tests - Kyle Simpson](https://github.com/getify/es-feature-tests)
+
+
 ## Polyfills/Shims/Transpilers
 
 ### Notes
