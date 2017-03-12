@@ -4,6 +4,7 @@
 
 
 ## Books
+- [Babel Handbook](https://github.com/thejameskyle/babel-handbook/blob/master/translations/en/README.md)
 - [Setting up ES6 - Dr. Axel Rauschmayer](https://leanpub.com/setting-up-es6/) [webpack][babel]
 - [Mostly adequate guide to FP (in javascript)](https://github.com/MostlyAdequate/mostly-adequate-guide)
 - [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS)
