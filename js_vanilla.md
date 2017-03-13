@@ -8,6 +8,7 @@
 - [ES proposal: import()](http://www.2ality.com/2017/01/import-operator.html)
 - [ES proposal: Rest/Spread Properties](http://www.2ality.com/2016/10/rest-spread-properties.html)
 - Async/Await
+  - [The 80/20 Guide to Async/Await in Node.js](http://thecodebarbarian.com/80-20-guide-to-async-await-in-node.js.html)
   - [Tips for using async functions (ES2017)](http://www.2ality.com/2016/10/async-function-tips.html)
   - [Async functions - making promises friendly](https://developers.google.com/web/fundamentals/getting-started/primers/async-functions)
   - [ES7 async functions](https://jakearchibald.com/2014/es7-async-functions/)

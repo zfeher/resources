@@ -113,6 +113,9 @@
 
 
 ## Functional Programming (FP)
+- [Functional Workaholism](http://codepen.io/brekk/post/functional-workaholism)
+- [Awesome FP JS](https://github.com/stoeffel/awesome-fp-js)
+- [Functional Programming (FP) By Any Other Name…](https://davidwalsh.name/functional-programming)
 - [Reduce (Composing Software)](https://medium.com/javascript-scene/reduce-composing-software-fe22f0c39a1d#.sd2hrgjrg)
 - [Mori](https://github.com/swannodette/mori) [persistent data structures][clojure]
 - [Functors encapsulate imperative logic](https://glebbahmutov.com/blog/functors-encapsulate-imperative-logic/)
@@ -120,6 +123,7 @@
 - So You Want to be a Functional Programmer - Charles Scalfani: [Part 1](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536), [Part 2](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-2-7005682cec4a), [Part 3](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-3-1b0fd14eb1a7), [Part 4](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-4-18fbe3ea9e49), [Part 5](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-5-c70adc9cf56a), [Part 6](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-6-db502830403#.8wfy3yabr)
 
 ### Related Libs
+- [FPO](https://github.com/getify/fpo)
 - [functional.js](http://functionaljs.com)
 - [Ramda](http://ramdajs.com)
 - [ramda-fantasy](https://github.com/ramda/ramda-fantasy) [maybe][either][io][monad]
