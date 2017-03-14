@@ -113,6 +113,7 @@
 
 
 ## Functional Programming (FP)
+- [Casual functional adventures in JavaScript]()
 - [Functional Workaholism](http://codepen.io/brekk/post/functional-workaholism)
 - [Awesome FP JS](https://github.com/stoeffel/awesome-fp-js)
 - [Functional Programming (FP) By Any Other Name…](https://davidwalsh.name/functional-programming)
@@ -161,6 +162,7 @@
 
 
 ## Typescript
+- [TypeScript 2.2: Null-Checking for Expression Operands](https://blog.mariusschulz.com/2017/03/10/typescript-2-2-null-checking-for-expression-operands)
 - [TypeScript 2.2: Dotted Properties and String Index Signatures](https://blog.mariusschulz.com/2017/03/03/typescript-2-2-dotted-properties-and-string-index-signatures)
 - [TypeScript 2.2: The object Type](https://blog.mariusschulz.com/2017/02/24/typescript-2-2-the-object-type)
 - [TypeScript 2.1: Untyped Imports](https://blog.mariusschulz.com/2017/02/17/typescript-2-1-untyped-imports)
@@ -183,6 +185,7 @@
 
 
 ## Components
+- [Introducing React Loadable](https://medium.com/@thejameskyle/react-loadable-2674c59de178#.d4e9tp5g8)
 - [Why use reactive streams for components?](https://glebbahmutov.com/blog/why-use-reactive-streams-for-components/)
 - [How to use React’s higher-order components](https://medium.freecodecamp.com/react-higher-order-components-635d0bc38b6c#.zdbrjdgm5) [react]
 - [Why you should learn the highlights of Angular 1.5](https://medium.com/@JCastigliano/why-you-should-learn-the-highlights-of-angular-1-5-bb6c320928a5#.5n8n3qebi) [angular]
