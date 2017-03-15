@@ -162,6 +162,7 @@
 
 
 ## Typescript
+- [Tired of waiting for TypeScript compilation?](http://weblogs.thinktecture.com/thomas/2016/05/tired-of-waiting-for-typescript-compilation.html) [isolatedModules]
 - [TypeScript 2.2: Null-Checking for Expression Operands](https://blog.mariusschulz.com/2017/03/10/typescript-2-2-null-checking-for-expression-operands)
 - [TypeScript 2.2: Dotted Properties and String Index Signatures](https://blog.mariusschulz.com/2017/03/03/typescript-2-2-dotted-properties-and-string-index-signatures)
 - [TypeScript 2.2: The object Type](https://blog.mariusschulz.com/2017/02/24/typescript-2-2-the-object-type)
