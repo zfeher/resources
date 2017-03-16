@@ -361,6 +361,7 @@
 
 
 ## Package/Dependency Management
+- [Offline installation of npm packages](https://addyosmani.com/blog/using-npm-offline/) [npm]
 - [https://medium.com/@jacob.h.page/common-npm-mistakes-51bf8989079f#.9nhzzq697](https://medium.com/@jacob.h.page/common-npm-mistakes-51bf8989079f#.9nhzzq697)
 - [Yarn](https://yarnpkg.com)
 - [npms.io](https://npms.io)
@@ -372,6 +373,8 @@
 - [Bower](https://bower.io)
 
 ### Related Libs
+- [npm_lazy](https://github.com/mixu/npm_lazy)
+- [local-npm](https://github.com/nolanlawson/local-npm)
 - [Node Version Manager (NVM)](https://github.com/creationix/nvm)
 
 
