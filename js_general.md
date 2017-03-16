@@ -376,6 +376,7 @@
 
 
 ## Module loader/Module Bundler/Task Runner
+- [The Fine Art of the Webpack 2 Config](https://dev.to/alflennik/the-fine-art-of-the-webpack-2-config) [webpack]
 - [Modern JavaScript Apps with Neutrino](https://davidwalsh.name/neutrino) [webpack]
 - [Optimising your application bundle size with webpack](https://hackernoon.com/optimising-your-application-bundle-size-with-webpack-e85b00bab579#.hcxhzoxkt)
 - [A Guide to Managing Webpack Dependencies](https://www.toptal.com/javascript/a-guide-to-managing-webpack-dependencies) [webpack]
