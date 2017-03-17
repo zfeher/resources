@@ -48,6 +48,7 @@
 
 
 ## General
+- [The Definitive Guide to DateTime Manipulation](https://www.toptal.com/software/definitive-guide-to-datetime-manipulation)
 - [How To Check If Javascript Event Was Triggered By Human](https://solidfoundationwebdev.com/blog/posts/how-to-check-if-javascript-event-was-triggered-by-human)
 - [Copy To Clipboard in JavaScript](http://www.codingdefined.com/2017/02/copy-to-clipboard-in-javascript.html)
 - [JavaScript APIs: Console](https://hackernoon.com/javascript-apis-console-23ebce270419#.kpb34ippg)
@@ -58,6 +59,9 @@
 - [How tabs should work](https://remysharp.com/2016/12/11/how-tabs-should-work)
 - [Native JavaScript Development after Internet Explorer](https://www.sitepoint.com/native-javascript-development-after-internet-explorer/)
 - [Web Developer Checklist](http://webdevchecklist.com)
+
+### Related libs
+- [Moment.js](https://momentjs.com)
 
 
 ## Performance
