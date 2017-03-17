@@ -153,6 +153,9 @@
 
 
 ## Style/Guide
+- [XO](https://github.com/sindresorhus/xo)
+- [JavaScript Standard Style](http://standardjs.com/index.html)
+- [ESLint](http://eslint.org)
 - [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js)
 - [Rules For Structuring (Redux) Applications](http://jaysoo.ca/2016/02/28/organizing-redux-application/) [react] [redux] [structure]
 
