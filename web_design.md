@@ -3,6 +3,10 @@
 - [Best practices for prototyping websites](https://webflow.com/blog/best-practices-for-prototyping-websites)
 
 
+## DOM
+- [Internationalize your keyboard controls](https://hacks.mozilla.org/2017/03/internationalize-your-keyboard-controls/)
+
+
 ## SVG
 - [Transparent JPG (With SVG)](https://css-tricks.com/transparent-jpg-svg/)
 

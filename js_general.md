@@ -116,6 +116,7 @@
 - [Embracing Immutable Architecture](https://medium.com/react-weekly/embracing-immutable-architecture-dc04e3f08543#.lkceku4fh) [react] [redux] [elm]
 
 ### Related Libs
+- [Freezer](https://github.com/arqex/freezer)
 - [seamless-immutable](https://github.com/rtfeldman/seamless-immutable)
 - [Immutable JS](http://facebook.github.io/immutable-js/)
 
@@ -197,6 +198,7 @@
 
 
 ## Components
+- [Web Components: How To Craft Your Own Custom Components](https://auth0.com/blog/web-components-how-to-craft-your-own-custom-components/) [webcomponents]
 - [Introducing React Loadable](https://medium.com/@thejameskyle/react-loadable-2674c59de178#.d4e9tp5g8)
 - [Why use reactive streams for components?](https://glebbahmutov.com/blog/why-use-reactive-streams-for-components/)
 - [How to use React’s higher-order components](https://medium.freecodecamp.com/react-higher-order-components-635d0bc38b6c#.zdbrjdgm5) [react]
