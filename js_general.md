@@ -198,6 +198,8 @@
 
 
 ## Components
+- [Higher-Order Components in Vue.js](https://medium.com/tldr-tech/higher-order-components-in-vue-js-38b500c6d49f#.64mngmpd7) [vue]
+- [Higher-Order Components](https://facebook.github.io/react/docs/higher-order-components.html) [react]
 - [Web Components: How To Craft Your Own Custom Components](https://auth0.com/blog/web-components-how-to-craft-your-own-custom-components/) [webcomponents]
 - [Introducing React Loadable](https://medium.com/@thejameskyle/react-loadable-2674c59de178#.d4e9tp5g8)
 - [Why use reactive streams for components?](https://glebbahmutov.com/blog/why-use-reactive-streams-for-components/)
@@ -207,6 +209,7 @@
 
 
 ## Vue.js
+- [How to Handle File Uploads in Vue 2](https://scotch.io/tutorials/how-to-handle-file-uploads-in-vue-2)
 - [Vue.js’s Single File Components: Keeping It All In One Place](https://appendto.com/2017/02/vue-jss-single-file-components-keeping-it-all-in-one-place-2/?nabw=1&utm_referrer=https%3A%2F%2Fgetpocket.com%2F) [css modules]
 - Intro to Vue.js
   [part 1](https://css-tricks.com/intro-to-vue-1-rendering-directives-events/)
@@ -322,6 +325,7 @@
 
 
 ## Graphics/Images
+- [Creating a Book Cover Using JavaScript and p5.js](https://css-tricks.com/creating-book-cover-using-javascript-p5-js/)
 - [Image Processing in Javascript](http://blog.webkid.io/image-processing-in-javascript/)
 - [A 'modern 3D API' wrapper for WebGL](http://floooh.github.io/2016/10/24/altai.html)
 - [Getting Started With Paper.js: Animation and Images](https://code.tutsplus.com/tutorials/getting-started-with-paperjs-animation-and-images--cms-26530)
@@ -330,6 +334,7 @@
 - [Getting Started With Paper.js: Projects and Items](https://code.tutsplus.com/tutorials/getting-started-with-paperjs-projects-and-items--cms-26481)
 
 ### Related Libs
+- [p5.js](https://p5js.org)
 - [Paper.js](http://paperjs.org/about/)
 
 

@@ -3,6 +3,7 @@
 
 
 ## ES Proposals / Next
+- [ES proposal: arbitrary precision integers](http://2ality.com/2017/03/es-integer.html)
 - [ES proposal: Shared memory and atomics](http://www.2ality.com/2017/01/shared-array-buffer.html)
 - [Asyncing Feeling about JavaScript Generators](https://www.bignerdranch.com/blog/asyncing-feeling-about-javascript-generators/)
 - [ES proposal: import()](http://www.2ality.com/2017/01/import-operator.html)
