@@ -380,6 +380,10 @@
 - [How to Build Offline-smart Web Apps with Hoodie] (https://www.codementor.io/offlinefirst/tutorial/build-offline-smart-web-apps-with-hoodie)
 
 
+## Dependencies
+- [Managing Async Dependencies with JavaScript](https://hackcabin.com/post/managing-async-dependencies-javascript/)
+
+
 ## Package/Dependency Management
 - [Offline installation of npm packages](https://addyosmani.com/blog/using-npm-offline/) [npm]
 - [https://medium.com/@jacob.h.page/common-npm-mistakes-51bf8989079f#.9nhzzq697](https://medium.com/@jacob.h.page/common-npm-mistakes-51bf8989079f#.9nhzzq697)
