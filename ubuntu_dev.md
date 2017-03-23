@@ -3,6 +3,10 @@
 - [install 2](http://tecadmin.net/install-google-chrome-in-ubuntu/#)
 
 
+## Unix
+- [What are the shell's control and redirection operators?](http://unix.stackexchange.com/questions/159513/what-are-the-shells-control-and-redirection-operators)
+
+
 ## Git
 ```Bash
 sudo add-apt-repository ppa:git-core/ppa
