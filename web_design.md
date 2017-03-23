@@ -47,6 +47,7 @@
 - [How to Display Text on Image With CSS3 mix-blend-mode](http://www.hongkiat.com/blog/css3-mix-blend-mode/)
 
 ### Related
+- [Minireset.css](http://jgthms.com/minireset.css/)
 - [BEM](http://getbem.com)
 - [Atomic CSS](https://acss.io)
 
