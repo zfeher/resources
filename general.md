@@ -47,6 +47,7 @@
 - Some commands
   - `git rebase master --autostash` will stash and reapply stashed stuff after rebase
   - `git fetch origin --prune` fetches origin end cleans up a bit, removes deleted remote branches but not the checked out ones
+  - `git config --global pull.rebase preserve` set pull to use rebase with preserve merges option
   - `git config --global rebase.autostash true`
   - `git config --global user.name "John Doe"`
   - `git config --global user.email johndoe@example.com`
@@ -56,7 +57,6 @@
   - `git config --global --list` list git global config
   - `git config user.name` check user name
   - `git config --global credential.helper cache` cache https auth temporarily
-  - `git config --global pull.rebase true` set pull to use rebase
   - `git remote show origin` show remote info
   - `git tag -l "v1.8.5*"` search tags
   - `git tag -a v1.4 -m "my version 1.4"` create annnotated tag
