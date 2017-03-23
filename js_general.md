@@ -99,6 +99,7 @@
 
 
 ## Security
+- [Preventing cross-site attacks using same-site cookies](https://blogs.dropbox.com/tech/2017/03/preventing-cross-site-attacks-using-same-site-cookies/) [csrf]
 - [Web security essentials - Password storage](http://www.sohamkamani.com/blog/2016/11/24/web-security-password-storage/)
 - [The Most Common XSS Vulnerability in React.js Applications](https://medium.com/node-security/the-most-common-xss-vulnerability-in-react-js-applications-2bdffbcc1fa0#.ozdwlcx2g) [xss][react]
 
