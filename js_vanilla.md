@@ -97,6 +97,7 @@
 
 
 ## Generators
+- [Demystifying Async Programming in Javascript](https://blog.usebutton.com/demystifying-async-programming-in-javascript-47e417566f61#.q3sxfsxsk)
 - [A Practical Introduction to ES6 Generator Functions](http://thejsguy.com/2016/10/15/a-practical-introduction-to-es6-generator-functions.html)
 - [Exploring ES6: Generators](http://exploringjs.com/es6/ch_generators.html)
 

@@ -143,6 +143,7 @@
 
 
 ## Reactive / Functional Reactive Programming (FRP)
+- [Being RxJS Subjects Savvy](https://medium.com/front-end-hacking/being-rxjs-subjects-savvy-4aec5c8da99e#.t707p6w87) [rxjs]
 - [An Animated Intro to RxJS](https://css-tricks.com/animated-intro-rxjs/) [rxjs]
 - [Reactive Programming versus Reactive Systems](https://www.lightbend.com/reactive-programming-versus-reactive-systems)
 - [How To Debug RxJs - A Simple Way For Debugging Rxjs Observables](http://blog.angular-university.io/debug-rxjs/)
