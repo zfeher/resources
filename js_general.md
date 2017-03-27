@@ -1,4 +1,5 @@
 ## Unsorted
+- [Marko](http://markojs.com)
 - [Svelte](https://svelte.technology)
 - [inferno](https://github.com/trueadm/inferno)[react][component][lib]
 
@@ -266,6 +267,7 @@
 
 
 ## React
+- [react-bits](https://github.com/vasanthk/react-bits) [patterns][tips][tricks]
 - [Universal JavaScript Apps with React Router 4](https://ebaytech.berlin/universal-web-apps-with-react-router-4-15002bb30ccb#.8zmzcubd0) [routing][router]
 - [Optimizing the Performance of Your React Application](https://auth0.com/blog/optimizing-react/)
 - [Optimizing react-redux store for high performance updates](https://medium.com/@lavrton/optimizing-react-redux-store-for-high-performance-updates-3ae6f7f1e4c1#.xneqspd4v) [redux]
