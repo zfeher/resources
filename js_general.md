@@ -193,6 +193,13 @@
 - [How to write multi-module Typescript declaration files](https://medium.com/@DzoQiEuoi/how-to-write-multi-module-typescript-declaration-files-8f45935636d2#.ja6g8k90v)
 
 
+## Types, runtime typecheck, etc
+
+### Related libs
+- [Flow Runtime](https://codemix.github.io/flow-runtime/#/)
+- [tcomb](https://github.com/gcanti/tcomb)
+
+
 ## Flow
 - [Authoring and publishing JavaScript modules with Flow](http://javascriptplayground.com/blog/2017/01/npm-flowjs-javascript/)
 
