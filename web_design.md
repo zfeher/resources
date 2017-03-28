@@ -16,6 +16,7 @@
 
 
 ## CSS
+- [Introduction to the CSS Grid Layout Module](http://www.hongkiat.com/blog/css-grid-layout-module/)
 - [The Unexpected Power of Viewport Units in CSS](https://www.lullabot.com/articles/unexpected-power-of-viewport-units-in-css) [viewport units]
 - [Responsive CSS Patterns without Media Queries](https://www.sitepoint.com/responsive-css-patterns-without-media-queries/) [flexbox]
 - [Is that how you center in CSS?](https://medium.com/@AmJustSam/is-that-how-you-center-in-css-672dd21a4d60#.qhuhyxpvz) [align][center]
@@ -53,6 +54,7 @@
 
 
 ## HTML
+- [How You Can Use HTML5 Custom Data Attributes and Why](https://www.sitepoint.com/how-why-use-html5-custom-data-attributes/)
 - [What’s New in HTML 5.1](https://www.sitepoint.com/whats-new-in-html-5-1/)
 - [HTML 5 CHEAT SHEET](https://makeawebsitehub.com/the-html-5-mega-cheat-sheet/)
 - [HTML forms guide](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Forms)

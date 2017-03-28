@@ -136,6 +136,7 @@
 - So You Want to be a Functional Programmer - Charles Scalfani: [Part 1](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536), [Part 2](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-2-7005682cec4a), [Part 3](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-3-1b0fd14eb1a7), [Part 4](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-4-18fbe3ea9e49), [Part 5](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-5-c70adc9cf56a), [Part 6](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-6-db502830403#.8wfy3yabr)
 
 ### Related Libs
+- [Lazy.js](danieltao.com/lazy.js)
 - [Folktale](http://folktalejs.org)
 - [FPO](https://github.com/getify/fpo)
 - [functional.js](http://functionaljs.com)
@@ -413,7 +414,8 @@
 - [Node Version Manager (NVM)](https://github.com/creationix/nvm)
 
 
-## Module loader/Module Bundler/Task Runner, CI
+## Module loader/Module Bundler/Task Runner, CI, Build
+- [Cut the File Size with These Three HTML Minification Tools](https://www.sitepoint.com/cut-filesize-with-three-html-minification-tools/)
 - [Travis - a free CI for an opensource project](https://devblog.dymel.pl/2017/03/13/travis-free-ci-for-opensource-projects/) [ci] [travis]
 - [The Fine Art of the Webpack 2 Config](https://dev.to/alflennik/the-fine-art-of-the-webpack-2-config) [webpack]
 - [Modern JavaScript Apps with Neutrino](https://davidwalsh.name/neutrino) [webpack]
