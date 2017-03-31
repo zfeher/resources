@@ -16,6 +16,10 @@
 
 
 ## CSS
+- [Making Animations Wait](https://css-tricks.com/making-animations-wait/)
+- [Flex Like a Pro: Introduction to CSS Flexbox](http://engineering.blogfoster.com/flexbox-introduction/)
+- [3 CSS Grid Features That Make My Heart Flutter](https://una.im/css-grid/)
+- [Text Effects with CSS (and a little contenteditable trick)](https://css-tricks.com/text-effects-css-little-contenteditable-trick/)
 - [Introduction to the CSS Grid Layout Module](http://www.hongkiat.com/blog/css-grid-layout-module/)
 - [The Unexpected Power of Viewport Units in CSS](https://www.lullabot.com/articles/unexpected-power-of-viewport-units-in-css) [viewport units]
 - [Responsive CSS Patterns without Media Queries](https://www.sitepoint.com/responsive-css-patterns-without-media-queries/) [flexbox]

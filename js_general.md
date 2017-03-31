@@ -5,6 +5,7 @@
 
 
 ## Books
+- [SurviveJS - Webpack - v2.0](https://survivejs.com/webpack/preface/)
 - [Babel Handbook](https://github.com/thejameskyle/babel-handbook/blob/master/translations/en/README.md)
 - [Setting up ES6 - Dr. Axel Rauschmayer](https://leanpub.com/setting-up-es6/) [webpack][babel]
 - [Mostly adequate guide to FP (in javascript)](https://github.com/MostlyAdequate/mostly-adequate-guide)
@@ -36,6 +37,7 @@
 
 
 ## Interview
+- [Master the JavaScript Interview: What is a Pure Function?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976)
 - [Interview Algorithm Questions in Javascript() {...}](https://github.com/kennymkchan/interview-questions-in-javascript) [interview]
 
 
@@ -124,12 +126,18 @@
 
 
 ## Functional Programming (FP)
+- Composing Software (Eric Elliott)
+  - [The Rise and Fall and Rise of Functional Programming](https://medium.com/javascript-scene/the-rise-and-fall-and-rise-of-functional-programming-composable-software-c2d91b424c8c)
+  - [Why Learn Functional Programming in JavaScript?](https://medium.com/javascript-scene/why-learn-functional-programming-in-javascript-composing-software-ea13afc7a257)
+  - [A Functional Programmer’s Introduction to JavaScript](https://medium.com/javascript-scene/a-functional-programmers-introduction-to-javascript-composing-software-d670d14ede30)
+  - [Higher Order Functions](https://medium.com/javascript-scene/higher-order-functions-composing-software-5365cf2cbe99)
+  - [Reduce](https://medium.com/javascript-scene/reduce-composing-software-fe22f0c39a1d#.sd2hrgjrg)
+  - [Functors & Categories](https://medium.com/javascript-scene/functors-categories-61e031bac53f)
 - [Safely Accessing Deeply Nested Values In JavaScript](https://medium.com/javascript-inside/safely-accessing-deeply-nested-values-in-javascript-99bf72a0855a#.bpkwuriq1) [ramda][folktale]
 - [Casual functional adventures in JavaScript]()
 - [Functional Workaholism](http://codepen.io/brekk/post/functional-workaholism)
 - [Awesome FP JS](https://github.com/stoeffel/awesome-fp-js)
 - [Functional Programming (FP) By Any Other Name…](https://davidwalsh.name/functional-programming)
-- [Reduce (Composing Software)](https://medium.com/javascript-scene/reduce-composing-software-fe22f0c39a1d#.sd2hrgjrg)
 - [Mori](https://github.com/swannodette/mori) [persistent data structures][clojure]
 - [Functors encapsulate imperative logic](https://glebbahmutov.com/blog/functors-encapsulate-imperative-logic/)
 - [If Else vs Either Monad vs FRP](https://glebbahmutov.com/blog/if-else-vs-either-monad-vs-frp/)
@@ -172,6 +180,7 @@
 
 
 ## Progressive Web Apps
+- [Native Apps are Doomed](https://medium.com/javascript-scene/native-apps-are-doomed-ac397148a2c0)
 - [Learning Progressive Web App](https://github.com/ragingwind/learning-pwa)
 
 
@@ -268,6 +277,7 @@
 
 
 ## React
+- [setState() Gate](https://medium.com/javascript-scene/setstate-gate-abc10a9b2d82)
 - [react-bits](https://github.com/vasanthk/react-bits) [patterns][tips][tricks]
 - [Universal JavaScript Apps with React Router 4](https://ebaytech.berlin/universal-web-apps-with-react-router-4-15002bb30ccb#.8zmzcubd0) [routing][router]
 - [Optimizing the Performance of Your React Application](https://auth0.com/blog/optimizing-react/)
@@ -369,6 +379,11 @@
 
 
 ## Testing
+- Testing Your Frontend Code
+  - [Part I (Introduction)](https://hackernoon.com/testing-your-frontend-code-part-i-introduction-7e307eac4446)
+  - [Part II (Unit Testing)](https://hackernoon.com/testing-your-frontend-code-part-ii-unit-testing-1d05f8d50859)
+  - [Part III (E2E Testing)](https://hackernoon.com/testing-your-frontend-code-part-iii-e2e-testing-e9261b56475)
+  - [Part IV (Integration Testing)](https://hackernoon.com/testing-your-frontend-code-part-iii-e2e-testing-e9261b56475)
 - [TDD the RITE Way](https://medium.com/javascript-scene/tdd-the-rite-way-53c9b46f45e3#.h0g3209ni) [tdd]
 - [Testing React components with Jest and Enzyme](https://hackernoon.com/testing-react-components-with-jest-and-enzyme-41d592c174f#.xroi6dne0)
 - [DOM Testing React Applications with Jest](https://www.codementor.io/pkodmad/tutorials/dom-testing-react-application-jest-k4ll4f8sd) [react]
