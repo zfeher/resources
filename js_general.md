@@ -68,6 +68,10 @@
 - [Moment.js](https://momentjs.com)
 
 
+## SEO, Search Engine Optimization
+- [A Practical Guide to Search Engine Optimization (SEO) with Google](https://www.taniarascia.com/a-practical-guide-to-search-engine-optimization-seo-with-google/)
+
+
 ## Performance
 - [Performance Testing with the User Timing API](http://csskarma.com/blog/user-timing-api/)
 - [Asynchronous vs Deferred JavaScript](https://bitsofco.de/async-vs-defer/) [html][script][async][defer]
