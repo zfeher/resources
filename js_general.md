@@ -2,6 +2,7 @@
 - [Marko](http://markojs.com)
 - [Svelte](https://svelte.technology)
 - [inferno](https://github.com/trueadm/inferno)[react][component][lib]
+- [Popper.js](https://popper.js.org)
 
 
 ## Books
@@ -120,12 +121,21 @@
 - [Embracing Immutable Architecture](https://medium.com/react-weekly/embracing-immutable-architecture-dc04e3f08543#.lkceku4fh) [react] [redux] [elm]
 
 ### Related Libs
+- [Mewt](https://github.com/sdgluck/mewt)
 - [Freezer](https://github.com/arqex/freezer)
 - [seamless-immutable](https://github.com/rtfeldman/seamless-immutable)
 - [Immutable JS](http://facebook.github.io/immutable-js/)
 
 
 ## Functional Programming (FP)
+- Fantas, Eel, and Specification (TomHarding)
+  - [S1 Daggy](http://www.tomharding.me/2017/03/03/fantas-eel-and-specification/)
+  - [S2 Type Signatures](http://www.tomharding.me/2017/03/08/fantas-eel-and-specification-2/)
+  - [S3 Setoid](http://www.tomharding.me/2017/03/09/fantas-eel-and-specification-3/)
+  - [S4 Semigroup](http://www.tomharding.me/2017/03/13/fantas-eel-and-specification-4/)
+  - [S5 Monoid](http://www.tomharding.me/2017/03/21/fantas-eel-and-specification-5/)
+  - [S6 Functor](http://www.tomharding.me/2017/03/27/fantas-eel-and-specification-6/)
+  - [S7 Contravariant](http://www.tomharding.me/2017/04/03/fantas-eel-and-specification-7/)
 - Composing Software (Eric Elliott)
   - [The Rise and Fall and Rise of Functional Programming](https://medium.com/javascript-scene/the-rise-and-fall-and-rise-of-functional-programming-composable-software-c2d91b424c8c)
   - [Why Learn Functional Programming in JavaScript?](https://medium.com/javascript-scene/why-learn-functional-programming-in-javascript-composing-software-ea13afc7a257)
@@ -277,6 +287,7 @@
 
 
 ## React
+- [Simple React Development in 2017](https://hackernoon.com/simple-react-development-in-2017-113bd563691f)
 - [setState() Gate](https://medium.com/javascript-scene/setstate-gate-abc10a9b2d82)
 - [react-bits](https://github.com/vasanthk/react-bits) [patterns][tips][tricks]
 - [Universal JavaScript Apps with React Router 4](https://ebaytech.berlin/universal-web-apps-with-react-router-4-15002bb30ccb#.8zmzcubd0) [routing][router]
@@ -430,6 +441,7 @@
 
 
 ## Module loader/Module Bundler/Task Runner, CI, Build
+- [Setting up multi-platform npm packages](http://2ality.com/2017/04/setting-up-multi-platform-packages.html) [main][module][es2015]
 - [Cut the File Size with These Three HTML Minification Tools](https://www.sitepoint.com/cut-filesize-with-three-html-minification-tools/)
 - [Travis - a free CI for an opensource project](https://devblog.dymel.pl/2017/03/13/travis-free-ci-for-opensource-projects/) [ci] [travis]
 - [The Fine Art of the Webpack 2 Config](https://dev.to/alflennik/the-fine-art-of-the-webpack-2-config) [webpack]

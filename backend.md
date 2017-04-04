@@ -6,6 +6,13 @@
 - [Postman](https://www.getpostman.com) [api][test][documentation]
 
 
+## Fake data
+- [How to Mock Data for Node.js Applications using Faker.js](https://hackernoon.com/how-to-mock-data-for-node-js-applications-using-faker-js-b1f4c0e78102)
+
+### Related Libs
+- [Faker.js](https://github.com/marak/Faker.js/)
+
+
 ## Node
 - [Node.js at Scale - Node.js Garbage Collection Explained](https://blog.risingstack.com/node-js-at-scale-node-js-garbage-collection/)
 - [6 of the Most Exciting ES6 Features in Node.js v6 LTS](https://nodesource.com/blog/six-of-the-most-exciting-es6-features-in-node-js-v6-lts)
