@@ -245,6 +245,7 @@
 
 
 ## Vue.js
+- [Create a Desktop Quiz Application Using Vue.js and Electron](https://scotch.io/tutorials/create-a-desktop-quiz-application-using-vue-js-and-electron)
 - [How to Handle File Uploads in Vue 2](https://scotch.io/tutorials/how-to-handle-file-uploads-in-vue-2)
 - [Vue.js’s Single File Components: Keeping It All In One Place](https://appendto.com/2017/02/vue-jss-single-file-components-keeping-it-all-in-one-place-2/?nabw=1&utm_referrer=https%3A%2F%2Fgetpocket.com%2F) [css modules]
 - Intro to Vue.js
@@ -445,6 +446,7 @@
 
 
 ## Module loader/Module Bundler/Task Runner, CI, Build
+- [webpack bits: Getting the most out of the CommonsChunkPlugin()](https://medium.com/webpack/webpack-bits-getting-the-most-out-of-the-commonschunkplugin-ab389e5f318)
 - [Setting up multi-platform npm packages](http://2ality.com/2017/04/setting-up-multi-platform-packages.html) [main][module][es2015]
 - [Cut the File Size with These Three HTML Minification Tools](https://www.sitepoint.com/cut-filesize-with-three-html-minification-tools/)
 - [Travis - a free CI for an opensource project](https://devblog.dymel.pl/2017/03/13/travis-free-ci-for-opensource-projects/) [ci] [travis]
