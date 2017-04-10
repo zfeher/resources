@@ -132,7 +132,7 @@
 
 
 ## Functional Programming (FP)
-- Fantas, Eel, and Specification (TomHarding)
+- Fantas, Eel, and Specification (Tom Harding)
   - [S1 Daggy](http://www.tomharding.me/2017/03/03/fantas-eel-and-specification/)
   - [S2 Type Signatures](http://www.tomharding.me/2017/03/08/fantas-eel-and-specification-2/)
   - [S3 Setoid](http://www.tomharding.me/2017/03/09/fantas-eel-and-specification-3/)
