@@ -6,6 +6,7 @@
 
 
 ## Books
+- [Exploring ES2016 and ES2017 - Dr. Axel Rauschmayer](http://exploringjs.com/es2016-es2017/index.html)
 - [SurviveJS - Webpack - v2.0](https://survivejs.com/webpack/preface/)
 - [Babel Handbook](https://github.com/thejameskyle/babel-handbook/blob/master/translations/en/README.md)
 - [Setting up ES6 - Dr. Axel Rauschmayer](https://leanpub.com/setting-up-es6/) [webpack][babel]
@@ -450,6 +451,7 @@
 
 
 ## Module loader/Module Bundler/Task Runner, CI, Build
+- [ES6 modules support lands in browsers: is it time to rethink bundling?](https://www.contentful.com/blog/2017/04/04/es6-modules-support-lands-in-browsers-is-it-time-to-rethink-bundling/)
 - [webpack bits: Getting the most out of the CommonsChunkPlugin()](https://medium.com/webpack/webpack-bits-getting-the-most-out-of-the-commonschunkplugin-ab389e5f318)
 - [Setting up multi-platform npm packages](http://2ality.com/2017/04/setting-up-multi-platform-packages.html) [main][module][es2015]
 - [Cut the File Size with These Three HTML Minification Tools](https://www.sitepoint.com/cut-filesize-with-three-html-minification-tools/)

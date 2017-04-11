@@ -54,6 +54,10 @@
 - [JavaScript Unary Operators: Simple and Useful](https://scotch.io/tutorials/javascript-unary-operators-simple-and-useful)
 
 
+## Regular Expressions
+- [Regular Expressions in a post-ES6 world](https://ponyfoo.com/articles/regular-expressions-post-es6)
+
+
 ## Arrow Function/Fat Arrow/=>
 - [When 'not' to use arrow functions](https://rainsoft.io/when-not-to-use-arrow-functions-in-javascript/) [tip]
 
