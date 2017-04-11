@@ -11,6 +11,7 @@
 - [Setting up ES6 - Dr. Axel Rauschmayer](https://leanpub.com/setting-up-es6/) [webpack][babel]
 - [Mostly adequate guide to FP (in javascript)](https://github.com/MostlyAdequate/mostly-adequate-guide)
 - [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS)
+- [Functional Programming in JavaScript](https://www.manning.com/books/functional-programming-in-javascript)
 - [DevFreeBooks](https://devfreebooks.github.io)
 - [Exploring ES2016 and ES2017 - Dr. Axel Rauschmayer](https://leanpub.com/exploring-es2016-es2017/read)
 - [Exploring ES6: Upgrade to the next version of JavaScript - Dr. Axel Rauschmayer](http://exploringjs.com)
@@ -147,6 +148,7 @@
   - [Higher Order Functions](https://medium.com/javascript-scene/higher-order-functions-composing-software-5365cf2cbe99)
   - [Reduce](https://medium.com/javascript-scene/reduce-composing-software-fe22f0c39a1d#.sd2hrgjrg)
   - [Functors & Categories](https://medium.com/javascript-scene/functors-categories-61e031bac53f)
+- [Thinking in Ramda](http://randycoulman.com/blog/categories/thinking-in-ramda/)
 - [Safely Accessing Deeply Nested Values In JavaScript](https://medium.com/javascript-inside/safely-accessing-deeply-nested-values-in-javascript-99bf72a0855a#.bpkwuriq1) [ramda][folktale]
 - [Casual functional adventures in JavaScript]()
 - [Functional Workaholism](http://codepen.io/brekk/post/functional-workaholism)
