@@ -39,6 +39,7 @@
 
 
 ## Interview
+- [Master the JavaScript Interview: Soft Skills]()
 - [Master the JavaScript Interview: What is a Pure Function?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976)
 - [Interview Algorithm Questions in Javascript() {...}](https://github.com/kennymkchan/interview-questions-in-javascript) [interview]
 
@@ -247,6 +248,7 @@
 
 
 ## Vue.js
+- [Use Vue.js to create custom web components](http://vuetips.com/vue-web-components)
 - [Create a Desktop Quiz Application Using Vue.js and Electron](https://scotch.io/tutorials/create-a-desktop-quiz-application-using-vue-js-and-electron)
 - [How to Handle File Uploads in Vue 2](https://scotch.io/tutorials/how-to-handle-file-uploads-in-vue-2)
 - [Vue.js’s Single File Components: Keeping It All In One Place](https://appendto.com/2017/02/vue-jss-single-file-components-keeping-it-all-in-one-place-2/?nabw=1&utm_referrer=https%3A%2F%2Fgetpocket.com%2F) [css modules]
