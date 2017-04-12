@@ -97,6 +97,7 @@
 
 
 ## DOM
+- [https://www.sitepoint.com/dom-manipulation-vanilla-javascript-no-jquery/](http://devboosts.com/2017/03/28/conventional-commits/)
 - [Convert String to DOM Nodes](https://davidwalsh.name/convert-html-stings-dom-nodes)
 
 
@@ -110,6 +111,7 @@
 
 
 ## Security
+- [How To Secure Your Web App With HTTP Headers](https://www.smashingmagazine.com/2017/04/secure-web-app-http-headers/)
 - [Preventing cross-site attacks using same-site cookies](https://blogs.dropbox.com/tech/2017/03/preventing-cross-site-attacks-using-same-site-cookies/) [csrf]
 - [Web security essentials - Password storage](http://www.sohamkamani.com/blog/2016/11/24/web-security-password-storage/)
 - [The Most Common XSS Vulnerability in React.js Applications](https://medium.com/node-security/the-most-common-xss-vulnerability-in-react-js-applications-2bdffbcc1fa0#.ozdwlcx2g) [xss][react]
@@ -135,6 +137,7 @@
 
 
 ## Functional Programming (FP)
+- [The Dao of Immutability: The Way of the Functional Programmer](https://medium.com/javascript-scene/the-dao-of-immutability-9f91a70c88cd)
 - Fantas, Eel, and Specification (Tom Harding)
   - [S1 Daggy](http://www.tomharding.me/2017/03/03/fantas-eel-and-specification/)
   - [S2 Type Signatures](http://www.tomharding.me/2017/03/08/fantas-eel-and-specification-2/)

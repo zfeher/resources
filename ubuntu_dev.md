@@ -4,6 +4,7 @@
 
 
 ## Unix
+- [bash-guide](https://github.com/Idnan/bash-guide)
 - [What are the shell's control and redirection operators?](http://unix.stackexchange.com/questions/159513/what-are-the-shells-control-and-redirection-operators)
 
 
