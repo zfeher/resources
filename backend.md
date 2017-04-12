@@ -19,6 +19,7 @@
 
 
 ## HTTP
+- [A Comprehensive Guide To HTTP/2 Server Push](https://www.smashingmagazine.com/2017/04/guide-http2-server-push/)
 - [What you need to know about HTTP/2](https://web-crunch.com/what-you-need-to-know-about-http2/)
 
 
