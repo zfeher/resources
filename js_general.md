@@ -238,6 +238,8 @@
 
 
 ## Components
+- [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0) [smart-dumb][stateful-stateless]
+- [Using Presentational and Container Components with Redux](https://www.fullstackreact.com/p/using-presentational-and-container-components-with-redux/) [smart-dumb][stateful-stateless]
 - [Higher-Order Components in Vue.js](https://medium.com/tldr-tech/higher-order-components-in-vue-js-38b500c6d49f#.64mngmpd7) [vue]
 - [Higher-Order Components](https://facebook.github.io/react/docs/higher-order-components.html) [react]
 - [Web Components: How To Craft Your Own Custom Components](https://auth0.com/blog/web-components-how-to-craft-your-own-custom-components/) [webcomponents]
