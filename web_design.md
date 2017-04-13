@@ -16,6 +16,11 @@
 
 
 ## CSS
+- [Customize the Browser’s Scrollbar with CSS](https://scotch.io/tutorials/customize-the-browsers-scrollbar-with-css)
+- Writing modular CSS
+  - [Part 1 — BEM](https://zellwk.com/blog/css-architecture-1/)
+  - [Part 2 — Namespaces](https://zellwk.com/blog/css-architecture-2/)
+  - [Part 3 — file structure and organization](https://zellwk.com/blog/css-architecture-3/)
 - [The invisible parts of CSS](https://getpocket.com/a/read/1682056258)
 - [Positioning Elements on the Web](https://robots.thoughtbot.com/positioning) [flexbox]
 - [rems and ems, and why you probably don’t need them](https://hackernoon.com/rems-and-ems-and-why-you-probably-dont-need-them-664b9ce1e09f)
