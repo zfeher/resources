@@ -405,6 +405,7 @@
 
 
 ## Testing
+- [Headless Chrome](Headless Chromium) [chrome][headless]
 - Testing Your Frontend Code
   - [Part I (Introduction)](https://hackernoon.com/testing-your-frontend-code-part-i-introduction-7e307eac4446)
   - [Part II (Unit Testing)](https://hackernoon.com/testing-your-frontend-code-part-ii-unit-testing-1d05f8d50859)
