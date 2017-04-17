@@ -180,6 +180,9 @@
 - [How To Debug RxJs - A Simple Way For Debugging Rxjs Observables](http://blog.angular-university.io/debug-rxjs/)
 - [On The Subject Of Subjects (in RxJS)](https://medium.com/@benlesh/on-the-subject-of-subjects-in-rxjs-2b08b7198b93#.emvh3ijjd)
 
+### Related libs
+- [xstream](https://github.com/staltz/xstream)
+
 
 ## CSP/Processes/Channels/Transducers
 - [Introduction into Channels and Transducers in JavaScript](https://medium.com/javascript-inside/introduction-into-channels-and-transducers-in-javascript-a1dfd0a09268#.nlio69t20) [transducer]
