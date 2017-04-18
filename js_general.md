@@ -137,6 +137,7 @@
 
 
 ## Functional Programming (FP)
+- [Why use a Maybe type in JavaScript?](https://oliverjash.me/2017/04/10/why-use-a-maybe-type-in-javascript) [maybe]
 - [The Dao of Immutability: The Way of the Functional Programmer](https://medium.com/javascript-scene/the-dao-of-immutability-9f91a70c88cd)
 - Fantas, Eel, and Specification (Tom Harding)
   - [S1 Daggy](http://www.tomharding.me/2017/03/03/fantas-eel-and-specification/)
