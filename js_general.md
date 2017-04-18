@@ -137,6 +137,8 @@
 
 
 ## Functional Programming (FP)
+- [THE MARVELLOUSLY MYSTERIOUS JAVASCRIPT MAYBE MONAD](http://jrsinclair.com/articles/2016/marvellously-mysterious-javascript-maybe-monad/)
+- [Monads in JavaScript](https://curiosity-driven.org/monads-in-javascript)
 - [Why use a Maybe type in JavaScript?](https://oliverjash.me/2017/04/10/why-use-a-maybe-type-in-javascript) [maybe]
 - [The Dao of Immutability: The Way of the Functional Programmer](https://medium.com/javascript-scene/the-dao-of-immutability-9f91a70c88cd)
 - Fantas, Eel, and Specification (Tom Harding)
@@ -166,6 +168,7 @@
 - So You Want to be a Functional Programmer - Charles Scalfani: [Part 1](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536), [Part 2](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-2-7005682cec4a), [Part 3](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-3-1b0fd14eb1a7), [Part 4](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-4-18fbe3ea9e49), [Part 5](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-5-c70adc9cf56a), [Part 6](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-6-db502830403#.8wfy3yabr)
 
 ### Related Libs
+- [Fantasy Land](https://github.com/fantasyland/fantasy-land)
 - [Lazy.js](danieltao.com/lazy.js)
 - [Folktale](http://folktalejs.org)
 - [FPO](https://github.com/getify/fpo)
