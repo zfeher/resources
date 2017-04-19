@@ -111,6 +111,7 @@
 
 
 ## Security
+- [A Guide to Security Best Practices for Remote Teams](https://www.toptal.com/remote/best-security-practices-for-remote-teams)
 - [How To Secure Your Web App With HTTP Headers](https://www.smashingmagazine.com/2017/04/secure-web-app-http-headers/)
 - [Preventing cross-site attacks using same-site cookies](https://blogs.dropbox.com/tech/2017/03/preventing-cross-site-attacks-using-same-site-cookies/) [csrf]
 - [Web security essentials - Password storage](http://www.sohamkamani.com/blog/2016/11/24/web-security-password-storage/)

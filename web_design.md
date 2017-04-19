@@ -12,6 +12,7 @@
 
 
 ## UX
+- [The Difference Between Customization and Personalization](http://babich.biz/the-difference-between-customization-and-personalization/)
 - [12 UX rules every designer should know](http://www.webdesignerdepot.com/2016/12/26-ux-rules-every-designer-should-know/)
 
 
