@@ -68,6 +68,7 @@
 - [Web Developer Checklist](http://webdevchecklist.com)
 
 ### Related libs
+- [Collections.js](http://www.collectionsjs.com)
 - [Moment.js](https://momentjs.com)
 
 
@@ -447,6 +448,7 @@
 
 
 ## Package/Dependency Management
+- [Why should we use pnpm?](https://www.kochan.io/nodejs/why-should-we-use-pnpm.html)
 - [Offline installation of npm packages](https://addyosmani.com/blog/using-npm-offline/) [npm]
 - [https://medium.com/@jacob.h.page/common-npm-mistakes-51bf8989079f#.9nhzzq697](https://medium.com/@jacob.h.page/common-npm-mistakes-51bf8989079f#.9nhzzq697)
 - [Yarn](https://yarnpkg.com)
@@ -459,12 +461,14 @@
 - [Bower](https://bower.io)
 
 ### Related Libs
+- [pnpm](https://github.com/pnpm/pnpm)
 - [npm_lazy](https://github.com/mixu/npm_lazy)
 - [local-npm](https://github.com/nolanlawson/local-npm)
 - [Node Version Manager (NVM)](https://github.com/creationix/nvm)
 
 
 ## Module loader/Module Bundler/Task Runner, CI, Build
+- [How to do proper tree-shaking in Webpack 2](https://blog.craftlab.hu/how-to-do-proper-tree-shaking-in-webpack-2-e27852af8b21) [webpack][tree shaking]
 - [ES6 modules support lands in browsers: is it time to rethink bundling?](https://www.contentful.com/blog/2017/04/04/es6-modules-support-lands-in-browsers-is-it-time-to-rethink-bundling/)
 - [webpack bits: Getting the most out of the CommonsChunkPlugin()](https://medium.com/webpack/webpack-bits-getting-the-most-out-of-the-commonschunkplugin-ab389e5f318)
 - [Setting up multi-platform npm packages](http://2ality.com/2017/04/setting-up-multi-platform-packages.html) [main][module][es2015]
