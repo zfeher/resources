@@ -17,6 +17,7 @@
 
 
 ## CSS
+- [High-level advice and guidelines for writing sane, manageable, scalable CSS](http://cssguidelin.es) [BEM]
 - [8 CSS selectors DO’s and DON’Ts](https://medium.com/@aljullu/8-css-selectors-dos-and-don-ts-1e0d23fcf96c)
 - [Quick Tip: How to Style React Components with styled-components](https://www.sitepoint.com/style-react-components-styled-components/) [react][component]
 - [Customize the Browser’s Scrollbar with CSS](https://scotch.io/tutorials/customize-the-browsers-scrollbar-with-css)
