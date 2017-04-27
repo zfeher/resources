@@ -111,7 +111,8 @@
 - [Yield and Async notations](https://ouicar.github.io/2016/12/14/async-yield.html)
 
 
-## Security
+## Security / Payment
+- [Accept payments on your site with NextJS, Stripe, and Micro](https://hackernoon.com/accept-payments-on-your-site-with-nextjs-stripe-and-micro-371de95b22d5)
 - [A Guide to Security Best Practices for Remote Teams](https://www.toptal.com/remote/best-security-practices-for-remote-teams)
 - [How To Secure Your Web App With HTTP Headers](https://www.smashingmagazine.com/2017/04/secure-web-app-http-headers/)
 - [Preventing cross-site attacks using same-site cookies](https://blogs.dropbox.com/tech/2017/03/preventing-cross-site-attacks-using-same-site-cookies/) [csrf]
@@ -311,6 +312,8 @@
 
 
 ## React
+- [How to Organize a Large React Application and Make It Scale](https://www.sitepoint.com/organize-large-react-application/)
+- [Best UI Frameworks for your new React.js App.](https://hackernoon.com/the-coolest-react-ui-frameworks-for-your-new-react-app-ad699fffd651)
 - [Simple React Development in 2017](https://hackernoon.com/simple-react-development-in-2017-113bd563691f)
 - [setState() Gate](https://medium.com/javascript-scene/setstate-gate-abc10a9b2d82)
 - [react-bits](https://github.com/vasanthk/react-bits) [patterns][tips][tricks]
@@ -327,7 +330,8 @@
 - [Testing React Components with Jest](https://medium.com/@kristenrogers.kr75/testing-react-components-with-jest-8ed9871b4611#.8jk87iqct)
 - [Building D3 Components with React](https://medium.com/@_alanbsmith/building-d3-components-with-react-7510e4743288#.4qf99mp5d)
 
-### Realted
+### Related
+- [Ducks](https://github.com/erikras/ducks-modular-redux)
 - [nwb](https://github.com/insin/nwb)
 - [Recompose](https://github.com/acdlite/recompose/)
 - [NEXT.js](https://github.com/zeit/next.js) [server side render]
@@ -414,6 +418,7 @@
 
 
 ## Testing
+- [An Overview of JavaScript Testing in 2017](https://medium.com/powtoon-engineering/a-complete-guide-to-testing-javascript-in-2017-a217b4cd5a2a?imm_mid=0f12fb&cmp=em-web-na-na-newsltr_20170426)
 - [Headless Chrome](Headless Chromium) [chrome][headless]
 - Testing Your Frontend Code
   - [Part I (Introduction)](https://hackernoon.com/testing-your-frontend-code-part-i-introduction-7e307eac4446)
