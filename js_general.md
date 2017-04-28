@@ -89,6 +89,10 @@
 - [ngrok](https://ngrok.com) // share localhost stuff via tunneling
 
 
+## Machine Learning
+- [10 Machine Learning Examples in JavaScript](http://tutorialzine.com/2017/04/10-machine-learning-examples-in-javascript/)
+
+
 ## Web Workers
 - [JavaScript in parallel](http://50linesofco.de/post/2017-02-06-javascript-in-parallel-web-workers-transferables-and-sharedarraybuffer.html?utm_source=ESnextNews.com&utm_medium=Weekly+Newsletter&utm_campaign=2017-02-07)
 
@@ -357,6 +361,7 @@
 - [10 Tips for Better Redux Architecture](https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44#.c92fz9hwb) [redux]
 
 ### Related Libs
+- [Alt](http://alt.js.org)
 - [ngrx/store](https://github.com/ngrx/store) [angular]
 - [Redux](http://redux.js.org) [flux]
   - [React/Redux Links](https://github.com/markerikson/react-redux-links) [react]

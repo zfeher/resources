@@ -17,6 +17,7 @@
 
 
 ## CSS
+- [CSS in JavaScript: The future of component-based styling](https://medium.freecodecamp.com/css-in-javascript-the-future-of-component-based-styling-70b161a79a32)
 - [High-level advice and guidelines for writing sane, manageable, scalable CSS](http://cssguidelin.es) [BEM]
 - [8 CSS selectors DO’s and DON’Ts](https://medium.com/@aljullu/8-css-selectors-dos-and-don-ts-1e0d23fcf96c)
 - [Quick Tip: How to Style React Components with styled-components](https://www.sitepoint.com/style-react-components-styled-components/) [react][component]
@@ -65,8 +66,10 @@
 - [How to Display Text on Image With CSS3 mix-blend-mode](http://www.hongkiat.com/blog/css3-mix-blend-mode/)
 
 ### Related
+- [CSS modules](https://github.com/css-modules/css-modules)
 - [Minireset.css](http://jgthms.com/minireset.css/)
-- [BEM](http://getbem.com)
+- [BEM 2](https://en.bem.info)
+- [BEM 1](http://getbem.com)
 - [Atomic CSS](https://acss.io)
 
 
