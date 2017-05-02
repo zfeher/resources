@@ -144,6 +144,7 @@
 
 
 ## Functional Programming (FP)
+- [flat-map](https://martinfowler.com/articles/collection-pipeline/flat-map.html)
 - [Functional pattern: flatMap](http://2ality.com/2017/04/flatmap.html)
 - [THE MARVELLOUSLY MYSTERIOUS JAVASCRIPT MAYBE MONAD](http://jrsinclair.com/articles/2016/marvellously-mysterious-javascript-maybe-monad/)
 - [Monads in JavaScript](https://curiosity-driven.org/monads-in-javascript)
