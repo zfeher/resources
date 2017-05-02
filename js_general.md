@@ -144,6 +144,7 @@
 
 
 ## Functional Programming (FP)
+- [Functional pattern: flatMap](http://2ality.com/2017/04/flatmap.html)
 - [THE MARVELLOUSLY MYSTERIOUS JAVASCRIPT MAYBE MONAD](http://jrsinclair.com/articles/2016/marvellously-mysterious-javascript-maybe-monad/)
 - [Monads in JavaScript](https://curiosity-driven.org/monads-in-javascript)
 - [Why use a Maybe type in JavaScript?](https://oliverjash.me/2017/04/10/why-use-a-maybe-type-in-javascript) [maybe]
