@@ -6,6 +6,10 @@
 - [Hype Driven Development](https://blog.daftcode.pl/hype-driven-development-3469fc2e9b22#.6yid21oth)
 
 
+## Theory
+- [Itsy Bitsy Data Structures](https://github.com/thejameskyle/itsy-bitsy-data-structures?utm_source=ESnextNews.com&utm_medium=Weekly+Newsletter&utm_campaign=2017-02-28)
+
+
 ## Books
 - [DevFreeBooks](https://devfreebooks.github.io)
 
