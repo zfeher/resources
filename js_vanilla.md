@@ -25,6 +25,10 @@
 - [ES Feature Tests - Kyle Simpson](https://github.com/getify/es-feature-tests)
 
 
+## Modules
+- [ECMAScript modules in browsers](https://jakearchibald.com/2017/es-modules-in-browsers/)
+
+
 ## Polyfills/Shims/Transpilers
 
 ### Notes
@@ -47,6 +51,7 @@
 
 
 ## Tricks
+- [Conditionally adding entries inside Array and object literals](http://2ality.com/2017/04/conditional-literal-entries.html)
 - [Require Parameters for JavaScript Functions](https://davidwalsh.name/javascript-function-parameters)
 
 
