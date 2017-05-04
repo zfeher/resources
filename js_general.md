@@ -482,6 +482,7 @@
 
 
 ## Module loader/Module Bundler/Task Runner, CI, Build
+- [MAY 02	Webpack: A simple loader](https://bocoup.com/blog/webpack-a-simple-loader) [webpack]
 - [How to do proper tree-shaking in Webpack 2](https://blog.craftlab.hu/how-to-do-proper-tree-shaking-in-webpack-2-e27852af8b21) [webpack][tree shaking]
 - [Tree-shaking versus dead code elimination](https://medium.com/@Rich_Harris/tree-shaking-versus-dead-code-elimination-d3765df85c80)
 - [ES6 modules support lands in browsers: is it time to rethink bundling?](https://www.contentful.com/blog/2017/04/04/es6-modules-support-lands-in-browsers-is-it-time-to-rethink-bundling/)
