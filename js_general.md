@@ -428,6 +428,7 @@
 
 
 ## Testing
+- [Getting Started with Headless Chrome](https://developers.google.com/web/updates/2017/04/headless-chrome) [headless]
 - [An Overview of JavaScript Testing in 2017](https://medium.com/powtoon-engineering/a-complete-guide-to-testing-javascript-in-2017-a217b4cd5a2a?imm_mid=0f12fb&cmp=em-web-na-na-newsltr_20170426)
 - [Headless Chrome](Headless Chromium) [chrome][headless]
 - Testing Your Frontend Code
