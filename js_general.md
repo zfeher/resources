@@ -428,6 +428,7 @@
 
 
 ## Testing
+- [Testing Service Workers](https://medium.com/dev-channel/testing-service-workers-318d7b016b19)
 - [Getting Started with Headless Chrome](https://developers.google.com/web/updates/2017/04/headless-chrome) [headless]
 - [An Overview of JavaScript Testing in 2017](https://medium.com/powtoon-engineering/a-complete-guide-to-testing-javascript-in-2017-a217b4cd5a2a?imm_mid=0f12fb&cmp=em-web-na-na-newsltr_20170426)
 - [Headless Chrome](Headless Chromium) [chrome][headless]

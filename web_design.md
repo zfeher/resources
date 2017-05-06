@@ -17,6 +17,7 @@
 
 
 ## CSS
+- [felx-cheatsheet](http://yoksel.github.io/flex-cheatsheet/) [flex]
 - [CSS in JavaScript: The future of component-based styling](https://medium.freecodecamp.com/css-in-javascript-the-future-of-component-based-styling-70b161a79a32)
 - [High-level advice and guidelines for writing sane, manageable, scalable CSS](http://cssguidelin.es) [BEM]
 - [8 CSS selectors DO’s and DON’Ts](https://medium.com/@aljullu/8-css-selectors-dos-and-don-ts-1e0d23fcf96c)
