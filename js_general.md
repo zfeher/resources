@@ -485,6 +485,7 @@
 
 
 ## Module loader/Module Bundler/Task Runner, CI, Build
+- [Prepack.io](https://prepack.io)
 - [MAY 02	Webpack: A simple loader](https://bocoup.com/blog/webpack-a-simple-loader) [webpack]
 - [How to do proper tree-shaking in Webpack 2](https://blog.craftlab.hu/how-to-do-proper-tree-shaking-in-webpack-2-e27852af8b21) [webpack][tree shaking]
 - [Tree-shaking versus dead code elimination](https://medium.com/@Rich_Harris/tree-shaking-versus-dead-code-elimination-d3765df85c80)
