@@ -17,6 +17,7 @@
 
 
 ## CSS
+- [Fun places to learn CSS Layout –  Part 1: Flexbox](https://blog.stephaniewalter.fr/en/fun-places-learn-css-layout-part-1-flexbox/) [flex]
 - [flex-cheatsheet](http://yoksel.github.io/flex-cheatsheet/) [flex]
 - [CSS in JavaScript: The future of component-based styling](https://medium.freecodecamp.com/css-in-javascript-the-future-of-component-based-styling-70b161a79a32)
 - [High-level advice and guidelines for writing sane, manageable, scalable CSS](http://cssguidelin.es) [BEM]
