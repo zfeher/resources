@@ -144,6 +144,8 @@
 
 
 ## Functional Programming (FP)
+- [Functions as Functors](http://www.tomharding.me/2017/04/15/functions-as-functors/)
+- [Yippee Ki-Yay, All the Functors!](http://www.tomharding.me/2016/12/31/yippee-ki-yay-other-functors/)
 - [flat-map](https://martinfowler.com/articles/collection-pipeline/flat-map.html)
 - [Functional pattern: flatMap](http://2ality.com/2017/04/flatmap.html)
 - [THE MARVELLOUSLY MYSTERIOUS JAVASCRIPT MAYBE MONAD](http://jrsinclair.com/articles/2016/marvellously-mysterious-javascript-maybe-monad/)
