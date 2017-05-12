@@ -493,6 +493,7 @@
 
 
 ## Module loader/Module Bundler/Task Runner, CI, Build
+- [One build tool to rule them all—Blendid!](https://www.viget.com/articles/blendid)
 - [Prepack.io](https://prepack.io)
 - [MAY 02	Webpack: A simple loader](https://bocoup.com/blog/webpack-a-simple-loader) [webpack]
 - [How to do proper tree-shaking in Webpack 2](https://blog.craftlab.hu/how-to-do-proper-tree-shaking-in-webpack-2-e27852af8b21) [webpack][tree shaking]
@@ -510,6 +511,7 @@
 - [History and Background of JavaScript Module Loaders](https://appendto.com/2016/06/the-short-history-of-javascript-module-loaders/)
 
 ### Related Libs
+- [Blendid](https://github.com/vigetlabs/blendid)
 - [fly](https://github.com/flyjs/fly) [generator]
 - [Gulp](http://gulpjs.com) [stream]
 - [webpack-bundle-analyzer](https://github.com/th0r/webpack-bundle-analyzer)
