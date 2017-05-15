@@ -1,4 +1,5 @@
 ## General
+- [How To Interview Senior JavaScript Developers and Architects](https://www.logicroom.co/how-to-interview-senior-javascript-developers-and-architects/)
 - [Master the JavaScript Interview: What is a Promise?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261#.xz33ge28s)
 - [JS: Basics and Tricky Questions](https://medium.com/@Hollyzhou/js-basics-and-tricky-questions-33a88f80d4b4#.6j7ctzbf4)
 
