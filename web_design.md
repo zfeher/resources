@@ -85,3 +85,6 @@
 - [How to get the current cursor position (and selection) within a text input or textarea in Javascript](http://ourcodeworld.com/articles/read/282/how-to-get-the-current-cursor-position-and-selection-within-a-text-input-or-textarea-in-javascript) [html]
 - [15 JavaScript Methods For DOM Manipulation for Web Developers](http://www.hongkiat.com/blog/dom-manipulation-javascript-methods/)
 
+### Related
+- [W3C Validator](https://validator.w3.org)
+- [DirtyMarkup](https://dirtymarkup.com)
