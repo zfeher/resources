@@ -1,4 +1,5 @@
 ## Unsorted
+- [HTTP request timeouts in JavaScript](http://shuheikagawa.com/blog/2017/05/13/http-request-timeouts-in-javascript/)
 - [pkg](https://github.com/zeit/pkg)
 - [What Is RabbitMQ? What Does It Do For Me?](https://derickbailey.com/2016/10/12/what-is-rabbitmq-what-does-it-do-for-me/)
 

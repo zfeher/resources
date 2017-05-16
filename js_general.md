@@ -280,6 +280,7 @@
 
 
 ## Vue.js
+- [A modern way to do E2E testing for Vue.js apps](https://hackernoon.com/a-modern-way-to-do-e2e-testing-for-vue-js-apps-cebe0a07499c)
 - [Use Vue.js to create custom web components](http://vuetips.com/vue-web-components)
 - [Create a Desktop Quiz Application Using Vue.js and Electron](https://scotch.io/tutorials/create-a-desktop-quiz-application-using-vue-js-and-electron)
 - [How to Handle File Uploads in Vue 2](https://scotch.io/tutorials/how-to-handle-file-uploads-in-vue-2)
@@ -303,6 +304,7 @@
 - [Vue.js](https://vuejs.org)
 
 ### Related
+- [Nuxt](https://nuxtjs.org)
 - [vue-unit](https://github.com/wrseward/vue-unit)
 - [vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur) [vscode]
 - [Vue Components](https://marketplace.visualstudio.com/items?itemName=seanwash.vue) [vscode]
