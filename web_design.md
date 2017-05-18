@@ -17,6 +17,8 @@
 
 
 ## CSS
+- [css-protips](https://github.com/AllThingsSmitty/css-protips)
+- [The Beginner’s Guide to Learn Sass – Mastering Advanced Sass](https://blog.alexdevero.com/guide-learn-sass-mastering-advanced-sass/)
 - [Fun places to learn CSS Layout –  Part 1: Flexbox](https://blog.stephaniewalter.fr/en/fun-places-learn-css-layout-part-1-flexbox/) [flex]
 - [flex-cheatsheet](http://yoksel.github.io/flex-cheatsheet/) [flex]
 - [CSS in JavaScript: The future of component-based styling](https://medium.freecodecamp.com/css-in-javascript-the-future-of-component-based-styling-70b161a79a32)

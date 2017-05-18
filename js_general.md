@@ -55,6 +55,7 @@
 
 
 ## General
+- [Communicating Sequential Processes: an alternative to async generators](http://2ality.com/2017/03/csp-vs-async-generators.html) [CSP]
 - [Compile JavaScript? Really?](https://hackernoon.com/javascript-compilation-epoch-ebfb7b5bb664)
 - [The Definitive Guide to DateTime Manipulation](https://www.toptal.com/software/definitive-guide-to-datetime-manipulation)
 - [How To Check If Javascript Event Was Triggered By Human](https://solidfoundationwebdev.com/blog/posts/how-to-check-if-javascript-event-was-triggered-by-human)
@@ -78,6 +79,7 @@
 
 
 ## Performance
+- [Improving Performance with Cache-Control: Immutable](https://www.keycdn.com/blog/cache-control-immutable/)
 - [Performance Testing with the User Timing API](http://csskarma.com/blog/user-timing-api/)
 - [Asynchronous vs Deferred JavaScript](https://bitsofco.de/async-vs-defer/) [html][script][async][defer]
 - [How I wrote the world's fastest JavaScript memoization library](https://community.risingstack.com/the-worlds-fastest-javascript-memoization-library/)
@@ -514,6 +516,7 @@
 - [History and Background of JavaScript Module Loaders](https://appendto.com/2016/06/the-short-history-of-javascript-module-loaders/)
 
 ### Related Libs
+- [Butternut](https://butternut.now.sh)
 - [Blendid](https://github.com/vigetlabs/blendid)
 - [fly](https://github.com/flyjs/fly) [generator]
 - [Gulp](http://gulpjs.com) [stream]
