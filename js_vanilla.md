@@ -9,7 +9,7 @@
 - [ES proposal: Shared memory and atomics](http://www.2ality.com/2017/01/shared-array-buffer.html)
 - [Asyncing Feeling about JavaScript Generators](https://www.bignerdranch.com/blog/asyncing-feeling-about-javascript-generators/)
 - [ES proposal: import()](http://www.2ality.com/2017/01/import-operator.html)
-- [ES proposal: Rest/Spread Properties](http://www.2ality.com/2016/10/rest-spread-properties.html)
+- [ES proposal: Rest/Spread Przoperties](http://www.2ality.com/2016/10/rest-spread-properties.html)
 - Async/Await
   - [How to write async await without try-catch blocks in Javascript](http://blog.grossman.io/how-to-write-async-await-without-try-catch-blocks-in-javascript/)
   - [The 80/20 Guide to Async/Await in Node.js](http://thecodebarbarian.com/80-20-guide-to-async-await-in-node.js.html)
