@@ -3,6 +3,7 @@
 
 
 ## ES Proposals / Next
+- [ES proposal: Shared memory and atomics](http://2ality.com/2017/01/shared-array-buffer.html)
 - [What Does ES2017 Bring to JavaScript?](https://appendto.com/2017/04/what-does-es2017-bring-to-javascript/)
 - [Async iterators and generators](https://jakearchibald.com/2017/async-iterators-and-generators/)
 - [ES proposal: arbitrary precision integers](http://2ality.com/2017/03/es-integer.html)
