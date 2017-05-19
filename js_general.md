@@ -170,6 +170,7 @@
   - [S11 Foldable](http://www.tomharding.me/2017/05/01/fantas-eel-and-specification-11/)
   - [S12 Traversable](http://www.tomharding.me/2017/05/08/fantas-eel-and-specification-12/)
 - Composing Software (Eric Elliott)
+  - [An Introduction](https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea)
   - [The Rise and Fall and Rise of Functional Programming](https://medium.com/javascript-scene/the-rise-and-fall-and-rise-of-functional-programming-composable-software-c2d91b424c8c)
   - [Why Learn Functional Programming in JavaScript?](https://medium.com/javascript-scene/why-learn-functional-programming-in-javascript-composing-software-ea13afc7a257)
   - [A Functional Programmer’s Introduction to JavaScript](https://medium.com/javascript-scene/a-functional-programmers-introduction-to-javascript-composing-software-d670d14ede30)
@@ -306,6 +307,7 @@
 - [Vue.js](https://vuejs.org)
 
 ### Related
+- [VeeValidate](http://vee-validate.logaretm.com)
 - [Nuxt](https://nuxtjs.org)
 - [vue-unit](https://github.com/wrseward/vue-unit)
 - [vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur) [vscode]
