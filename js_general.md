@@ -518,6 +518,8 @@
 - [History and Background of JavaScript Module Loaders](https://appendto.com/2016/06/the-short-history-of-javascript-module-loaders/)
 
 ### Related Libs
+- [Source Map Explorer](https://github.com/danvk/source-map-explorer)
+- [Webpack Bundle Analyzer](https://github.com/th0r/webpack-bundle-analyzer)
 - [Butternut](https://butternut.now.sh)
 - [Blendid](https://github.com/vigetlabs/blendid)
 - [fly](https://github.com/flyjs/fly) [generator]
