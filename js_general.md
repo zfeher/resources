@@ -500,6 +500,10 @@
 
 
 ## Module loader/Module Bundler/Task Runner, CI, Build
+- [OPTIMIZING WEBPACK FOR FASTER REACT BUILDS](http://engineering.invisionapp.com/post/optimizing-webpack/) [webpack][dll]
+- [Building Vendor and Feature Bundles with webpack](http://odetocode.com/blogs/scott/archive/2016/12/01/building-vendor-and-feature-bundles-with-webpack.aspx) [webpack][dll]
+- [Webpack Plugins we been keepin on the DLL](https://medium.com/@soederpop/webpack-plugins-been-we-been-keepin-on-the-dll-cdfdd6cb8cd7) [webpack][dll]
+- [Optimizing Webpack build times and improving caching with DLL bundles](https://robertknight.github.io/posts/webpack-dll-plugins/) [webpack][dll]
 - [One build tool to rule them all—Blendid!](https://www.viget.com/articles/blendid)
 - [Prepack.io](https://prepack.io)
 - [MAY 02	Webpack: A simple loader](https://bocoup.com/blog/webpack-a-simple-loader) [webpack]
