@@ -500,6 +500,7 @@
 
 
 ## Module loader/Module Bundler/Task Runner, CI, Build
+- [Predictable long term caching with Webpack](https://medium.com/webpack/predictable-long-term-caching-with-webpack-d3eee1d3fa31)
 - [OPTIMIZING WEBPACK FOR FASTER REACT BUILDS](http://engineering.invisionapp.com/post/optimizing-webpack/) [webpack][dll]
 - [Building Vendor and Feature Bundles with webpack](http://odetocode.com/blogs/scott/archive/2016/12/01/building-vendor-and-feature-bundles-with-webpack.aspx) [webpack][dll]
 - [Webpack Plugins we been keepin on the DLL](https://medium.com/@soederpop/webpack-plugins-been-we-been-keepin-on-the-dll-cdfdd6cb8cd7) [webpack][dll]
