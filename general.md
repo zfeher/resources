@@ -19,6 +19,7 @@
 
 
 ## Git
+- [Little Things I Like to Do with Git](https://csswizardry.com/2017/05/little-things-i-like-to-do-with-git/)
 - [Conventional Commits](http://devboosts.com/2017/03/28/conventional-commits/)
 - [Getting solid at Git rebase vs. merge](https://medium.com/@porteneuve/getting-solid-at-git-rebase-vs-merge-4fa1a48c53aa#.rt1xsmaft)
 - [Git - When to Merge vs. When to Rebase](https://www.derekgourlay.com/blog/git-when-to-merge-vs-when-to-rebase/)
