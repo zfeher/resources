@@ -283,6 +283,7 @@
 
 
 ## Vue.js
+- [Announcing LogRocket for Vue.js](https://blog.logrocket.com/announcing-support-for-vue-js-and-vuex-e44e5856b1d7) [vuex][log]
 - [A modern way to do E2E testing for Vue.js apps](https://hackernoon.com/a-modern-way-to-do-e2e-testing-for-vue-js-apps-cebe0a07499c)
 - [Use Vue.js to create custom web components](http://vuetips.com/vue-web-components)
 - [Create a Desktop Quiz Application Using Vue.js and Electron](https://scotch.io/tutorials/create-a-desktop-quiz-application-using-vue-js-and-electron)
@@ -379,6 +380,7 @@
 - [10 Tips for Better Redux Architecture](https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44#.c92fz9hwb) [redux]
 
 ### Related Libs
+- [LogRocket](https://logrocket.com) [redux][vuex]
 - [Alt](http://alt.js.org)
 - [ngrx/store](https://github.com/ngrx/store) [angular]
 - [Redux](http://redux.js.org) [flux]
