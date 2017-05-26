@@ -21,6 +21,10 @@
 - [Eloquent JavaScript 2nd Edition](http://eloquentjavascript.net)
 
 
+## Video Courses
+- [Frontend Masters](https://frontendmasters.com/courses/) [legradi]
+
+
 ## Learning
 - [Keeping up with Front-end development](http://blog.grossman.io/keeping-up-with-front-end-development/)
 - [JavaScript The Right Way](http://jstherightway.org) [guide]
