@@ -114,6 +114,7 @@
 
 
 ## Accessibility
+- [9 tips to get bare minimum of web accessibility](https://medium.com/@realabhijeet4u/9-tips-to-get-bare-minimum-of-web-accessibility-739899a9437c)
 - [Writing JavaScript with accessibility in mind](https://medium.com/@matuzo/writing-javascript-with-accessibility-in-mind-a1f6a5f467b9#.36y0po90o)
 - [Accessibility Basics: Designing for Visual Impairment](https://webdesign.tutsplus.com/articles/accessibility-basics-designing-for-visual-impairment--cms-27634)
 
@@ -123,6 +124,7 @@
 
 
 ## Security / Payment
+- [Stop Paying for SSL Certificates](https://hackernoon.com/stop-paying-for-ssl-certificates-e6bc64754cd4) [ssl]
 - [Accept payments on your site with NextJS, Stripe, and Micro](https://hackernoon.com/accept-payments-on-your-site-with-nextjs-stripe-and-micro-371de95b22d5)
 - [A Guide to Security Best Practices for Remote Teams](https://www.toptal.com/remote/best-security-practices-for-remote-teams)
 - [How To Secure Your Web App With HTTP Headers](https://www.smashingmagazine.com/2017/04/secure-web-app-http-headers/)
@@ -243,6 +245,7 @@
 
 
 ## Typescript
+- [TypeScript 2.2: Mixin Classes](https://blog.mariusschulz.com/2017/05/26/typescript-2-2-mixin-classes)
 - [Tired of waiting for TypeScript compilation?](http://weblogs.thinktecture.com/thomas/2016/05/tired-of-waiting-for-typescript-compilation.html) [isolatedModules]
 - [TypeScript 2.2: Null-Checking for Expression Operands](https://blog.mariusschulz.com/2017/03/10/typescript-2-2-null-checking-for-expression-operands)
 - [TypeScript 2.2: Dotted Properties and String Index Signatures](https://blog.mariusschulz.com/2017/03/03/typescript-2-2-dotted-properties-and-string-index-signatures)
