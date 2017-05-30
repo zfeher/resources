@@ -235,7 +235,11 @@
 - [Rules For Structuring (Redux) Applications](http://jaysoo.ca/2016/02/28/organizing-redux-application/) [react] [redux] [structure]
 
 
-## Progressive Web Apps
+## Progressive Web Apps / PWA
+- [Progressive Web Apps](https://developers.google.com/web/progressive-web-apps/)
+- A progressive Web application with Vue JS, Webpack & Material Design:
+  [Part 1](https://blog.sicara.com/a-progressive-web-application-with-vue-js-webpack-material-design-part-1-c243e2e6e402)
+  [Part 2](https://medium.com/bam-tech/a-progressive-web-application-with-vue-js-webpack-material-design-part-2-a5f19e70e08b)
 - [Native Apps are Doomed](https://medium.com/javascript-scene/native-apps-are-doomed-ac397148a2c0)
 - [Learning Progressive Web App](https://github.com/ragingwind/learning-pwa)
 
@@ -452,6 +456,7 @@
 
 
 ## Testing
+- [The Outrageous Cost of Skipping TDD & Code Reviews](https://medium.com/javascript-scene/the-outrageous-cost-of-skipping-tdd-code-reviews-57887064c412)
 - [Testing Service Workers](https://medium.com/dev-channel/testing-service-workers-318d7b016b19)
 - [Getting Started with Headless Chrome](https://developers.google.com/web/updates/2017/04/headless-chrome) [headless]
 - [An Overview of JavaScript Testing in 2017](https://medium.com/powtoon-engineering/a-complete-guide-to-testing-javascript-in-2017-a217b4cd5a2a?imm_mid=0f12fb&cmp=em-web-na-na-newsltr_20170426)
