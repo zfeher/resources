@@ -17,6 +17,7 @@
 
 
 ## CSS
+- [30 of Our Favorite CSS Resources from This Year](https://speckyboy.com/favorite-css-resources/)
 - [css-protips](https://github.com/AllThingsSmitty/css-protips)
 - [The Beginner’s Guide to Learn Sass – Mastering Advanced Sass](https://blog.alexdevero.com/guide-learn-sass-mastering-advanced-sass/)
 - [Fun places to learn CSS Layout –  Part 1: Flexbox](https://blog.stephaniewalter.fr/en/fun-places-learn-css-layout-part-1-flexbox/) [flex]
