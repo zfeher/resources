@@ -6,6 +6,7 @@
 
 
 ## API
+- [The Ultimate Guide to API Design](https://blog.qmo.io/ultimate-guide-to-api-design/)
 - [Postman](https://www.getpostman.com) [api][test][documentation]
 
 

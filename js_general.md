@@ -391,6 +391,7 @@
 - [10 Tips for Better Redux Architecture](https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44#.c92fz9hwb) [redux]
 
 ### Related Libs
+- [store.js](https://github.com/marcuswestin/store.js)
 - [LogRocket](https://logrocket.com) [redux][vuex]
 - [Alt](http://alt.js.org)
 - [ngrx/store](https://github.com/ngrx/store) [angular]
