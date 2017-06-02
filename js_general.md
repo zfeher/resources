@@ -515,6 +515,7 @@
 
 
 ## Module loader/Module Bundler/Task Runner, CI, Build
+- [Delivering untranspiled source code via npm](http://2ality.com/2017/06/pkg-esnext.html)
 - [Predictable long term caching with Webpack](https://medium.com/webpack/predictable-long-term-caching-with-webpack-d3eee1d3fa31)
 - [OPTIMIZING WEBPACK FOR FASTER REACT BUILDS](http://engineering.invisionapp.com/post/optimizing-webpack/) [webpack][dll]
 - [Building Vendor and Feature Bundles with webpack](http://odetocode.com/blogs/scott/archive/2016/12/01/building-vendor-and-feature-bundles-with-webpack.aspx) [webpack][dll]
