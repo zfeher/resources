@@ -249,6 +249,7 @@
 
 
 ## Typescript
+- [TypeScript 2.3: Generic Parameter Defaults](https://blog.mariusschulz.com/2017/06/02/typescript-2-3-generic-parameter-defaults)
 - [TypeScript 2.2: Mixin Classes](https://blog.mariusschulz.com/2017/05/26/typescript-2-2-mixin-classes)
 - [Tired of waiting for TypeScript compilation?](http://weblogs.thinktecture.com/thomas/2016/05/tired-of-waiting-for-typescript-compilation.html) [isolatedModules]
 - [TypeScript 2.2: Null-Checking for Expression Operands](https://blog.mariusschulz.com/2017/03/10/typescript-2-2-null-checking-for-expression-operands)
