@@ -17,6 +17,7 @@
 
 
 ## CSS
+- [Masking vs. Clipping: When to Use Each](https://css-tricks.com/masking-vs-clipping-use/)
 - [30 of Our Favorite CSS Resources from This Year](https://speckyboy.com/favorite-css-resources/)
 - [css-protips](https://github.com/AllThingsSmitty/css-protips)
 - [The Beginner’s Guide to Learn Sass – Mastering Advanced Sass](https://blog.alexdevero.com/guide-learn-sass-mastering-advanced-sass/)
