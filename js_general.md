@@ -26,6 +26,7 @@
 
 
 ## Learning
+- [spellbook-of-modern-webdev](https://github.com/dexteryy/spellbook-of-modern-webdev)
 - [Keeping up with Front-end development](http://blog.grossman.io/keeping-up-with-front-end-development/)
 - [JavaScript The Right Way](http://jstherightway.org) [guide]
 - [11 JavaScript Blogs to Follow in 2017](http://blog.mdnbar.com/blogs-to-follow-to-learn-javascript)
