@@ -10,6 +10,10 @@
 - [Itsy Bitsy Data Structures](https://github.com/thejameskyle/itsy-bitsy-data-structures?utm_source=ESnextNews.com&utm_medium=Weekly+Newsletter&utm_campaign=2017-02-28)
 
 
+## Management
+- [Three Goals for Effective Backlog Management](https://spin.atomicobject.com/2017/06/14/effective-backlog-management-goals/)
+
+
 ## Books
 - [DevFreeBooks](https://devfreebooks.github.io)
 

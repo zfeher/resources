@@ -17,6 +17,7 @@
 
 
 ## CSS
+- [BEM by Example](https://seesparkbox.com/foundry/bem_by_example)
 - [Masking vs. Clipping: When to Use Each](https://css-tricks.com/masking-vs-clipping-use/)
 - [30 of Our Favorite CSS Resources from This Year](https://speckyboy.com/favorite-css-resources/)
 - [css-protips](https://github.com/AllThingsSmitty/css-protips)
