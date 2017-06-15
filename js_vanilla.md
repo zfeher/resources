@@ -32,6 +32,10 @@
 - [ECMAScript modules in browsers](https://jakearchibald.com/2017/es-modules-in-browsers/)
 
 
+## Decorators
+- [JavaScript Decorators: What They Are and When to Use Them](https://www.sitepoint.com/javascript-decorators-what-they-are/)
+
+
 ## Polyfills/Shims/Transpilers
 
 ### Notes
