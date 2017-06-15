@@ -1,4 +1,5 @@
 ## Unsorted
+- [Codesandbox](https://codesandbox.io)
 - [Marko](http://markojs.com)
 - [Svelte](https://svelte.technology)
 - [inferno](https://github.com/trueadm/inferno)[react][component][lib]
@@ -75,6 +76,7 @@
 - [Web Developer Checklist](http://webdevchecklist.com)
 
 ### Related libs
+- [js-joda](https://github.com/js-joda/js-joda?utm_source=ESnextNews.com&utm_medium=Weekly+Newsletter&utm_campaign=2017-06-13)
 - [Collections.js](http://www.collectionsjs.com)
 - [Moment.js](https://momentjs.com)
 
@@ -84,6 +86,7 @@
 
 
 ## Performance
+- [JS Mythbusters](https://mythbusters.js.org/#/)
 - [Improving Performance with Cache-Control: Immutable](https://www.keycdn.com/blog/cache-control-immutable/)
 - [Performance Testing with the User Timing API](http://csskarma.com/blog/user-timing-api/)
 - [Asynchronous vs Deferred JavaScript](https://bitsofco.de/async-vs-defer/) [html][script][async][defer]
@@ -184,6 +187,7 @@
   - [Higher Order Functions](https://medium.com/javascript-scene/higher-order-functions-composing-software-5365cf2cbe99)
   - [Reduce](https://medium.com/javascript-scene/reduce-composing-software-fe22f0c39a1d#.sd2hrgjrg)
   - [Functors & Categories](https://medium.com/javascript-scene/functors-categories-61e031bac53f)
+  - [Functional Mixins](https://medium.com/javascript-scene/functional-mixins-composing-software-ffb66d5e731c)
 - [Thinking in Ramda](http://randycoulman.com/blog/categories/thinking-in-ramda/)
 - [Safely Accessing Deeply Nested Values In JavaScript](https://medium.com/javascript-inside/safely-accessing-deeply-nested-values-in-javascript-99bf72a0855a#.bpkwuriq1) [ramda][folktale]
 - [Casual functional adventures in JavaScript]()
