@@ -101,6 +101,7 @@
 
 
 ## Machine Learning
+- [Machine Learning with JavaScript : Part 1](https://hackernoon.com/machine-learning-with-javascript-part-1-9b97f3ed4fe5)
 - [10 Machine Learning Examples in JavaScript](http://tutorialzine.com/2017/04/10-machine-learning-examples-in-javascript/)
 
 
@@ -254,6 +255,7 @@
 
 
 ## Typescript
+- [TypeScript 2.3: Type-Checking JavaScript Files with --checkJs](https://blog.mariusschulz.com/2017/06/16/typescript-2-3-type-checking-javascript-files-with-checkjs)
 - [TypeScript 2.3: The --strict Compiler Option](https://blog.mariusschulz.com/2017/06/09/typescript-2-3-the-strict-compiler-option)
 - [TypeScript 2.3: Generic Parameter Defaults](https://blog.mariusschulz.com/2017/06/02/typescript-2-3-generic-parameter-defaults)
 - [TypeScript 2.2: Mixin Classes](https://blog.mariusschulz.com/2017/05/26/typescript-2-2-mixin-classes)
