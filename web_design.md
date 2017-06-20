@@ -17,6 +17,7 @@
 
 
 ## CSS
+- [Using CSS variables correctly](https://madebymike.com.au/writing/using-css-variables/)
 - [The State of CSS](http://ryanogles.by/css/javascript/2017/05/25/the-state-of-css.html)
 - [An Introduction to PostCSS](https://www.sitepoint.com/an-introduction-to-postcss/)
 - [BEM by Example](https://seesparkbox.com/foundry/bem_by_example)
