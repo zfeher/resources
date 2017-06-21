@@ -86,6 +86,7 @@
 
 
 ## Performance
+- [Basics of Front-End Performance Tuning](https://www.codementor.io/tom76kimo/basics-of-front-end-performance-tuning-98z0f5gmm)
 - [JS Mythbusters](https://mythbusters.js.org/#/)
 - [Improving Performance with Cache-Control: Immutable](https://www.keycdn.com/blog/cache-control-immutable/)
 - [Performance Testing with the User Timing API](http://csskarma.com/blog/user-timing-api/)
@@ -358,6 +359,7 @@
 
 
 ## React
+- [Functional setState is the future of React](https://medium.freecodecamp.com/functional-setstate-is-the-future-of-react-374f30401b6b)
 - [How to Organize a Large React Application and Make It Scale](https://www.sitepoint.com/organize-large-react-application/)
 - [Best UI Frameworks for your new React.js App.](https://hackernoon.com/the-coolest-react-ui-frameworks-for-your-new-react-app-ad699fffd651)
 - [Simple React Development in 2017](https://hackernoon.com/simple-react-development-in-2017-113bd563691f)
