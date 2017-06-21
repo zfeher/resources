@@ -12,6 +12,7 @@
 
 
 ## UX
+- [5 WAYS TO START WORKING WITH UX TODAY](http://www.developerdrive.com/2017/06/5-ways-to-start-working-with-ux-today/)
 - [The Difference Between Customization and Personalization](http://babich.biz/the-difference-between-customization-and-personalization/)
 - [12 UX rules every designer should know](http://www.webdesignerdepot.com/2016/12/26-ux-rules-every-designer-should-know/)
 

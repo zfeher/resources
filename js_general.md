@@ -304,6 +304,7 @@
 
 
 ## Vue.js
+- [4 Ways To Boost Your Vue.js App With Webpack](http://vuejsdevelopers.com/2017/06/18/vue-js-boost-your-app-with-webpack/)
 - [Announcing LogRocket for Vue.js](https://blog.logrocket.com/announcing-support-for-vue-js-and-vuex-e44e5856b1d7) [vuex][log]
 - [A modern way to do E2E testing for Vue.js apps](https://hackernoon.com/a-modern-way-to-do-e2e-testing-for-vue-js-apps-cebe0a07499c)
 - [Use Vue.js to create custom web components](http://vuetips.com/vue-web-components)
