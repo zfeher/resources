@@ -86,6 +86,7 @@
 
 
 ## Performance
+- [14 Important Website Performance Metrics You Should Be Analyzing](https://www.keycdn.com/blog/website-performance-metrics/)
 - [Basics of Front-End Performance Tuning](https://www.codementor.io/tom76kimo/basics-of-front-end-performance-tuning-98z0f5gmm)
 - [JS Mythbusters](https://mythbusters.js.org/#/)
 - [Improving Performance with Cache-Control: Immutable](https://www.keycdn.com/blog/cache-control-immutable/)
@@ -305,6 +306,7 @@
 
 
 ## Vue.js
+- [Integrating RxJS with Vue.js](https://alligator.io/vuejs/using-rxjs/)
 - [4 Ways To Boost Your Vue.js App With Webpack](http://vuejsdevelopers.com/2017/06/18/vue-js-boost-your-app-with-webpack/)
 - [Announcing LogRocket for Vue.js](https://blog.logrocket.com/announcing-support-for-vue-js-and-vuex-e44e5856b1d7) [vuex][log]
 - [A modern way to do E2E testing for Vue.js apps](https://hackernoon.com/a-modern-way-to-do-e2e-testing-for-vue-js-apps-cebe0a07499c)
@@ -331,6 +333,7 @@
 - [Vue.js](https://vuejs.org)
 
 ### Related
+- [vue-rx](https://github.com/vuejs/vue-rx)
 - [VeeValidate](http://vee-validate.logaretm.com)
 - [Nuxt](https://nuxtjs.org)
 - [vue-unit](https://github.com/wrseward/vue-unit)
@@ -387,6 +390,7 @@
 
 
 ## State Management
+- [Angular Service Layers](http://blog.angular-university.io/angular-2-redux-ngrx-rxjs/)
 - [3 Things I Learned About Working with Data in Redux](https://dev.bleacherreport.com/3-things-i-learned-about-working-with-data-in-redux-5fa0d5f89c8b#.ktn8ipljz) [redux]
 - [How to use Redux on highly scalable javascript applications?](https://medium.com/@alexmngn/how-to-use-redux-on-highly-scalable-javascript-applications-4e4b8cb5ef38#.54xhu0dtk) [redux]
 - [Practical Redux](http://blog.isquaredsoftware.com/2016/10/practical-redux-part-0-introduction/) [redux]
