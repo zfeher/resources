@@ -104,7 +104,9 @@
 
 
 ## Machine Learning
-- [Machine Learning with JavaScript : Part 1](https://hackernoon.com/machine-learning-with-javascript-part-1-9b97f3ed4fe5)
+- Machine Learning with JavaScript
+  - [part 1](https://hackernoon.com/machine-learning-with-javascript-part-1-9b97f3ed4fe5)
+  - [part 2](https://hackernoon.com/machine-learning-with-javascript-part-2-da994c17d483)
 - [10 Machine Learning Examples in JavaScript](http://tutorialzine.com/2017/04/10-machine-learning-examples-in-javascript/)
 
 
