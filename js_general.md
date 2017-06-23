@@ -61,6 +61,7 @@
 
 
 ## General
+- [Refactor Code in Your Lunch Break: Getting Started with Codemods](https://www.sitepoint.com/getting-started-with-codemods/)
 - [Communicating Sequential Processes: an alternative to async generators](http://2ality.com/2017/03/csp-vs-async-generators.html) [CSP]
 - [Compile JavaScript? Really?](https://hackernoon.com/javascript-compilation-epoch-ebfb7b5bb664)
 - [The Definitive Guide to DateTime Manipulation](https://www.toptal.com/software/definitive-guide-to-datetime-manipulation)
@@ -362,6 +363,7 @@
 
 
 ## React
+- [A deep dive into children in React](https://mxstbr.blog/2017/02/react-children-deepdive/)
 - [Functional setState is the future of React](https://medium.freecodecamp.com/functional-setstate-is-the-future-of-react-374f30401b6b)
 - [How to Organize a Large React Application and Make It Scale](https://www.sitepoint.com/organize-large-react-application/)
 - [Best UI Frameworks for your new React.js App.](https://hackernoon.com/the-coolest-react-ui-frameworks-for-your-new-react-app-ad699fffd651)
