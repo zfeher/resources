@@ -22,6 +22,10 @@
 - [Eloquent JavaScript 2nd Edition](http://eloquentjavascript.net)
 
 
+## Conference Videos
+- [Curry On!](https://www.youtube.com/channel/UC-WICcSW1k3HsScuXxDrp0w)
+
+
 ## Video Courses
 - [Frontend Masters](https://frontendmasters.com/courses/) [legradi]
 
