@@ -390,6 +390,8 @@
 - [Building D3 Components with React](https://medium.com/@_alanbsmith/building-d3-components-with-react-7510e4743288#.4qf99mp5d)
 
 ### Related
+- [styled-components](https://github.com/styled-components/styled-components)
+- [react-primitives](https://github.com/lelandrichardson/react-primitives)
 - [Ducks](https://github.com/erikras/ducks-modular-redux)
 - [nwb](https://github.com/insin/nwb)
 - [Recompose](https://github.com/acdlite/recompose/)
