@@ -166,6 +166,12 @@
 - [Immutable JS](http://facebook.github.io/immutable-js/)
 
 
+## Elm
+- Introduction Into Elm
+  - [part 1](https://medium.com/javascript-inside/introduction-into-elm-77512c6c0baf)
+  - [part 2](https://medium.com/javascript-inside/introduction-into-elm-67a422911ae5)
+
+
 ## Functional Programming (FP)
 - [Functions as Functors](http://www.tomharding.me/2017/04/15/functions-as-functors/)
 - [Yippee Ki-Yay, All the Functors!](http://www.tomharding.me/2016/12/31/yippee-ki-yay-other-functors/)
