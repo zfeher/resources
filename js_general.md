@@ -369,6 +369,7 @@
 
 
 ## React
+- [Redux Architecture Guidelines](http://joeellis.la/redux-architecture/)
 - [A deep dive into children in React](https://mxstbr.blog/2017/02/react-children-deepdive/)
 - [Functional setState is the future of React](https://medium.freecodecamp.com/functional-setstate-is-the-future-of-react-374f30401b6b)
 - [How to Organize a Large React Application and Make It Scale](https://www.sitepoint.com/organize-large-react-application/)
