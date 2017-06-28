@@ -378,7 +378,6 @@
 
 
 ## React
-- [Redux Architecture Guidelines](http://joeellis.la/redux-architecture/)
 - [Using Functions as Children and Render Props in React Components](https://codedaily.io/tutorials/6/Using-Functions-as-Children-and-Render-Props-in-React-Components)
 - [A deep dive into children in React](https://mxstbr.blog/2017/02/react-children-deepdive/)
 - [Functional setState is the future of React](https://medium.freecodecamp.com/functional-setstate-is-the-future-of-react-374f30401b6b)
@@ -411,6 +410,8 @@
 
 
 ## State Management
+- [Redux Architecture Guidelines](http://joeellis.la/redux-architecture/)
+- [Five Tips for Working with Redux in Large Applications](https://techblog.appnexus.com/five-tips-for-working-with-redux-in-large-applications-89452af4fdcb)
 - [Angular Service Layers](http://blog.angular-university.io/angular-2-redux-ngrx-rxjs/)
 - [3 Things I Learned About Working with Data in Redux](https://dev.bleacherreport.com/3-things-i-learned-about-working-with-data-in-redux-5fa0d5f89c8b#.ktn8ipljz) [redux]
 - [How to use Redux on highly scalable javascript applications?](https://medium.com/@alexmngn/how-to-use-redux-on-highly-scalable-javascript-applications-4e4b8cb5ef38#.54xhu0dtk) [redux]
