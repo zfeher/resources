@@ -235,6 +235,7 @@
 - [On The Subject Of Subjects (in RxJS)](https://medium.com/@benlesh/on-the-subject-of-subjects-in-rxjs-2b08b7198b93#.emvh3ijjd)
 
 ### Related libs
+- [redux-observable](https://github.com/redux-observable/redux-observable)
 - [xstream](https://github.com/staltz/xstream)
 
 
