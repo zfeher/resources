@@ -279,6 +279,8 @@
 - [TypeScript 2.2: Null-Checking for Expression Operands](https://blog.mariusschulz.com/2017/03/10/typescript-2-2-null-checking-for-expression-operands)
 - [TypeScript 2.2: Dotted Properties and String Index Signatures](https://blog.mariusschulz.com/2017/03/03/typescript-2-2-dotted-properties-and-string-index-signatures)
 - [TypeScript 2.2: The object Type](https://blog.mariusschulz.com/2017/02/24/typescript-2-2-the-object-type)
+- [TypeScript 2.1: Improved Inference for Literal Types](https://blog.mariusschulz.com/2017/01/27/typescript-2-1-improved-inference-for-literal-types)
+- [TypeScript 2.1: Literal Type Widening](https://blog.mariusschulz.com/2017/02/04/typescript-2-1-literal-type-widening)
 - [TypeScript 2.1: Untyped Imports](https://blog.mariusschulz.com/2017/02/17/typescript-2-1-untyped-imports)
 - [TypeScript 2.1: Mapped Types](https://blog.mariusschulz.com/2017/01/20/typescript-2-1-mapped-types)
 - [TypeScript 2.1: External Helpers Library](https://blog.mariusschulz.com/2016/12/16/typescript-2-1-external-helpers-library)
@@ -376,6 +378,7 @@
 
 ## React
 - [Redux Architecture Guidelines](http://joeellis.la/redux-architecture/)
+- [Using Functions as Children and Render Props in React Components](https://codedaily.io/tutorials/6/Using-Functions-as-Children-and-Render-Props-in-React-Components)
 - [A deep dive into children in React](https://mxstbr.blog/2017/02/react-children-deepdive/)
 - [Functional setState is the future of React](https://medium.freecodecamp.com/functional-setstate-is-the-future-of-react-374f30401b6b)
 - [How to Organize a Large React Application and Make It Scale](https://www.sitepoint.com/organize-large-react-application/)
@@ -483,6 +486,10 @@
 ### Related Libs
 - [mo.js](http://mojs.io)
 - [Web Animations API](https://github.com/web-animations/web-animations-js)
+
+
+## Service Workers
+- [Service Worker gotchas](https://labs.kollegorna.se/blog/2017/06/service-worker-gotchas/)
 
 
 ## Charts
