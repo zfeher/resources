@@ -349,6 +349,7 @@
 - [Vue.js](https://vuejs.org)
 
 ### Related
+- [iview](https://www.iviewui.com)
 - [vue-rx](https://github.com/vuejs/vue-rx)
 - [VeeValidate](http://vee-validate.logaretm.com)
 - [Nuxt](https://nuxtjs.org)
@@ -378,6 +379,7 @@
 
 
 ## React
+- [Writing Clean and Concise React Components by Making Full Use of ES6/7 Features and the Container-Component Pattern](https://medium.com/@jahans3/writing-clean-and-concise-react-components-by-making-full-use-of-es6-7-features-and-the-container-4ba0473b7b01)
 - [Using Functions as Children and Render Props in React Components](https://codedaily.io/tutorials/6/Using-Functions-as-Children-and-Render-Props-in-React-Components)
 - [A deep dive into children in React](https://mxstbr.blog/2017/02/react-children-deepdive/)
 - [Functional setState is the future of React](https://medium.freecodecamp.com/functional-setstate-is-the-future-of-react-374f30401b6b)
