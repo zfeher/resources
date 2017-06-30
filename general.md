@@ -55,6 +55,7 @@
 - [Distributed Git - Contributing to a Project](https://git-scm.com/book/en/v2/Distributed-Git-Contributing-to-a-Project)
 - [Distributed Git - Maintaining a Project](https://git-scm.com/book/en/v2/Distributed-Git-Maintaining-a-Project)
 - Some commands
+  - `git checkout -` will checkout the previous branch (shorthand for `git checkout @{-1}`)
   - `git rebase master --autostash` will stash and reapply stashed stuff after rebase
   - `git fetch origin --prune` fetches origin end cleans up a bit, removes deleted remote branches but not the checked out ones
   - `git config --global pull.rebase preserve` set pull to use rebase with preserve merges option

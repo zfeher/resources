@@ -235,8 +235,9 @@
 - [On The Subject Of Subjects (in RxJS)](https://medium.com/@benlesh/on-the-subject-of-subjects-in-rxjs-2b08b7198b93#.emvh3ijjd)
 
 ### Related libs
+- [most](https://github.com/cujojs/most)
 - [redux-observable](https://github.com/redux-observable/redux-observable)
-- [xstream](https://github.com/staltz/xstream)
+- [xstream](https://staltz.com/xstream/)
 
 
 ## CSP/Processes/Channels/Transducers
@@ -259,6 +260,7 @@
 
 
 ## Progressive Web Apps / PWA
+- [Using Google Lighthouse To Enhance Progressive Web Apps](https://www.keycdn.com/blog/google-lighthouse/)
 - [Progressive Web Apps](https://developers.google.com/web/progressive-web-apps/)
 - A progressive Web application with Vue JS, Webpack & Material Design:
   [Part 1](https://blog.sicara.com/a-progressive-web-application-with-vue-js-webpack-material-design-part-1-c243e2e6e402)
