@@ -586,6 +586,7 @@
 - [History and Background of JavaScript Module Loaders](https://appendto.com/2016/06/the-short-history-of-javascript-module-loaders/)
 
 ### Related Libs
+- [autodll-webpack-plugin](https://github.com/asfktz/autodll-webpack-plugin)
 - [Getlibs](http://getlibs.com)
 - [Fusebox](http://fuse-box.org)
 - [Source Map Explorer](https://github.com/danvk/source-map-explorer)
