@@ -65,6 +65,7 @@
 
 
 ## General
+- [6 Tips and Best Practices for Great Mobile Design](https://blog.alexdevero.com/tips-best-practices-great-mobile-design/)
 - [Refactor Code in Your Lunch Break: Getting Started with Codemods](https://www.sitepoint.com/getting-started-with-codemods/)
 - [Communicating Sequential Processes: an alternative to async generators](http://2ality.com/2017/03/csp-vs-async-generators.html) [CSP]
 - [Compile JavaScript? Really?](https://hackernoon.com/javascript-compilation-epoch-ebfb7b5bb664)
@@ -241,12 +242,14 @@
 
 
 ## CSP/Processes/Channels/Transducers
+- [Understanding Transducers in JavaScript](https://medium.com/@roman01la/understanding-transducers-in-javascript-3500d3bd9624)
 - [Introduction into Channels and Transducers in JavaScript](https://medium.com/javascript-inside/introduction-into-channels-and-transducers-in-javascript-a1dfd0a09268#.nlio69t20) [transducer]
 - [Generators and Channels in JavaScript](https://medium.com/javascript-inside/generators-and-channels-in-javascript-594f2cf9c16e#.v2nj7s1fs) [generator][promise][react]
 - [Taming the Asynchronous Beast with CSP Channels in JavaScript](http://jlongster.com/Taming-the-Asynchronous-Beast-with-CSP-in-JavaScript)
 - [Communicating Sequential Processes](http://swannodette.github.io/2013/07/12/communicating-sequential-processes)
 
 ### Related Libs
+- [transducers-js](https://github.com/cognitect-labs/transducers-js)
 - [transducers.js](https://github.com/jlongster/transducers.js)
 - [js-csp](https://github.com/ubolonton/js-csp)
 
@@ -274,6 +277,7 @@
 
 
 ## Typescript
+- [TypeScript 2.3: Downlevel Iteration for ES3/ES5](https://blog.mariusschulz.com/2017/06/30/typescript-2-3-downlevel-iteration-for-es3-es5)
 - [TypeScript 2.3: Type-Checking JavaScript Files with --checkJs](https://blog.mariusschulz.com/2017/06/16/typescript-2-3-type-checking-javascript-files-with-checkjs)
 - [TypeScript 2.3: The --strict Compiler Option](https://blog.mariusschulz.com/2017/06/09/typescript-2-3-the-strict-compiler-option)
 - [TypeScript 2.3: Generic Parameter Defaults](https://blog.mariusschulz.com/2017/06/02/typescript-2-3-generic-parameter-defaults)
@@ -381,6 +385,7 @@
 
 
 ## React
+- [Async operations in React Redux applications](https://codebrahma.com/structuring-async-operations-react-redux-applications/)
 - [Writing Clean and Concise React Components by Making Full Use of ES6/7 Features and the Container-Component Pattern](https://medium.com/@jahans3/writing-clean-and-concise-react-components-by-making-full-use-of-es6-7-features-and-the-container-4ba0473b7b01)
 - [Using Functions as Children and Render Props in React Components](https://codedaily.io/tutorials/6/Using-Functions-as-Children-and-Render-Props-in-React-Components)
 - [A deep dive into children in React](https://mxstbr.blog/2017/02/react-children-deepdive/)
@@ -504,6 +509,7 @@
 
 
 ## Testing
+- [Automated testing with Headless Chrome](https://developers.google.com/web/updates/2017/06/headless-karma-mocha-chai)
 - [The Outrageous Cost of Skipping TDD & Code Reviews](https://medium.com/javascript-scene/the-outrageous-cost-of-skipping-tdd-code-reviews-57887064c412)
 - [Testing Service Workers](https://medium.com/dev-channel/testing-service-workers-318d7b016b19)
 - [Getting Started with Headless Chrome](https://developers.google.com/web/updates/2017/04/headless-chrome) [headless]
