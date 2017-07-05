@@ -65,6 +65,7 @@
 
 
 ## General
+- [How to retrieve images from the clipboard with JavaScript in the Browser](http://ourcodeworld.com/articles/read/491/how-to-retrieve-images-from-the-clipboard-with-javascript-in-the-browser)
 - [6 Tips and Best Practices for Great Mobile Design](https://blog.alexdevero.com/tips-best-practices-great-mobile-design/)
 - [Refactor Code in Your Lunch Break: Getting Started with Codemods](https://www.sitepoint.com/getting-started-with-codemods/)
 - [Communicating Sequential Processes: an alternative to async generators](http://2ality.com/2017/03/csp-vs-async-generators.html) [CSP]
@@ -85,6 +86,10 @@
 - [js-joda](https://github.com/js-joda/js-joda?utm_source=ESnextNews.com&utm_medium=Weekly+Newsletter&utm_campaign=2017-06-13)
 - [Collections.js](http://www.collectionsjs.com)
 - [Moment.js](https://momentjs.com)
+
+
+## Analytics
+- [The Google Analytics Setup I Use on Every Site I Build](https://philipwalton.com/articles/the-google-analytics-setup-i-use-on-every-site-i-build/?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=revue)
 
 
 ## SEO, Search Engine Optimization
@@ -139,6 +144,7 @@
 
 
 ## Security / Payment
+- [How to Get Started with Your Website Content Security Policy](https://www.sitepoint.com/content-security-policy-getting-started/)
 - [Stop Paying for SSL Certificates](https://hackernoon.com/stop-paying-for-ssl-certificates-e6bc64754cd4) [ssl]
 - [Accept payments on your site with NextJS, Stripe, and Micro](https://hackernoon.com/accept-payments-on-your-site-with-nextjs-stripe-and-micro-371de95b22d5)
 - [A Guide to Security Best Practices for Remote Teams](https://www.toptal.com/remote/best-security-practices-for-remote-teams)
