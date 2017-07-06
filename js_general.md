@@ -92,11 +92,19 @@
 - [The Google Analytics Setup I Use on Every Site I Build](https://philipwalton.com/articles/the-google-analytics-setup-i-use-on-every-site-i-build/?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=revue)
 
 
+## Date/time
+- [Introduction to date-fns – a Lightweight JavaScript Date Library](https://www.sitepoint.com/date-fns-javascript-date-library/)
+
+### Related
+- [date-fns](https://date-fns.org)
+
+
 ## SEO, Search Engine Optimization
 - [A Practical Guide to Search Engine Optimization (SEO) with Google](https://www.taniarascia.com/a-practical-guide-to-search-engine-optimization-seo-with-google/)
 
 
 ## Performance
+- [Improving App Startup Time on Android with Webpack + V8 Heap Snapshot](https://www.nativescript.org/blog/improving-app-startup-time-on-android-with-webpack-v8-heap-snapshot)
 - [14 Important Website Performance Metrics You Should Be Analyzing](https://www.keycdn.com/blog/website-performance-metrics/)
 - [Basics of Front-End Performance Tuning](https://www.codementor.io/tom76kimo/basics-of-front-end-performance-tuning-98z0f5gmm)
 - [JS Mythbusters](https://mythbusters.js.org/#/)
@@ -174,6 +182,11 @@
 
 
 ## Elm
+- James Kolce
+  - [Why Elm? (And How To Get Started With It)](https://css-tricks.com/elm-get-started/)
+  - [Introduction to The Elm Architecture and How to Build our First Application](https://css-tricks.com/introduction-elm-architecture-build-first-application/)
+  - [The Structure of an Elm Application](https://css-tricks.com/structure-elm-application/)
+
 - Introduction Into Elm
   - [part 1](https://medium.com/javascript-inside/introduction-into-elm-77512c6c0baf)
   - [part 2](https://medium.com/javascript-inside/introduction-into-elm-67a422911ae5)
