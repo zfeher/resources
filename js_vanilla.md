@@ -11,14 +11,6 @@
 - [Asyncing Feeling about JavaScript Generators](https://www.bignerdranch.com/blog/asyncing-feeling-about-javascript-generators/)
 - [ES proposal: import()](http://www.2ality.com/2017/01/import-operator.html)
 - [ES proposal: Rest/Spread Przoperties](http://www.2ality.com/2016/10/rest-spread-properties.html)
-- Async/Await
-  - [Mastering Async Await in Node.js](https://blog.risingstack.com/mastering-async-await-in-nodejs/)
-  - [How to write async await without try-catch blocks in Javascript](http://blog.grossman.io/how-to-write-async-await-without-try-catch-blocks-in-javascript/)
-  - [The 80/20 Guide to Async/Await in Node.js](http://thecodebarbarian.com/80-20-guide-to-async-await-in-node.js.html)
-  - [Tips for using async functions (ES2017)](http://www.2ality.com/2016/10/async-function-tips.html)
-  - [Async functions - making promises friendly](https://developers.google.com/web/fundamentals/getting-started/primers/async-functions)
-  - [ES7 async functions](https://jakearchibald.com/2014/es7-async-functions/)
-  - [Async Functions Proposal](https://tc39.github.io/ecmascript-asyncawait/)
 - [ES proposal: asynchronous iteration](http://www.2ality.com/2016/10/asynchronous-iteration.html)
 
 ### Related Libs
@@ -31,6 +23,19 @@
 
 ## Modules
 - [ECMAScript modules in browsers](https://jakearchibald.com/2017/es-modules-in-browsers/)
+
+
+## Async/Await
+- [Mastering Async Await in Node.js](https://blog.risingstack.com/mastering-async-await-in-nodejs/)
+- [How to write async await without try-catch blocks in Javascript](http://blog.grossman.io/how-to-write-async-await-without-try-catch-blocks-in-javascript/)
+- [The 80/20 Guide to Async/Await in Node.js](http://thecodebarbarian.com/80-20-guide-to-async-await-in-node.js.html)
+- [Tips for using async functions (ES2017)](http://www.2ality.com/2016/10/async-function-tips.html)
+- [Async functions - making promises friendly](https://developers.google.com/web/fundamentals/getting-started/primers/async-functions)
+- [ES7 async functions](https://jakearchibald.com/2014/es7-async-functions/)
+- [Async Functions Proposal](https://tc39.github.io/ecmascript-asyncawait/)
+
+### Related
+- [asyncro](https://github.com/developit/asyncro)
 
 
 ## Decorators
