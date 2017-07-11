@@ -568,6 +568,7 @@
 
 
 ## Package/Dependency Management
+- [Introducing npx: an npm package runner](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b)
 - [Why should we use pnpm?](https://www.kochan.io/nodejs/why-should-we-use-pnpm.html)
 - [Offline installation of npm packages](https://addyosmani.com/blog/using-npm-offline/) [npm]
 - [https://medium.com/@jacob.h.page/common-npm-mistakes-51bf8989079f#.9nhzzq697](https://medium.com/@jacob.h.page/common-npm-mistakes-51bf8989079f#.9nhzzq697)
