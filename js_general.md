@@ -82,7 +82,8 @@
 - [Native JavaScript Development after Internet Explorer](https://www.sitepoint.com/native-javascript-development-after-internet-explorer/)
 - [Web Developer Checklist](http://webdevchecklist.com)
 
-### Related libs
+### Related
+- [RealWorld](https://github.com/gothinkster/realworld)
 - [js-joda](https://github.com/js-joda/js-joda?utm_source=ESnextNews.com&utm_medium=Weekly+Newsletter&utm_campaign=2017-06-13)
 - [Collections.js](http://www.collectionsjs.com)
 - [Moment.js](https://momentjs.com)
