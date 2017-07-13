@@ -128,6 +128,9 @@
   - [part 2](https://hackernoon.com/machine-learning-with-javascript-part-2-da994c17d483)
 - [10 Machine Learning Examples in JavaScript](http://tutorialzine.com/2017/04/10-machine-learning-examples-in-javascript/)
 
+### Related
+- [Probot](https://github.com/probot/probot)
+
 
 ## Web Workers
 - [JavaScript in parallel](http://50linesofco.de/post/2017-02-06-javascript-in-parallel-web-workers-transferables-and-sharedarraybuffer.html?utm_source=ESnextNews.com&utm_medium=Weekly+Newsletter&utm_campaign=2017-02-07)
