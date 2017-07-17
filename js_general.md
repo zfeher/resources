@@ -538,6 +538,7 @@
 
 
 ## Testing
+- [Snapshot testing the hard way](https://glebbahmutov.com/blog/snapshot-testing/)
 - [Automated testing with Headless Chrome](https://developers.google.com/web/updates/2017/06/headless-karma-mocha-chai)
 - [The Outrageous Cost of Skipping TDD & Code Reviews](https://medium.com/javascript-scene/the-outrageous-cost-of-skipping-tdd-code-reviews-57887064c412)
 - [Testing Service Workers](https://medium.com/dev-channel/testing-service-workers-318d7b016b19)
@@ -562,7 +563,7 @@
 - [What is property based testing (and how to do it in JavaScript)?](http://codeutopia.net/blog/2016/10/03/what-is-property-based-testing-and-how-to-do-it-in-javascript/)
 
 ### Related Libs
-- [snap-shot](https://glebbahmutov.com/blog/snapshot-testing/)
+- [snap-shot](https://github.com/bahmutov/snap-shot)
 - [TestCafe](https://devexpress.github.io/testcafe/)
 - [AVA](https://github.com/avajs/ava) [test runner]
 - [Karma](https://github.com/karma-runner/karma) [test runner]
