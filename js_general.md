@@ -355,6 +355,8 @@
 
 
 ## Vue.js
+- [4 Important Changes In Vue.js 2.4.0](http://vuejsdevelopers.com/2017/07/17/vue-js-2-4-important-features/)
+- [Swappable Dynamic Components in Vue.js](https://alligator.io/vuejs/dynamic-components/)
 - [3 Code Splitting Patterns For VueJS and Webpack](http://vuejsdevelopers.com/2017/07/08/vue-js-3-ways-code-splitting-webpack/)[code splitting]
 - [Pre-Render A Vue.js App (With Node Or Laravel)](https://www.codementor.io/vuejsdevelopers/pre-render-a-vue-js-app-with-node-or-laravel-9ex1g5clg)
 - [Integrating RxJS with Vue.js](https://alligator.io/vuejs/using-rxjs/)
@@ -384,6 +386,7 @@
 - [Vue.js](https://vuejs.org)
 
 ### Related
+- [Avoriaz](https://github.com/eddyerburgh/avoriaz)
 - [iview](https://www.iviewui.com)
 - [vue-rx](https://github.com/vuejs/vue-rx)
 - [VeeValidate](http://vee-validate.logaretm.com)
