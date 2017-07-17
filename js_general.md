@@ -1,4 +1,8 @@
 ## Unsorted
+- [HyperApp: The 1 KB JavaScript Library for Building Front-End Apps](https://www.sitepoint.com/hyperapp-1-kb-javascript-library/)
+
+### Related
+- [HyperApp](https://github.com/hyperapp/hyperapp)
 - [Codesandbox](https://codesandbox.io)
 - [Marko](http://markojs.com)
 - [Svelte](https://svelte.technology)
@@ -351,6 +355,8 @@
 
 
 ## Vue.js
+- [3 Code Splitting Patterns For VueJS and Webpack](http://vuejsdevelopers.com/2017/07/08/vue-js-3-ways-code-splitting-webpack/)[code splitting]
+- [Pre-Render A Vue.js App (With Node Or Laravel)](https://www.codementor.io/vuejsdevelopers/pre-render-a-vue-js-app-with-node-or-laravel-9ex1g5clg)
 - [Integrating RxJS with Vue.js](https://alligator.io/vuejs/using-rxjs/)
 - [4 Ways To Boost Your Vue.js App With Webpack](http://vuejsdevelopers.com/2017/06/18/vue-js-boost-your-app-with-webpack/)
 - [Announcing LogRocket for Vue.js](https://blog.logrocket.com/announcing-support-for-vue-js-and-vuex-e44e5856b1d7) [vuex][log]
@@ -556,6 +562,7 @@
 - [What is property based testing (and how to do it in JavaScript)?](http://codeutopia.net/blog/2016/10/03/what-is-property-based-testing-and-how-to-do-it-in-javascript/)
 
 ### Related Libs
+- [snap-shot](https://glebbahmutov.com/blog/snapshot-testing/)
 - [TestCafe](https://devexpress.github.io/testcafe/)
 - [AVA](https://github.com/avajs/ava) [test runner]
 - [Karma](https://github.com/karma-runner/karma) [test runner]
