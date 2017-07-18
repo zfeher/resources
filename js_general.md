@@ -179,6 +179,7 @@
 
 
 ## Immutability
+- [You’re missing out on ImmutableJS Records](https://medium.com/@ahmadbamieh/immutablejs-records-bd369137da06)
 - [The Missing Immutable.js Manual with all the Examples you’ll ever need](http://untangled.io/the-missing-immutable-js-manual/)
 - [Embracing Immutable Architecture](https://medium.com/react-weekly/embracing-immutable-architecture-dc04e3f08543#.lkceku4fh) [react] [redux] [elm]
 
@@ -282,6 +283,7 @@
 
 
 ## Style/Guide
+- [Why aren’t you using Prettier?](https://engineering.hexacta.com/why-arent-you-using-prettier-4fe0a77713e8)
 - [XO](https://github.com/sindresorhus/xo)
 - [JavaScript Standard Style](http://standardjs.com/index.html)
 - [ESLint](http://eslint.org)
