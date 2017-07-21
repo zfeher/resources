@@ -234,6 +234,7 @@
   - [Reduce](https://medium.com/javascript-scene/reduce-composing-software-fe22f0c39a1d#.sd2hrgjrg)
   - [Functors & Categories](https://medium.com/javascript-scene/functors-categories-61e031bac53f)
   - [Functional Mixins](https://medium.com/javascript-scene/functional-mixins-composing-software-ffb66d5e731c)
+  - [JavaScript Factory Functions with ES6+](https://medium.com/javascript-scene/javascript-factory-functions-with-es6-4d224591a8b1)
 - [Thinking in Ramda](http://randycoulman.com/blog/categories/thinking-in-ramda/)
 - [Safely Accessing Deeply Nested Values In JavaScript](https://medium.com/javascript-inside/safely-accessing-deeply-nested-values-in-javascript-99bf72a0855a#.bpkwuriq1) [ramda][folktale]
 - [Casual functional adventures in JavaScript]()
@@ -307,6 +308,7 @@
 
 
 ## Typescript
+- [Pattern Matching with TypeScript](https://pattern-matching-with-typescript.alabor.me)
 - [TypeScript 2.3: Downlevel Iteration for ES3/ES5](https://blog.mariusschulz.com/2017/06/30/typescript-2-3-downlevel-iteration-for-es3-es5)
 - [TypeScript 2.3: Type-Checking JavaScript Files with --checkJs](https://blog.mariusschulz.com/2017/06/16/typescript-2-3-type-checking-javascript-files-with-checkjs)
 - [TypeScript 2.3: The --strict Compiler Option](https://blog.mariusschulz.com/2017/06/09/typescript-2-3-the-strict-compiler-option)
