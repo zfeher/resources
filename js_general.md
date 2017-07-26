@@ -70,6 +70,7 @@
 
 
 ## General
+- [Composing regular expressions via re-template-tag](http://2ality.com/2017/07/re-template-tag.html) [regexp]
 - [How to retrieve images from the clipboard with JavaScript in the Browser](http://ourcodeworld.com/articles/read/491/how-to-retrieve-images-from-the-clipboard-with-javascript-in-the-browser)
 - [6 Tips and Best Practices for Great Mobile Design](https://blog.alexdevero.com/tips-best-practices-great-mobile-design/)
 - [Refactor Code in Your Lunch Break: Getting Started with Codemods](https://www.sitepoint.com/getting-started-with-codemods/)
@@ -360,6 +361,8 @@
 
 
 ## Vue.js
+- [Lazy loading in Vue using Webpack's code splitting](https://alexjoverm.github.io/2017/07/16/Lazy-load-in-Vue-using-Webpack-s-code-splitting/?utm_source=weekendjs&utm_medium=email&utm_campaign=issue)
+- [Simple Server Side Rendering, Routing, and Page Transitions with Nuxt.js](https://css-tricks.com/simple-server-side-rendering-routing-page-transitions-nuxt-js/)
 - [4 Important Changes In Vue.js 2.4.0](http://vuejsdevelopers.com/2017/07/17/vue-js-2-4-important-features/)
 - [Swappable Dynamic Components in Vue.js](https://alligator.io/vuejs/dynamic-components/)
 - [3 Code Splitting Patterns For VueJS and Webpack](http://vuejsdevelopers.com/2017/07/08/vue-js-3-ways-code-splitting-webpack/)[code splitting]
