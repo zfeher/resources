@@ -3,7 +3,7 @@
 
 ### Related
 - [HyperApp](https://github.com/hyperapp/hyperapp)
-- [Codesandbox](https://codesandbox.io)
+- [Codesandbox](https://codesandbox.io)[playground][react]
 - [Marko](http://markojs.com)
 - [Svelte](https://svelte.technology)
 - [inferno](https://github.com/trueadm/inferno)[react][component][lib]
