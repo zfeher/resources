@@ -11,6 +11,7 @@
 
 
 ## Books
+- [The JavaScript Way](https://github.com/bpesquet/thejsway/)
 - [Exploring ES2016 and ES2017 - Dr. Axel Rauschmayer](http://exploringjs.com/es2016-es2017/index.html)
 - [SurviveJS - Webpack - v2.0](https://survivejs.com/webpack/preface/)
 - [Babel Handbook](https://github.com/thejameskyle/babel-handbook/blob/master/translations/en/README.md)
@@ -83,6 +84,7 @@
 
 
 ## General
+- [The Ultimate Guide to JavaScript Fatigue: Realities of our industry](http://lucasfcosta.com/2017/07/17/The-Ultimate-Guide-to-JavaScript-Fatigue.html)
 - [Composing regular expressions via re-template-tag](http://2ality.com/2017/07/re-template-tag.html) [regexp]
 - [How to retrieve images from the clipboard with JavaScript in the Browser](http://ourcodeworld.com/articles/read/491/how-to-retrieve-images-from-the-clipboard-with-javascript-in-the-browser)
 - [6 Tips and Best Practices for Great Mobile Design](https://blog.alexdevero.com/tips-best-practices-great-mobile-design/)
