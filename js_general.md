@@ -30,6 +30,7 @@
 - [My Front End Reading List](https://medium.com/code-divoire/my-front-end-reading-list-e43e98259a66)
 
 ### Related
+- [HashNode](https://hashnode.com/nodes)
 - [Hackernoon](https://hackernoon.com)
 - [Echo JS](http://www.echojs.com)
 - [JSK](http://javascriptkicks.com)
