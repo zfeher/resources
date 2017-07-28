@@ -26,6 +26,17 @@
 - [Eloquent JavaScript 2nd Edition](http://eloquentjavascript.net)
 
 
+## News
+- [My Front End Reading List](https://medium.com/code-divoire/my-front-end-reading-list-e43e98259a66)
+
+### Related
+- [Hackernoon](https://hackernoon.com)
+- [Echo JS](http://www.echojs.com)
+- [JSK](http://javascriptkicks.com)
+- [Frontend Weekly](http://frontendweekly.co)
+- [JavaScript Weekly](http://javascriptweekly.com)
+
+
 ## Conference Videos
 - [Curry On!](https://www.youtube.com/channel/UC-WICcSW1k3HsScuXxDrp0w)
 
@@ -111,6 +122,7 @@
 
 
 ## Performance
+- [Improving Web Performance to Mirror Engine Speed](https://blog.algolia.com/improving-web-performance-to-mirror-engine-speed/)
 - [Improving App Startup Time on Android with Webpack + V8 Heap Snapshot](https://www.nativescript.org/blog/improving-app-startup-time-on-android-with-webpack-v8-heap-snapshot)
 - [14 Important Website Performance Metrics You Should Be Analyzing](https://www.keycdn.com/blog/website-performance-metrics/)
 - [Basics of Front-End Performance Tuning](https://www.codementor.io/tom76kimo/basics-of-front-end-performance-tuning-98z0f5gmm)
@@ -459,6 +471,7 @@
 
 
 ## State Management
+- [redux-data-structures](https://redux-data-structures.js.org)[redux]
 - [Redux-First Router data-fetching: solving the 80% use case for async Middleware](https://medium.com/faceyspacey/redux-first-router-data-fetching-solving-the-80-use-case-for-async-middleware-14529606c262)[redux][route]
 - [A New Redux Action Pattern for TypeScript 2.4+](https://spin.atomicobject.com/2017/07/24/redux-action-pattern-typescript/)
 - [Redux Architecture Guidelines](http://joeellis.la/redux-architecture/)
@@ -551,6 +564,7 @@
 
 
 ## Testing
+- [Chromeless Playground: Chrome Automation Made Simple](https://www.bram.us/2017/07/27/chromeless-playground-chrome-automation-made-simple/)
 - [Snapshot testing the hard way](https://glebbahmutov.com/blog/snapshot-testing/)
 - [Automated testing with Headless Chrome](https://developers.google.com/web/updates/2017/06/headless-karma-mocha-chai)
 - [The Outrageous Cost of Skipping TDD & Code Reviews](https://medium.com/javascript-scene/the-outrageous-cost-of-skipping-tdd-code-reviews-57887064c412)
@@ -576,6 +590,7 @@
 - [What is property based testing (and how to do it in JavaScript)?](http://codeutopia.net/blog/2016/10/03/what-is-property-based-testing-and-how-to-do-it-in-javascript/)
 
 ### Related Libs
+- [Chromeless Playground](https://chromeless.netlify.com)
 - [snap-shot](https://github.com/bahmutov/snap-shot)
 - [TestCafe](https://devexpress.github.io/testcafe/)
 - [AVA](https://github.com/avajs/ava) [test runner]
