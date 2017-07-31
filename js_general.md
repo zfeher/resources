@@ -84,6 +84,7 @@
 
 
 ## General
+- [How writing custom Babel & ESLint plugins can increase productivity & improve user experience](https://medium.com/@kentcdodds/how-writing-custom-babel-and-eslint-plugins-can-increase-your-productivity-and-improve-user-fd6dd8076e26)
 - [The Ultimate Guide to JavaScript Fatigue: Realities of our industry](http://lucasfcosta.com/2017/07/17/The-Ultimate-Guide-to-JavaScript-Fatigue.html)
 - [Composing regular expressions via re-template-tag](http://2ality.com/2017/07/re-template-tag.html) [regexp]
 - [How to retrieve images from the clipboard with JavaScript in the Browser](http://ourcodeworld.com/articles/read/491/how-to-retrieve-images-from-the-clipboard-with-javascript-in-the-browser)
