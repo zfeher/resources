@@ -378,6 +378,7 @@
 
 
 ## Vue.js
+- [Shared state and routing in Vue.js](https://codeburst.io/shared-state-and-routing-in-vue-js-7bfea06e44ec)
 - [Lazy loading in Vue using Webpack's code splitting](https://alexjoverm.github.io/2017/07/16/Lazy-load-in-Vue-using-Webpack-s-code-splitting/?utm_source=weekendjs&utm_medium=email&utm_campaign=issue)
 - [Simple Server Side Rendering, Routing, and Page Transitions with Nuxt.js](https://css-tricks.com/simple-server-side-rendering-routing-page-transitions-nuxt-js/)
 - [4 Important Changes In Vue.js 2.4.0](http://vuejsdevelopers.com/2017/07/17/vue-js-2-4-important-features/)
