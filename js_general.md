@@ -69,6 +69,7 @@
 
 
 ## Interview
+- [How the Internet works for a Front-End Developer](https://codeburst.io/how-the-internet-works-for-a-front-end-developer-528d72b801ce)
 - [Clearing your Front End Job Interview — JavaScript](https://codeburst.io/clearing-your-front-end-job-interview-javascript-d5ec896adda4)
 - [Master the JavaScript Interview: Soft Skills]()
 - [Master the JavaScript Interview: What is a Pure Function?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976)
@@ -85,6 +86,7 @@
 
 
 ## General
+- [The State of Internationalization in JavaScript](https://www.sitepen.com/blog/2017/07/19/the-state-of-internationalization-in-javascript/)
 - [How writing custom Babel & ESLint plugins can increase productivity & improve user experience](https://medium.com/@kentcdodds/how-writing-custom-babel-and-eslint-plugins-can-increase-your-productivity-and-improve-user-fd6dd8076e26)
 - [The Ultimate Guide to JavaScript Fatigue: Realities of our industry](http://lucasfcosta.com/2017/07/17/The-Ultimate-Guide-to-JavaScript-Fatigue.html)
 - [Composing regular expressions via re-template-tag](http://2ality.com/2017/07/re-template-tag.html) [regexp]
@@ -306,12 +308,16 @@
 
 
 ## Style/Guide
+- [Linters Gonna Lint](https://glebbahmutov.com/blog/linters-gonna-lint/)
 - [Why aren’t you using Prettier?](https://engineering.hexacta.com/why-arent-you-using-prettier-4fe0a77713e8)
 - [XO](https://github.com/sindresorhus/xo)
 - [JavaScript Standard Style](http://standardjs.com/index.html)
 - [ESLint](http://eslint.org)
 - [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js)
 - [Rules For Structuring (Redux) Applications](http://jaysoo.ca/2016/02/28/organizing-redux-application/) [react] [redux] [structure]
+
+### Related
+- [eslint-plugin-immutable](https://github.com/jhusain/eslint-plugin-immutable)
 
 
 ## Progressive Web Apps / PWA
