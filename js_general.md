@@ -387,6 +387,7 @@
 
 
 ## Vue.js
+- [Don't Forget Browser Button UX In Your Vue.js App](https://www.codementor.io/vuejsdevelopers/don-t-forget-browser-button-ux-in-your-vue-js-app-8wxkq6zub)[state][routing]
 - [Creating Custom Inputs With Vue.js](https://www.smashingmagazine.com/2017/08/creating-custom-inputs-vue-js/)
 - [Writing Class-Based Components with Vue.js and TypeScript](https://alligator.io/vuejs/typescript-class-components/)
 - [Taking on a different Vue with TSX](https://medium.com/@chimon1984/taking-on-a-different-vue-with-tsx-c027cc0017f8)
