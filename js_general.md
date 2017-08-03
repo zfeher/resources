@@ -128,6 +128,7 @@
 
 
 ## Performance
+- [The Critical Request](https://css-tricks.com/the-critical-request/)
 - [Improving Web Performance to Mirror Engine Speed](https://blog.algolia.com/improving-web-performance-to-mirror-engine-speed/)
 - [Improving App Startup Time on Android with Webpack + V8 Heap Snapshot](https://www.nativescript.org/blog/improving-app-startup-time-on-android-with-webpack-v8-heap-snapshot)
 - [14 Important Website Performance Metrics You Should Be Analyzing](https://www.keycdn.com/blog/website-performance-metrics/)
@@ -180,6 +181,7 @@
 
 
 ## Security / Payment
+- [Quick Intro to the Payment Request API](https://alligator.io/js/payment-request-api-intro/)
 - [How to Get Started with Your Website Content Security Policy](https://www.sitepoint.com/content-security-policy-getting-started/)
 - [Stop Paying for SSL Certificates](https://hackernoon.com/stop-paying-for-ssl-certificates-e6bc64754cd4) [ssl]
 - [Accept payments on your site with NextJS, Stripe, and Micro](https://hackernoon.com/accept-payments-on-your-site-with-nextjs-stripe-and-micro-371de95b22d5)
@@ -379,6 +381,9 @@
 
 
 ## Vue.js
+- [Creating Custom Inputs With Vue.js](https://www.smashingmagazine.com/2017/08/creating-custom-inputs-vue-js/)
+- [Writing Class-Based Components with Vue.js and TypeScript](https://alligator.io/vuejs/typescript-class-components/)
+- [Taking on a different Vue with TSX](https://medium.com/@chimon1984/taking-on-a-different-vue-with-tsx-c027cc0017f8)
 - [Shared state and routing in Vue.js](https://codeburst.io/shared-state-and-routing-in-vue-js-7bfea06e44ec)
 - [Lazy loading in Vue using Webpack's code splitting](https://alexjoverm.github.io/2017/07/16/Lazy-load-in-Vue-using-Webpack-s-code-splitting/?utm_source=weekendjs&utm_medium=email&utm_campaign=issue)
 - [Simple Server Side Rendering, Routing, and Page Transitions with Nuxt.js](https://css-tricks.com/simple-server-side-rendering-routing-page-transitions-nuxt-js/)
