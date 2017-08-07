@@ -18,6 +18,9 @@
 
 
 ## CSS
+- [50 Cheatsheets, References and Guides for CSS](https://speckyboy.com/css-cheatsheets-resources-guides/)
+- [Using CSS to detect and counting Prime Numbers](https://github.com/xieranmaya/blog/issues/12)
+- [If you really dislike FOUT, `font-display: optional` might be your jam](https://css-tricks.com/really-dislike-fout-font-display-optional-might-jam/)
 - [MindBEMding – getting your head ’round BEM syntax](https://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/) [bem]
 - [A Collection of Interesting Facts about CSS Grid Layout](https://css-tricks.com/collection-interesting-facts-css-grid-layout/) [grid]
 - [CSS Isn’t Black Magic](https://medium.freecodecamp.org/its-not-dark-magic-pulling-back-the-curtains-from-your-stylesheets-c8d677fa21b2)

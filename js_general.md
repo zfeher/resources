@@ -174,6 +174,7 @@
 
 
 ## Accessibility
+- [10 guidelines to improve your web accessibility](https://aerolab.co/blog/web-accessibility/)
 - [9 tips to get bare minimum of web accessibility](https://medium.com/@realabhijeet4u/9-tips-to-get-bare-minimum-of-web-accessibility-739899a9437c)
 - [Writing JavaScript with accessibility in mind](https://medium.com/@matuzo/writing-javascript-with-accessibility-in-mind-a1f6a5f467b9#.36y0po90o)
 - [Accessibility Basics: Designing for Visual Impairment](https://webdesign.tutsplus.com/articles/accessibility-basics-designing-for-visual-impairment--cms-27634)
@@ -375,6 +376,7 @@
 
 
 ## Components
+- [React Universal Component 2.0 & babel-plugin-universal-import](https://medium.com/faceyspacey/announcing-react-universal-component-2-0-babel-plugin-universal-import-5702d59ec1f4)[react]
 - [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0) [smart-dumb][stateful-stateless]
 - [Using Presentational and Container Components with Redux](https://www.fullstackreact.com/p/using-presentational-and-container-components-with-redux/) [smart-dumb][stateful-stateless]
 - [Higher-Order Components in Vue.js](https://medium.com/tldr-tech/higher-order-components-in-vue-js-38b500c6d49f#.64mngmpd7) [vue]
@@ -388,6 +390,7 @@
 
 
 ## Vue.js
+- [Nuxt.js: A Universal Vue.js Application Framework](https://www.sitepoint.com/nuxt-js-universal-vue-js/)
 - [Don't Forget Browser Button UX In Your Vue.js App](https://www.codementor.io/vuejsdevelopers/don-t-forget-browser-button-ux-in-your-vue-js-app-8wxkq6zub)[state][routing]
 - [Creating Custom Inputs With Vue.js](https://www.smashingmagazine.com/2017/08/creating-custom-inputs-vue-js/)
 - [Writing Class-Based Components with Vue.js and TypeScript](https://alligator.io/vuejs/typescript-class-components/)
