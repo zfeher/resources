@@ -30,6 +30,8 @@
 
 
 ## News
+- [Sindre Sorhus](https://github.com/sindresorhus)[links][collection]
+- [How to keep updated with the JavaScript ecosystem?](https://medium.com/@sergiodxa/how-to-keep-updated-with-the-javascript-ecosystem-97c8e36c2c3f)
 - [My Front End Reading List](https://medium.com/code-divoire/my-front-end-reading-list-e43e98259a66)
 
 ### Related
@@ -228,6 +230,7 @@
 
 
 ## Functional Programming (FP)
+- [Lifting functions into monadic Context in JavaScript](https://www.linkedin.com/pulse/lifting-functions-monadic-context-javascript-vladimír-gorej)[maybe][lift][monad]
 - [Functions as Functors](http://www.tomharding.me/2017/04/15/functions-as-functors/)
 - [Yippee Ki-Yay, All the Functors!](http://www.tomharding.me/2016/12/31/yippee-ki-yay-other-functors/)
 - [flat-map](https://martinfowler.com/articles/collection-pipeline/flat-map.html)
@@ -260,6 +263,8 @@
   - [Functors & Categories](https://medium.com/javascript-scene/functors-categories-61e031bac53f)
   - [Functional Mixins](https://medium.com/javascript-scene/functional-mixins-composing-software-ffb66d5e731c)
   - [JavaScript Factory Functions with ES6+](https://medium.com/javascript-scene/javascript-factory-functions-with-es6-4d224591a8b1)
+  - [Why Composition is Harder with Classes](https://medium.com/javascript-scene/why-composition-is-harder-with-classes-c3e627dcd0aa)
+  - [Composable Datatypes with Functions](https://medium.com/javascript-scene/composable-datatypes-with-functions-aec72db3b093)
 - [Thinking in Ramda](http://randycoulman.com/blog/categories/thinking-in-ramda/)
 - [Safely Accessing Deeply Nested Values In JavaScript](https://medium.com/javascript-inside/safely-accessing-deeply-nested-values-in-javascript-99bf72a0855a#.bpkwuriq1) [ramda][folktale]
 - [Casual functional adventures in JavaScript]()
@@ -630,6 +635,7 @@
 
 
 ## Package/Dependency Management
+- [Scan your projects for crossenv and other malicious npm packages](https://www.twilio.com/blog/2017/08/find-projects-infected-by-malicious-npm-packages.html?utm_source=ESnextNews.com&utm_medium=Weekly+Newsletter&utm_campaign=2017-08-08)[security]
 - [Introducing npx: an npm package runner](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b)
 - [Why should we use pnpm?](https://www.kochan.io/nodejs/why-should-we-use-pnpm.html)
 - [Offline installation of npm packages](https://addyosmani.com/blog/using-npm-offline/) [npm]
