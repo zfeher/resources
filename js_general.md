@@ -187,6 +187,7 @@
 
 
 ## Security / Payment
+- [Best solutions for keeping JavaScript clean and secure](http://techwireasia.com/2017/08/best-solutions-keeping-javascript-clean-secure/#m5BbvOdVivxRAXbo.97)
 - [Quick Intro to the Payment Request API](https://alligator.io/js/payment-request-api-intro/)
 - [How to Get Started with Your Website Content Security Policy](https://www.sitepoint.com/content-security-policy-getting-started/)
 - [Stop Paying for SSL Certificates](https://hackernoon.com/stop-paying-for-ssl-certificates-e6bc64754cd4) [ssl]
