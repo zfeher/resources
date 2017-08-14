@@ -507,6 +507,7 @@
 
 
 ## State Management
+- [Composing actions with Vuex](https://codeburst.io/composing-actions-with-vuex-b63466264a37)[vuex]
 - [redux-data-structures](https://redux-data-structures.js.org)[redux]
 - [Redux-First Router data-fetching: solving the 80% use case for async Middleware](https://medium.com/faceyspacey/redux-first-router-data-fetching-solving-the-80-use-case-for-async-middleware-14529606c262)[redux][route]
 - [A New Redux Action Pattern for TypeScript 2.4+](https://spin.atomicobject.com/2017/07/24/redux-action-pattern-typescript/)
