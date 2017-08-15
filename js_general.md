@@ -111,6 +111,7 @@
 - [Web Developer Checklist](http://webdevchecklist.com)
 
 ### Related
+- [Nano ID](https://github.com/ai/nanoid)
 - [RealWorld](https://github.com/gothinkster/realworld)
 - [js-joda](https://github.com/js-joda/js-joda?utm_source=ESnextNews.com&utm_medium=Weekly+Newsletter&utm_campaign=2017-06-13)
 - [Collections.js](http://www.collectionsjs.com)
@@ -183,6 +184,7 @@
 
 
 ## Async
+- [posterus](https://github.com/Mitranim/posterus)
 - [Yield and Async notations](https://ouicar.github.io/2016/12/14/async-yield.html)
 
 
@@ -442,6 +444,7 @@
 - [Vue.js](https://vuejs.org)
 
 ### Related
+- [ream](https://github.com/ream/ream)
 - [Avoriaz](https://github.com/eddyerburgh/avoriaz)
 - [iview](https://www.iviewui.com)
 - [vue-rx](https://github.com/vuejs/vue-rx)
