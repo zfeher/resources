@@ -53,6 +53,7 @@
 
 
 ## Learning
+- [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks)
 - [spellbook-of-modern-webdev](https://github.com/dexteryy/spellbook-of-modern-webdev)
 - [Keeping up with Front-end development](http://blog.grossman.io/keeping-up-with-front-end-development/)
 - [JavaScript The Right Way](http://jstherightway.org) [guide]
@@ -111,6 +112,7 @@
 - [Web Developer Checklist](http://webdevchecklist.com)
 
 ### Related
+- [morphdom](https://github.com/patrick-steele-idem/morphdom)
 - [Nano ID](https://github.com/ai/nanoid)
 - [RealWorld](https://github.com/gothinkster/realworld)
 - [js-joda](https://github.com/js-joda/js-joda?utm_source=ESnextNews.com&utm_medium=Weekly+Newsletter&utm_campaign=2017-06-13)
@@ -391,6 +393,7 @@
 
 
 ## Components
+- [The way of a Higher-Order Component](https://codeburst.io/the-way-of-higher-order-component-37fc937534a9)[higher order component][hoc][react]
 - [React Universal Component 2.0 & babel-plugin-universal-import](https://medium.com/faceyspacey/announcing-react-universal-component-2-0-babel-plugin-universal-import-5702d59ec1f4)[react]
 - [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0) [smart-dumb][stateful-stateless]
 - [Using Presentational and Container Components with Redux](https://www.fullstackreact.com/p/using-presentational-and-container-components-with-redux/) [smart-dumb][stateful-stateless]
@@ -405,6 +408,7 @@
 
 
 ## Vue.js
+- [4 Ways To Boost Your Vue.js App With Webpack](https://medium.com/js-dojo/4-ways-to-boost-your-vue-js-app-with-webpack-8f915feef182)
 - [Nuxt.js: A Universal Vue.js Application Framework](https://www.sitepoint.com/nuxt-js-universal-vue-js/)
 - [Don't Forget Browser Button UX In Your Vue.js App](https://www.codementor.io/vuejsdevelopers/don-t-forget-browser-button-ux-in-your-vue-js-app-8wxkq6zub)[state][routing]
 - [Creating Custom Inputs With Vue.js](https://www.smashingmagazine.com/2017/08/creating-custom-inputs-vue-js/)
@@ -510,6 +514,7 @@
 
 
 ## State Management
+- [Kea vs setState, Redux, Mobx, Dva, JumpState, Apollo, etc.](https://medium.com/@mariusandra/kea-vs-setstate-redux-mobx-dva-jumpstate-apollo-etc-4aa26ea11d02)
 - [Composing actions with Vuex](https://codeburst.io/composing-actions-with-vuex-b63466264a37)[vuex]
 - [redux-data-structures](https://redux-data-structures.js.org)[redux]
 - [Redux-First Router data-fetching: solving the 80% use case for async Middleware](https://medium.com/faceyspacey/redux-first-router-data-fetching-solving-the-80-use-case-for-async-middleware-14529606c262)[redux][route]

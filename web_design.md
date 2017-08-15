@@ -18,6 +18,7 @@
 
 
 ## CSS
+- [The Difference Between Explicit and Implicit Grids](https://css-tricks.com/difference-explicit-implicit-grids/)[grid]
 - [Shadow DOM: fast and encapsulated styles](https://meowni.ca/posts/shadow-dom/)
 - [50 Cheatsheets, References and Guides for CSS](https://speckyboy.com/css-cheatsheets-resources-guides/)
 - [Using CSS to detect and counting Prime Numbers](https://github.com/xieranmaya/blog/issues/12)

@@ -110,6 +110,7 @@
   - [JavaScript Extensions Part 1](https://code.visualstudio.com/blogs/2016/09/14/js_roundup_1)
   - [JavaScript Extensions Part 2](http://code.visualstudio.com/blogs/2016/10/31/js_roundup_2)
   - Extensions
+    - [Prettier - JavaScript formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
     - [JavaScript Standard Style](https://marketplace.visualstudio.com/items?itemName=chenxsan.vscode-standardjs)
     - [JavaScript standardjs styled snippets](https://marketplace.visualstudio.com/items?itemName=capaj.vscode-standardjs-snippets)
     - [PowerShell](https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell)

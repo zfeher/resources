@@ -3,6 +3,7 @@
 
 
 ## ES Proposals / Next
+- [ES proposal: optional catch binding](http://2ality.com/2017/08/optional-catch-binding.html)
 - [ES proposal: Promise.try()](http://2ality.com/2017/08/promise-try.html)
 - [ES proposal: class fields](http://2ality.com/2017/07/class-fields.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+2ality+%282ality+–+JavaScript+and+more%29)
 - [ES proposal: Shared memory and atomics](http://2ality.com/2017/01/shared-array-buffer.html)
