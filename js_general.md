@@ -63,7 +63,7 @@
 - [3 Different Kinds of Prototypal Inheritance: ES6+ Edition](https://medium.com/javascript-scene/3-different-kinds-of-prototypal-inheritance-es6-edition-32d777fa16c9#.9ivcvgv58) [delegation][inheritance][mixin][composition][stamp]
 - [Essential JavaScript Links](https://github.com/ericelliott/essential-javascript-links#essential-javascript-links)
 - [Learn JavaScript Essentials (for all skill levels)](https://medium.com/javascript-scene/learn-javascript-b631a4af11f2#.ka5qu9pp8)
-- The Two Pillars of JavaScript: [Part 1](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3#.1kgwco4zl), [Part 2](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4#.4ee30dr4p) [oop][fp]
+- The Two Pillars of JavaScript: [Part 1](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3#.1kgwco4zl), [Part 2](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2- p-programming-a63aa53a41a4#.4ee30dr4p) [oop][fp]
 - [The Single Biggest Mistake Programmers Make Every Day](https://medium.com/javascript-scene/the-single-biggest-mistake-programmers-make-every-day-62366b432308#.qp5wmprzh)
 - [Common Misconceptions About Inheritance in JavaScript](https://medium.com/javascript-scene/common-misconceptions-about-inheritance-in-javascript-d5d9bab29b0a#.lkt23l2ay)
 
@@ -179,10 +179,14 @@
 
 
 ## Accessibility
+- [Accessibility Testing with pa11y](https://bitsofco.de/pa11y/)
 - [10 guidelines to improve your web accessibility](https://aerolab.co/blog/web-accessibility/)
 - [9 tips to get bare minimum of web accessibility](https://medium.com/@realabhijeet4u/9-tips-to-get-bare-minimum-of-web-accessibility-739899a9437c)
 - [Writing JavaScript with accessibility in mind](https://medium.com/@matuzo/writing-javascript-with-accessibility-in-mind-a1f6a5f467b9#.36y0po90o)
 - [Accessibility Basics: Designing for Visual Impairment](https://webdesign.tutsplus.com/articles/accessibility-basics-designing-for-visual-impairment--cms-27634)
+
+### Related
+- [pa11y](https://github.com/pa11y/pa11y)
 
 
 ## Async
@@ -235,6 +239,7 @@
 
 
 ## Functional Programming (FP)
+- [Folding Promises in JavaScript](https://www.linkedin.com/pulse/folding-promises-javascript-vladimír-gorej)[promise][lift]
 - [Lifting functions into monadic Context in JavaScript](https://www.linkedin.com/pulse/lifting-functions-monadic-context-javascript-vladimír-gorej)[maybe][lift][monad]
 - [Functions as Functors](http://www.tomharding.me/2017/04/15/functions-as-functors/)
 - [Yippee Ki-Yay, All the Functors!](http://www.tomharding.me/2016/12/31/yippee-ki-yay-other-functors/)
