@@ -239,6 +239,12 @@
 
 
 ## Functional Programming (FP)
+- [Why Ramda?](http://fr.umio.us/why-ramda/)
+- A GENTLE INTRODUCTION TO FUNCTIONAL JAVASCRIPT - James Sinclair
+  [part 1](http://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-intro/)
+  [part 2](http://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-arrays/)
+  [part 3](http://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-functions/)
+  [part 4](http://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-style/)
 - [THE MARVELLOUSLY MYSTERIOUS JAVASCRIPT MAYBE MONAD](http://jrsinclair.com/articles/2016/marvellously-mysterious-javascript-maybe-monad/)[maybe][monad][promise]
 - [Folding Promises in JavaScript](https://www.linkedin.com/pulse/folding-promises-javascript-vladimír-gorej)[promise][lift]
 - [Lifting functions into monadic Context in JavaScript](https://www.linkedin.com/pulse/lifting-functions-monadic-context-javascript-vladimír-gorej)[maybe][lift][monad]
