@@ -239,6 +239,7 @@
 
 
 ## Functional Programming (FP)
+- [THE MARVELLOUSLY MYSTERIOUS JAVASCRIPT MAYBE MONAD](http://jrsinclair.com/articles/2016/marvellously-mysterious-javascript-maybe-monad/)[maybe][monad][promise]
 - [Folding Promises in JavaScript](https://www.linkedin.com/pulse/folding-promises-javascript-vladimír-gorej)[promise][lift]
 - [Lifting functions into monadic Context in JavaScript](https://www.linkedin.com/pulse/lifting-functions-monadic-context-javascript-vladimír-gorej)[maybe][lift][monad]
 - [Functions as Functors](http://www.tomharding.me/2017/04/15/functions-as-functors/)
