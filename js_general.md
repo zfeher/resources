@@ -647,6 +647,7 @@
 - [What is property based testing (and how to do it in JavaScript)?](http://codeutopia.net/blog/2016/10/03/what-is-property-based-testing-and-how-to-do-it-in-javascript/)
 
 ### Related Libs
+- [Puppeteer](https://github.com/GoogleChrome/puppeteer)[chrome headless]
 - [Chromeless Playground](https://chromeless.netlify.com)
 - [snap-shot](https://github.com/bahmutov/snap-shot)
 - [TestCafe](https://devexpress.github.io/testcafe/)
