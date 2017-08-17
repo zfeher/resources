@@ -17,6 +17,11 @@
 - [12 UX rules every designer should know](http://www.webdesignerdepot.com/2016/12/26-ux-rules-every-designer-should-know/)
 
 
+## Performance
+- [Using the Paint Timing API](https://css-tricks.com/paint-timing-api/)
+- [Performant Web Animations and Interactions: Achieving 60 FPS](https://blog.algolia.com/performant-web-animations/)
+
+
 ## CSS
 - [The Difference Between Explicit and Implicit Grids](https://css-tricks.com/difference-explicit-implicit-grids/)[grid]
 - [Shadow DOM: fast and encapsulated styles](https://meowni.ca/posts/shadow-dom/)
