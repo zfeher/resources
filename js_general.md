@@ -305,7 +305,8 @@
 - [moize](https://planttheidea.github.io/moize/) [memoize]
 - [Fantasy Land](https://github.com/fantasyland/fantasy-land)
 - [Lazy.js](danieltao.com/lazy.js)
-- [Folktale](http://folktalejs.org)
+- [Folktale 2.0](http://folktale.origamitower.com)
+- [Folktale 1.0](http://folktalejs.org)
 - [FPO](https://github.com/getify/fpo)
 - [functional.js](http://functionaljs.com)
 - [Ramda](http://ramdajs.com)
