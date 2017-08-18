@@ -239,20 +239,21 @@
 
 
 ## Functional Programming (FP)
+- [Javascript without loops](https://jrsinclair.com/articles/2017/javascript-without-loops/)[array][map][filter][reduce][novice]
+- [The versatility of Array methods](https://james-forbes.com/?/posts/versatility-of-array-methods)[array][maybe]
 - [Why Ramda?](http://fr.umio.us/why-ramda/)
-- A GENTLE INTRODUCTION TO FUNCTIONAL JAVASCRIPT - James Sinclair
+- A gentle introduction to functional javascript - James Sinclair
   [part 1](http://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-intro/)
   [part 2](http://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-arrays/)
   [part 3](http://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-functions/)
   [part 4](http://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-style/)
-- [THE MARVELLOUSLY MYSTERIOUS JAVASCRIPT MAYBE MONAD](http://jrsinclair.com/articles/2016/marvellously-mysterious-javascript-maybe-monad/)[maybe][monad][promise]
+- [The marvellously mysterious javascript maybe monad](http://jrsinclair.com/articles/2016/marvellously-mysterious-javascript-maybe-monad/)[maybe][monad][promise]
 - [Folding Promises in JavaScript](https://www.linkedin.com/pulse/folding-promises-javascript-vladimír-gorej)[promise][lift]
 - [Lifting functions into monadic Context in JavaScript](https://www.linkedin.com/pulse/lifting-functions-monadic-context-javascript-vladimír-gorej)[maybe][lift][monad]
 - [Functions as Functors](http://www.tomharding.me/2017/04/15/functions-as-functors/)
 - [Yippee Ki-Yay, All the Functors!](http://www.tomharding.me/2016/12/31/yippee-ki-yay-other-functors/)
 - [flat-map](https://martinfowler.com/articles/collection-pipeline/flat-map.html)
 - [Functional pattern: flatMap](http://2ality.com/2017/04/flatmap.html)
-- [THE MARVELLOUSLY MYSTERIOUS JAVASCRIPT MAYBE MONAD](http://jrsinclair.com/articles/2016/marvellously-mysterious-javascript-maybe-monad/)
 - [Monads in JavaScript](https://curiosity-driven.org/monads-in-javascript)
 - [Why use a Maybe type in JavaScript?](https://oliverjash.me/2017/04/10/why-use-a-maybe-type-in-javascript) [maybe]
 - [The Dao of Immutability: The Way of the Functional Programmer](https://medium.com/javascript-scene/the-dao-of-immutability-9f91a70c88cd)
