@@ -715,6 +715,7 @@
 - [History and Background of JavaScript Module Loaders](https://appendto.com/2016/06/the-short-history-of-javascript-module-loaders/)
 
 ### Related Libs
+- [Brunch](http://brunch.io)
 - [webpack-common-shake](https://github.com/indutny/webpack-common-shake)
 - [autodll-webpack-plugin](https://github.com/asfktz/autodll-webpack-plugin)
 - [Getlibs](http://getlibs.com)

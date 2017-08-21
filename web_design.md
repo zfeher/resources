@@ -23,6 +23,8 @@
 
 
 ## CSS
+- [State of Modern Component Styling](https://www.sitepen.com/blog/2017/08/17/state-of-modern-component-styling/)
+- [A Simple Cheatsheet for Flexbox](https://codeburst.io/a-simple-cheatsheet-for-flexbox-f5d3e1658447)[flexbox]
 - [The Difference Between Explicit and Implicit Grids](https://css-tricks.com/difference-explicit-implicit-grids/)[grid]
 - [Shadow DOM: fast and encapsulated styles](https://meowni.ca/posts/shadow-dom/)
 - [50 Cheatsheets, References and Guides for CSS](https://speckyboy.com/css-cheatsheets-resources-guides/)
