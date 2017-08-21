@@ -90,6 +90,8 @@
 
 
 ## General
+- [JavaScript Events Unmasked: How to Create an Input Mask for Mobile](https://medium.com/outsystems-experts/javascript-events-unmasked-how-to-create-an-input-mask-for-mobile-fc0df165e8b2)[mask][android][mobile][key handling]
+- [Beyond typeof and instanceof: simplifying dynamic type checks](http://2ality.com/2017/08/type-right.html)
 - [The State of Internationalization in JavaScript](https://www.sitepen.com/blog/2017/07/19/the-state-of-internationalization-in-javascript/)
 - [How writing custom Babel & ESLint plugins can increase productivity & improve user experience](https://medium.com/@kentcdodds/how-writing-custom-babel-and-eslint-plugins-can-increase-your-productivity-and-improve-user-fd6dd8076e26)
 - [The Ultimate Guide to JavaScript Fatigue: Realities of our industry](http://lucasfcosta.com/2017/07/17/The-Ultimate-Guide-to-JavaScript-Fatigue.html)
