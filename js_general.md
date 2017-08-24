@@ -498,6 +498,7 @@
 
 
 ## React
+- [Comparison of form libraries in react](https://codebrahma.com/form-libraries-in-react/)[form]
 - [Async operations in React Redux applications](https://codebrahma.com/structuring-async-operations-react-redux-applications/)
 - [Writing Clean and Concise React Components by Making Full Use of ES6/7 Features and the Container-Component Pattern](https://medium.com/@jahans3/writing-clean-and-concise-react-components-by-making-full-use-of-es6-7-features-and-the-container-4ba0473b7b01)
 - [Using Functions as Children and Render Props in React Components](https://codedaily.io/tutorials/6/Using-Functions-as-Children-and-Render-Props-in-React-Components)
