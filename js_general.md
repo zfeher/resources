@@ -317,6 +317,7 @@
 
 
 ## Reactive / Functional Reactive Programming (FRP)
+- [Taming snakes with reactive streams](https://blog.thoughtram.io/rxjs/2017/08/24/taming-snakes-with-reactive-streams.html)[game][rxjs]
 - [Observables explained without the word “observable”](https://medium.com/@tanya/observables-explained-without-the-word-observable-194df61180ed)
 - [Being RxJS Subjects Savvy](https://medium.com/front-end-hacking/being-rxjs-subjects-savvy-4aec5c8da99e#.t707p6w87) [rxjs]
 - [An Animated Intro to RxJS](https://css-tricks.com/animated-intro-rxjs/) [rxjs]
