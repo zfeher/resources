@@ -104,7 +104,8 @@
 - [Compile JavaScript? Really?](https://hackernoon.com/javascript-compilation-epoch-ebfb7b5bb664)
 - [The Definitive Guide to DateTime Manipulation](https://www.toptal.com/software/definitive-guide-to-datetime-manipulation)
 - [How To Check If Javascript Event Was Triggered By Human](https://solidfoundationwebdev.com/blog/posts/how-to-check-if-javascript-event-was-triggered-by-human)
-- [Copy To Clipboard in JavaScript](http://www.codingdefined.com/2017/02/copy-to-clipboard-in-javascript.html)
+- [Copying to Clipboard Using Vanilla JavaScript](https://alligator.io/js/copying-to-clipboard/)[copy]
+- [Copy To Clipboard in JavaScript](http://www.codingdefined.com/2017/02/copy-to-clipboard-in-javascript.html)[copy]
 - [JavaScript APIs: Console](https://hackernoon.com/javascript-apis-console-23ebce270419#.kpb34ippg)
 - [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 - [Three Rules For Structuring (Redux) Applications](http://jaysoo.ca/2016/02/28/organizing-redux-application/) [react][redux][project structure][organization]
