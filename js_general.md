@@ -427,6 +427,7 @@
 
 
 ## Vue.js
+- [Code Splitting With Vue.js And Webpack](https://medium.com/js-dojo/code-splitting-with-vue-js-and-webpack-c9830b29d557)[webpack][code splitting][async component]
 - [4 Ways To Boost Your Vue.js App With Webpack](https://medium.com/js-dojo/4-ways-to-boost-your-vue-js-app-with-webpack-8f915feef182)
 - [Nuxt.js: A Universal Vue.js Application Framework](https://www.sitepoint.com/nuxt-js-universal-vue-js/)
 - [Don't Forget Browser Button UX In Your Vue.js App](https://www.codementor.io/vuejsdevelopers/don-t-forget-browser-button-ux-in-your-vue-js-app-8wxkq6zub)[state][routing]
