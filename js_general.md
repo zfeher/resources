@@ -116,6 +116,7 @@
 - [Web Developer Checklist](http://webdevchecklist.com)
 
 ### Related
+- [Text Mask](https://text-mask.github.io/text-mask/)
 - [morphdom](https://github.com/patrick-steele-idem/morphdom)
 - [Nano ID](https://github.com/ai/nanoid)
 - [RealWorld](https://github.com/gothinkster/realworld)
