@@ -90,6 +90,7 @@
 
 
 ## General
+- [Tasks, microtasks, queues and schedules](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/)[event loop]
 - [Typing import statements more quickly](http://2ality.com/2017/08/typing-import-statements.html)
 - [JavaScript Events Unmasked: How to Create an Input Mask for Mobile](https://medium.com/outsystems-experts/javascript-events-unmasked-how-to-create-an-input-mask-for-mobile-fc0df165e8b2)[mask][android][mobile][key handling]
 - [Beyond typeof and instanceof: simplifying dynamic type checks](http://2ality.com/2017/08/type-right.html)
