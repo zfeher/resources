@@ -434,6 +434,7 @@
 
 
 ## Vue.js
+- [Testing with Vue.js](http://himarsh.org/testing-with-vuejs/)[test][component][interaction]
 - [Code Splitting With Vue.js And Webpack](https://medium.com/js-dojo/code-splitting-with-vue-js-and-webpack-c9830b29d557)[webpack][code splitting][async component]
 - [4 Ways To Boost Your Vue.js App With Webpack](https://medium.com/js-dojo/4-ways-to-boost-your-vue-js-app-with-webpack-8f915feef182)
 - [Nuxt.js: A Universal Vue.js Application Framework](https://www.sitepoint.com/nuxt-js-universal-vue-js/)
