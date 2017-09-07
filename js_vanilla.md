@@ -72,6 +72,7 @@
 
 
 ## General
+- [Object.create(null)](https://davidwalsh.name/object-create-null)
 - [setTimeout VS setInterval](https://develoger.com/settimeout-vs-setinterval-cff85142555b#.kia6u6hik)
 - [JavaScript Unary Operators: Simple and Useful](https://scotch.io/tutorials/javascript-unary-operators-simple-and-useful)
 
@@ -89,6 +90,7 @@
 
 
 ## Arrays
+- [Includes() vs indexOf() in JavaScript](https://dev.to/adroitcoder/includes-vs-indexof-in-javascript) [includes][indexOf]
 - [Search JavaScript Arrays Efficiently with includes and indexOf](http://thenewcode.com/1152/Search-JavaScript-Arrays-Efficiently-with-includes-and-indexOf)
 
 

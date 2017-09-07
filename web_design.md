@@ -1,4 +1,5 @@
 ## Unsorted
+- [Observing Intersection Observers](https://davidwalsh.name/intersection-observers)
 - [Understanding the Critical Rendering Path](https://bitsofco.de/understanding-the-critical-rendering-path/)
 - [Best practices for prototyping websites](https://webflow.com/blog/best-practices-for-prototyping-websites)
 
