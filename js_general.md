@@ -366,6 +366,7 @@
 
 
 ## Progressive Web Apps / PWA
+- [Yes, That Web Project Should Be a PWA](https://alistapart.com/article/yes-that-web-project-should-be-a-pwa)
 - [Using Google Lighthouse To Enhance Progressive Web Apps](https://www.keycdn.com/blog/google-lighthouse/)
 - [Progressive Web Apps](https://developers.google.com/web/progressive-web-apps/)
 - A progressive Web application with Vue JS, Webpack & Material Design:
