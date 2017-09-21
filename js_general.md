@@ -53,6 +53,7 @@
 
 
 ## Learning
+- [Learn to Code by Making Games (2D & 3D)] (https://codeburst.io/learn-to-code-by-making-games-2d-3d-58b8758b167f)
 - [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks)
 - [spellbook-of-modern-webdev](https://github.com/dexteryy/spellbook-of-modern-webdev)
 - [Keeping up with Front-end development](http://blog.grossman.io/keeping-up-with-front-end-development/)
