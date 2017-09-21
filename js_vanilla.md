@@ -72,6 +72,7 @@
 
 
 ## General
+- [3 Different Kinds of Prototypal Inheritance: ES6+ Edition](https://medium.com/javascript-scene/3-different-kinds-of-prototypal-inheritance-es6-edition-32d777fa16c9)
 - [Object.create(null)](https://davidwalsh.name/object-create-null)
 - [setTimeout VS setInterval](https://develoger.com/settimeout-vs-setinterval-cff85142555b#.kia6u6hik)
 - [JavaScript Unary Operators: Simple and Useful](https://scotch.io/tutorials/javascript-unary-operators-simple-and-useful)

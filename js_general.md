@@ -203,6 +203,9 @@
 
 
 ## Security / Payment
+- Security Checklist for Full Stack Web Developers
+  [part 1](https://blog.logrocket.com/security-for-fullstack-web-developers-part-1-a56340283f7c)
+  [part 2](https://blog.logrocket.com/security-for-fullstack-developers-part-2-d97fa6382ec9)
 - [Best solutions for keeping JavaScript clean and secure](http://techwireasia.com/2017/08/best-solutions-keeping-javascript-clean-secure/#m5BbvOdVivxRAXbo.97)
 - [Quick Intro to the Payment Request API](https://alligator.io/js/payment-request-api-intro/)
 - [How to Get Started with Your Website Content Security Policy](https://www.sitepoint.com/content-security-policy-getting-started/)
@@ -684,6 +687,7 @@
 
 
 ## Package/Dependency Management
+- [Size Limit: Make the Web lighter](https://evilmartians.com/chronicles/size-limit-make-the-web-lighter?utm_source=weekendjs)
 - [Scan your projects for crossenv and other malicious npm packages](https://www.twilio.com/blog/2017/08/find-projects-infected-by-malicious-npm-packages.html?utm_source=ESnextNews.com&utm_medium=Weekly+Newsletter&utm_campaign=2017-08-08)[security]
 - [Introducing npx: an npm package runner](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b)
 - [Why should we use pnpm?](https://www.kochan.io/nodejs/why-should-we-use-pnpm.html)
@@ -699,6 +703,7 @@
 - [Bower](https://bower.io)
 
 ### Related Libs
+- [Size Limit](https://github.com/ai/size-limit)
 - [pnpm](https://github.com/pnpm/pnpm)
 - [npm_lazy](https://github.com/mixu/npm_lazy)
 - [local-npm](https://github.com/nolanlawson/local-npm)
@@ -706,6 +711,8 @@
 
 
 ## Module loader/Module Bundler/Task Runner, CI, Build
+- [Critical CSS and Webpack: Automatically Minimize Render-Blocking CSS](https://medium.com/js-dojo/critical-css-and-webpack-automatically-minimize-render-blocking-css-5390850dad45)
+- [Deploying ES2015+ Code in Production Today](https://philipwalton.com/articles/deploying-es2015-code-in-production-today/?utm_source=ESnextNews.com&utm_medium=Weekly+Newsletter&utm_campaign=2017-09-19)
 - [Delivering untranspiled source code via npm](http://2ality.com/2017/06/pkg-esnext.html)
 - [Predictable long term caching with Webpack](https://medium.com/webpack/predictable-long-term-caching-with-webpack-d3eee1d3fa31)
 - [OPTIMIZING WEBPACK FOR FASTER REACT BUILDS](http://engineering.invisionapp.com/post/optimizing-webpack/) [webpack][dll]
