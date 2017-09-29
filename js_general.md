@@ -439,6 +439,7 @@
 
 
 ## Vue.js
+- [4 Ways To Boost Your Vue.js App With Webpack](https://www.codementor.io/vuejsdevelopers/4-ways-to-boost-your-vue-js-app-with-webpack-9mohz6zfp)
 - [Testing with Vue.js](http://himarsh.org/testing-with-vuejs/)[test][component][interaction]
 - [Code Splitting With Vue.js And Webpack](https://medium.com/js-dojo/code-splitting-with-vue-js-and-webpack-c9830b29d557)[webpack][code splitting][async component]
 - [4 Ways To Boost Your Vue.js App With Webpack](https://medium.com/js-dojo/4-ways-to-boost-your-vue-js-app-with-webpack-8f915feef182)
@@ -513,6 +514,7 @@
 
 
 ## React
+- [What’s New With Server-Side Rendering in React 16](https://hackernoon.com/whats-new-with-server-side-rendering-in-react-16-9b0d78585d67)
 - [Comparison of form libraries in react](https://codebrahma.com/form-libraries-in-react/)[form]
 - [Async operations in React Redux applications](https://codebrahma.com/structuring-async-operations-react-redux-applications/)
 - [Writing Clean and Concise React Components by Making Full Use of ES6/7 Features and the Container-Component Pattern](https://medium.com/@jahans3/writing-clean-and-concise-react-components-by-making-full-use-of-es6-7-features-and-the-container-4ba0473b7b01)
