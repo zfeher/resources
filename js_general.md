@@ -440,6 +440,7 @@
 
 
 ## Vue.js
+- [Getting Your Head Around Vue.js Scoped Slots](https://vuejsdevelopers.com/2017/10/02/vue-js-scoped-slots/?jsdojo_id=ech_vss)
 - [4 Ways To Boost Your Vue.js App With Webpack](https://www.codementor.io/vuejsdevelopers/4-ways-to-boost-your-vue-js-app-with-webpack-9mohz6zfp)
 - [Testing with Vue.js](http://himarsh.org/testing-with-vuejs/)[test][component][interaction]
 - [Code Splitting With Vue.js And Webpack](https://medium.com/js-dojo/code-splitting-with-vue-js-and-webpack-c9830b29d557)[webpack][code splitting][async component]
