@@ -424,6 +424,7 @@
 
 
 ## Components
+- [The 100% correct way to structure a React app (or why there’s no such thing)](https://hackernoon.com/the-100-correct-way-to-structure-a-react-app-or-why-theres-no-such-thing-3ede534ef1ed)
 - [The way of a Higher-Order Component](https://codeburst.io/the-way-of-higher-order-component-37fc937534a9)[higher order component][hoc][react]
 - [React Universal Component 2.0 & babel-plugin-universal-import](https://medium.com/faceyspacey/announcing-react-universal-component-2-0-babel-plugin-universal-import-5702d59ec1f4)[react]
 - [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0) [smart-dumb][stateful-stateless]

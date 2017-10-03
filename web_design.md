@@ -24,6 +24,7 @@
 
 
 ## CSS
+- [Implementing A Pure CSS Collapsible](https://alligator.io/css/collapsible/)
 - [Common problems for positioning elements in CSS — best practices](https://codeburst.io/common-problems-in-positioning-elements-in-css-best-practices-b03ac54dbdcb)
 - [State of Modern Component Styling](https://www.sitepen.com/blog/2017/08/17/state-of-modern-component-styling/)
 - [A Simple Cheatsheet for Flexbox](https://codeburst.io/a-simple-cheatsheet-for-flexbox-f5d3e1658447)[flexbox]
