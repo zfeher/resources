@@ -74,6 +74,7 @@
 
 
 ## Interview
+- [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
 - [How the Internet works for a Front-End Developer](https://codeburst.io/how-the-internet-works-for-a-front-end-developer-528d72b801ce)
 - [Clearing your Front End Job Interview — JavaScript](https://codeburst.io/clearing-your-front-end-job-interview-javascript-d5ec896adda4)
 - [Master the JavaScript Interview: Soft Skills]()
@@ -143,7 +144,8 @@
 - [A Practical Guide to Search Engine Optimization (SEO) with Google](https://www.taniarascia.com/a-practical-guide-to-search-engine-optimization-seo-with-google/)
 
 
-## Performance
+## Performance, memory
+- [How JavaScript works: memory management + how to handle 4 common memory leaks](https://blog.sessionstack.com/how-javascript-works-memory-management-how-to-handle-4-common-memory-leaks-3f28b94cfbec)
 - [The Critical Request](https://css-tricks.com/the-critical-request/)
 - [Improving Web Performance to Mirror Engine Speed](https://blog.algolia.com/improving-web-performance-to-mirror-engine-speed/)
 - [Improving App Startup Time on Android with Webpack + V8 Heap Snapshot](https://www.nativescript.org/blog/improving-app-startup-time-on-android-with-webpack-v8-heap-snapshot)
@@ -440,6 +442,7 @@
 
 
 ## Vue.js
+- [Creating Vue.js Transitions & Animation: Live Examples](https://snipcart.com/blog/vuejs-transitions-animations?utm_source=JSK-187231&utm_medium=JSK-187231&utm_content=JSK-187231&utm_campaign=JSK-187231)
 - [Getting Your Head Around Vue.js Scoped Slots](https://vuejsdevelopers.com/2017/10/02/vue-js-scoped-slots/?jsdojo_id=ech_vss)
 - [4 Ways To Boost Your Vue.js App With Webpack](https://www.codementor.io/vuejsdevelopers/4-ways-to-boost-your-vue-js-app-with-webpack-9mohz6zfp)
 - [Testing with Vue.js](http://himarsh.org/testing-with-vuejs/)[test][component][interaction]
