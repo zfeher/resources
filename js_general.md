@@ -442,6 +442,7 @@
 
 
 ## Vue.js
+- [Get Started with vue-test-utils and Jest](https://www.webcodegeeks.com/javascript/get-started-vue-test-utils-jest/)
 - [Creating Vue.js Transitions & Animation: Live Examples](https://snipcart.com/blog/vuejs-transitions-animations?utm_source=JSK-187231&utm_medium=JSK-187231&utm_content=JSK-187231&utm_campaign=JSK-187231)
 - [Getting Your Head Around Vue.js Scoped Slots](https://vuejsdevelopers.com/2017/10/02/vue-js-scoped-slots/?jsdojo_id=ech_vss)
 - [4 Ways To Boost Your Vue.js App With Webpack](https://www.codementor.io/vuejsdevelopers/4-ways-to-boost-your-vue-js-app-with-webpack-9mohz6zfp)
