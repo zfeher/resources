@@ -166,6 +166,7 @@
 
 
 ## Machine Learning
+- [5 Ways to Get Started with Machine Learning](https://www.sitepoint.com/5-ways-get-started-machine-learning/)
 - Machine Learning with JavaScript
   - [part 1](https://hackernoon.com/machine-learning-with-javascript-part-1-9b97f3ed4fe5)
   - [part 2](https://hackernoon.com/machine-learning-with-javascript-part-2-da994c17d483)
