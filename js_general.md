@@ -242,6 +242,14 @@
 
 
 ## Elm
+- Elm - Franzé Jr.
+  - [part 1: General Aspects Between Elm And Js](https://www.dailydrip.com/blog/general-aspects-between-elm-and-js)
+  - [part 2: Creating Html Elements And Using Libraries In Elm](https://www.dailydrip.com/blog/creating-html-elements-and-using-libraries-in-elm)
+  - [part 3: Understanding The Elm Architecture](https://www.dailydrip.com/blog/understanding-the-elm-architecture)
+  - [part 4: How To Get Data From Apis Using Elm](https://www.dailydrip.com/blog/how-to-get-data-from-apis-using-elm)
+  - [part 5: What Are Subscriptions And Commands In Elm](https://www.dailydrip.com/blog/what-are-subscriptions-and-commands-in-elm)
+  - [part 6: Building your SPA in Elm](https://www.dailydrip.com/blog/building-your-spa-in-elm-part-1)
+
 - James Kolce
   - [Why Elm? (And How To Get Started With It)](https://css-tricks.com/elm-get-started/)
   - [Introduction to The Elm Architecture and How to Build our First Application](https://css-tricks.com/introduction-elm-architecture-build-first-application/)
@@ -557,6 +565,7 @@
 
 
 ## State Management
+- [Redux First Router First Impressions](https://www.dailydrip.com/topics/react/drips/redux-first-router-first-impressions)[router][redux]
 - [Kea vs setState, Redux, Mobx, Dva, JumpState, Apollo, etc.](https://medium.com/@mariusandra/kea-vs-setstate-redux-mobx-dva-jumpstate-apollo-etc-4aa26ea11d02)
 - [Composing actions with Vuex](https://codeburst.io/composing-actions-with-vuex-b63466264a37)[vuex]
 - [redux-data-structures](https://redux-data-structures.js.org)[redux]
