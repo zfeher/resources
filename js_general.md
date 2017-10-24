@@ -435,6 +435,7 @@
 
 
 ## Components
+- [Smart and Dumb Components in React](https://medium.com/@bloomca/smart-and-dumb-components-in-react-9f2607ae6747)
 - [The 100% correct way to structure a React app (or why there’s no such thing)](https://hackernoon.com/the-100-correct-way-to-structure-a-react-app-or-why-theres-no-such-thing-3ede534ef1ed)
 - [The way of a Higher-Order Component](https://codeburst.io/the-way-of-higher-order-component-37fc937534a9)[higher order component][hoc][react]
 - [React Universal Component 2.0 & babel-plugin-universal-import](https://medium.com/faceyspacey/announcing-react-universal-component-2-0-babel-plugin-universal-import-5702d59ec1f4)[react]
@@ -661,6 +662,7 @@
 
 
 ## Testing
+- [End-to-end Tests that Don’t Suck with Puppeteer](https://ropig.com/blog/end-end-tests-dont-suck-puppeteer/)
 - [Chromeless Playground: Chrome Automation Made Simple](https://www.bram.us/2017/07/27/chromeless-playground-chrome-automation-made-simple/)
 - [Snapshot testing the hard way](https://glebbahmutov.com/blog/snapshot-testing/)
 - [Automated testing with Headless Chrome](https://developers.google.com/web/updates/2017/06/headless-karma-mocha-chai)
