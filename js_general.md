@@ -261,6 +261,7 @@
 
 
 ## Functional Programming (FP)
+- [Get to know the Actor Model](https://monades.roperzh.com/get-to-know-the-actor-model/?utm_source=ESnextNews.com&utm_medium=Weekly+Newsletter&utm_campaign=2017-09-12)[actor]
 - [The Perfect API](https://james-forbes.com/?/posts/the-perfect-api)[task][maybe][either][lift][ap][of]
 - [Javascript without loops](https://jrsinclair.com/articles/2017/javascript-without-loops/)[array][map][filter][reduce][novice]
 - [The versatility of Array methods](https://james-forbes.com/?/posts/versatility-of-array-methods)[array][maybe]
