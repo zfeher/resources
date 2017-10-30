@@ -92,6 +92,7 @@
 
 
 ## General
+- [The 14 JavaScript debugging tips you probably didn't know](https://raygun.com/javascript-debugging-tips)[debug]
 - [Here is what you need to know about JavaScript’s Number type](https://medium.com/dailyjs/javascripts-number-type-8d59199db1b6)
 - [Tasks, microtasks, queues and schedules](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/)[event loop]
 - [Typing import statements more quickly](http://2ality.com/2017/08/typing-import-statements.html)
@@ -453,6 +454,7 @@
 
 
 ## Vue.js
+- [Dynamic Modules with Vuex and Vue](https://medium.com/@francisvitullo/dynamic-modules-with-vuex-and-vue-b9c481ca792)[vuex]
 - [Get Started with vue-test-utils and Jest](https://www.webcodegeeks.com/javascript/get-started-vue-test-utils-jest/)
 - [Creating Vue.js Transitions & Animation: Live Examples](https://snipcart.com/blog/vuejs-transitions-animations?utm_source=JSK-187231&utm_medium=JSK-187231&utm_content=JSK-187231&utm_campaign=JSK-187231)
 - [Getting Your Head Around Vue.js Scoped Slots](https://vuejsdevelopers.com/2017/10/02/vue-js-scoped-slots/?jsdojo_id=ech_vss)
