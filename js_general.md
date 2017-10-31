@@ -735,6 +735,7 @@
 
 
 ## Module loader/Module Bundler/Task Runner, CI, Build
+- [State of Modules in JavaScript](https://www.sitepen.com/blog/2017/10/26/state-of-modules-in-javascript/?utm_source=ESnextNews.com&utm_medium=Weekly+Newsletter&utm_campaign=2017-10-31)[esm]
 - [Critical CSS and Webpack: Automatically Minimize Render-Blocking CSS](https://medium.com/js-dojo/critical-css-and-webpack-automatically-minimize-render-blocking-css-5390850dad45)
 - [Deploying ES2015+ Code in Production Today](https://philipwalton.com/articles/deploying-es2015-code-in-production-today/?utm_source=ESnextNews.com&utm_medium=Weekly+Newsletter&utm_campaign=2017-09-19)
 - [Delivering untranspiled source code via npm](http://2ality.com/2017/06/pkg-esnext.html)
