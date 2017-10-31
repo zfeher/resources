@@ -92,6 +92,7 @@
 
 
 ## General
+- [The Front-End Checklist](https://codeburst.io/the-front-end-checklist-8b2292fdda44)
 - [The 14 JavaScript debugging tips you probably didn't know](https://raygun.com/javascript-debugging-tips)[debug]
 - [Here is what you need to know about JavaScript’s Number type](https://medium.com/dailyjs/javascripts-number-type-8d59199db1b6)
 - [Tasks, microtasks, queues and schedules](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/)[event loop]
