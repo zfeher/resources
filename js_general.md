@@ -92,6 +92,7 @@
 
 
 ## General
+- [async/await: It’s Good and Bad](https://medium.com/@benlesh/async-await-it-s-good-and-bad-15cf121ade40)
 - [A gentle Introduction to Ajax.](https://medium.com/@vick_onrails/a-gentle-introduction-to-ajax-1e88e3db4e79)[ajax]
 - [The Front-End Checklist](https://codeburst.io/the-front-end-checklist-8b2292fdda44)
 - [The 14 JavaScript debugging tips you probably didn't know](https://raygun.com/javascript-debugging-tips)[debug]
