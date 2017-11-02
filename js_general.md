@@ -92,6 +92,7 @@
 
 
 ## General
+- [A gentle Introduction to Ajax.](https://medium.com/@vick_onrails/a-gentle-introduction-to-ajax-1e88e3db4e79)[ajax]
 - [The Front-End Checklist](https://codeburst.io/the-front-end-checklist-8b2292fdda44)
 - [The 14 JavaScript debugging tips you probably didn't know](https://raygun.com/javascript-debugging-tips)[debug]
 - [Here is what you need to know about JavaScript’s Number type](https://medium.com/dailyjs/javascripts-number-type-8d59199db1b6)
@@ -423,6 +424,7 @@
 
 
 ## Components
+- [Simple React Patterns](https://www.codementor.io/lucasmreis/simple-react-patterns-dd9ztprpe)[higher order component][hoc][react]
 - [Smart and Dumb Components in React](https://medium.com/@bloomca/smart-and-dumb-components-in-react-9f2607ae6747)
 - [The 100% correct way to structure a React app (or why there’s no such thing)](https://hackernoon.com/the-100-correct-way-to-structure-a-react-app-or-why-theres-no-such-thing-3ede534ef1ed)
 - [The way of a Higher-Order Component](https://codeburst.io/the-way-of-higher-order-component-37fc937534a9)[higher order component][hoc][react]
