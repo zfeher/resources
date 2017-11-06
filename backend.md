@@ -26,6 +26,7 @@
 
 
 ## Node
+- [Node.js Best Practices](https://github.com/i0natan/nodebestpractices)
 - [How to easily set up node config following these best practices](http://codingsans.com/blog/node-config-best-practices)
 - [Debugging Node.js with Google Chrome](https://medium.com/the-node-js-collection/debugging-node-js-with-google-chrome-4965b5f910f4)
 - [http://2ality.com/2017/05/util-promisify.html](http://wellarom.blog.hu/2017/05/31/nap-para?ajanlo=1)
