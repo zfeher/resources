@@ -381,6 +381,10 @@
 - [Learning Progressive Web App](https://github.com/ragingwind/learning-pwa)
 
 
+## Services worker
+- [High-performance service worker loading](https://developers.google.com/web/fundamentals/primers/service-workers/high-performance-loading)
+
+
 ## Transpilers
 - [babel-preset-env: a preset that configures Babel for you](http://www.2ality.com/2017/02/babel-preset-env.html) [babel]
 
