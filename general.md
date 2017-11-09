@@ -7,6 +7,7 @@
 
 
 ## Theory
+- [Understanding SOLID Principles: Open Closed Principle](https://codeburst.io/understanding-solid-principles-open-closed-principle-e2b588b6491f)
 - [Itsy Bitsy Data Structures](https://github.com/thejameskyle/itsy-bitsy-data-structures?utm_source=ESnextNews.com&utm_medium=Weekly+Newsletter&utm_campaign=2017-02-28)
 
 
@@ -23,6 +24,7 @@
 
 
 ## Git
+- [Flight rules for git](https://github.com/k88hudson/git-flight-rules)
 - [Little Things I Like to Do with Git](https://csswizardry.com/2017/05/little-things-i-like-to-do-with-git/)
 - [Conventional Commits](http://devboosts.com/2017/03/28/conventional-commits/)
 - [Getting solid at Git rebase vs. merge](https://medium.com/@porteneuve/getting-solid-at-git-rebase-vs-merge-4fa1a48c53aa#.rt1xsmaft)

@@ -330,6 +330,7 @@
 - So You Want to be a Functional Programmer - Charles Scalfani: [Part 1](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536), [Part 2](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-2-7005682cec4a), [Part 3](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-3-1b0fd14eb1a7), [Part 4](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-4-18fbe3ea9e49), [Part 5](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-5-c70adc9cf56a), [Part 6](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-6-db502830403#.8wfy3yabr)
 
 ### Related Libs
+- [eslint-plugin-fp](https://github.com/jfmengels/eslint-plugin-fp)
 - [Sanctuary](https://sanctuary.js.org)
 - [Fluture](https://github.com/fluture-js/Fluture) [promise]
 - [monet.js](https://monet.github.io/monet.js/)
@@ -525,6 +526,8 @@
 
 
 ## React
+- [Introduction to react vr](https://www.dailydrip.com/topics/react/drips/introduction-to-react-vr)[vr]
+- [Advanced React Router concepts: recursive path, code splitting, animated transitions, and more](https://blog.logrocket.com/advanced-react-router-concepts-code-splitting-animated-transitions-scroll-restoration-recursive-17096c0cf9db)[router]
 - [What’s New With Server-Side Rendering in React 16](https://hackernoon.com/whats-new-with-server-side-rendering-in-react-16-9b0d78585d67)
 - [Comparison of form libraries in react](https://codebrahma.com/form-libraries-in-react/)[form]
 - [Async operations in React Redux applications](https://codebrahma.com/structuring-async-operations-react-redux-applications/)
@@ -684,6 +687,7 @@
 - [What is property based testing (and how to do it in JavaScript)?](http://codeutopia.net/blog/2016/10/03/what-is-property-based-testing-and-how-to-do-it-in-javascript/)
 
 ### Related Libs
+- [Intern](https://theintern.io)
 - [Puppeteer](https://github.com/GoogleChrome/puppeteer)[chrome headless]
 - [Chromeless Playground](https://chromeless.netlify.com)
 - [snap-shot](https://github.com/bahmutov/snap-shot)
