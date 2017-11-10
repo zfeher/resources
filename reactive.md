@@ -1,3 +1,7 @@
+## General
+- [How to Build Your Own Reactivity System](https://medium.com/@supermdguy/how-to-build-your-own-reactivity-system-fc48863a1b7c)
+
+
 ## RxJS
 - [Promise Cancellation Is Dead — Long Live Promise Cancellation!](https://medium.com/@benlesh/promise-cancellation-is-dead-long-live-promise-cancellation-c6601f1f5082)[promise][cancellation][cancel]
 - [Hot vs Cold Observables](https://medium.com/@benlesh/hot-vs-cold-observables-f8094ed53339)[hot][cold]

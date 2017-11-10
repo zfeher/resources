@@ -2,6 +2,7 @@
 - [HyperApp: The 1 KB JavaScript Library for Building Front-End Apps](https://www.sitepoint.com/hyperapp-1-kb-javascript-library/)
 
 ### Related
+- [RE:DOM](https://redom.js.org)
 - [StackBlitz](https://stackblitz.com)[playground][react][angular][ionic][vscode]
 - [RunKit](https://runkit.com/home)
 - [HyperApp](https://github.com/hyperapp/hyperapp)
@@ -92,6 +93,7 @@
 
 
 ## General
+- [How to debug Front-end: Console](https://blog.pragmatists.com/how-to-debug-front-end-console-3456e4ee5504)
 - [async/await: It’s Good and Bad](https://medium.com/@benlesh/async-await-it-s-good-and-bad-15cf121ade40)
 - [A gentle Introduction to Ajax.](https://medium.com/@vick_onrails/a-gentle-introduction-to-ajax-1e88e3db4e79)[ajax]
 - [The Front-End Checklist](https://codeburst.io/the-front-end-checklist-8b2292fdda44)
@@ -149,6 +151,7 @@
 
 
 ## Performance, memory
+- [Isolating memory leaks with Chrome’s Allocation Timeline](https://blog.logrocket.com/isolating-memory-leaks-with-chromes-allocation-timeline-244fa9c48e8e)
 - [How JavaScript works: memory management + how to handle 4 common memory leaks](https://blog.sessionstack.com/how-javascript-works-memory-management-how-to-handle-4-common-memory-leaks-3f28b94cfbec)
 - [The Critical Request](https://css-tricks.com/the-critical-request/)
 - [Improving Web Performance to Mirror Engine Speed](https://blog.algolia.com/improving-web-performance-to-mirror-engine-speed/)
@@ -448,6 +451,7 @@
 
 
 ## Vue.js
+- [Vue user permissions through directives](https://codeburst.io/reusable-vue-directives-v-can-753bf54e563f)[acl]
 - [Dynamic Modules with Vuex and Vue](https://medium.com/@francisvitullo/dynamic-modules-with-vuex-and-vue-b9c481ca792)[vuex]
 - [Get Started with vue-test-utils and Jest](https://www.webcodegeeks.com/javascript/get-started-vue-test-utils-jest/)
 - [Creating Vue.js Transitions & Animation: Live Examples](https://snipcart.com/blog/vuejs-transitions-animations?utm_source=JSK-187231&utm_medium=JSK-187231&utm_content=JSK-187231&utm_campaign=JSK-187231)
@@ -660,6 +664,8 @@
 
 
 ## Testing
+- [Stubbing HTTP Requests With Sinon](http://mherman.org/blog/2017/11/06/stubbing-http-requests-with-sinon/#.WgWoKqtaOUl)[sinon]
+- [Test your DOM with Data Attributes](https://codeburst.io/test-your-dom-with-data-attributes-44fccc43ed4b)
 - [End-to-end Tests that Don’t Suck with Puppeteer](https://ropig.com/blog/end-end-tests-dont-suck-puppeteer/)
 - [Chromeless Playground: Chrome Automation Made Simple](https://www.bram.us/2017/07/27/chromeless-playground-chrome-automation-made-simple/)
 - [Snapshot testing the hard way](https://glebbahmutov.com/blog/snapshot-testing/)

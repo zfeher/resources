@@ -6,6 +6,10 @@
 - [What Is RabbitMQ? What Does It Do For Me?](https://derickbailey.com/2016/10/12/what-is-rabbitmq-what-does-it-do-for-me/)
 
 
+## Performance
+- [Put Your HTTP Requests on a Diet](https://medium.com/axiomzenteam/put-your-http-requests-on-a-diet-3e1e52333014)[gzip]
+
+
 ## API
 - [Building an API Gateway using Node.js](https://blog.risingstack.com/building-an-api-gateway-using-nodejs/)
 - [slate](https://github.com/lord/slate) [api][documentation]
