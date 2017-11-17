@@ -449,6 +449,9 @@
 - [Why you should learn the highlights of Angular 1.5](https://medium.com/@JCastigliano/why-you-should-learn-the-highlights-of-angular-1-5-bb6c320928a5#.5n8n3qebi) [angular]
 - [Flattening Deep Hierarchies of Components](http://blog.rangle.io/flattening-deep-hierarchies-of-components/)
 
+### Related
+- [Bit](https://github.com/teambit/bit)
+
 
 ## Vue.js
 - [Vue user permissions through directives](https://codeburst.io/reusable-vue-directives-v-can-753bf54e563f)[acl]
