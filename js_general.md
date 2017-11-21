@@ -268,6 +268,7 @@
 
 
 ## Functional Programming (FP)
+- [Alternative to JavaScript’s switch statement with a functional twist](https://codeburst.io/alternative-to-javascripts-switch-statement-with-a-functional-twist-3f572787ba1c)
 - [Get to know the Actor Model](https://monades.roperzh.com/get-to-know-the-actor-model/?utm_source=ESnextNews.com&utm_medium=Weekly+Newsletter&utm_campaign=2017-09-12)[actor]
 - [The Perfect API](https://james-forbes.com/?/posts/the-perfect-api)[task][maybe][either][lift][ap][of]
 - [Javascript without loops](https://jrsinclair.com/articles/2017/javascript-without-loops/)[array][map][filter][reduce][novice]
@@ -454,6 +455,7 @@
 
 
 ## Vue.js
+- [Official Vue Projects You Probably Don’t Know About](https://appendto.com/2017/11/official-vue-projects-probably-dont-know/)
 - [Vue user permissions through directives](https://codeburst.io/reusable-vue-directives-v-can-753bf54e563f)[acl]
 - [Dynamic Modules with Vuex and Vue](https://medium.com/@francisvitullo/dynamic-modules-with-vuex-and-vue-b9c481ca792)[vuex]
 - [Get Started with vue-test-utils and Jest](https://www.webcodegeeks.com/javascript/get-started-vue-test-utils-jest/)
