@@ -29,6 +29,7 @@
 
 
 ## Async/Await
+- [Gotchas about async/await and Promises](https://dev.to/maxart2501/gotchas-about-asyncawait-and-promises-9di)
 - [Mastering Async Await in Node.js](https://blog.risingstack.com/mastering-async-await-in-nodejs/)
 - [How to write async await without try-catch blocks in Javascript](http://blog.grossman.io/how-to-write-async-await-without-try-catch-blocks-in-javascript/)
 - [The 80/20 Guide to Async/Await in Node.js](http://thecodebarbarian.com/80-20-guide-to-async-await-in-node.js.html)
