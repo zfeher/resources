@@ -54,6 +54,7 @@
 
 
 ## Learning
+- [The Modern JavaScript Tutorial](https://javascript.info)
 - [Learn to Code by Making Games (2D & 3D)] (https://codeburst.io/learn-to-code-by-making-games-2d-3d-58b8758b167f)
 - [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks)
 - [spellbook-of-modern-webdev](https://github.com/dexteryy/spellbook-of-modern-webdev)
@@ -93,6 +94,7 @@
 
 
 ## General
+- [Modern Front-End Frameworks should be less of a “frame” and more of a “work”](https://medium.com/@eavichay/https-medium-com-eavichay-modern-front-end-frameworks-should-be-a-less-of-a-frame-and-more-of-a-work-c6703f2a5b58)
 - [How to debug Front-end: Console](https://blog.pragmatists.com/how-to-debug-front-end-console-3456e4ee5504)
 - [async/await: It’s Good and Bad](https://medium.com/@benlesh/async-await-it-s-good-and-bad-15cf121ade40)
 - [A gentle Introduction to Ajax.](https://medium.com/@vick_onrails/a-gentle-introduction-to-ajax-1e88e3db4e79)[ajax]
@@ -126,6 +128,7 @@
 - [Web Developer Checklist](http://webdevchecklist.com)
 
 ### Related
+- [Slim.js](http://slimjs.com)
 - [Text Mask](https://text-mask.github.io/text-mask/)
 - [morphdom](https://github.com/patrick-steele-idem/morphdom)
 - [Nano ID](https://github.com/ai/nanoid)
