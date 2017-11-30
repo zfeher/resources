@@ -1,7 +1,9 @@
 ## Unsorted
+- [Getting started with ReasonML](http://2ality.com/2017/11/getting-started-reasonml.html?t=1&cn=ZmxleGlibGVfcmVjc18y&refsrc=email&iid=becb7c9ce58e4aa08739b43624689537&fl=4&uid=783211657027780608&nid=244+272699400)
 - [HyperApp: The 1 KB JavaScript Library for Building Front-End Apps](https://www.sitepoint.com/hyperapp-1-kb-javascript-library/)
 
 ### Related
+- [Reason](https://reasonml.github.io)
 - [RE:DOM](https://redom.js.org)
 - [StackBlitz](https://stackblitz.com)[playground][react][angular][ionic][vscode]
 - [RunKit](https://runkit.com/home)
@@ -75,6 +77,10 @@
 - [stamp-utils](https://github.com/stampit-org/stamp-utils)
 
 
+## Exercises
+- [Implementing The Sieve Of Eratosthenes in JavaScript](https://benmccormick.org/2017/11/28/sieveoferatosthenes/)[prime]
+
+
 ## Interview
 - [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
 - [How the Internet works for a Front-End Developer](https://codeburst.io/how-the-internet-works-for-a-front-end-developer-528d72b801ce)
@@ -128,6 +134,7 @@
 - [Web Developer Checklist](http://webdevchecklist.com)
 
 ### Related
+- [Front End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
 - [Slim.js](http://slimjs.com)
 - [Text Mask](https://text-mask.github.io/text-mask/)
 - [morphdom](https://github.com/patrick-steele-idem/morphdom)
@@ -538,6 +545,7 @@
 
 
 ## React
+- [How to greatly improve your React app performance](https://medium.com/myheritage-engineering/how-to-greatly-improve-your-react-app-performance-e70f7cbbb5f6?mkt_tok=eyJpIjoiTUdVMFlUSmlZbUl3TjJZMiIsInQiOiJGNFJqaGtSdmNXWEw1SmgxdEhKTzJaazhyajJvVDNkNDRpRmdpdU1ObFVkWHlEbDZUT1lFcFRuWFNLMjVUbk5hWUhNd0JudzFlcjJhQlZDdHB2aXRIT2pzQlNyaEVLS1VqWDhKTXNiWGluand3N3ZqOVBDR09IcUhRZWZZbGljOCJ9)[performance]
 - [Introduction to react vr](https://www.dailydrip.com/topics/react/drips/introduction-to-react-vr)[vr]
 - [Advanced React Router concepts: recursive path, code splitting, animated transitions, and more](https://blog.logrocket.com/advanced-react-router-concepts-code-splitting-animated-transitions-scroll-restoration-recursive-17096c0cf9db)[router]
 - [What’s New With Server-Side Rendering in React 16](https://hackernoon.com/whats-new-with-server-side-rendering-in-react-16-9b0d78585d67)
@@ -566,6 +574,7 @@
 - [Building D3 Components with React](https://medium.com/@_alanbsmith/building-d3-components-with-react-7510e4743288#.4qf99mp5d)
 
 ### Related
+- [shouldComponentUpdate-Children](https://github.com/NoamELB/shouldComponentUpdate-Children)
 - [styled-components](https://github.com/styled-components/styled-components)
 - [react-primitives](https://github.com/lelandrichardson/react-primitives)
 - [Ducks](https://github.com/erikras/ducks-modular-redux)
