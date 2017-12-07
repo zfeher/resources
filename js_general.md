@@ -134,6 +134,7 @@
 - [Web Developer Checklist](http://webdevchecklist.com)
 
 ### Related
+- [What Web Can Do Today](https://whatwebcando.today)
 - [Front End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
 - [Slim.js](http://slimjs.com)
 - [Text Mask](https://text-mask.github.io/text-mask/)
