@@ -92,21 +92,27 @@
   - `git branch -vv` check setup remote tracking branches
   - `git push origin --delete serverfix` delete remote branch serverfix
     - `git push origin :serverfix` delete remote branch serverfix
-  - `git merge-base branch1 branch2 ...` shows BEST common ancestor
-  - `git log master..head` to check commits what head has but master not, also `git rebase master` will reapply these commits
   - `git pull --rebase ` pull rebase instead pull merge
   - `git log --no-merges` check commit message structure/convention
   - `git request-pull origin/master myfork` create pull request info
   - `git format-patch -M origin/master` create a patch
   - `git apply /tmp/patch-ruby-client.patch` apply a patch
   - `git am 0001-limit-log-function.patch` apply a format-patch patch
+
   - `git log contrib --not master` exclude master commits from log same as master..contrib
-  - `git diff --name-only rev1..rev2` shows changed files between the specified revisions
-  - `git diff --name-status rev1..rev2` shows changed files with status info between the specified revisions
   - `git diff master...contrib` show only the new diffs introduced in contrib ?
   - `git log master...experiment` all commits which are reachable from master and experiment but not the common ones (eg: common ancestor, ...)
-  - `git rev-list --boundary @...dev-bef | grep ^- | cut -c2-` => first seems to be the oldest ancestor
-  - `git rev-list --boundary dev-bef...@` => first - seems to be the oldest ancestor
+
+  - `git log master..head` to check commits what head has but master not, also `git rebase master` will reapply these commits
+  - `git diff --name-only rev1..rev2` shows changed files between the specified revisions
+  - `git diff --name-status rev1..rev2` shows changed files with status info between the specified revisions
+
+  - `git rev-list --boundary --date-order dev..feature` => last -hash is the branch commit as it seems
+  - `git rev-list --boundary --graph --date-order dev..feature` => looks useful `o` represents branch commits ?
+  - `git rev-list --boundary dev..feature | grep ^- | cut -c2-` => first hash is the oldest branch commit as it seems
+  - `git log --boundary --date-order dev..feature` => last commit is the branch point
+  - `git merge-base dev feature` shows BEST common ancestor eg. only the last merge base if there were more
+
   - `git clean` clean/remove untracked/not ignored files (merge temp files, etc.)
   - `git clean -f -d` clean/remove untracked not/ignored files and empty dirs
   - `git clean -d -n` check what will be cleaned/removed
