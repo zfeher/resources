@@ -60,6 +60,8 @@
   - `git checkout -` will checkout the previous branch (shorthand for `git checkout @{-1}`)
   - `git rebase master --autostash` will stash and reapply stashed stuff after rebase
   - `git fetch origin --prune` fetches origin end cleans up a bit, removes deleted remote branches but not the checked out ones
+  - `git config --global rerere.enabled true` enable re re re
+  - `git config --global rerere.autoupdate true` enable auto re re re update (add to staged files)
   - `git config --global pull.rebase preserve` set pull to use rebase with preserve merges option
   - `git config --global rebase.autostash true`
   - `git config --global user.name "John Doe"`
@@ -90,16 +92,21 @@
   - `git branch -vv` check setup remote tracking branches
   - `git push origin --delete serverfix` delete remote branch serverfix
     - `git push origin :serverfix` delete remote branch serverfix
-  - `git log master..head` to check commits what head has but master not, aslo `git rebase master` will reapply these commits
+  - `git merge-base branch1 branch2 ...` shows BEST common ancestor
+  - `git log master..head` to check commits what head has but master not, also `git rebase master` will reapply these commits
   - `git pull --rebase ` pull rebase instead pull merge
   - `git log --no-merges` check commit message structure/convention
   - `git request-pull origin/master myfork` create pull request info
   - `git format-patch -M origin/master` create a patch
   - `git apply /tmp/patch-ruby-client.patch` apply a patch
   - `git am 0001-limit-log-function.patch` apply a format-patch patch
-  - `git log contrib --not master` exclude master commits from log smae as master..contrib
+  - `git log contrib --not master` exclude master commits from log same as master..contrib
+  - `git diff --name-only rev1..rev2` shows changed files between the specified revisions
+  - `git diff --name-status rev1..rev2` shows changed files with status info between the specified revisions
   - `git diff master...contrib` show only the new diffs introduced in contrib ?
   - `git log master...experiment` all commits which are reachable from master and experiment but not the common ones (eg: common ancestor, ...)
+  - `git rev-list --boundary @...dev-bef | grep ^- | cut -c2-` => first seems to be the oldest ancestor
+  - `git rev-list --boundary dev-bef...@` => first - seems to be the oldest ancestor
   - `git clean` clean/remove untracked/not ignored files (merge temp files, etc.)
   - `git clean -f -d` clean/remove untracked not/ignored files and empty dirs
   - `git clean -d -n` check what will be cleaned/removed
