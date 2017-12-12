@@ -107,10 +107,10 @@
   - `git diff --name-only rev1..rev2` shows changed files between the specified revisions
   - `git diff --name-status rev1..rev2` shows changed files with status info between the specified revisions
 
-  - `git rev-list --boundary --date-order dev..feature` => last -hash is the branch commit as it seems
-  - `git rev-list --boundary --graph --date-order dev..feature` => looks useful `o` represents branch commits ?
-  - `git rev-list --boundary dev..feature | grep ^- | cut -c2-` => first hash is the oldest branch commit as it seems
-  - `git log --boundary --date-order dev..feature` => last commit is the branch point
+  - `git rev-list --boundary --date-order development..feature` => last -hash is the branch commit as it seems
+  - `git rev-list --boundary --date-order --graph development..feature` => looks useful `o` represents branch commits ?
+  - `git rev-list --boundary --date-order development..feature | grep ^- | cut -c2-` => first hash is the oldest branch commit as it seems
+  - `git log --boundary --date-order development..feature` => last commit is the branch point
   - `git merge-base dev feature` shows BEST common ancestor eg. only the last merge base if there were more
 
   - `git clean` clean/remove untracked/not ignored files (merge temp files, etc.)
