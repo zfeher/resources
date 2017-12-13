@@ -92,6 +92,7 @@
 
 
 ## Arrays
+- [Arrays, symbols, and realms](https://jakearchibald.com/2017/arrays-symbols-realms/)[realm][symbol]
 - [Includes() vs indexOf() in JavaScript](https://dev.to/adroitcoder/includes-vs-indexof-in-javascript) [includes][indexOf]
 - [Search JavaScript Arrays Efficiently with includes and indexOf](http://thenewcode.com/1152/Search-JavaScript-Arrays-Efficiently-with-includes-and-indexOf)
 

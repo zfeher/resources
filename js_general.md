@@ -586,6 +586,10 @@
 - [create-react-app](https://github.com/facebookincubator/create-react-app)
 
 
+## React Native
+- [React Native Quirks](https://codeburst.io/react-native-quirks-2fb1ae0bbf80)
+
+
 ## State Management
 - [Redux First Router First Impressions](https://www.dailydrip.com/topics/react/drips/redux-first-router-first-impressions)[router][redux]
 - [Kea vs setState, Redux, Mobx, Dva, JumpState, Apollo, etc.](https://medium.com/@mariusandra/kea-vs-setstate-redux-mobx-dva-jumpstate-apollo-etc-4aa26ea11d02)
