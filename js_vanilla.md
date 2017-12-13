@@ -29,6 +29,7 @@
 
 
 ## Async/Await
+- [for-await-of and synchronous iterables](http://2ality.com/2017/12/for-await-of-sync-iterables.html?t=1&cn=ZmxleGlibGVfcmVjc18y&refsrc=email&iid=25f8d6578de44d90b77343ce88b9d24e&fl=4&uid=783211657027780608&nid=244+272699400)
 - [Gotchas about async/await and Promises](https://dev.to/maxart2501/gotchas-about-asyncawait-and-promises-9di)
 - [Mastering Async Await in Node.js](https://blog.risingstack.com/mastering-async-await-in-nodejs/)
 - [How to write async await without try-catch blocks in Javascript](http://blog.grossman.io/how-to-write-async-await-without-try-catch-blocks-in-javascript/)

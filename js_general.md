@@ -56,6 +56,7 @@
 
 
 ## Learning
+- [The secret to being a top developer is building things! Here’s a list of fun apps to build!](https://medium.freecodecamp.org/the-secret-to-being-a-top-developer-is-building-things-heres-a-list-of-fun-apps-to-build-aac61ac0736c)
 - [The Modern JavaScript Tutorial](https://javascript.info)
 - [Learn to Code by Making Games (2D & 3D)] (https://codeburst.io/learn-to-code-by-making-games-2d-3d-58b8758b167f)
 - [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks)
@@ -82,6 +83,7 @@
 
 
 ## Interview
+- [Front end interview preparation guide](https://github.com/Jobeir/front-end-interview-preparation-guide)
 - [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
 - [How the Internet works for a Front-End Developer](https://codeburst.io/how-the-internet-works-for-a-front-end-developer-528d72b801ce)
 - [Clearing your Front End Job Interview — JavaScript](https://codeburst.io/clearing-your-front-end-job-interview-javascript-d5ec896adda4)
