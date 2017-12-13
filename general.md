@@ -100,7 +100,9 @@
   - `git am 0001-limit-log-function.patch` apply a format-patch patch
 
   - `git log contrib --not master` exclude master commits from log same as master..contrib
-  - `git diff master...contrib` show only the new diffs introduced in contrib ?
+  - `git diff master...contrib` show only the new diffs introduced in contrib, ... -> diff from common ancestor (.. => simple diff)
+    - `git diff A...B` == `git diff $(git-merge-base A B) B`
+    - `git diff A..B` == `git diff A B`
   - `git log master...experiment` all commits which are reachable from master and experiment but not the common ones (eg: common ancestor, ...)
 
   - `git log master..head` to check commits what head has but master not, also `git rebase master` will reapply these commits
