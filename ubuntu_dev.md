@@ -8,6 +8,24 @@
 - [What are the shell's control and redirection operators?](http://unix.stackexchange.com/questions/159513/what-are-the-shells-control-and-redirection-operators)
 
 
+## Check encoding for sed
+- [sed-and-utf-8-encoding](https://stackoverflow.com/questions/27072558/sed-and-utf-8-encoding)
+- `Bash printf à | wc -c` must say 2, not 1
+- `Bash locale` should list "UTF-8" or "utf8" in the LC_CTYPE line
+
+
+## Using sed with multiple files
+```Bash
+find app/scripts -type f -name "*.js" | xargs sed -b -i -- '/\/\* eslint max-len: \["error", 160\] \*\//d'
+find app/scripts -type f -name "*.js" | xargs sed -b -i -- 's/, max-len: \["error", 160\]//g'
+```
+
+## Run script in the current shell
+```Bash
+. ./somescript.sh
+```
+
+
 ## Git
 ```Bash
 sudo add-apt-repository ppa:git-core/ppa

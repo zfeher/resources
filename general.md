@@ -24,6 +24,7 @@
 
 
 ## Git
+- [Sort git Branches by Date](https://davidwalsh.name/sort-git-branches)
 - [Flight rules for git](https://github.com/k88hudson/git-flight-rules)
 - [Little Things I Like to Do with Git](https://csswizardry.com/2017/05/little-things-i-like-to-do-with-git/)
 - [Conventional Commits](http://devboosts.com/2017/03/28/conventional-commits/)
@@ -90,6 +91,7 @@
   - `git merge @{u}` can be used instead `git merge origin/master`
     - `git merge @{upstream}` can be used instead `git merge origin/master`
   - `git branch -vv` check setup remote tracking branches
+  - `git branch -r --sort=-committerdate --format='%(committerdate) %(refname)'` show remote branches ordered by modification date
   - `git push origin --delete serverfix` delete remote branch serverfix
     - `git push origin :serverfix` delete remote branch serverfix
   - `git pull --rebase ` pull rebase instead pull merge
