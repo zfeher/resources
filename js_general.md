@@ -408,6 +408,7 @@
 
 
 ## Typescript
+- [TypeScript 2.4: Spelling Correction](https://blog.mariusschulz.com/2017/12/08/typescript-2-4-spelling-correction)
 - [Pattern Matching with TypeScript](https://pattern-matching-with-typescript.alabor.me)
 - [TypeScript 2.3: Downlevel Iteration for ES3/ES5](https://blog.mariusschulz.com/2017/06/30/typescript-2-3-downlevel-iteration-for-es3-es5)
 - [TypeScript 2.3: Type-Checking JavaScript Files with --checkJs](https://blog.mariusschulz.com/2017/06/16/typescript-2-3-type-checking-javascript-files-with-checkjs)
