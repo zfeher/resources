@@ -550,6 +550,7 @@
 
 
 ## React
+- [Using React Fragments for the first time](https://javascriptplayground.com/blog/2017/12/react-fragments/)
 - [How to greatly improve your React app performance](https://medium.com/myheritage-engineering/how-to-greatly-improve-your-react-app-performance-e70f7cbbb5f6?mkt_tok=eyJpIjoiTUdVMFlUSmlZbUl3TjJZMiIsInQiOiJGNFJqaGtSdmNXWEw1SmgxdEhKTzJaazhyajJvVDNkNDRpRmdpdU1ObFVkWHlEbDZUT1lFcFRuWFNLMjVUbk5hWUhNd0JudzFlcjJhQlZDdHB2aXRIT2pzQlNyaEVLS1VqWDhKTXNiWGluand3N3ZqOVBDR09IcUhRZWZZbGljOCJ9)[performance]
 - [Introduction to react vr](https://www.dailydrip.com/topics/react/drips/introduction-to-react-vr)[vr]
 - [Advanced React Router concepts: recursive path, code splitting, animated transitions, and more](https://blog.logrocket.com/advanced-react-router-concepts-code-splitting-animated-transitions-scroll-restoration-recursive-17096c0cf9db)[router]
