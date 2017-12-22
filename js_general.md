@@ -102,6 +102,7 @@
 
 
 ## General
+- [Regular Expressions Demystified: RegEx isn’t as hard as it looks](https://medium.freecodecamp.org/regular-expressions-demystified-regex-isnt-as-hard-as-it-looks-617b55cf787)[regexp]
 - [Modern Front-End Frameworks should be less of a “frame” and more of a “work”](https://medium.com/@eavichay/https-medium-com-eavichay-modern-front-end-frameworks-should-be-a-less-of-a-frame-and-more-of-a-work-c6703f2a5b58)
 - [How to debug Front-end: Console](https://blog.pragmatists.com/how-to-debug-front-end-console-3456e4ee5504)
 - [async/await: It’s Good and Bad](https://medium.com/@benlesh/async-await-it-s-good-and-bad-15cf121ade40)
