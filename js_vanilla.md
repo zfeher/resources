@@ -99,7 +99,8 @@
 
 
 ## Maps
-- (What You Should Know About ES6 Maps)[https://hackernoon.com/what-you-should-know-about-es6-maps-dc66af6b9a1e#.r16zpvvq7]
+- [An Introduction to Weak Value Maps](https://dev.doctorevidence.com/an-introduction-to-weak-value-maps-40e108b44e1c)
+- [What You Should Know About ES6 Maps][https://hackernoon.com/what-you-should-know-about-es6-maps-dc66af6b9a1e#.r16zpvvq7]
 
 
 ## Typed Arrays

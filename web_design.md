@@ -24,6 +24,7 @@
 
 
 ## CSS
+- [The “Blur Up” Technique for Loading Background Images](https://css-tricks.com/the-blur-up-technique-for-loading-background-images/)
 - [Grid Garden](http://cssgridgarden.com)[grid][game]
 - [Flexbox and Grids, your layout’s best friends](https://aerolab.co/blog/flexbox-grids/)[flex][grid]
 - [Intriguing CSS Level 4 Selectors](https://webdesign.tutsplus.com/tutorials/intriguing-css-level-4-selectors--cms-29499)

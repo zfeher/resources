@@ -449,6 +449,7 @@
 
 
 ## Components
+- [How “Controllable” React components maximize reusability](https://medium.com/myheritage-engineering/how-controllable-react-components-maximize-reusability-86e3d233fa8e)
 - [Simple React Patterns](https://www.codementor.io/lucasmreis/simple-react-patterns-dd9ztprpe)[higher order component][hoc][react]
 - [Smart and Dumb Components in React](https://medium.com/@bloomca/smart-and-dumb-components-in-react-9f2607ae6747)
 - [The 100% correct way to structure a React app (or why there’s no such thing)](https://hackernoon.com/the-100-correct-way-to-structure-a-react-app-or-why-theres-no-such-thing-3ede534ef1ed)
@@ -470,6 +471,8 @@
 
 
 ## Vue.js
+- [11 Vue.js Component Libraries You Should Know In 2018](https://blog.bitsrc.io/11-vue-js-component-libraries-you-should-know-in-2018-3d35ad0ae37f)
+- [Why You Should Avoid Vue.js DOM Templates](https://www.codementor.io/vuejsdevelopers/why-you-should-avoid-vue-js-dom-templates-c4chvgjlh)
 - [Official Vue Projects You Probably Don’t Know About](https://appendto.com/2017/11/official-vue-projects-probably-dont-know/)
 - [Vue user permissions through directives](https://codeburst.io/reusable-vue-directives-v-can-753bf54e563f)[acl]
 - [Dynamic Modules with Vuex and Vue](https://medium.com/@francisvitullo/dynamic-modules-with-vuex-and-vue-b9c481ca792)[vuex]
@@ -596,6 +599,7 @@
 
 
 ## State Management
+- [The future of state management - Managing your local data in Apollo Client with apollo-link-state](https://dev-blog.apollodata.com/the-future-of-state-management-dd410864cae2)
 - [Redux First Router First Impressions](https://www.dailydrip.com/topics/react/drips/redux-first-router-first-impressions)[router][redux]
 - [Kea vs setState, Redux, Mobx, Dva, JumpState, Apollo, etc.](https://medium.com/@mariusandra/kea-vs-setstate-redux-mobx-dva-jumpstate-apollo-etc-4aa26ea11d02)
 - [Composing actions with Vuex](https://codeburst.io/composing-actions-with-vuex-b63466264a37)[vuex]
