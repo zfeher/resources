@@ -390,6 +390,7 @@
 
 
 ## Progressive Web Apps / PWA
+- [Making our site more app-y](https://www.voorhoede.nl/en/blog/making-our-site-more-app-y/)
 - [Yes, That Web Project Should Be a PWA](https://alistapart.com/article/yes-that-web-project-should-be-a-pwa)
 - [Using Google Lighthouse To Enhance Progressive Web Apps](https://www.keycdn.com/blog/google-lighthouse/)
 - [Progressive Web Apps](https://developers.google.com/web/progressive-web-apps/)
@@ -471,6 +472,7 @@
 
 
 ## Vue.js
+- [Dependency injection with Vue.js](https://codeburst.io/dependency-injection-with-vue-js-f6b44a0dae6d)
 - [11 Vue.js Component Libraries You Should Know In 2018](https://blog.bitsrc.io/11-vue-js-component-libraries-you-should-know-in-2018-3d35ad0ae37f)
 - [Why You Should Avoid Vue.js DOM Templates](https://www.codementor.io/vuejsdevelopers/why-you-should-avoid-vue-js-dom-templates-c4chvgjlh)
 - [Official Vue Projects You Probably Don’t Know About](https://appendto.com/2017/11/official-vue-projects-probably-dont-know/)
@@ -595,10 +597,13 @@
 
 
 ## React Native
+- [The React and React Native Event System Explained: A Harmonious Coexistence](https://levelup.gitconnected.com/how-exactly-does-react-handles-events-71e8b5e359f2?ref=reddit)
 - [React Native Quirks](https://codeburst.io/react-native-quirks-2fb1ae0bbf80)
 
 
 ## State Management
+- [A blockchain-backed Redux clone in 105 lines of code](https://swizec.com/blog/blockchain-backed-redux-clone-105-lines-code/swizec/7980)
+- [The Ugly Side Of Redux](https://codeburst.io/the-ugly-side-of-redux-6591fde68200)
 - [The future of state management - Managing your local data in Apollo Client with apollo-link-state](https://dev-blog.apollodata.com/the-future-of-state-management-dd410864cae2)
 - [Redux First Router First Impressions](https://www.dailydrip.com/topics/react/drips/redux-first-router-first-impressions)[router][redux]
 - [Kea vs setState, Redux, Mobx, Dva, JumpState, Apollo, etc.](https://medium.com/@mariusandra/kea-vs-setstate-redux-mobx-dva-jumpstate-apollo-etc-4aa26ea11d02)
@@ -768,6 +773,8 @@
 
 
 ## Module loader/Module Bundler/Task Runner, CI, Build
+- [Everything You Need To Know About Parcel: The Blazing Fast Web App Bundler](https://medium.freecodecamp.org/all-you-need-to-know-about-parcel-dbe151b70082)[parcel]
+- [A study about how to improve frontend dev experience without a bundler](https://codeburst.io/a-study-about-how-to-improve-frontend-dev-experience-without-a-bundler-1b4c3a461a35)[unchained]
 - [State of Modules in JavaScript](https://www.sitepen.com/blog/2017/10/26/state-of-modules-in-javascript/?utm_source=ESnextNews.com&utm_medium=Weekly+Newsletter&utm_campaign=2017-10-31)[esm]
 - [Critical CSS and Webpack: Automatically Minimize Render-Blocking CSS](https://medium.com/js-dojo/critical-css-and-webpack-automatically-minimize-render-blocking-css-5390850dad45)
 - [Deploying ES2015+ Code in Production Today](https://philipwalton.com/articles/deploying-es2015-code-in-production-today/?utm_source=ESnextNews.com&utm_medium=Weekly+Newsletter&utm_campaign=2017-09-19)
@@ -795,6 +802,7 @@
 - [History and Background of JavaScript Module Loaders](https://appendto.com/2016/06/the-short-history-of-javascript-module-loaders/)
 
 ### Related Libs
+- [Parcel](https://github.com/parcel-bundler/parcel)
 - [Brunch](http://brunch.io)
 - [webpack-common-shake](https://github.com/indutny/webpack-common-shake)
 - [autodll-webpack-plugin](https://github.com/asfktz/autodll-webpack-plugin)
