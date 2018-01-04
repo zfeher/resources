@@ -23,6 +23,10 @@
 - [The Bash Guide](http://guide.bash.academy)
 
 
+## Markdown
+- [Boost your productivity using Markdown](https://hackernoon.com/boost-your-productivity-using-markdown-b8a84fc2a089)
+
+
 ## Git
 - [Sort git Branches by Date](https://davidwalsh.name/sort-git-branches)
 - [Flight rules for git](https://github.com/k88hudson/git-flight-rules)

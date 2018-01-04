@@ -472,6 +472,7 @@
 
 
 ## Vue.js
+- [Understanding scoped slots in Vue.js](https://medium.com/corebuild-software/understanding-scoped-slots-in-vue-js-db5315a42391)
 - [Dependency injection with Vue.js](https://codeburst.io/dependency-injection-with-vue-js-f6b44a0dae6d)
 - [11 Vue.js Component Libraries You Should Know In 2018](https://blog.bitsrc.io/11-vue-js-component-libraries-you-should-know-in-2018-3d35ad0ae37f)
 - [Why You Should Avoid Vue.js DOM Templates](https://www.codementor.io/vuejsdevelopers/why-you-should-avoid-vue-js-dom-templates-c4chvgjlh)
