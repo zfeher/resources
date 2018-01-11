@@ -256,6 +256,7 @@
 - [Embracing Immutable Architecture](https://medium.com/react-weekly/embracing-immutable-architecture-dc04e3f08543#.lkceku4fh) [react] [redux] [elm]
 
 ### Related Libs
+- [immer](https://github.com/mweststrate/immer)
 - [Mewt](https://github.com/sdgluck/mewt)
 - [Freezer](https://github.com/arqex/freezer)
 - [seamless-immutable](https://github.com/rtfeldman/seamless-immutable)
@@ -603,6 +604,7 @@
 
 
 ## State Management
+- [The Rise Of The State Machines](https://www.smashingmagazine.com/2018/01/rise-state-machines/)
 - [A blockchain-backed Redux clone in 105 lines of code](https://swizec.com/blog/blockchain-backed-redux-clone-105-lines-code/swizec/7980)
 - [The Ugly Side Of Redux](https://codeburst.io/the-ugly-side-of-redux-6591fde68200)
 - [The future of state management - Managing your local data in Apollo Client with apollo-link-state](https://dev-blog.apollodata.com/the-future-of-state-management-dd410864cae2)
@@ -632,6 +634,7 @@
 - [10 Tips for Better Redux Architecture](https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44#.c92fz9hwb) [redux]
 
 ### Related Libs
+- [stent](https://github.com/krasimir/stent)
 - [store.js](https://github.com/marcuswestin/store.js)
 - [LogRocket](https://logrocket.com) [redux][vuex]
 - [Alt](http://alt.js.org)

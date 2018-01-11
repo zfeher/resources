@@ -112,6 +112,7 @@
 
 
 ## HTML
+- [What’s New in HTML 5.2?](https://bitsofco.de/whats-new-in-html-5-2/)
 - [How You Can Use HTML5 Custom Data Attributes and Why](https://www.sitepoint.com/how-why-use-html5-custom-data-attributes/)
 - [What’s New in HTML 5.1](https://www.sitepoint.com/whats-new-in-html-5-1/)
 - [HTML 5 CHEAT SHEET](https://makeawebsitehub.com/the-html-5-mega-cheat-sheet/)
