@@ -256,6 +256,7 @@
 - [Embracing Immutable Architecture](https://medium.com/react-weekly/embracing-immutable-architecture-dc04e3f08543#.lkceku4fh) [react] [redux] [elm]
 
 ### Related Libs
+- [immutadot] (github.com/Zenika/immutadot)
 - [immer](https://github.com/mweststrate/immer)
 - [Mewt](https://github.com/sdgluck/mewt)
 - [Freezer](https://github.com/arqex/freezer)
