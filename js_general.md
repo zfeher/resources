@@ -137,6 +137,7 @@
 - [Web Developer Checklist](http://webdevchecklist.com)
 
 ### Related
+- [hapijs/bounce](https://github.com/hapijs/bounce)
 - [What Web Can Do Today](https://whatwebcando.today)
 - [Front End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
 - [Slim.js](http://slimjs.com)
@@ -486,10 +487,9 @@
 - [Get Started with vue-test-utils and Jest](https://www.webcodegeeks.com/javascript/get-started-vue-test-utils-jest/)
 - [Creating Vue.js Transitions & Animation: Live Examples](https://snipcart.com/blog/vuejs-transitions-animations?utm_source=JSK-187231&utm_medium=JSK-187231&utm_content=JSK-187231&utm_campaign=JSK-187231)[transition][animation]
 - [Getting Your Head Around Vue.js Scoped Slots](https://vuejsdevelopers.com/2017/10/02/vue-js-scoped-slots/?jsdojo_id=ech_vss)
-- [4 Ways To Boost Your Vue.js App With Webpack](https://www.codementor.io/vuejsdevelopers/4-ways-to-boost-your-vue-js-app-with-webpack-9mohz6zfp)
+- [4 Ways To Boost Your Vue.js App With Webpack](http://vuejsdevelopers.com/2017/06/18/vue-js-boost-your-app-with-webpack/)
 - [Testing with Vue.js](http://himarsh.org/testing-with-vuejs/)[test][component][interaction]
 - [Code Splitting With Vue.js And Webpack](https://medium.com/js-dojo/code-splitting-with-vue-js-and-webpack-c9830b29d557)[webpack][code splitting][async component]
-- [4 Ways To Boost Your Vue.js App With Webpack](https://medium.com/js-dojo/4-ways-to-boost-your-vue-js-app-with-webpack-8f915feef182)
 - [Nuxt.js: A Universal Vue.js Application Framework](https://www.sitepoint.com/nuxt-js-universal-vue-js/)
 - [Don't Forget Browser Button UX In Your Vue.js App](https://www.codementor.io/vuejsdevelopers/don-t-forget-browser-button-ux-in-your-vue-js-app-8wxkq6zub)[state][routing]
 - [Creating Custom Inputs With Vue.js](https://www.smashingmagazine.com/2017/08/creating-custom-inputs-vue-js/)
@@ -503,7 +503,6 @@
 - [3 Code Splitting Patterns For VueJS and Webpack](http://vuejsdevelopers.com/2017/07/08/vue-js-3-ways-code-splitting-webpack/)[code splitting]
 - [Pre-Render A Vue.js App (With Node Or Laravel)](https://www.codementor.io/vuejsdevelopers/pre-render-a-vue-js-app-with-node-or-laravel-9ex1g5clg)
 - [Integrating RxJS with Vue.js](https://alligator.io/vuejs/using-rxjs/)
-- [4 Ways To Boost Your Vue.js App With Webpack](http://vuejsdevelopers.com/2017/06/18/vue-js-boost-your-app-with-webpack/)
 - [Announcing LogRocket for Vue.js](https://blog.logrocket.com/announcing-support-for-vue-js-and-vuex-e44e5856b1d7) [vuex][log]
 - [A modern way to do E2E testing for Vue.js apps](https://hackernoon.com/a-modern-way-to-do-e2e-testing-for-vue-js-apps-cebe0a07499c)
 - [Use Vue.js to create custom web components](http://vuetips.com/vue-web-components)
