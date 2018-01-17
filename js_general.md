@@ -474,6 +474,8 @@
 
 
 ## Vue.js
+- [4 AJAX Patterns For Vue.js Apps](https://vuejsdevelopers.com/2017/08/28/vue-js-ajax-recipes/)
+- [Use a Vue.js Render Prop!](https://vuejsdevelopers.com/2018/01/15/vue-js-render-props/?jsdojo_id=fef_rep)
 - [Understanding scoped slots in Vue.js](https://medium.com/corebuild-software/understanding-scoped-slots-in-vue-js-db5315a42391)
 - [Dependency injection with Vue.js](https://codeburst.io/dependency-injection-with-vue-js-f6b44a0dae6d)
 - [11 Vue.js Component Libraries You Should Know In 2018](https://blog.bitsrc.io/11-vue-js-component-libraries-you-should-know-in-2018-3d35ad0ae37f)
@@ -778,6 +780,7 @@
 
 
 ## Module loader/Module Bundler/Task Runner, CI, Build
+- [Native ES Modules in NodeJS: Status And Future Directions, Part I](https://medium.com/@giltayar)[mjs][cjs]
 - [Everything You Need To Know About Parcel: The Blazing Fast Web App Bundler](https://medium.freecodecamp.org/all-you-need-to-know-about-parcel-dbe151b70082)[parcel]
 - [A study about how to improve frontend dev experience without a bundler](https://codeburst.io/a-study-about-how-to-improve-frontend-dev-experience-without-a-bundler-1b4c3a461a35)[unchained]
 - [State of Modules in JavaScript](https://www.sitepen.com/blog/2017/10/26/state-of-modules-in-javascript/?utm_source=ESnextNews.com&utm_medium=Weekly+Newsletter&utm_campaign=2017-10-31)[esm]
