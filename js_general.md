@@ -527,6 +527,7 @@
 - [Vue.js](https://vuejs.org)
 
 ### Related
+- [vuex-loading](https://github.com/f/vuex-loading)
 - [vuetron](https://github.com/vuetwo/vuetron)
 - [ream](https://github.com/ream/ream)
 - [Avoriaz](https://github.com/eddyerburgh/avoriaz)
