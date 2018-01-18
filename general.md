@@ -7,6 +7,12 @@
 
 
 ## Theory
+- Separation of Concerns
+  - Cohesion
+- Single Responsibility
+- Single Level of Abstraction
+  - [Single Level of Abstraction (SLA)](http://principles-wiki.net/principles:single_level_of_abstraction)
+  - [Respecting Levels of Abstraction](https://simpleprogrammer.com/2017/01/27/respecting-abstraction/)
 - [Understanding SOLID Principles: Open Closed Principle](https://codeburst.io/understanding-solid-principles-open-closed-principle-e2b588b6491f)
 - [Itsy Bitsy Data Structures](https://github.com/thejameskyle/itsy-bitsy-data-structures?utm_source=ESnextNews.com&utm_medium=Weekly+Newsletter&utm_campaign=2017-02-28)
 
