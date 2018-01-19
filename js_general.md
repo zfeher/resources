@@ -475,6 +475,7 @@
 
 
 ## Vue.js
+- [Announcing LogRocket for Vue.js](https://blog.logrocket.com/announcing-support-for-vue-js-and-vuex-e44e5856b1d7)
 - [4 AJAX Patterns For Vue.js Apps](https://vuejsdevelopers.com/2017/08/28/vue-js-ajax-recipes/)
 - [Use a Vue.js Render Prop!](https://vuejsdevelopers.com/2018/01/15/vue-js-render-props/?jsdojo_id=fef_rep)
 - [Understanding scoped slots in Vue.js](https://medium.com/corebuild-software/understanding-scoped-slots-in-vue-js-db5315a42391)
