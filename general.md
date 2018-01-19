@@ -112,6 +112,11 @@
   - `git apply /tmp/patch-ruby-client.patch` apply a patch
   - `git am 0001-limit-log-function.patch` apply a format-patch patch
 
+  - `git branch -a --contains <commit>` list local + remote branches which contains the specified commit
+  - `git branch -r --contains <commit>` list remote branches which contains the specified commit
+  - `git branch --contains <commit>` list local branches which contains the specified commit
+  - `git tag --contains <commit>` list tags which contains the specified commit
+
   - `git log contrib --not master` exclude master commits from log same as master..contrib
   - `git diff master...contrib` show only the new diffs introduced in contrib, ... -> diff from common ancestor (.. => simple diff)
     - `git diff A...B` == `git diff $(git-merge-base A B) B`
