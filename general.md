@@ -138,6 +138,10 @@
   - `git clean -d -n` check what will be cleaned/removed
   - `git filter-branch --tree-filter 'rm -f passwords.txt' HEAD` removing a file from every commit
 
+### related
+- [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy)
+
+
 ## Editor/IDE
 - [Visual Studio Code](https://code.visualstudio.com/)
   - [Awesome VSCode](https://github.com/viatsko/awesome-vscode)
