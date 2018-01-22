@@ -137,6 +137,7 @@
 - [Web Developer Checklist](http://webdevchecklist.com)
 
 ### Related
+- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 - [hapijs/bounce](https://github.com/hapijs/bounce)
 - [What Web Can Do Today](https://whatwebcando.today)
 - [Front End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
