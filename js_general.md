@@ -476,6 +476,13 @@
 
 
 ## Vue.js
+- async components/code splitting
+- [4 Ways To Boost Your Vue.js App With Webpack](http://vuejsdevelopers.com/2017/06/18/vue-js-boost-your-app-with-webpack/)
+- [Code Splitting With Vue.js And Webpack](https://medium.com/js-dojo/code-splitting-with-vue-js-and-webpack-c9830b29d557)[webpack][code splitting][async component]
+- [Lazy loading in Vue using Webpack's code splitting](https://alexjoverm.github.io/2017/07/16/Lazy-load-in-Vue-using-Webpack-s-code-splitting/?utm_source=weekendjs&utm_medium=email&utm_campaign=issue)
+- [3 Code Splitting Patterns For VueJS and Webpack](http://vuejsdevelopers.com/2017/07/08/vue-js-3-ways-code-splitting-webpack/)[code splitting]
+
+- [Swappable Dynamic Components in Vue.js](https://alligator.io/vuejs/dynamic-components/)
 - [Announcing LogRocket for Vue.js](https://blog.logrocket.com/announcing-support-for-vue-js-and-vuex-e44e5856b1d7)
 - [4 AJAX Patterns For Vue.js Apps](https://vuejsdevelopers.com/2017/08/28/vue-js-ajax-recipes/)
 - [Use a Vue.js Render Prop!](https://vuejsdevelopers.com/2018/01/15/vue-js-render-props/?jsdojo_id=fef_rep)
@@ -485,27 +492,21 @@
 - [Why You Should Avoid Vue.js DOM Templates](https://www.codementor.io/vuejsdevelopers/why-you-should-avoid-vue-js-dom-templates-c4chvgjlh)
 - [Official Vue Projects You Probably Don’t Know About](https://appendto.com/2017/11/official-vue-projects-probably-dont-know/)
 - [Vue user permissions through directives](https://codeburst.io/reusable-vue-directives-v-can-753bf54e563f)[acl]
-- [Dynamic Modules with Vuex and Vue](https://medium.com/@francisvitullo/dynamic-modules-with-vuex-and-vue-b9c481ca792)[vuex]
+- [Dynamic Modules with Vuex and Vue](https://medium.com/@francisvitullo/dynamic-modules-with-vuex-and-vue-b9c481ca792)[vuex][dynamic module]
 - [Get Started with vue-test-utils and Jest](https://www.webcodegeeks.com/javascript/get-started-vue-test-utils-jest/)
 - [Creating Vue.js Transitions & Animation: Live Examples](https://snipcart.com/blog/vuejs-transitions-animations?utm_source=JSK-187231&utm_medium=JSK-187231&utm_content=JSK-187231&utm_campaign=JSK-187231)[transition][animation]
 - [Getting Your Head Around Vue.js Scoped Slots](https://vuejsdevelopers.com/2017/10/02/vue-js-scoped-slots/?jsdojo_id=ech_vss)
-- [4 Ways To Boost Your Vue.js App With Webpack](http://vuejsdevelopers.com/2017/06/18/vue-js-boost-your-app-with-webpack/)
 - [Testing with Vue.js](http://himarsh.org/testing-with-vuejs/)[test][component][interaction]
-- [Code Splitting With Vue.js And Webpack](https://medium.com/js-dojo/code-splitting-with-vue-js-and-webpack-c9830b29d557)[webpack][code splitting][async component]
 - [Nuxt.js: A Universal Vue.js Application Framework](https://www.sitepoint.com/nuxt-js-universal-vue-js/)
 - [Don't Forget Browser Button UX In Your Vue.js App](https://www.codementor.io/vuejsdevelopers/don-t-forget-browser-button-ux-in-your-vue-js-app-8wxkq6zub)[state][routing]
 - [Creating Custom Inputs With Vue.js](https://www.smashingmagazine.com/2017/08/creating-custom-inputs-vue-js/)
 - [Writing Class-Based Components with Vue.js and TypeScript](https://alligator.io/vuejs/typescript-class-components/)
 - [Taking on a different Vue with TSX](https://medium.com/@chimon1984/taking-on-a-different-vue-with-tsx-c027cc0017f8)
 - [Shared state and routing in Vue.js](https://codeburst.io/shared-state-and-routing-in-vue-js-7bfea06e44ec)
-- [Lazy loading in Vue using Webpack's code splitting](https://alexjoverm.github.io/2017/07/16/Lazy-load-in-Vue-using-Webpack-s-code-splitting/?utm_source=weekendjs&utm_medium=email&utm_campaign=issue)
 - [Simple Server Side Rendering, Routing, and Page Transitions with Nuxt.js](https://css-tricks.com/simple-server-side-rendering-routing-page-transitions-nuxt-js/)
 - [4 Important Changes In Vue.js 2.4.0](http://vuejsdevelopers.com/2017/07/17/vue-js-2-4-important-features/)
-- [Swappable Dynamic Components in Vue.js](https://alligator.io/vuejs/dynamic-components/)
-- [3 Code Splitting Patterns For VueJS and Webpack](http://vuejsdevelopers.com/2017/07/08/vue-js-3-ways-code-splitting-webpack/)[code splitting]
 - [Pre-Render A Vue.js App (With Node Or Laravel)](https://www.codementor.io/vuejsdevelopers/pre-render-a-vue-js-app-with-node-or-laravel-9ex1g5clg)
 - [Integrating RxJS with Vue.js](https://alligator.io/vuejs/using-rxjs/)
-- [Announcing LogRocket for Vue.js](https://blog.logrocket.com/announcing-support-for-vue-js-and-vuex-e44e5856b1d7) [vuex][log]
 - [A modern way to do E2E testing for Vue.js apps](https://hackernoon.com/a-modern-way-to-do-e2e-testing-for-vue-js-apps-cebe0a07499c)
 - [Use Vue.js to create custom web components](http://vuetips.com/vue-web-components)
 - [Create a Desktop Quiz Application Using Vue.js and Electron](https://scotch.io/tutorials/create-a-desktop-quiz-application-using-vue-js-and-electron)

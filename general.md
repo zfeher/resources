@@ -17,7 +17,8 @@
 - [Itsy Bitsy Data Structures](https://github.com/thejameskyle/itsy-bitsy-data-structures?utm_source=ESnextNews.com&utm_medium=Weekly+Newsletter&utm_campaign=2017-02-28)
 
 
-## Management
+## Management / Productivity
+- [Ten Productivity Tips for Software Developers](http://www.zsoltnagy.eu/ten-productivity-tips-for-software-developers/)
 - [Three Goals for Effective Backlog Management](https://spin.atomicobject.com/2017/06/14/effective-backlog-management-goals/)
 
 
