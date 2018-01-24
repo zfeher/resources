@@ -184,6 +184,10 @@
 - [Optimization killers](https://github.com/petkaantonov/bluebird/wiki/Optimization-killers)
 - [10 things I learned making the fastest site in the world](https://hackernoon.com/10-things-i-learned-making-the-fastest-site-in-the-world-18a0e1cdf4a7#.dr9tgftzw)
 
+### Related
+- [lighthouse](https://github.com/GoogleChrome/lighthouse)
+- [WebPagetest](https://www.webpagetest.org)
+
 
 ## Development
 - [ngrok](https://ngrok.com) // share localhost stuff via tunneling
