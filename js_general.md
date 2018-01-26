@@ -611,7 +611,7 @@
 
 
 ## State Management
-- [The Rise Of The State Machines](https://www.smashingmagazine.com/2018/01/rise-state-machines/)
+- [The Rise Of The State Machines](https://www.smashingmagazine.com/2018/01/rise-state-machines/)[state machine]
 - [A blockchain-backed Redux clone in 105 lines of code](https://swizec.com/blog/blockchain-backed-redux-clone-105-lines-code/swizec/7980)
 - [The Ugly Side Of Redux](https://codeburst.io/the-ugly-side-of-redux-6591fde68200)
 - [The future of state management - Managing your local data in Apollo Client with apollo-link-state](https://dev-blog.apollodata.com/the-future-of-state-management-dd410864cae2)
@@ -642,6 +642,9 @@
 
 ### Related Libs
 - [stent](https://github.com/krasimir/stent)
+- [machina.js](https://github.com/ifandelse/machina.js)
+- [xstate](https://github.com/davidkpiano/xstate)
+- [javascript-state-machine](https://github.com/davestewart/javascript-state-machine/blob/master/docs/readme.md)
 - [store.js](https://github.com/marcuswestin/store.js)
 - [LogRocket](https://logrocket.com) [redux][vuex]
 - [Alt](http://alt.js.org)
