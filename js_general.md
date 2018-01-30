@@ -102,6 +102,7 @@
 
 
 ## General
+- [JavaScript Decorators for Declarative and Readable Code](http://blog.mgechev.com/2018/01/29/javascript-decorators-aop-autobind-memoization/)
 - [Regular Expressions Demystified: RegEx isn’t as hard as it looks](https://medium.freecodecamp.org/regular-expressions-demystified-regex-isnt-as-hard-as-it-looks-617b55cf787)[regexp]
 - [Modern Front-End Frameworks should be less of a “frame” and more of a “work”](https://medium.com/@eavichay/https-medium-com-eavichay-modern-front-end-frameworks-should-be-a-less-of-a-frame-and-more-of-a-work-c6703f2a5b58)
 - [How to debug Front-end: Console](https://blog.pragmatists.com/how-to-debug-front-end-console-3456e4ee5504)
@@ -483,6 +484,7 @@
 - [3 Code Splitting Patterns For VueJS and Webpack](http://vuejsdevelopers.com/2017/07/08/vue-js-3-ways-code-splitting-webpack/)[code splitting]
   - [Dynamic imports + common chunks](https://github.com/webpack/webpack/issues/4392)
 
+- [Creating a Vue.js Serverless Checkout Form: Setup and Testing](https://css-tricks.com/creating-vue-js-serverless-checkout-part-one/?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=Vue.js%20Developers)[stripe]
 - [Swappable Dynamic Components in Vue.js](https://alligator.io/vuejs/dynamic-components/)
 - [Announcing LogRocket for Vue.js](https://blog.logrocket.com/announcing-support-for-vue-js-and-vuex-e44e5856b1d7)
 - [4 AJAX Patterns For Vue.js Apps](https://vuejsdevelopers.com/2017/08/28/vue-js-ajax-recipes/)
