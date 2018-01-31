@@ -129,7 +129,6 @@
 - [Copying to Clipboard Using Vanilla JavaScript](https://alligator.io/js/copying-to-clipboard/)[copy]
 - [Copy To Clipboard in JavaScript](http://www.codingdefined.com/2017/02/copy-to-clipboard-in-javascript.html)[copy]
 - [JavaScript APIs: Console](https://hackernoon.com/javascript-apis-console-23ebce270419#.kpb34ippg)
-- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 - [Three Rules For Structuring (Redux) Applications](http://jaysoo.ca/2016/02/28/organizing-redux-application/) [react][redux][project structure][organization]
   - [The Anatomy Of A React & Redux Module (Applying The Three Rules)](http://jaysoo.ca/2016/02/28/applying-code-organization-rules-to-concrete-redux-code/)
   - [Additional Guidelines For (Redux) Project Structure](http://jaysoo.ca/2016/12/12/additional-guidelines-for-project-structure/)
@@ -537,6 +536,7 @@
 - [Vue.js](https://vuejs.org)
 
 ### Related
+- [Quasar](https://github.com/quasarframework/quasar)
 - [vuex-loading](https://github.com/f/vuex-loading)
 - [vuetron](https://github.com/vuetwo/vuetron)
 - [ream](https://github.com/ream/ream)
@@ -617,6 +617,11 @@
 
 
 ## State Management
+- [You are managing state? Think twice.](http://krasimirtsonev.com/blog/article/managing-state-in-javascript-with-state-machines-stent)[stent][state machine]
+- [Getting from Redux to a state machine](http://krasimirtsonev.com/blog/article/getting-from-redux-to-state-machine-with-stent)[stent][state machine]
+- [Robust React User Interfaces with Finite State Machines](https://css-tricks.com/robust-react-user-interfaces-with-finite-state-machines/)[state machine]
+- [8 things to learn in React before using Redux](https://www.robinwieruch.de/learn-react-before-using-redux/)[redux][mobx]
+- [Redux or MobX: An attempt to dissolve the Confusion](https://www.robinwieruch.de/redux-mobx-confusion/)[redux][mobx]
 - [The Rise Of The State Machines](https://www.smashingmagazine.com/2018/01/rise-state-machines/)[state machine]
 - [A blockchain-backed Redux clone in 105 lines of code](https://swizec.com/blog/blockchain-backed-redux-clone-105-lines-code/swizec/7980)
 - [The Ugly Side Of Redux](https://codeburst.io/the-ugly-side-of-redux-6591fde68200)
@@ -793,6 +798,7 @@
 
 
 ## Module loader/Module Bundler/Task Runner, CI, Build
+- [Confused about the different types of dependencies in NPM or Yarn?](https://medium.com/@rishabhsrao/confused-about-the-different-types-of-dependencies-in-npm-or-yarn-2c81864145df)
 - [Native ES Modules in NodeJS: Status And Future Directions, Part I](https://medium.com/@giltayar)[mjs][cjs]
 - [Everything You Need To Know About Parcel: The Blazing Fast Web App Bundler](https://medium.freecodecamp.org/all-you-need-to-know-about-parcel-dbe151b70082)[parcel]
 - [A study about how to improve frontend dev experience without a bundler](https://codeburst.io/a-study-about-how-to-improve-frontend-dev-experience-without-a-bundler-1b4c3a461a35)[unchained]
