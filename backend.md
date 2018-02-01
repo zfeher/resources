@@ -22,6 +22,7 @@
 - [How to Mock Data for Node.js Applications using Faker.js](https://hackernoon.com/how-to-mock-data-for-node-js-applications-using-faker-js-b1f4c0e78102)
 
 ### Related Libs
+- [json-server](https://github.com/typicode/json-server)
 - [Faker.js](https://github.com/marak/Faker.js/)
 
 

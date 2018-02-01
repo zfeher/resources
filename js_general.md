@@ -102,6 +102,8 @@
 
 
 ## General
+- [Please Stop Using Local Storage](https://dev.to/rdegges/please-stop-using-local-storage-1i04)
+- [Ways to Use Javascript to Redirect to Another Page](https://love2dev.com/blog/ways-to-use-javascript-redirect-to-another-page/)
 - [JavaScript Decorators for Declarative and Readable Code](http://blog.mgechev.com/2018/01/29/javascript-decorators-aop-autobind-memoization/)
 - [Regular Expressions Demystified: RegEx isn’t as hard as it looks](https://medium.freecodecamp.org/regular-expressions-demystified-regex-isnt-as-hard-as-it-looks-617b55cf787)[regexp]
 - [Modern Front-End Frameworks should be less of a “frame” and more of a “work”](https://medium.com/@eavichay/https-medium-com-eavichay-modern-front-end-frameworks-should-be-a-less-of-a-frame-and-more-of-a-work-c6703f2a5b58)
@@ -617,6 +619,7 @@
 
 
 ## State Management
+- [State Management with MobX State Tree](https://medium.com/react-native-training/state-management-with-mobx-state-tree-373f9f2dc68a)
 - [You are managing state? Think twice.](http://krasimirtsonev.com/blog/article/managing-state-in-javascript-with-state-machines-stent)[stent][state machine]
 - [Getting from Redux to a state machine](http://krasimirtsonev.com/blog/article/getting-from-redux-to-state-machine-with-stent)[stent][state machine]
 - [Robust React User Interfaces with Finite State Machines](https://css-tricks.com/robust-react-user-interfaces-with-finite-state-machines/)[state machine]
@@ -652,6 +655,7 @@
 - [10 Tips for Better Redux Architecture](https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44#.c92fz9hwb) [redux]
 
 ### Related Libs
+- [mobx-state-tree](https://github.com/mobxjs/mobx-state-tree)
 - [stent](https://github.com/krasimir/stent)
 - [machina.js](https://github.com/ifandelse/machina.js)
 - [xstate](https://github.com/davidkpiano/xstate)
@@ -726,6 +730,7 @@
 
 
 ## Testing
+- [Automatic visual diffing with Puppeteer](https://meowni.ca/posts/2017-puppeteer-tests/)[puppeteer]
 - [Stubbing HTTP Requests With Sinon](http://mherman.org/blog/2017/11/06/stubbing-http-requests-with-sinon/#.WgWoKqtaOUl)[sinon]
 - [Test your DOM with Data Attributes](https://codeburst.io/test-your-dom-with-data-attributes-44fccc43ed4b)
 - [End-to-end Tests that Don’t Suck with Puppeteer](https://ropig.com/blog/end-end-tests-dont-suck-puppeteer/)
