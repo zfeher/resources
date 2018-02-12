@@ -146,7 +146,7 @@
 ## Editor/IDE
 - [Visual Studio Code](https://code.visualstudio.com/)
   - [Awesome VSCode](https://github.com/viatsko/awesome-vscode)
-  - [Visual Studio Code treasures](https://medium.com/@0x1AD2/visual-studio-code-treasures-1accae07c60a)
+  - [Visual Studio Code treasures](https://medium.com/wehkamp-techblog/visual-studio-code-treasures-1accae07c60a)
   - [JavaScript Extensions Part 1](https://code.visualstudio.com/blogs/2016/09/14/js_roundup_1)
   - [JavaScript Extensions Part 2](http://code.visualstudio.com/blogs/2016/10/31/js_roundup_2)
   - Extensions

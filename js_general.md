@@ -102,6 +102,8 @@
 
 
 ## General
+
+- [Multiple Inheritance in JS](https://itnext.io/multiple-inheritance-in-js-d39244c791a9)
 - [Please Stop Using Local Storage](https://dev.to/rdegges/please-stop-using-local-storage-1i04)
 - [Ways to Use Javascript to Redirect to Another Page](https://love2dev.com/blog/ways-to-use-javascript-redirect-to-another-page/)
 - [JavaScript Decorators for Declarative and Readable Code](http://blog.mgechev.com/2018/01/29/javascript-decorators-aop-autobind-memoization/)
@@ -460,6 +462,8 @@
 
 
 ## Components
+
+- [Developing Apps With Styled-Components](https://blog.getty.io/developing-apps-with-styled-components-e9f56cd0f4c5)[react][styled components]
 - [How “Controllable” React components maximize reusability](https://medium.com/myheritage-engineering/how-controllable-react-components-maximize-reusability-86e3d233fa8e)
 - [Simple React Patterns](https://www.codementor.io/lucasmreis/simple-react-patterns-dd9ztprpe)[higher order component][hoc][react]
 - [Smart and Dumb Components in React](https://medium.com/@bloomca/smart-and-dumb-components-in-react-9f2607ae6747)
@@ -489,6 +493,7 @@
 - [3 Code Splitting Patterns For VueJS and Webpack](http://vuejsdevelopers.com/2017/07/08/vue-js-3-ways-code-splitting-webpack/)[code splitting]
   - [Dynamic imports + common chunks](https://github.com/webpack/webpack/issues/4392)
 
+- [Building an Autcomplete Component with Vue.js](https://alligator.io/vuejs/vue-autocomplete-component/)
 - [Creating a Vue.js Serverless Checkout Form: Setup and Testing](https://css-tricks.com/creating-vue-js-serverless-checkout-part-one/?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=Vue.js%20Developers)[stripe]
 - [Swappable Dynamic Components in Vue.js](https://alligator.io/vuejs/dynamic-components/)
 - [Announcing LogRocket for Vue.js](https://blog.logrocket.com/announcing-support-for-vue-js-and-vuex-e44e5856b1d7)
@@ -730,6 +735,8 @@
 
 
 ## Testing
+
+- [An Overview of JavaScript Testing in 2018](https://medium.com/welldone-software/an-overview-of-javascript-testing-in-2018-f68950900bc3)
 - [Automatic visual diffing with Puppeteer](https://meowni.ca/posts/2017-puppeteer-tests/)[puppeteer]
 - [Stubbing HTTP Requests With Sinon](http://mherman.org/blog/2017/11/06/stubbing-http-requests-with-sinon/#.WgWoKqtaOUl)[sinon]
 - [Test your DOM with Data Attributes](https://codeburst.io/test-your-dom-with-data-attributes-44fccc43ed4b)
