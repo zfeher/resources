@@ -494,6 +494,8 @@
   - [Dynamic imports + common chunks](https://github.com/webpack/webpack/issues/4392)
 
 - [Building an Autcomplete Component with Vue.js](https://alligator.io/vuejs/vue-autocomplete-component/)
+- [How not to Vue](https://itnext.io/how-not-to-vue-18f16fe620b5)
+- [Authentication Best Practices for Vue](https://blog.sqreen.io/authentication-best-practices-vue/)
 - [Creating a Vue.js Serverless Checkout Form: Setup and Testing](https://css-tricks.com/creating-vue-js-serverless-checkout-part-one/?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=Vue.js%20Developers)[stripe]
 - [Swappable Dynamic Components in Vue.js](https://alligator.io/vuejs/dynamic-components/)
 - [Announcing LogRocket for Vue.js](https://blog.logrocket.com/announcing-support-for-vue-js-and-vuex-e44e5856b1d7)
@@ -544,6 +546,7 @@
 
 ### Related
 - [Quasar](https://github.com/quasarframework/quasar)
+- [vue-enterprise-boilerplate](https://github.com/chrisvfritz/vue-enterprise-boilerplate)
 - [vuex-loading](https://github.com/f/vuex-loading)
 - [vuetron](https://github.com/vuetwo/vuetron)
 - [ream](https://github.com/ream/ream)
@@ -841,6 +844,7 @@
 - [History and Background of JavaScript Module Loaders](https://appendto.com/2016/06/the-short-history-of-javascript-module-loaders/)
 
 ### Related Libs
+- [Polyfill.io](https://polyfill.io/v2/docs/)
 - [Parcel](https://github.com/parcel-bundler/parcel)
 - [Brunch](http://brunch.io)
 - [webpack-common-shake](https://github.com/indutny/webpack-common-shake)
