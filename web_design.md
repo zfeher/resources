@@ -25,6 +25,8 @@
 
 
 ## CSS
+- [Everything you need to know about CSS Variables](https://medium.freecodecamp.org/everything-you-need-to-know-about-css-variables-c74d922ea855)[tutorial][variables]
+- [Responsive Components: a Solution to the Container Queries Problem](https://philipwalton.com/articles/responsive-components-a-solution-to-the-container-queries-problem/)[container query]
 - [The “Blur Up” Technique for Loading Background Images](https://css-tricks.com/the-blur-up-technique-for-loading-background-images/)
 - [Grid Garden](http://cssgridgarden.com)[grid][game]
 - [Flexbox and Grids, your layout’s best friends](https://aerolab.co/blog/flexbox-grids/)[flex][grid]

@@ -212,6 +212,7 @@
 
 
 ## JSON
+- [What you didn’t know about JSON.parse](https://abdulapopoola.com/2018/02/26/what-you-didnt-know-about-json-parse/)
 - [What you didn’t know about JSON.Stringify](https://abdulapopoola.com/2017/02/27/what-you-didnt-know-about-json-stringify/)
 
 
@@ -237,6 +238,7 @@
 
 
 ## Security / Payment
+- [Third party CSS is not safe](https://jakearchibald.com/2018/third-party-css-is-not-safe/)
 - Security Checklist for Full Stack Web Developers
   [part 1](https://blog.logrocket.com/security-for-fullstack-web-developers-part-1-a56340283f7c)
   [part 2](https://blog.logrocket.com/security-for-fullstack-developers-part-2-d97fa6382ec9)
@@ -487,6 +489,7 @@
 - [Flattening Deep Hierarchies of Components](http://blog.rangle.io/flattening-deep-hierarchies-of-components/)
 
 ### Related
+- [Storybook](https://storybook.js.org)
 - [Bit](https://github.com/teambit/bit)
 
 
@@ -498,12 +501,15 @@
 - [3 Code Splitting Patterns For VueJS and Webpack](http://vuejsdevelopers.com/2017/07/08/vue-js-3-ways-code-splitting-webpack/)[code splitting]
   - [Dynamic imports + common chunks](https://github.com/webpack/webpack/issues/4392)
 
+- [Testing Vue web applications with Vuex data store & REST backend](https://www.cypress.io/blog/2017/11/28/testing-vue-web-application-with-vuex-data-store-and-rest-backend/#)[test][cypress][e2e]
+- [Autosaving with Vuex](https://dev.to/isaacandsuch/autosaving-with-vuex-3he5)[vuex][autosave]
 - [Cancelling async operations in Vue.js](https://codeburst.io/cancelling-async-operations-in-vue-js-3d0f3c2de598)[promise]
 - [Setting up JWT authentication with Laravel and Vue JS - Part 1](http://blog.peterplucinski.com/setting-up-jwt-authentication-with-laravel-and-vue-part-1/?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=Vue.js%20Developers)[jwt][tutorial][authentication]
 - [Higher Order Components in Vue.js](https://medium.com/bethink-pl/higher-order-components-in-vue-js-a79951ac9176)[hoc][tutorial]
 - [Advanced Server-Side Rendering With Laravel & Vue: Multi-Page App](https://www.codementor.io/vuejsdevelopers/advanced-server-side-rendering-with-laravel-vue-multi-page-app-e8w50850x)[ssr]
 - [Let’s Build a Custom Vue Router ](https://css-tricks.com/build-a-custom-vue-router/)[tutorial][route]
 - [Creating Reusable Transitions in Vue](https://vuejsdevelopers.com/2018/02/26/vue-js-reusable-transitions/)[animation][transition][reusable]
+- [How to Create an Accessible Autocomplete Component with Vue.js](https://alligator.io/vuejs/vue-a11y-autocomplete/)[aria][accessibility]
 - [Building an Autcomplete Component with Vue.js](https://alligator.io/vuejs/vue-autocomplete-component/)
 - [How not to Vue](https://itnext.io/how-not-to-vue-18f16fe620b5)
 - [Authentication Best Practices for Vue](https://blog.sqreen.io/authentication-best-practices-vue/)
@@ -592,6 +598,7 @@
 
 
 ## React
+- [Top React and Redux Packages for Faster Development](https://codeburst.io/top-react-and-redux-packages-for-faster-development-5fa0ace42fe7)
 - [Using React Fragments for the first time](https://javascriptplayground.com/blog/2017/12/react-fragments/)
 - [How to greatly improve your React app performance](https://medium.com/myheritage-engineering/how-to-greatly-improve-your-react-app-performance-e70f7cbbb5f6?mkt_tok=eyJpIjoiTUdVMFlUSmlZbUl3TjJZMiIsInQiOiJGNFJqaGtSdmNXWEw1SmgxdEhKTzJaazhyajJvVDNkNDRpRmdpdU1ObFVkWHlEbDZUT1lFcFRuWFNLMjVUbk5hWUhNd0JudzFlcjJhQlZDdHB2aXRIT2pzQlNyaEVLS1VqWDhKTXNiWGluand3N3ZqOVBDR09IcUhRZWZZbGljOCJ9)[performance]
 - [Introduction to react vr](https://www.dailydrip.com/topics/react/drips/introduction-to-react-vr)[vr]
