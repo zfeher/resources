@@ -1,4 +1,6 @@
 ## Unsorted
+
+- [The Intersection Observer API](https://blog.arnellebalane.com/the-intersection-observer-api-d441be0b088d)
 - [Intersection Observer: Track Elements Scrolling Into View](https://webdesign.tutsplus.com/tutorials/how-to-intersection-observer--cms-30250?utm_source=twitter&utm_medium=social&utm_campaign=social_twtr_tuts_web-design)
 - [Observing Intersection Observers](https://davidwalsh.name/intersection-observers)
 - [Understanding the Critical Rendering Path](https://bitsofco.de/understanding-the-critical-rendering-path/)
@@ -25,6 +27,8 @@
 
 
 ## CSS
+
+- [30 Seconds of CSS](https://atomiks.github.io/30-seconds-of-css/#custom-text-selection)
 - [Everything you need to know about CSS Variables](https://medium.freecodecamp.org/everything-you-need-to-know-about-css-variables-c74d922ea855)[tutorial][variables]
 - [Responsive Components: a Solution to the Container Queries Problem](https://philipwalton.com/articles/responsive-components-a-solution-to-the-container-queries-problem/)[container query]
 - [The “Blur Up” Technique for Loading Background Images](https://css-tricks.com/the-blur-up-technique-for-loading-background-images/)

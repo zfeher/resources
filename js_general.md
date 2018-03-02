@@ -103,6 +103,7 @@
 
 ## General
 
+- [How GDPR Will Change The Way You Develop](https://www.smashingmagazine.com/2018/02/gdpr-for-web-developers/)[gdpr]
 - [Multiple Inheritance in JS](https://itnext.io/multiple-inheritance-in-js-d39244c791a9)
 - [Please Stop Using Local Storage](https://dev.to/rdegges/please-stop-using-local-storage-1i04)
 - [Ways to Use Javascript to Redirect to Another Page](https://love2dev.com/blog/ways-to-use-javascript-redirect-to-another-page/)
@@ -429,6 +430,8 @@
 
 
 ## Typescript
+
+- [Manual Typing is No Fun: Introducing TypeWiz!](https://medium.com/@urish/manual-typing-is-no-fun-introducing-typewiz-58e3e8813f4c)
 - [TypeScript 2.4: Spelling Correction](https://blog.mariusschulz.com/2017/12/08/typescript-2-4-spelling-correction)
 - [Pattern Matching with TypeScript](https://pattern-matching-with-typescript.alabor.me)
 - [TypeScript 2.3: Downlevel Iteration for ES3/ES5](https://blog.mariusschulz.com/2017/06/30/typescript-2-3-downlevel-iteration-for-es3-es5)
@@ -451,6 +454,10 @@
 - [TypeScript 2.0: Read-Only Properties](https://blog.mariusschulz.com/2016/10/31/typescript-2-0-read-only-properties)
 - [TypeSearch](http://microsoft.github.io/TypeSearch/)
 - [How to write multi-module Typescript declaration files](https://medium.com/@DzoQiEuoi/how-to-write-multi-module-typescript-declaration-files-8f45935636d2#.ja6g8k90v)
+
+### Related
+
+- [TypeWiz](https://github.com/urish/typewiz)
 
 
 ## Types, runtime typecheck, etc
@@ -598,6 +605,8 @@
 
 
 ## React
+
+- [9 React Tools To Master Your Component Workflow](https://blog.bitsrc.io/9-tools-and-libraries-to-boost-your-react-component-workflow-6ff4b49511c2)
 - [Top React and Redux Packages for Faster Development](https://codeburst.io/top-react-and-redux-packages-for-faster-development-5fa0ace42fe7)
 - [Using React Fragments for the first time](https://javascriptplayground.com/blog/2017/12/react-fragments/)
 - [How to greatly improve your React app performance](https://medium.com/myheritage-engineering/how-to-greatly-improve-your-react-app-performance-e70f7cbbb5f6?mkt_tok=eyJpIjoiTUdVMFlUSmlZbUl3TjJZMiIsInQiOiJGNFJqaGtSdmNXWEw1SmgxdEhKTzJaazhyajJvVDNkNDRpRmdpdU1ObFVkWHlEbDZUT1lFcFRuWFNLMjVUbk5hWUhNd0JudzFlcjJhQlZDdHB2aXRIT2pzQlNyaEVLS1VqWDhKTXNiWGluand3N3ZqOVBDR09IcUhRZWZZbGljOCJ9)[performance]
@@ -645,6 +654,7 @@
 
 
 ## State Management
+- [Redesigning Redux](https://hackernoon.com/redesigning-redux-b2baee8b8a38)[redux][rematch]
 - [State Management with MobX State Tree](https://medium.com/react-native-training/state-management-with-mobx-state-tree-373f9f2dc68a)
 - [You are managing state? Think twice.](http://krasimirtsonev.com/blog/article/managing-state-in-javascript-with-state-machines-stent)[stent][state machine]
 - [Getting from Redux to a state machine](http://krasimirtsonev.com/blog/article/getting-from-redux-to-state-machine-with-stent)[stent][state machine]
@@ -681,6 +691,7 @@
 - [10 Tips for Better Redux Architecture](https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44#.c92fz9hwb) [redux]
 
 ### Related Libs
+- [Rematch](https://github.com/rematch/rematch)
 - [mobx-state-tree](https://github.com/mobxjs/mobx-state-tree)
 - [stent](https://github.com/krasimir/stent)
 - [machina.js](https://github.com/ifandelse/machina.js)
