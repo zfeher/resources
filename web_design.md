@@ -28,6 +28,7 @@
 
 ## CSS
 
+- [How to make responsiveness super simple with CSS Variables](https://medium.freecodecamp.org/how-to-make-responsiveness-super-simple-with-css-variables-8c90ebf80d7f)
 - [30 Seconds of CSS](https://atomiks.github.io/30-seconds-of-css/#custom-text-selection)
 - [Everything you need to know about CSS Variables](https://medium.freecodecamp.org/everything-you-need-to-know-about-css-variables-c74d922ea855)[tutorial][variables]
 - [Responsive Components: a Solution to the Container Queries Problem](https://philipwalton.com/articles/responsive-components-a-solution-to-the-container-queries-problem/)[container query]

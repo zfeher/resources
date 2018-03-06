@@ -477,6 +477,7 @@
 
 ## Components
 
+- [How to package your React Component for distribution via NPM](https://itnext.io/how-to-package-your-react-component-for-distribution-via-npm-d32d4bf71b4f)[react][npm][publish]
 - [Developing Apps With Styled-Components](https://blog.getty.io/developing-apps-with-styled-components-e9f56cd0f4c5)[react][styled components]
 - [How “Controllable” React components maximize reusability](https://medium.com/myheritage-engineering/how-controllable-react-components-maximize-reusability-86e3d233fa8e)
 - [Simple React Patterns](https://www.codementor.io/lucasmreis/simple-react-patterns-dd9ztprpe)[higher order component][hoc][react]
@@ -606,6 +607,8 @@
 
 ## React
 
+- [How I wrote the world’s fastest React memoization library](https://itnext.io/how-i-wrote-the-worlds-fastest-react-memoization-library-535f89fc4a17)
+- [Ultimate React Component Patterns with Typescript 2.8](https://medium.com/@martin_hotell/ultimate-react-component-patterns-with-typescript-2-8-82990c516935)
 - [Bringing Together React, D3, And Their Ecosystem](https://www.smashingmagazine.com/2018/02/react-d3-ecosystem/)
 - [9 React Tools To Master Your Component Workflow](https://blog.bitsrc.io/9-tools-and-libraries-to-boost-your-react-component-workflow-6ff4b49511c2)
 - [Top React and Redux Packages for Faster Development](https://codeburst.io/top-react-and-redux-packages-for-faster-development-5fa0ace42fe7)
