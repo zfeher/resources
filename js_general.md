@@ -606,6 +606,7 @@
 
 ## React
 
+- [Bringing Together React, D3, And Their Ecosystem](https://www.smashingmagazine.com/2018/02/react-d3-ecosystem/)
 - [9 React Tools To Master Your Component Workflow](https://blog.bitsrc.io/9-tools-and-libraries-to-boost-your-react-component-workflow-6ff4b49511c2)
 - [Top React and Redux Packages for Faster Development](https://codeburst.io/top-react-and-redux-packages-for-faster-development-5fa0ace42fe7)
 - [Using React Fragments for the first time](https://javascriptplayground.com/blog/2017/12/react-fragments/)
@@ -654,6 +655,8 @@
 
 
 ## State Management
+
+- [Replacing redux with the new React context API](https://medium.com/@DidierFranc/replacing-redux-with-the-new-react-context-api-8f5d01a00e8c)[react][redux]
 - [Redesigning Redux](https://hackernoon.com/redesigning-redux-b2baee8b8a38)[redux][rematch]
 - [State Management with MobX State Tree](https://medium.com/react-native-training/state-management-with-mobx-state-tree-373f9f2dc68a)
 - [You are managing state? Think twice.](http://krasimirtsonev.com/blog/article/managing-state-in-javascript-with-state-machines-stent)[stent][state machine]
@@ -844,6 +847,8 @@
 
 
 ## Module loader/Module Bundler/Task Runner, CI, Build
+- [The Lost Art of the Makefile](http://www.olioapps.com/blog/the-lost-art-of-the-makefile/)
+- [Announcing SMP: Speeding Up webpack With Timers](https://codeburst.io/announcing-smp-speeding-up-webpack-with-timers-8387d769e5c7)[webpack]
 - [Confused about the different types of dependencies in NPM or Yarn?](https://medium.com/@rishabhsrao/confused-about-the-different-types-of-dependencies-in-npm-or-yarn-2c81864145df)
 - [Native ES Modules in NodeJS: Status And Future Directions, Part I](https://medium.com/@giltayar)[mjs][cjs]
 - [Everything You Need To Know About Parcel: The Blazing Fast Web App Bundler](https://medium.freecodecamp.org/all-you-need-to-know-about-parcel-dbe151b70082)[parcel]
@@ -875,6 +880,7 @@
 - [History and Background of JavaScript Module Loaders](https://appendto.com/2016/06/the-short-history-of-javascript-module-loaders/)
 
 ### Related Libs
+- [prepack](https://github.com/facebook/prepack)
 - [Polyfill.io](https://polyfill.io/v2/docs/)
 - [Parcel](https://github.com/parcel-bundler/parcel)
 - [Brunch](http://brunch.io)
