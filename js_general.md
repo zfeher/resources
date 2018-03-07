@@ -607,6 +607,7 @@
 
 ## React
 
+- [Beyond React 16: Time Slicing and Suspense API](https://auth0.com/blog/time-slice-suspense-react16/)
 - [How I wrote the world’s fastest React memoization library](https://itnext.io/how-i-wrote-the-worlds-fastest-react-memoization-library-535f89fc4a17)
 - [Ultimate React Component Patterns with Typescript 2.8](https://medium.com/@martin_hotell/ultimate-react-component-patterns-with-typescript-2-8-82990c516935)
 - [Bringing Together React, D3, And Their Ecosystem](https://www.smashingmagazine.com/2018/02/react-d3-ecosystem/)
