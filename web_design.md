@@ -28,6 +28,8 @@
 
 ## CSS
 
+- [Say hello to houdini and the css paint api](https://codersblock.com/blog/say-hello-to-houdini-and-the-css-paint-api/)
+- [Lesser known CSS quirks & advanced tips](https://medium.com/@peedutuisk/lesser-known-css-quirks-oddities-and-advanced-tips-css-is-awesome-8ee3d16295bb?mkt_tok=eyJpIjoiWTJNM01EY3habUk0TUdVdyIsInQiOiI2YjF6cWY3K25IUURLTjJPYkIzUmVzSng0S1BKQ0VVOXRXd1wvcGRqd1RsUUs4U2VVVXcza0RTdjZrbU1BYmFOUW5DOEc0dHYxR3hWWEpMVWFsQmdiMjd1Z3dZVzZucHJHcnJteFFVUWVhNmpVV0xVMTBEMlJXZmF4cUE4OFFpS1oifQ%3D%3D)
 - [Responsive Vertical Rhythm with CSS Custom Properties and CSS Calc](https://zellwk.com/blog/responsive-vertical-rhythm/)
 - [Get to Know The Lobotomized Owl Selector](https://pineco.de/get-to-know-the-lobotomized-owl-selector/)
 - [How to make responsiveness super simple with CSS Variables](https://medium.freecodecamp.org/how-to-make-responsiveness-super-simple-with-css-variables-8c90ebf80d7f)

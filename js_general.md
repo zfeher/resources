@@ -103,6 +103,7 @@
 
 ## General
 
+- [await vs return vs return await](https://jakearchibald.com/2017/await-vs-return-vs-return-await/)
 - [30 Seconds of Code](https://30secondsofcode.org/)
 - [How GDPR Will Change The Way You Develop](https://www.smashingmagazine.com/2018/02/gdpr-for-web-developers/)[gdpr]
 - [Multiple Inheritance in JS](https://itnext.io/multiple-inheritance-in-js-d39244c791a9)
@@ -111,6 +112,7 @@
 - [JavaScript Decorators for Declarative and Readable Code](http://blog.mgechev.com/2018/01/29/javascript-decorators-aop-autobind-memoization/)
 - [Regular Expressions Demystified: RegEx isn’t as hard as it looks](https://medium.freecodecamp.org/regular-expressions-demystified-regex-isnt-as-hard-as-it-looks-617b55cf787)[regexp]
 - [Modern Front-End Frameworks should be less of a “frame” and more of a “work”](https://medium.com/@eavichay/https-medium-com-eavichay-modern-front-end-frameworks-should-be-a-less-of-a-frame-and-more-of-a-work-c6703f2a5b58)
+- [10 Tips for Javascript Debugging Like a PRO with Console](https://medium.com/appsflyer/10-tips-for-javascript-debugging-like-a-pro-with-console-7140027eb5f6)
 - [How to debug Front-end: Console](https://blog.pragmatists.com/how-to-debug-front-end-console-3456e4ee5504)
 - [async/await: It’s Good and Bad](https://medium.com/@benlesh/async-await-it-s-good-and-bad-15cf121ade40)
 - [A gentle Introduction to Ajax.](https://medium.com/@vick_onrails/a-gentle-introduction-to-ajax-1e88e3db4e79)[ajax]
@@ -411,6 +413,7 @@
 
 
 ## Progressive Web Apps / PWA
+- [Minimal viable service worker](https://adactio.com/journal/13540)
 - [Making our site more app-y](https://www.voorhoede.nl/en/blog/making-our-site-more-app-y/)
 - [Yes, That Web Project Should Be a PWA](https://alistapart.com/article/yes-that-web-project-should-be-a-pwa)
 - [Using Google Lighthouse To Enhance Progressive Web Apps](https://www.keycdn.com/blog/google-lighthouse/)
