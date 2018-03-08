@@ -103,6 +103,7 @@
 
 ## General
 
+- [30 Seconds of Code](https://30secondsofcode.org/)
 - [How GDPR Will Change The Way You Develop](https://www.smashingmagazine.com/2018/02/gdpr-for-web-developers/)[gdpr]
 - [Multiple Inheritance in JS](https://itnext.io/multiple-inheritance-in-js-d39244c791a9)
 - [Please Stop Using Local Storage](https://dev.to/rdegges/please-stop-using-local-storage-1i04)
