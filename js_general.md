@@ -175,6 +175,8 @@
 
 
 ## Performance, memory
+
+- [Taming huge collections of DOM nodes](https://codeburst.io/taming-huge-collections-of-dom-nodes-bebafdba332)
 - [Isolating memory leaks with Chrome’s Allocation Timeline](https://blog.logrocket.com/isolating-memory-leaks-with-chromes-allocation-timeline-244fa9c48e8e)
 - [How JavaScript works: memory management + how to handle 4 common memory leaks](https://blog.sessionstack.com/how-javascript-works-memory-management-how-to-handle-4-common-memory-leaks-3f28b94cfbec)
 - [The Critical Request](https://css-tricks.com/the-critical-request/)
