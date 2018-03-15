@@ -857,6 +857,8 @@
 
 
 ## Module loader/Module Bundler/Task Runner, CI, Build
+
+- [Webpack 4 Tutorial: from 0 Conf to Production Mode](https://www.valentinog.com/blog/webpack-4-tutorial/)[webpack]
 - [The Lost Art of the Makefile](http://www.olioapps.com/blog/the-lost-art-of-the-makefile/)
 - [Announcing SMP: Speeding Up webpack With Timers](https://codeburst.io/announcing-smp-speeding-up-webpack-with-timers-8387d769e5c7)[webpack]
 - [Confused about the different types of dependencies in NPM or Yarn?](https://medium.com/@rishabhsrao/confused-about-the-different-types-of-dependencies-in-npm-or-yarn-2c81864145df)
