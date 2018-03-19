@@ -105,6 +105,7 @@
 
 ## Conferences
 
+- [14 Events JavaScript Developers Should Attend In 2018](https://blog.jscrambler.com/14-events-javascript-developers-should-attend-in-2018/)
 - [https://css-tricks.com/guide-2017-conferences/](https://css-tricks.com/guide-2017-conferences/)
 - [JavaScript conferences you can look forward to in 2017](https://medium.freecodecamp.com/javascript-conferences-to-attend-in-2017-b46b288a5df0#.wh4t4oi0c)
 
@@ -116,6 +117,7 @@
 ## General
 
 - [JavaScript Modules Worth Using](https://hackernoon.com/javascipt-modules-worth-using-9aa7301e41ac)
+- [Best practices on how to work with collections in Javascript](https://advancedweb.hu/2018/03/13/dos_donts_collection_processing/)
 - [await vs return vs return await](https://jakearchibald.com/2017/await-vs-return-vs-return-await/)
 - [30 Seconds of Code](https://30secondsofcode.org/)
 - [How GDPR Will Change The Way You Develop](https://www.smashingmagazine.com/2018/02/gdpr-for-web-developers/)[gdpr]
@@ -190,6 +192,7 @@
 ## Performance, memory
 
 - [Taming huge collections of DOM nodes](https://codeburst.io/taming-huge-collections-of-dom-nodes-bebafdba332)
+- [17 JavaScript / node.js performance coding tips to make applications faster ](http://voidcanvas.com/javascript-performant-coding-tips/)
 - [Isolating memory leaks with Chrome’s Allocation Timeline](https://blog.logrocket.com/isolating-memory-leaks-with-chromes-allocation-timeline-244fa9c48e8e)
 - [How JavaScript works: memory management + how to handle 4 common memory leaks](https://blog.sessionstack.com/how-javascript-works-memory-management-how-to-handle-4-common-memory-leaks-3f28b94cfbec)
 - [The Critical Request](https://css-tricks.com/the-critical-request/)
@@ -257,6 +260,8 @@
 
 
 ## Security / Payment
+
+- [Protect your Node.js app from Cross-Site Request Forgery ](https://dev.to/dkundel/protect-your-nodejs-app-from-cross-site-request-forgery--46b9)
 - [Third party CSS is not safe](https://jakearchibald.com/2018/third-party-css-is-not-safe/)
 - Security Checklist for Full Stack Web Developers
   [part 1](https://blog.logrocket.com/security-for-fullstack-web-developers-part-1-a56340283f7c)
@@ -450,6 +455,7 @@
 
 ## Typescript
 
+- [Interface vs Type alias in TypeScript 2.7](https://medium.com/@martin_hotell/interface-vs-type-alias-in-typescript-2-7-2a8f1777af4c)
 - [Manual Typing is No Fun: Introducing TypeWiz!](https://medium.com/@urish/manual-typing-is-no-fun-introducing-typewiz-58e3e8813f4c)
 - [TypeScript 2.4: Spelling Correction](https://blog.mariusschulz.com/2017/12/08/typescript-2-4-spelling-correction)
 - [Pattern Matching with TypeScript](https://pattern-matching-with-typescript.alabor.me)
@@ -516,6 +522,7 @@
 - [Flattening Deep Hierarchies of Components](http://blog.rangle.io/flattening-deep-hierarchies-of-components/)
 
 ### Related
+- [react-powerplug](https://github.com/renatorib/react-powerplug/)
 - [Storybook](https://storybook.js.org)
 - [Bit](https://github.com/teambit/bit)
 
@@ -590,6 +597,8 @@
 - [Vue.js](https://vuejs.org)
 
 ### Related
+
+- [v-lazy-image](https://github.com/alexjoverm/v-lazy-image)
 - [Quasar](https://github.com/quasarframework/quasar)
 - [vue-enterprise-boilerplate](https://github.com/chrisvfritz/vue-enterprise-boilerplate)
 - [vuex-loading](https://github.com/f/vuex-loading)
