@@ -1,8 +1,10 @@
 ## Unsorted
+
 - [Getting started with ReasonML](http://2ality.com/2017/11/getting-started-reasonml.html?t=1&cn=ZmxleGlibGVfcmVjc18y&refsrc=email&iid=becb7c9ce58e4aa08739b43624689537&fl=4&uid=783211657027780608&nid=244+272699400)
 - [HyperApp: The 1 KB JavaScript Library for Building Front-End Apps](https://www.sitepoint.com/hyperapp-1-kb-javascript-library/)
 
 ### Related
+
 - [Reason](https://reasonml.github.io)
 - [RE:DOM](https://redom.js.org)
 - [StackBlitz](https://stackblitz.com)[playground][react][angular][ionic][vscode]
@@ -16,6 +18,7 @@
 
 
 ## Books
+
 - [The JavaScript Way](https://github.com/bpesquet/thejsway/)
 - [Exploring ES2016 and ES2017 - Dr. Axel Rauschmayer](http://exploringjs.com/es2016-es2017/index.html)
 - [SurviveJS - Webpack - v2.0](https://survivejs.com/webpack/preface/)
@@ -33,11 +36,13 @@
 
 
 ## News
+
 - [Sindre Sorhus](https://github.com/sindresorhus)[links][collection]
 - [How to keep updated with the JavaScript ecosystem?](https://medium.com/@sergiodxa/how-to-keep-updated-with-the-javascript-ecosystem-97c8e36c2c3f)
 - [My Front End Reading List](https://medium.com/code-divoire/my-front-end-reading-list-e43e98259a66)
 
 ### Related
+
 - [reddit/javascript](https://www.reddit.com/r/javascript/)
 - [HashNode](https://hashnode.com/nodes)
 - [Hackernoon](https://hackernoon.com)
@@ -48,14 +53,17 @@
 
 
 ## Conference Videos
+
 - [Curry On!](https://www.youtube.com/channel/UC-WICcSW1k3HsScuXxDrp0w)
 
 
 ## Video Courses
+
 - [Frontend Masters](https://frontendmasters.com/courses/) [legradi]
 
 
 ## Learning
+
 - [The secret to being a top developer is building things! Here’s a list of fun apps to build!](https://medium.freecodecamp.org/the-secret-to-being-a-top-developer-is-building-things-heres-a-list-of-fun-apps-to-build-aac61ac0736c)
 - [The Modern JavaScript Tutorial](https://javascript.info)
 - [Learn to Code by Making Games (2D & 3D)] (https://codeburst.io/learn-to-code-by-making-games-2d-3d-58b8758b167f)
@@ -74,15 +82,18 @@
 - [Common Misconceptions About Inheritance in JavaScript](https://medium.com/javascript-scene/common-misconceptions-about-inheritance-in-javascript-d5d9bab29b0a#.lkt23l2ay)
 
 ### Related Libs
+
 - [Stampit](https://github.com/stampit-org/stampit)
 - [stamp-utils](https://github.com/stampit-org/stamp-utils)
 
 
 ## Exercises
+
 - [Implementing The Sieve Of Eratosthenes in JavaScript](https://benmccormick.org/2017/11/28/sieveoferatosthenes/)[prime]
 
 
 ## Interview
+
 - [Front end interview preparation guide](https://github.com/Jobeir/front-end-interview-preparation-guide)
 - [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
 - [How the Internet works for a Front-End Developer](https://codeburst.io/how-the-internet-works-for-a-front-end-developer-528d72b801ce)
@@ -93,6 +104,7 @@
 
 
 ## Conferences
+
 - [https://css-tricks.com/guide-2017-conferences/](https://css-tricks.com/guide-2017-conferences/)
 - [JavaScript conferences you can look forward to in 2017](https://medium.freecodecamp.com/javascript-conferences-to-attend-in-2017-b46b288a5df0#.wh4t4oi0c)
 
@@ -103,6 +115,7 @@
 
 ## General
 
+- [JavaScript Modules Worth Using](https://hackernoon.com/javascipt-modules-worth-using-9aa7301e41ac)
 - [await vs return vs return await](https://jakearchibald.com/2017/await-vs-return-vs-return-await/)
 - [30 Seconds of Code](https://30secondsofcode.org/)
 - [How GDPR Will Change The Way You Develop](https://www.smashingmagazine.com/2018/02/gdpr-for-web-developers/)[gdpr]
@@ -515,6 +528,7 @@
 - [3 Code Splitting Patterns For VueJS and Webpack](http://vuejsdevelopers.com/2017/07/08/vue-js-3-ways-code-splitting-webpack/)[code splitting]
   - [Dynamic imports + common chunks](https://github.com/webpack/webpack/issues/4392)
 
+- [Using JSX with Vue and Why You Should Care](https://scotch.io/tutorials/using-jsx-with-vue-and-why-you-should-care?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=Vue.js%20Developers)[jsx]
 - [Testing Vue web applications with Vuex data store & REST backend](https://www.cypress.io/blog/2017/11/28/testing-vue-web-application-with-vuex-data-store-and-rest-backend/#)[test][cypress][e2e]
 - [Autosaving with Vuex](https://dev.to/isaacandsuch/autosaving-with-vuex-3he5)[vuex][autosave]
 - [Cancelling async operations in Vue.js](https://codeburst.io/cancelling-async-operations-in-vue-js-3d0f3c2de598)[promise]
