@@ -117,6 +117,7 @@
 
 ## General
 
+- [Top 50 Developer Tools of 2017](https://hackernoon.com/top-50-developer-tools-of-2017-7e616928416b)
 - [Cool Chrome DevTools tips and tricks you wish you knew already](https://medium.freecodecamp.org/cool-chrome-devtools-tips-and-tricks-you-wish-you-knew-already-f54f65df88d2)
 - [JavaScript Modules Worth Using](https://hackernoon.com/javascipt-modules-worth-using-9aa7301e41ac)
 - [Best practices on how to work with collections in Javascript](https://advancedweb.hu/2018/03/13/dos_donts_collection_processing/)
@@ -884,6 +885,7 @@
 
 ## Module loader/Module Bundler/Task Runner, CI, Build
 
+- [Decrease Front-end Size](https://developers.google.com/web/fundamentals/performance/webpack/decrease-frontend-size)[webpack]
 - [Webpack 4 Tutorial: from 0 Conf to Production Mode](https://www.valentinog.com/blog/webpack-4-tutorial/)[webpack]
 - [The Lost Art of the Makefile](http://www.olioapps.com/blog/the-lost-art-of-the-makefile/)
 - [Announcing SMP: Speeding Up webpack With Timers](https://codeburst.io/announcing-smp-speeding-up-webpack-with-timers-8387d769e5c7)[webpack]
