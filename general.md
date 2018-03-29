@@ -148,6 +148,7 @@
 - [Multiple Fonts: Alternative to Operator Mono in VSCode](https://medium.com/@zamamohammed/multiple-fonts-alternative-to-operator-mono-in-vscode-7745b52120a0)
 - [Visual Studio Code](https://code.visualstudio.com/)
   - [Awesome VSCode](https://github.com/viatsko/awesome-vscode)
+  - [Top JavaScript VSCode Extensions for Faster Development](https://codeburst.io/top-javascript-vscode-extensions-for-faster-development-c687c39596f5)
   - [Visual Studio Code treasures](https://medium.com/wehkamp-techblog/visual-studio-code-treasures-1accae07c60a)
   - [JavaScript Extensions Part 1](https://code.visualstudio.com/blogs/2016/09/14/js_roundup_1)
   - [JavaScript Extensions Part 2](http://code.visualstudio.com/blogs/2016/10/31/js_roundup_2)

@@ -37,6 +37,7 @@
 
 ## News
 
+- [https://frontendfront.com](https://frontendfront.com)
 - [Sindre Sorhus](https://github.com/sindresorhus)[links][collection]
 - [How to keep updated with the JavaScript ecosystem?](https://medium.com/@sergiodxa/how-to-keep-updated-with-the-javascript-ecosystem-97c8e36c2c3f)
 - [My Front End Reading List](https://medium.com/code-divoire/my-front-end-reading-list-e43e98259a66)
@@ -116,6 +117,7 @@
 
 ## General
 
+- [Cool Chrome DevTools tips and tricks you wish you knew already](https://medium.freecodecamp.org/cool-chrome-devtools-tips-and-tricks-you-wish-you-knew-already-f54f65df88d2)
 - [JavaScript Modules Worth Using](https://hackernoon.com/javascipt-modules-worth-using-9aa7301e41ac)
 - [Best practices on how to work with collections in Javascript](https://advancedweb.hu/2018/03/13/dos_donts_collection_processing/)
 - [await vs return vs return await](https://jakearchibald.com/2017/await-vs-return-vs-return-await/)
@@ -455,6 +457,7 @@
 
 ## Typescript
 
+- [A Look at TypeScript's Conditional Types](http://koerbitz.me/posts/a-look-at-typescripts-conditional-types.html)
 - [Interface vs Type alias in TypeScript 2.7](https://medium.com/@martin_hotell/interface-vs-type-alias-in-typescript-2-7-2a8f1777af4c)
 - [Manual Typing is No Fun: Introducing TypeWiz!](https://medium.com/@urish/manual-typing-is-no-fun-introducing-typewiz-58e3e8813f4c)
 - [TypeScript 2.4: Spelling Correction](https://blog.mariusschulz.com/2017/12/08/typescript-2-4-spelling-correction)
