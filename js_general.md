@@ -118,6 +118,9 @@
 ## General
 
 - [Top 50 Developer Tools of 2017](https://hackernoon.com/top-50-developer-tools-of-2017-7e616928416b)
+- [Observe changes in DOM using MutationObserver](https://codeburst.io/observe-changes-in-dom-using-mutationobserver-9c2705222751)
+- [Working with the new CSS Typed Object Model](https://developers.google.com/web/updates/2018/03/cssom)
+- [Accessing the DOM is not equal accessing the DOM – live vs. static element collections](https://www.stefanjudis.com/blog/accessing-the-dom-is-not-equal-accessing-the-dom/)
 - [Cool Chrome DevTools tips and tricks you wish you knew already](https://medium.freecodecamp.org/cool-chrome-devtools-tips-and-tricks-you-wish-you-knew-already-f54f65df88d2)
 - [JavaScript Modules Worth Using](https://hackernoon.com/javascipt-modules-worth-using-9aa7301e41ac)
 - [Best practices on how to work with collections in Javascript](https://advancedweb.hu/2018/03/13/dos_donts_collection_processing/)
@@ -163,6 +166,8 @@
 - [Web Developer Checklist](http://webdevchecklist.com)
 
 ### Related
+
+- [HotKeys.js](http://wangchujiang.com/hotkeys/)
 - [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 - [hapijs/bounce](https://github.com/hapijs/bounce)
 - [What Web Can Do Today](https://whatwebcando.today)
@@ -213,15 +218,19 @@
 - [10 things I learned making the fastest site in the world](https://hackernoon.com/10-things-i-learned-making-the-fastest-site-in-the-world-18a0e1cdf4a7#.dr9tgftzw)
 
 ### Related
+
 - [lighthouse](https://github.com/GoogleChrome/lighthouse)
 - [WebPagetest](https://www.webpagetest.org)
 
 
 ## Development
+
 - [ngrok](https://ngrok.com) // share localhost stuff via tunneling
 
 
 ## Machine Learning
+
+- [11 Javascript Machine Learning Libraries To Use In Your App](https://blog.bitsrc.io/11-javascript-machine-learning-libraries-to-use-in-your-app-c49772cca46c)
 - [5 Ways to Get Started with Machine Learning](https://www.sitepoint.com/5-ways-get-started-machine-learning/)
 - Machine Learning with JavaScript
   - [part 1](https://hackernoon.com/machine-learning-with-javascript-part-1-9b97f3ed4fe5)
@@ -229,10 +238,13 @@
 - [10 Machine Learning Examples in JavaScript](http://tutorialzine.com/2017/04/10-machine-learning-examples-in-javascript/)
 
 ### Related
+
+- [tfjs](https://github.com/tensorflow/tfjs)
 - [Probot](https://github.com/probot/probot)
 
 
 ## Web Workers
+
 - [JavaScript in parallel](http://50linesofco.de/post/2017-02-06-javascript-in-parallel-web-workers-transferables-and-sharedarraybuffer.html?utm_source=ESnextNews.com&utm_medium=Weekly+Newsletter&utm_campaign=2017-02-07)
 
 
@@ -282,19 +294,23 @@
 
 
 ## Keyboard
+
 - [Mousetrap](https://craig.is/killing/mice)
 
 
 ## Mixins
+
 - ["Real" Mixins with JavaScript Classes](http://justinfagnani.com/2015/12/21/real-mixins-with-javascript-classes/)
 
 
 ## Immutability
+
 - [You’re missing out on ImmutableJS Records](https://medium.com/@ahmadbamieh/immutablejs-records-bd369137da06)
 - [The Missing Immutable.js Manual with all the Examples you’ll ever need](http://untangled.io/the-missing-immutable-js-manual/)
 - [Embracing Immutable Architecture](https://medium.com/react-weekly/embracing-immutable-architecture-dc04e3f08543#.lkceku4fh) [react] [redux] [elm]
 
 ### Related Libs
+
 - [immutadot] (github.com/Zenika/immutadot)
 - [immer](https://github.com/mweststrate/immer)
 - [Mewt](https://github.com/sdgluck/mewt)
@@ -304,6 +320,7 @@
 
 
 ## Elm
+
 - Elm - Franzé Jr.
   - [part 1: General Aspects Between Elm And Js](https://www.dailydrip.com/blog/general-aspects-between-elm-and-js)
   - [part 2: Creating Html Elements And Using Libraries In Elm](https://www.dailydrip.com/blog/creating-html-elements-and-using-libraries-in-elm)
@@ -323,6 +340,8 @@
 
 
 ## Functional Programming (FP)
+
+- [Marble testing Observable Introduction](https://medium.com/@bencabanes/marble-testing-observable-introduction-1f5ad39231c)[rxjs]
 - [Alternative to JavaScript’s switch statement with a functional twist](https://codeburst.io/alternative-to-javascripts-switch-statement-with-a-functional-twist-3f572787ba1c)
 - [Get to know the Actor Model](https://monades.roperzh.com/get-to-know-the-actor-model/?utm_source=ESnextNews.com&utm_medium=Weekly+Newsletter&utm_campaign=2017-09-12)[actor]
 - [The Perfect API](https://james-forbes.com/?/posts/the-perfect-api)[task][maybe][either][lift][ap][of]
@@ -506,6 +525,7 @@
 
 ## Components
 
+- [Using Higher Order Components for Authenticated Routing](https://www.codementor.io/sahilmittal/using-higher-order-components-for-authenticated-routing-i1hcp6pc6)[react]
 - [How to package your React Component for distribution via NPM](https://itnext.io/how-to-package-your-react-component-for-distribution-via-npm-d32d4bf71b4f)[react][npm][publish]
 - [Developing Apps With Styled-Components](https://blog.getty.io/developing-apps-with-styled-components-e9f56cd0f4c5)[react][styled components]
 - [How “Controllable” React components maximize reusability](https://medium.com/myheritage-engineering/how-controllable-react-components-maximize-reusability-86e3d233fa8e)
@@ -532,6 +552,7 @@
 
 
 ## Vue.js
+
 - async components/code splitting
 - [4 Ways To Boost Your Vue.js App With Webpack](http://vuejsdevelopers.com/2017/06/18/vue-js-boost-your-app-with-webpack/)
 - [Code Splitting With Vue.js And Webpack](https://medium.com/js-dojo/code-splitting-with-vue-js-and-webpack-c9830b29d557)[webpack][code splitting][async component]
@@ -539,6 +560,7 @@
 - [3 Code Splitting Patterns For VueJS and Webpack](http://vuejsdevelopers.com/2017/07/08/vue-js-3-ways-code-splitting-webpack/)[code splitting]
   - [Dynamic imports + common chunks](https://github.com/webpack/webpack/issues/4392)
 
+- [Renderless Components in Vue.js](https://adamwathan.me/renderless-components-in-vuejs/)[slots][hoc][tutorial]
 - [Using JSX with Vue and Why You Should Care](https://scotch.io/tutorials/using-jsx-with-vue-and-why-you-should-care?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=Vue.js%20Developers)[jsx]
 - [Testing Vue web applications with Vuex data store & REST backend](https://www.cypress.io/blog/2017/11/28/testing-vue-web-application-with-vuex-data-store-and-rest-backend/#)[test][cypress][e2e]
 - [Autosaving with Vuex](https://dev.to/isaacandsuch/autosaving-with-vuex-3he5)[vuex][autosave]
@@ -640,6 +662,7 @@
 
 ## React
 
+- [Update on Async Rendering](https://reactjs.org/blog/2018/03/27/update-on-async-rendering.html)
 - [Beyond React 16: Time Slicing and Suspense API](https://auth0.com/blog/time-slice-suspense-react16/)
 - [How I wrote the world’s fastest React memoization library](https://itnext.io/how-i-wrote-the-worlds-fastest-react-memoization-library-535f89fc4a17)
 - [Ultimate React Component Patterns with Typescript 2.8](https://medium.com/@martin_hotell/ultimate-react-component-patterns-with-typescript-2-8-82990c516935)
@@ -693,6 +716,8 @@
 
 ## State Management
 
+- [Redux: Re-Rendering Caused by mapDispatchToProps ](https://spin.atomicobject.com/2018/04/02/redux-rerendering/)[redux]
+- [Dynamic Redux Reducers](https://levelup.gitconnected.com/dynamic-redux-reducers-f2889adb83fa)[redux]
 - [Replacing redux with the new React context API](https://medium.com/@DidierFranc/replacing-redux-with-the-new-react-context-api-8f5d01a00e8c)[react][redux]
 - [Redesigning Redux](https://hackernoon.com/redesigning-redux-b2baee8b8a38)[redux][rematch]
 - [State Management with MobX State Tree](https://medium.com/react-native-training/state-management-with-mobx-state-tree-373f9f2dc68a)
@@ -886,12 +911,14 @@
 ## Module loader/Module Bundler/Task Runner, CI, Build
 
 - [Decrease Front-end Size](https://developers.google.com/web/fundamentals/performance/webpack/decrease-frontend-size)[webpack]
+- [Tomorrow’s ES Modules Today!](https://medium.com/web-on-the-edge/tomorrows-es-modules-today-c53d29ac448c)[esm]
 - [Webpack 4 Tutorial: from 0 Conf to Production Mode](https://www.valentinog.com/blog/webpack-4-tutorial/)[webpack]
 - [The Lost Art of the Makefile](http://www.olioapps.com/blog/the-lost-art-of-the-makefile/)
 - [Announcing SMP: Speeding Up webpack With Timers](https://codeburst.io/announcing-smp-speeding-up-webpack-with-timers-8387d769e5c7)[webpack]
 - [Confused about the different types of dependencies in NPM or Yarn?](https://medium.com/@rishabhsrao/confused-about-the-different-types-of-dependencies-in-npm-or-yarn-2c81864145df)
 - [Native ES Modules in NodeJS: Status And Future Directions, Part I](https://medium.com/@giltayar)[mjs][cjs]
 - [Everything You Need To Know About Parcel: The Blazing Fast Web App Bundler](https://medium.freecodecamp.org/all-you-need-to-know-about-parcel-dbe151b70082)[parcel]
+- [How to Improve the Frontend Dev Experience without a Bundler](https://medium.com/dailyjs/a-study-about-how-to-improve-frontend-dev-experience-without-a-bundler-1b4c3a461a35)[unchained]
 - [A study about how to improve frontend dev experience without a bundler](https://codeburst.io/a-study-about-how-to-improve-frontend-dev-experience-without-a-bundler-1b4c3a461a35)[unchained]
 - [State of Modules in JavaScript](https://www.sitepen.com/blog/2017/10/26/state-of-modules-in-javascript/?utm_source=ESnextNews.com&utm_medium=Weekly+Newsletter&utm_campaign=2017-10-31)[esm]
 - [Critical CSS and Webpack: Automatically Minimize Render-Blocking CSS](https://medium.com/js-dojo/critical-css-and-webpack-automatically-minimize-render-blocking-css-5390850dad45)

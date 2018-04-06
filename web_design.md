@@ -12,6 +12,8 @@
 
 
 ## SVG
+
+- [A Comprehensive Guide to Clipping and Masking in SVG](https://webdesign.tutsplus.com/tutorials/a-comprehensive-guide-to-clipping-and-masking-in-svg--cms-30380)
 - [Transparent JPG (With SVG)](https://css-tricks.com/transparent-jpg-svg/)
 
 
@@ -28,6 +30,11 @@
 
 ## CSS
 
+- [Explanation of the CSS clear float property [Examples] ](https://dev.to/neshaz/explanation-of-the-css-clear-float-property-examples-5hd2)
+- [CSS-Modules: Why This Is the Most Significant Improvement to CSS in Years](https://x-team.com/blog/css-modules-a-new-way-to-css/)
+- [CSS Modules: Rethinking the Past](https://x-team.com/blog/css-modules-rethinking-the-past/)
+- [Contextual styling with custom properties](http://simurai.com/blog/2018/04/01/contextual-styling)
+- [How display: contents; Works](https://bitsofco.de/how-display-contents-works/)
 - [What’s the Deal with Margin Collapse?](https://jonathan-harrell.com/whats-the-deal-with-margin-collapse/)
 - [Say hello to houdini and the css paint api](https://codersblock.com/blog/say-hello-to-houdini-and-the-css-paint-api/)
 - [Lesser known CSS quirks & advanced tips](https://medium.com/@peedutuisk/lesser-known-css-quirks-oddities-and-advanced-tips-css-is-awesome-8ee3d16295bb?mkt_tok=eyJpIjoiWTJNM01EY3habUk0TUdVdyIsInQiOiI2YjF6cWY3K25IUURLTjJPYkIzUmVzSng0S1BKQ0VVOXRXd1wvcGRqd1RsUUs4U2VVVXcza0RTdjZrbU1BYmFOUW5DOEc0dHYxR3hWWEpMVWFsQmdiMjd1Z3dZVzZucHJHcnJteFFVUWVhNmpVV0xVMTBEMlJXZmF4cUE4OFFpS1oifQ%3D%3D)
@@ -125,6 +132,9 @@
 
 
 ## HTML
+
+- [How to Use The HTML5 Sectioning Elements](http://blog.teamtreehouse.com/use-html5-sectioning-elements)
+- [The most uncommon HTML5 tags you can use right now](https://codeburst.io/the-most-uncommon-html5-tags-52273fabc0a7)
 - [What’s New in HTML 5.2?](https://bitsofco.de/whats-new-in-html-5-2/)
 - [How You Can Use HTML5 Custom Data Attributes and Why](https://www.sitepoint.com/how-why-use-html5-custom-data-attributes/)
 - [What’s New in HTML 5.1](https://www.sitepoint.com/whats-new-in-html-5-1/)
