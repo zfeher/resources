@@ -30,6 +30,7 @@
 
 ## CSS
 
+- [Understanding Logical Properties And Values](https://www.smashingmagazine.com/2018/03/understanding-logical-properties-values/)
 - [Explanation of the CSS clear float property [Examples] ](https://dev.to/neshaz/explanation-of-the-css-clear-float-property-examples-5hd2)
 - [CSS-Modules: Why This Is the Most Significant Improvement to CSS in Years](https://x-team.com/blog/css-modules-a-new-way-to-css/)
 - [CSS Modules: Rethinking the Past](https://x-team.com/blog/css-modules-rethinking-the-past/)

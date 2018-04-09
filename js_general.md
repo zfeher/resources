@@ -117,6 +117,7 @@
 
 ## General
 
+- [ECMAScript 6 - Reflect](http://www.discoversdk.com/blog/ecmascript-6-reflect)
 - [Top 50 Developer Tools of 2017](https://hackernoon.com/top-50-developer-tools-of-2017-7e616928416b)
 - [Observe changes in DOM using MutationObserver](https://codeburst.io/observe-changes-in-dom-using-mutationobserver-9c2705222751)
 - [Working with the new CSS Typed Object Model](https://developers.google.com/web/updates/2018/03/cssom)
@@ -228,8 +229,9 @@
 - [ngrok](https://ngrok.com) // share localhost stuff via tunneling
 
 
-## Machine Learning
+## Machine Learning/Deep Learnings
 
+- [The Ultimate Guide on Deep Learning for web developers](http://www.zerotodeeplearning.com/blog/ultimate-guide-on-deep-learning-for-web-developers/)
 - [11 Javascript Machine Learning Libraries To Use In Your App](https://blog.bitsrc.io/11-javascript-machine-learning-libraries-to-use-in-your-app-c49772cca46c)
 - [5 Ways to Get Started with Machine Learning](https://www.sitepoint.com/5-ways-get-started-machine-learning/)
 - Machine Learning with JavaScript
@@ -560,6 +562,8 @@
 - [3 Code Splitting Patterns For VueJS and Webpack](http://vuejsdevelopers.com/2017/07/08/vue-js-3-ways-code-splitting-webpack/)[code splitting]
   - [Dynamic imports + common chunks](https://github.com/webpack/webpack/issues/4392)
 
+- [Creating Your Own Vue.js Router](https://vueschool.io/articles/tutorials/creating-your-own-router/86/)[tutorial]
+- Vue.js and Webpack 4 From Scratch: [Part 1](https://itnext.io/vuejs-and-webpack-4-from-scratch-part-1-94c9c28a534a), [Part 2](https://itnext.io/vue-js-and-webpack-4-from-scratch-part-2-5038cc9deffb), [Part 3](https://itnext.io/vue-js-and-webpack-4-from-scratch-part-3-3f68d2a3c127)
 - [Renderless Components in Vue.js](https://adamwathan.me/renderless-components-in-vuejs/)[slots][hoc][tutorial]
 - [Using JSX with Vue and Why You Should Care](https://scotch.io/tutorials/using-jsx-with-vue-and-why-you-should-care?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=Vue.js%20Developers)[jsx]
 - [Testing Vue web applications with Vuex data store & REST backend](https://www.cypress.io/blog/2017/11/28/testing-vue-web-application-with-vuex-data-store-and-rest-backend/#)[test][cypress][e2e]
@@ -587,7 +591,7 @@
 - [Vue user permissions through directives](https://codeburst.io/reusable-vue-directives-v-can-753bf54e563f)[acl]
 - [Dynamic Modules with Vuex and Vue](https://medium.com/@francisvitullo/dynamic-modules-with-vuex-and-vue-b9c481ca792)[vuex][dynamic module]
 - [Get Started with vue-test-utils and Jest](https://www.webcodegeeks.com/javascript/get-started-vue-test-utils-jest/)
-- [Creating Vue.js Transitions & Animation: Live Examples](https://snipcart.com/blog/vuejs-transitions-animations?utm_source=JSK-187231&utm_medium=JSK-187231&utm_content=JSK-187231&utm_campaign=JSK-187231)[transition][animation]
+- [Creating Vue.js Transitions & Animation: Live Examples](https://snipcart.com/blog/vuejs-transitions-animations)[transition][animation]
 - [Getting Your Head Around Vue.js Scoped Slots](https://vuejsdevelopers.com/2017/10/02/vue-js-scoped-slots/?jsdojo_id=ech_vss)
 - [Testing with Vue.js](http://himarsh.org/testing-with-vuejs/)[test][component][interaction]
 - [Nuxt.js: A Universal Vue.js Application Framework](https://www.sitepoint.com/nuxt-js-universal-vue-js/)
@@ -662,6 +666,7 @@
 
 ## React
 
+- [A Secret parts of React New Context API](https://medium.com/@koba04/a-secret-parts-of-react-new-context-api-e9506a4578aa)
 - [Update on Async Rendering](https://reactjs.org/blog/2018/03/27/update-on-async-rendering.html)
 - [Beyond React 16: Time Slicing and Suspense API](https://auth0.com/blog/time-slice-suspense-react16/)
 - [How I wrote the world’s fastest React memoization library](https://itnext.io/how-i-wrote-the-worlds-fastest-react-memoization-library-535f89fc4a17)
