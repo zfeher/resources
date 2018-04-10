@@ -117,6 +117,7 @@
 
 ## General
 
+- [Here’s everything I’ve learned from designing 10,000+ UI screens as a lead product designer](https://medium.com/ux-power-tools/heres-everything-i-ve-learned-from-designing-10-000-ui-screens-as-a-lead-product-designer-7d2810bee810)
 - [ECMAScript 6 - Reflect](http://www.discoversdk.com/blog/ecmascript-6-reflect)
 - [Top 50 Developer Tools of 2017](https://hackernoon.com/top-50-developer-tools-of-2017-7e616928416b)
 - [Observe changes in DOM using MutationObserver](https://codeburst.io/observe-changes-in-dom-using-mutationobserver-9c2705222751)
@@ -168,6 +169,7 @@
 
 ### Related
 
+- [Nothing](https://github.com/slmgc/Nothing)[maybe like]
 - [HotKeys.js](http://wangchujiang.com/hotkeys/)
 - [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 - [hapijs/bounce](https://github.com/hapijs/bounce)
@@ -457,6 +459,8 @@
 
 
 ## Progressive Web Apps / PWA
+
+- [A Simple Guide to Taking a Web Page Offline, using Service Workers](https://blog.formpl.us/a-simple-guide-to-taking-a-web-page-offline-using-service-workers-f4c42e7b4ada)[tutorial]
 - [Minimal viable service worker](https://adactio.com/journal/13540)
 - [Making our site more app-y](https://www.voorhoede.nl/en/blog/making-our-site-more-app-y/)
 - [Yes, That Web Project Should Be a PWA](https://alistapart.com/article/yes-that-web-project-should-be-a-pwa)
@@ -479,6 +483,7 @@
 
 ## Typescript
 
+- [Understanding TypeScript’s type notation](http://2ality.com/2018/04/type-notation-typescript.html?t=1&cn=ZmxleGlibGVfcmVjc18y&refsrc=email&iid=5f284d4b01d64e249c87c57812a61b0e&fl=4&uid=783211657027780608&nid=244+276893704)
 - [A Look at TypeScript's Conditional Types](http://koerbitz.me/posts/a-look-at-typescripts-conditional-types.html)
 - [Interface vs Type alias in TypeScript 2.7](https://medium.com/@martin_hotell/interface-vs-type-alias-in-typescript-2-7-2a8f1777af4c)
 - [Manual Typing is No Fun: Introducing TypeWiz!](https://medium.com/@urish/manual-typing-is-no-fun-introducing-typewiz-58e3e8813f4c)
@@ -527,6 +532,7 @@
 
 ## Components
 
+- [Curated List of Angular, React & Vue.js Resources](https://alligator.io/resources/)
 - [Using Higher Order Components for Authenticated Routing](https://www.codementor.io/sahilmittal/using-higher-order-components-for-authenticated-routing-i1hcp6pc6)[react]
 - [How to package your React Component for distribution via NPM](https://itnext.io/how-to-package-your-react-component-for-distribution-via-npm-d32d4bf71b4f)[react][npm][publish]
 - [Developing Apps With Styled-Components](https://blog.getty.io/developing-apps-with-styled-components-e9f56cd0f4c5)[react][styled components]
@@ -554,6 +560,9 @@
 
 
 ## Vue.js
+
+- [Vue Curated](https://curated.vuejs.org/)
+- [Awesome Vue.js](https://github.com/vuejs/awesome-vue)
 
 - async components/code splitting
 - [4 Ways To Boost Your Vue.js App With Webpack](http://vuejsdevelopers.com/2017/06/18/vue-js-boost-your-app-with-webpack/)
@@ -618,7 +627,6 @@
 - [DejaVue](http://dejavue.co) [visualization] [time travel]
 - [Vue.js Component Style Guide](https://github.com/pablohpsilva/vuejs-component-style-guide)
 - [How to unit test Vue components](http://www.coding123.org/tutorials/unit-test-vue-components/)
-- [Awesome Vue.js](https://github.com/vuejs/awesome-vue)
 - [Vuex](https://vuex.vuejs.org)
 - [vue-loader](http://vue-loader.vuejs.org)
 - [vue-devtools](https://github.com/vuejs/vue-devtools)
@@ -666,6 +674,7 @@
 
 ## React
 
+- [Error Boundaries in React 16](https://www.codementor.io/viveknayyar09/error-boundaries-in-react-16-ifeu1vc4x)
 - [A Secret parts of React New Context API](https://medium.com/@koba04/a-secret-parts-of-react-new-context-api-e9506a4578aa)
 - [Update on Async Rendering](https://reactjs.org/blog/2018/03/27/update-on-async-rendering.html)
 - [Beyond React 16: Time Slicing and Suspense API](https://auth0.com/blog/time-slice-suspense-react16/)
@@ -721,6 +730,7 @@
 
 ## State Management
 
+- [My take on Redux architecture](http://krasimirtsonev.com/blog/article/my-take-on-redux-architecture)[redux]
 - [Redux: Re-Rendering Caused by mapDispatchToProps ](https://spin.atomicobject.com/2018/04/02/redux-rerendering/)[redux]
 - [Dynamic Redux Reducers](https://levelup.gitconnected.com/dynamic-redux-reducers-f2889adb83fa)[redux]
 - [Replacing redux with the new React context API](https://medium.com/@DidierFranc/replacing-redux-with-the-new-react-context-api-8f5d01a00e8c)[react][redux]
@@ -761,6 +771,7 @@
 - [10 Tips for Better Redux Architecture](https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44#.c92fz9hwb) [redux]
 
 ### Related Libs
+- [Javascript State Machine](https://github.com/jakesgordon/javascript-state-machine)
 - [Rematch](https://github.com/rematch/rematch)
 - [mobx-state-tree](https://github.com/mobxjs/mobx-state-tree)
 - [stent](https://github.com/krasimir/stent)
@@ -915,6 +926,7 @@
 
 ## Module loader/Module Bundler/Task Runner, CI, Build
 
+- [Deploying ES2015+ Code in Production Today](https://philipwalton.com/articles/deploying-es2015-code-in-production-today/)
 - [Decrease Front-end Size](https://developers.google.com/web/fundamentals/performance/webpack/decrease-frontend-size)[webpack]
 - [Tomorrow’s ES Modules Today!](https://medium.com/web-on-the-edge/tomorrows-es-modules-today-c53d29ac448c)[esm]
 - [Webpack 4 Tutorial: from 0 Conf to Production Mode](https://www.valentinog.com/blog/webpack-4-tutorial/)[webpack]
@@ -952,6 +964,7 @@
 - [History and Background of JavaScript Module Loaders](https://appendto.com/2016/06/the-short-history-of-javascript-module-loaders/)
 
 ### Related Libs
+- [webpack-libs-optimizations](https://github.com/GoogleChromeLabs/webpack-libs-optimizations)
 - [prepack](https://github.com/facebook/prepack)
 - [Polyfill.io](https://polyfill.io/v2/docs/)
 - [Parcel](https://github.com/parcel-bundler/parcel)
