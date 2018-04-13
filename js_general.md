@@ -1,10 +1,12 @@
 ## Unsorted
 
+- [How I built super fast JS framework](https://medium.com/@marcisbee/how-i-built-super-fast-js-framework-faster-than-react-ea99f0d03150)
 - [Getting started with ReasonML](http://2ality.com/2017/11/getting-started-reasonml.html?t=1&cn=ZmxleGlibGVfcmVjc18y&refsrc=email&iid=becb7c9ce58e4aa08739b43624689537&fl=4&uid=783211657027780608&nid=244+272699400)
 - [HyperApp: The 1 KB JavaScript Library for Building Front-End Apps](https://www.sitepoint.com/hyperapp-1-kb-javascript-library/)
 
 ### Related
 
+- [Radi.js](https://github.com/radi-js/radi)
 - [Reason](https://reasonml.github.io)
 - [RE:DOM](https://redom.js.org)
 - [StackBlitz](https://stackblitz.com)[playground][react][angular][ionic][vscode]
@@ -117,6 +119,8 @@
 
 ## General
 
+- [What are JavaScript Generators and how to use them](https://codeburst.io/what-are-javascript-generators-and-how-to-use-them-c6f2713fd12e)
+- [How JavaScript works: tracking changes in the DOM using MutationObserver](https://blog.sessionstack.com/how-javascript-works-tracking-changes-in-the-dom-using-mutationobserver-86adc7446401)
 - [Here’s everything I’ve learned from designing 10,000+ UI screens as a lead product designer](https://medium.com/ux-power-tools/heres-everything-i-ve-learned-from-designing-10-000-ui-screens-as-a-lead-product-designer-7d2810bee810)
 - [ECMAScript 6 - Reflect](http://www.discoversdk.com/blog/ecmascript-6-reflect)
 - [Top 50 Developer Tools of 2017](https://hackernoon.com/top-50-developer-tools-of-2017-7e616928416b)
@@ -460,6 +464,7 @@
 
 ## Progressive Web Apps / PWA
 
+- [How JavaScript works: the mechanics of Web Push Notifications](https://blog.sessionstack.com/how-javascript-works-the-mechanics-of-web-push-notifications-290176c5c55d)
 - [A Simple Guide to Taking a Web Page Offline, using Service Workers](https://blog.formpl.us/a-simple-guide-to-taking-a-web-page-offline-using-service-workers-f4c42e7b4ada)[tutorial]
 - [Minimal viable service worker](https://adactio.com/journal/13540)
 - [Making our site more app-y](https://www.voorhoede.nl/en/blog/making-our-site-more-app-y/)
