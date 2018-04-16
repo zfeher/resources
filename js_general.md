@@ -119,6 +119,8 @@
 
 ## General
 
+- [Master the JavaScript Interview: What’s the Difference Between Class & Prototypal Inheritance?](https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9)
+- [How to Handle Monetary Values in JavaScript](https://frontstuff.io/how-to-handle-monetary-values-in-javascript)[money]
 - [What are JavaScript Generators and how to use them](https://codeburst.io/what-are-javascript-generators-and-how-to-use-them-c6f2713fd12e)
 - [How JavaScript works: tracking changes in the DOM using MutationObserver](https://blog.sessionstack.com/how-javascript-works-tracking-changes-in-the-dom-using-mutationobserver-86adc7446401)
 - [Here’s everything I’ve learned from designing 10,000+ UI screens as a lead product designer](https://medium.com/ux-power-tools/heres-everything-i-ve-learned-from-designing-10-000-ui-screens-as-a-lead-product-designer-7d2810bee810)
@@ -464,6 +466,7 @@
 
 ## Progressive Web Apps / PWA
 
+- [How JavaScript works: Service Workers, their lifecycle and use cases](https://blog.sessionstack.com/how-javascript-works-service-workers-their-life-cycle-and-use-cases-52b19ad98b58)
 - [How JavaScript works: the mechanics of Web Push Notifications](https://blog.sessionstack.com/how-javascript-works-the-mechanics-of-web-push-notifications-290176c5c55d)
 - [A Simple Guide to Taking a Web Page Offline, using Service Workers](https://blog.formpl.us/a-simple-guide-to-taking-a-web-page-offline-using-service-workers-f4c42e7b4ada)[tutorial]
 - [Minimal viable service worker](https://adactio.com/journal/13540)
@@ -576,6 +579,7 @@
 - [3 Code Splitting Patterns For VueJS and Webpack](http://vuejsdevelopers.com/2017/07/08/vue-js-3-ways-code-splitting-webpack/)[code splitting]
   - [Dynamic imports + common chunks](https://github.com/webpack/webpack/issues/4392)
 
+- [Implementing an Infinite Scroll with Vue.js](https://alligator.io/vuejs/implementing-infinite-scroll/)[tutorial]
 - [Creating Your Own Vue.js Router](https://vueschool.io/articles/tutorials/creating-your-own-router/86/)[tutorial]
 - Vue.js and Webpack 4 From Scratch: [Part 1](https://itnext.io/vuejs-and-webpack-4-from-scratch-part-1-94c9c28a534a), [Part 2](https://itnext.io/vue-js-and-webpack-4-from-scratch-part-2-5038cc9deffb), [Part 3](https://itnext.io/vue-js-and-webpack-4-from-scratch-part-3-3f68d2a3c127)
 - [Renderless Components in Vue.js](https://adamwathan.me/renderless-components-in-vuejs/)[slots][hoc][tutorial]
@@ -641,6 +645,7 @@
 
 ### Related
 
+- [VuePress](https://vuepress.vuejs.org/)
 - [v-lazy-image](https://github.com/alexjoverm/v-lazy-image)
 - [Quasar](https://github.com/quasarframework/quasar)
 - [vue-enterprise-boilerplate](https://github.com/chrisvfritz/vue-enterprise-boilerplate)
@@ -679,6 +684,7 @@
 
 ## React
 
+- [Optimizing React: Virtual DOM explained](https://evilmartians.com/chronicles/optimizing-react-virtual-dom-explained)
 - [Error Boundaries in React 16](https://www.codementor.io/viveknayyar09/error-boundaries-in-react-16-ifeu1vc4x)
 - [A Secret parts of React New Context API](https://medium.com/@koba04/a-secret-parts-of-react-new-context-api-e9506a4578aa)
 - [Update on Async Rendering](https://reactjs.org/blog/2018/03/27/update-on-async-rendering.html)
