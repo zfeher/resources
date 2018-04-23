@@ -21,6 +21,7 @@
 
 ## Books
 
+- [React in patterns](https://github.com/krasimir/react-in-patterns)
 - [The JavaScript Way](https://github.com/bpesquet/thejsway/)
 - [Exploring ES2016 and ES2017 - Dr. Axel Rauschmayer](http://exploringjs.com/es2016-es2017/index.html)
 - [SurviveJS - Webpack - v2.0](https://survivejs.com/webpack/preface/)
@@ -119,6 +120,7 @@
 
 ## General
 
+- [Time-saving Chrome DevTools Shortcuts](https://www.lucidchart.com/techblog/2018/04/17/time-saving-chrome-devtools-shortcuts/)
 - [Master the JavaScript Interview: What’s the Difference Between Class & Prototypal Inheritance?](https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9)
 - [How to Handle Monetary Values in JavaScript](https://frontstuff.io/how-to-handle-monetary-values-in-javascript)[money]
 - [What are JavaScript Generators and how to use them](https://codeburst.io/what-are-javascript-generators-and-how-to-use-them-c6f2713fd12e)
@@ -540,6 +542,7 @@
 
 ## Components
 
+- [Structuring projects and naming components in React](https://hackernoon.com/structuring-projects-and-naming-components-in-react-1261b6e18d76)
 - [Curated List of Angular, React & Vue.js Resources](https://alligator.io/resources/)
 - [Using Higher Order Components for Authenticated Routing](https://www.codementor.io/sahilmittal/using-higher-order-components-for-authenticated-routing-i1hcp6pc6)[react]
 - [How to package your React Component for distribution via NPM](https://itnext.io/how-to-package-your-react-component-for-distribution-via-npm-d32d4bf71b4f)[react][npm][publish]

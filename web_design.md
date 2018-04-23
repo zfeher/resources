@@ -30,6 +30,8 @@
 
 ## CSS
 
+- [Using CSS Transitions on the Height Property](https://dev.to/sarah_chima/using-css-transitions-on-the-height-property-al0)
+- [A Look at CSS Viewport Units](https://alligator.io/css/viewport-units/)
 - [CSS Paint API — New and Glossy, but What Is It For?](https://www.codementor.io/brettjephson/css-paint-api-new-and-glossy-but-what-is-it-for-gpd44fl03)
 - [Understanding Logical Properties And Values](https://www.smashingmagazine.com/2018/03/understanding-logical-properties-values/)
 - [Explanation of the CSS clear float property [Examples] ](https://dev.to/neshaz/explanation-of-the-css-clear-float-property-examples-5hd2)
