@@ -1,5 +1,6 @@
 ## Unsorted
 
+- [Frogger in Hyperapp](https://medium.com/hyperapp/frogger-in-hyperapp-90c0a7cd23a4)
 - [How I built super fast JS framework](https://medium.com/@marcisbee/how-i-built-super-fast-js-framework-faster-than-react-ea99f0d03150)
 - [Getting started with ReasonML](http://2ality.com/2017/11/getting-started-reasonml.html?t=1&cn=ZmxleGlibGVfcmVjc18y&refsrc=email&iid=becb7c9ce58e4aa08739b43624689537&fl=4&uid=783211657027780608&nid=244+272699400)
 - [HyperApp: The 1 KB JavaScript Library for Building Front-End Apps](https://www.sitepoint.com/hyperapp-1-kb-javascript-library/)
@@ -120,6 +121,8 @@
 
 ## General
 
+- [These 6 essential tools will release, version, and maintain your NPM modules for you](https://hackernoon.com/these-6-essential-tools-will-maintain-your-npm-modules-for-you-4cbbee88e0cb)
+- [Lazy Loading Images and Video](https://developers.google.com/web/fundamentals/performance/lazy-loading-guidance/images-and-video/)
 - [Time-saving Chrome DevTools Shortcuts](https://www.lucidchart.com/techblog/2018/04/17/time-saving-chrome-devtools-shortcuts/)
 - [Master the JavaScript Interview: What’s the Difference Between Class & Prototypal Inheritance?](https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9)
 - [How to Handle Monetary Values in JavaScript](https://frontstuff.io/how-to-handle-monetary-values-in-javascript)[money]
@@ -177,6 +180,7 @@
 
 ### Related
 
+- [Awaity.js](https://github.com/asfktz/Awaity.js)
 - [Nothing](https://github.com/slmgc/Nothing)[maybe like]
 - [HotKeys.js](http://wangchujiang.com/hotkeys/)
 - [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
@@ -194,17 +198,22 @@
 
 
 ## Analytics
+
 - [The Google Analytics Setup I Use on Every Site I Build](https://philipwalton.com/articles/the-google-analytics-setup-i-use-on-every-site-i-build/?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=revue)
 
 
 ## Date/time
+
 - [Introduction to date-fns – a Lightweight JavaScript Date Library](https://www.sitepoint.com/date-fns-javascript-date-library/)
 
 ### Related
+
+- [Day.js](https://github.com/xx45/dayjs)
 - [date-fns](https://date-fns.org)
 
 
 ## SEO, Search Engine Optimization
+
 - [A Practical Guide to Search Engine Optimization (SEO) with Google](https://www.taniarascia.com/a-practical-guide-to-search-engine-optimization-seo-with-google/)
 
 
@@ -542,6 +551,7 @@
 
 ## Components
 
+- [Sharing Code Between Projects: Lessons Learned In The Trenches](https://www.smashingmagazine.com/2018/04/sharing-code-between-projects/)[Bit]
 - [Structuring projects and naming components in React](https://hackernoon.com/structuring-projects-and-naming-components-in-react-1261b6e18d76)
 - [Curated List of Angular, React & Vue.js Resources](https://alligator.io/resources/)
 - [Using Higher Order Components for Authenticated Routing](https://www.codementor.io/sahilmittal/using-higher-order-components-for-authenticated-routing-i1hcp6pc6)[react]
@@ -582,6 +592,7 @@
 - [3 Code Splitting Patterns For VueJS and Webpack](http://vuejsdevelopers.com/2017/07/08/vue-js-3-ways-code-splitting-webpack/)[code splitting]
   - [Dynamic imports + common chunks](https://github.com/webpack/webpack/issues/4392)
 
+- [GraphQL basics and practical examples with Vue](https://medium.com/@lachlanmiller_52885/graphql-basics-and-practical-examples-with-vue-6b649b9685e0)
 - [Implementing an Infinite Scroll with Vue.js](https://alligator.io/vuejs/implementing-infinite-scroll/)[tutorial]
 - [Creating Your Own Vue.js Router](https://vueschool.io/articles/tutorials/creating-your-own-router/86/)[tutorial]
 - Vue.js and Webpack 4 From Scratch: [Part 1](https://itnext.io/vuejs-and-webpack-4-from-scratch-part-1-94c9c28a534a), [Part 2](https://itnext.io/vue-js-and-webpack-4-from-scratch-part-2-5038cc9deffb), [Part 3](https://itnext.io/vue-js-and-webpack-4-from-scratch-part-3-3f68d2a3c127)
@@ -727,6 +738,8 @@
 - [Building D3 Components with React](https://medium.com/@_alanbsmith/building-d3-components-with-react-7510e4743288#.4qf99mp5d)
 
 ### Related
+
+- [React/Redux Links](https://github.com/markerikson/react-redux-links)
 - [shouldComponentUpdate-Children](https://github.com/NoamELB/shouldComponentUpdate-Children)
 - [styled-components](https://github.com/styled-components/styled-components)
 - [react-primitives](https://github.com/lelandrichardson/react-primitives)
@@ -744,6 +757,7 @@
 
 ## State Management
 
+- [Practical Redux](http://blog.isquaredsoftware.com/series/practical-redux/)[redux]
 - [My take on Redux architecture](http://krasimirtsonev.com/blog/article/my-take-on-redux-architecture)[redux]
 - [Redux: Re-Rendering Caused by mapDispatchToProps ](https://spin.atomicobject.com/2018/04/02/redux-rerendering/)[redux]
 - [Dynamic Redux Reducers](https://levelup.gitconnected.com/dynamic-redux-reducers-f2889adb83fa)[redux]
