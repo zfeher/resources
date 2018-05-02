@@ -30,6 +30,7 @@
 
 ## CSS
 
+- [CSS percentage unit, the evil parts](https://dev.to/abdelrahman3d/css-percentage-unit-the-evil-parts-1g29)
 - [Using CSS Transitions on the Height Property](https://dev.to/sarah_chima/using-css-transitions-on-the-height-property-al0)
 - [A Look at CSS Viewport Units](https://alligator.io/css/viewport-units/)
 - [CSS Paint API — New and Glossy, but What Is It For?](https://www.codementor.io/brettjephson/css-paint-api-new-and-glossy-but-what-is-it-for-gpd44fl03)

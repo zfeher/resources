@@ -757,6 +757,7 @@
 
 ## State Management
 
+- [Easy State Management in React Using Unstated](https://alligator.io/react/unstated/)
 - [Practical Redux](http://blog.isquaredsoftware.com/series/practical-redux/)[redux]
 - [My take on Redux architecture](http://krasimirtsonev.com/blog/article/my-take-on-redux-architecture)[redux]
 - [Redux: Re-Rendering Caused by mapDispatchToProps ](https://spin.atomicobject.com/2018/04/02/redux-rerendering/)[redux]
@@ -799,6 +800,9 @@
 - [10 Tips for Better Redux Architecture](https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44#.c92fz9hwb) [redux]
 
 ### Related Libs
+
+- [Meiosis](http://meiosis.js.org/)
+- [Unstated](https://github.com/jamiebuilds/unstated)
 - [Javascript State Machine](https://github.com/jakesgordon/javascript-state-machine)
 - [Rematch](https://github.com/rematch/rematch)
 - [mobx-state-tree](https://github.com/mobxjs/mobx-state-tree)
