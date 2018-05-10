@@ -22,6 +22,7 @@
 
 ## Books
 
+- [Front-End Developer Handbook 2018](https://frontendmasters.com/books/front-end-handbook/2018/)
 - [React in patterns](https://github.com/krasimir/react-in-patterns)
 - [The JavaScript Way](https://github.com/bpesquet/thejsway/)
 - [Exploring ES2016 and ES2017 - Dr. Axel Rauschmayer](http://exploringjs.com/es2016-es2017/index.html)
@@ -121,6 +122,8 @@
 
 ## General
 
+- [ES6 Destructuring: The Complete Guide](https://codeburst.io/es6-destructuring-the-complete-guide-7f842d08b98f)
+- [Accessing the Clipboard in JavaScript Using the Async Clipboard API](https://alligator.io/js/async-clipboard-api/)
 - [These 6 essential tools will release, version, and maintain your NPM modules for you](https://hackernoon.com/these-6-essential-tools-will-maintain-your-npm-modules-for-you-4cbbee88e0cb)
 - [Lazy Loading Images and Video](https://developers.google.com/web/fundamentals/performance/lazy-loading-guidance/images-and-video/)
 - [Time-saving Chrome DevTools Shortcuts](https://www.lucidchart.com/techblog/2018/04/17/time-saving-chrome-devtools-shortcuts/)
@@ -290,7 +293,9 @@
 - [pa11y](https://github.com/pa11y/pa11y)
 
 
-## Async
+## Async/Promise
+
+- [Asynchronous Javascript Patterns: Promises Tips and Tricks](https://blog.bloomca.me/2018/04/17/asynchronous-javascript-pattern-promises-tips-and-tricks.html)
 - [posterus](https://github.com/Mitranim/posterus)
 - [Yield and Async notations](https://ouicar.github.io/2016/12/14/async-yield.html)
 
@@ -326,6 +331,7 @@
 
 ## Immutability
 
+- [Immutable.js, persistent data structures and structural sharing](https://medium.com/@dtinth/immutable-js-persistent-data-structures-and-structural-sharing-6d163fbd73d2)
 - [You’re missing out on ImmutableJS Records](https://medium.com/@ahmadbamieh/immutablejs-records-bd369137da06)
 - [The Missing Immutable.js Manual with all the Examples you’ll ever need](http://untangled.io/the-missing-immutable-js-manual/)
 - [Embracing Immutable Architecture](https://medium.com/react-weekly/embracing-immutable-architecture-dc04e3f08543#.lkceku4fh) [react] [redux] [elm]
@@ -362,6 +368,7 @@
 
 ## Functional Programming (FP)
 
+- [Master the JavaScript Interview: What is Functional Programming?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0)
 - [Marble testing Observable Introduction](https://medium.com/@bencabanes/marble-testing-observable-introduction-1f5ad39231c)[rxjs]
 - [Alternative to JavaScript’s switch statement with a functional twist](https://codeburst.io/alternative-to-javascripts-switch-statement-with-a-functional-twist-3f572787ba1c)
 - [Get to know the Actor Model](https://monades.roperzh.com/get-to-know-the-actor-model/?utm_source=ESnextNews.com&utm_medium=Weekly+Newsletter&utm_campaign=2017-09-12)[actor]
@@ -477,6 +484,7 @@
 
 ## Progressive Web Apps / PWA
 
+- [How to use IndexedDB to build Progressive Web Apps](https://itnext.io/indexeddb-your-second-step-towards-progressive-web-apps-pwa-dcbcd6cc2076)
 - [How JavaScript works: Service Workers, their lifecycle and use cases](https://blog.sessionstack.com/how-javascript-works-service-workers-their-life-cycle-and-use-cases-52b19ad98b58)
 - [How JavaScript works: the mechanics of Web Push Notifications](https://blog.sessionstack.com/how-javascript-works-the-mechanics-of-web-push-notifications-290176c5c55d)
 - [A Simple Guide to Taking a Web Page Offline, using Service Workers](https://blog.formpl.us/a-simple-guide-to-taking-a-web-page-offline-using-service-workers-f4c42e7b4ada)[tutorial]
@@ -551,6 +559,7 @@
 
 ## Components
 
+- [Tips and tricks for creating reusable UI components](https://www.codementor.io/gabrielcolombo/tips-and-tricks-for-creating-reusable-ui-components-ig7kws9qq)
 - [Sharing Code Between Projects: Lessons Learned In The Trenches](https://www.smashingmagazine.com/2018/04/sharing-code-between-projects/)[Bit]
 - [Structuring projects and naming components in React](https://hackernoon.com/structuring-projects-and-naming-components-in-react-1261b6e18d76)
 - [Curated List of Angular, React & Vue.js Resources](https://alligator.io/resources/)
@@ -659,6 +668,9 @@
 
 ### Related
 
+- [vue-coerce-props](https://github.com/posva/vue-coerce-props)
+- [iView](https://github.com/iview/iview)
+- [Vuex Pathify](https://github.com/davestewart/vuex-pathify)
 - [VuePress](https://vuepress.vuejs.org/)
 - [v-lazy-image](https://github.com/alexjoverm/v-lazy-image)
 - [Quasar](https://github.com/quasarframework/quasar)
@@ -698,6 +710,10 @@
 
 ## React
 
+- How To Master Advanced React Design Patterns:
+    - [part 1- Compound Components](https://itnext.io/using-advanced-design-patterns-to-create-flexible-and-reusable-react-components-part-1-dd495fa1823)
+    - [part 2 - Context API](https://itnext.io/using-advanced-design-patterns-to-create-flexible-and-reusable-react-components-part-2-react-3c5662b997ab)
+    - [part 3- Render Props](https://itnext.io/using-advanced-design-patterns-to-create-flexible-and-reusable-react-components-part-3-render-d7517dfe72bc)
 - [Optimizing React: Virtual DOM explained](https://evilmartians.com/chronicles/optimizing-react-virtual-dom-explained)
 - [Error Boundaries in React 16](https://www.codementor.io/viveknayyar09/error-boundaries-in-react-16-ifeu1vc4x)
 - [A Secret parts of React New Context API](https://medium.com/@koba04/a-secret-parts-of-react-new-context-api-e9506a4578aa)
@@ -739,6 +755,7 @@
 
 ### Related
 
+- [Proton Native](https://github.com/kusti8/proton-native)
 - [React/Redux Links](https://github.com/markerikson/react-redux-links)
 - [shouldComponentUpdate-Children](https://github.com/NoamELB/shouldComponentUpdate-Children)
 - [styled-components](https://github.com/styled-components/styled-components)
@@ -881,6 +898,7 @@
 
 ## Testing
 
+- [Everything That's Not Tested Will Break](https://dev.to/stealthmusic/everything-thats-not-tested-will-break-1adg)
 - [An Overview of JavaScript Testing in 2018](https://medium.com/welldone-software/an-overview-of-javascript-testing-in-2018-f68950900bc3)
 - [Automatic visual diffing with Puppeteer](https://meowni.ca/posts/2017-puppeteer-tests/)[puppeteer]
 - [Stubbing HTTP Requests With Sinon](http://mherman.org/blog/2017/11/06/stubbing-http-requests-with-sinon/#.WgWoKqtaOUl)[sinon]

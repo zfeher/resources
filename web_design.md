@@ -30,6 +30,8 @@
 
 ## CSS
 
+- [Another Collection of Interesting Facts About CSS Grid ](https://css-tricks.com/another-collection-of-interesting-facts-about-css-grid/)
+- [CSS Grid — Responsive layouts and components](https://medium.com/deemaze-software/css-grid-responsive-layouts-and-components-eee1badd5a2f)
 - [CSS percentage unit, the evil parts](https://dev.to/abdelrahman3d/css-percentage-unit-the-evil-parts-1g29)
 - [Using CSS Transitions on the Height Property](https://dev.to/sarah_chima/using-css-transitions-on-the-height-property-al0)
 - [A Look at CSS Viewport Units](https://alligator.io/css/viewport-units/)

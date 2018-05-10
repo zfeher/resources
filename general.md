@@ -7,6 +7,13 @@
 
 
 ## Theory
+
+- SOLID Design Principles Explained
+  - [The Single Responsibility Principle](https://stackify.com/solid-design-principles/)
+  - [The Open/Closed Principle with Code Examples](https://stackify.com/solid-design-open-closed-principle/)
+  - [The Liskov Substitution Principle with Code Examples](https://stackify.com/solid-design-liskov-substitution-principle/)
+  - [Interface Segregation with Code Examples](https://stackify.com/interface-segregation-principle/)
+  - [Dependency Inversion Principle with Code Examples](https://stackify.com/dependency-inversion-principle/)
 - Separation of Concerns
   - Cohesion
 - Single Responsibility
