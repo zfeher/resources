@@ -122,6 +122,9 @@
 
 ## General
 
+- [Should You Use Accelerated Mobile Pages ⚡ (AMP)? What is Wrong 💩 With AMP and What Can You Do To Improve 📈 Your Site](https://love2dev.com/blog/should-you-amp/)
+- [Drag and Drop It Like It’s Hot: Setting Up the Ultimate Gestures Glamour](https://medium.com/outsystems-engineering/drag-and-drop-it-like-its-hot-setting-up-the-ultimate-gestures-glamour-5b2a12503bb5)
+- [The Front-End Checklist](https://frontendchecklist.io/)
 - [ES6 Destructuring: The Complete Guide](https://codeburst.io/es6-destructuring-the-complete-guide-7f842d08b98f)
 - [Accessing the Clipboard in JavaScript Using the Async Clipboard API](https://alligator.io/js/async-clipboard-api/)
 - [These 6 essential tools will release, version, and maintain your NPM modules for you](https://hackernoon.com/these-6-essential-tools-will-maintain-your-npm-modules-for-you-4cbbee88e0cb)
@@ -269,6 +272,7 @@
 
 ## Web Workers
 
+- [Parallel programming in JavaScript](https://itnext.io/achieving-parallelism-in-javascript-using-web-workers-8f921f2d26db)
 - [JavaScript in parallel](http://50linesofco.de/post/2017-02-06-javascript-in-parallel-web-workers-transferables-and-sharedarraybuffer.html?utm_source=ESnextNews.com&utm_medium=Weekly+Newsletter&utm_campaign=2017-02-07)
 
 
@@ -302,6 +306,7 @@
 
 ## Security / Payment
 
+- [Pros and cons in using JWT (JSON Web Tokens)](https://www.codementor.io/rahulgolwalkar/pros-and-cons-in-using-jwt-json-web-tokens-ikc2e3y12)
 - [Protect your Node.js app from Cross-Site Request Forgery ](https://dev.to/dkundel/protect-your-nodejs-app-from-cross-site-request-forgery--46b9)
 - [Third party CSS is not safe](https://jakearchibald.com/2018/third-party-css-is-not-safe/)
 - Security Checklist for Full Stack Web Developers
@@ -368,6 +373,7 @@
 
 ## Functional Programming (FP)
 
+- [Composable, Immutable property access with Lenses in Typescript](https://medium.com/@reidev275/composable-immutable-property-access-with-lenses-in-typescript-798da4ddc30e)
 - [Master the JavaScript Interview: What is Functional Programming?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0)
 - [Marble testing Observable Introduction](https://medium.com/@bencabanes/marble-testing-observable-introduction-1f5ad39231c)[rxjs]
 - [Alternative to JavaScript’s switch statement with a functional twist](https://codeburst.io/alternative-to-javascripts-switch-statement-with-a-functional-twist-3f572787ba1c)
@@ -484,6 +490,10 @@
 
 ## Progressive Web Apps / PWA
 
+- [Service Worker gotchas](https://labs.kollegorna.se/blog/2017/06/service-worker-gotchas/)
+- [High-performance service worker loading](https://developers.google.com/web/fundamentals/primers/service-workers/high-performance-loading)
+- [Understanding The Service worker LifeCycle](https://dev.to/achiengcindy/understanding-the-service-worker-lifecycle-47d5)
+- [How to display a "new version available" for a Progressive Web App](https://deanhume.com/displaying-a-new-version-available-progressive-web-app/)
 - [How to use IndexedDB to build Progressive Web Apps](https://itnext.io/indexeddb-your-second-step-towards-progressive-web-apps-pwa-dcbcd6cc2076)
 - [How JavaScript works: Service Workers, their lifecycle and use cases](https://blog.sessionstack.com/how-javascript-works-service-workers-their-life-cycle-and-use-cases-52b19ad98b58)
 - [How JavaScript works: the mechanics of Web Push Notifications](https://blog.sessionstack.com/how-javascript-works-the-mechanics-of-web-push-notifications-290176c5c55d)
@@ -500,16 +510,14 @@
 - [Learning Progressive Web App](https://github.com/ragingwind/learning-pwa)
 
 
-## Services worker
-- [High-performance service worker loading](https://developers.google.com/web/fundamentals/primers/service-workers/high-performance-loading)
-
-
 ## Transpilers
+
 - [babel-preset-env: a preset that configures Babel for you](http://www.2ality.com/2017/02/babel-preset-env.html) [babel]
 
 
 ## Typescript
 
+- [TypeScript 2.7: Strict Property Initialization](https://blog.mariusschulz.com/2018/05/20/typescript-2-7-strict-property-initialization)
 - [Understanding TypeScript’s type notation](http://2ality.com/2018/04/type-notation-typescript.html?t=1&cn=ZmxleGlibGVfcmVjc18y&refsrc=email&iid=5f284d4b01d64e249c87c57812a61b0e&fl=4&uid=783211657027780608&nid=244+276893704)
 - [A Look at TypeScript's Conditional Types](http://koerbitz.me/posts/a-look-at-typescripts-conditional-types.html)
 - [Interface vs Type alias in TypeScript 2.7](https://medium.com/@martin_hotell/interface-vs-type-alias-in-typescript-2-7-2a8f1777af4c)
@@ -589,7 +597,7 @@
 - [Bit](https://github.com/teambit/bit)
 
 
-## Vue.js
+# .js
 
 - [Vue Curated](https://curated.vuejs.org/)
 - [Awesome Vue.js](https://github.com/vuejs/awesome-vue)
@@ -601,6 +609,9 @@
 - [3 Code Splitting Patterns For VueJS and Webpack](http://vuejsdevelopers.com/2017/07/08/vue-js-3-ways-code-splitting-webpack/)[code splitting]
   - [Dynamic imports + common chunks](https://github.com/webpack/webpack/issues/4392)
 
+- [Create & Publish Web Components With Vue CLI 3](https://vuejsdevelopers.com/2018/05/21/vue-js-web-component/?jsdojo_id=ech_vwc)
+- [Compile Vue.js templates on the Fly with v-runtime-template](https://alligator.io/vuejs/v-runtime-template/?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=Vue.js%20Developers)
+- [Vue.js — Considerations and Tricks](https://blog.webf.zone/vue-js-considerations-and-tricks-fa7e0e4bb7bb)
 - [GraphQL basics and practical examples with Vue](https://medium.com/@lachlanmiller_52885/graphql-basics-and-practical-examples-with-vue-6b649b9685e0)
 - [Implementing an Infinite Scroll with Vue.js](https://alligator.io/vuejs/implementing-infinite-scroll/)[tutorial]
 - [Creating Your Own Vue.js Router](https://vueschool.io/articles/tutorials/creating-your-own-router/86/)[tutorial]
@@ -710,6 +721,7 @@
 
 ## React
 
+- [Higher-order components vs Render Props](https://www.richardkotze.com/coding/hoc-vs-render-props-react)
 - How To Master Advanced React Design Patterns:
     - [part 1- Compound Components](https://itnext.io/using-advanced-design-patterns-to-create-flexible-and-reusable-react-components-part-1-dd495fa1823)
     - [part 2 - Context API](https://itnext.io/using-advanced-design-patterns-to-create-flexible-and-reusable-react-components-part-2-react-3c5662b997ab)
@@ -885,10 +897,6 @@
 ### Related Libs
 - [mo.js](http://mojs.io)
 - [Web Animations API](https://github.com/web-animations/web-animations-js)
-
-
-## Service Workers
-- [Service Worker gotchas](https://labs.kollegorna.se/blog/2017/06/service-worker-gotchas/)
 
 
 ## Charts
