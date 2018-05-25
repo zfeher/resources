@@ -597,7 +597,7 @@
 - [Bit](https://github.com/teambit/bit)
 
 
-# .js
+# Vue.js
 
 - [Vue Curated](https://curated.vuejs.org/)
 - [Awesome Vue.js](https://github.com/vuejs/awesome-vue)
@@ -679,6 +679,7 @@
 
 ### Related
 
+- [Vuido](https://github.com/mimecorg/vuido)[desktop]
 - [vue-coerce-props](https://github.com/posva/vue-coerce-props)
 - [iView](https://github.com/iview/iview)
 - [Vuex Pathify](https://github.com/davestewart/vuex-pathify)
