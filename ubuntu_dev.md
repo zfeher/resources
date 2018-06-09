@@ -20,6 +20,17 @@ find app/scripts -type f -name "*.js" | xargs sed -b -i -- '/\/\* eslint max-len
 find app/scripts -type f -name "*.js" | xargs sed -b -i -- 's/, max-len: \["error", 160\]//g'
 ```
 
+## Find directories recursievely
+```Bash
+find /path/ -type d -print
+```
+
+## xargs multiple commands / input arg usage
+```
+# -I can give a name to input arg to be used in commands
+cat foo.txt | xargs -I % sh -c 'echo %; mkdir %' 
+```
+
 ## Run script in the current shell
 ```Bash
 . ./somescript.sh
