@@ -25,6 +25,11 @@ find app/scripts -type f -name "*.js" | xargs sed -b -i -- 's/, max-len: \["erro
 find /path/ -type d -print
 ```
 
+## Find files which contains text
+```Bash
+egrep --include=\*.js --exclude=\*.spec.js -Rnwl './app/scripts/components' -e '@vue/component'
+```
+
 ## xargs multiple commands / input arg usage
 ```
 # -I can give a name to input arg to be used in commands
