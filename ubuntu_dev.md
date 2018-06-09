@@ -20,6 +20,11 @@ find app/scripts -type f -name "*.js" | xargs sed -b -i -- '/\/\* eslint max-len
 find app/scripts -type f -name "*.js" | xargs sed -b -i -- 's/, max-len: \["error", 160\]//g'
 ```
 
+## Prepend header and append footer with seg
+```Bash
+find app/scripts/components/ -name "template.html" -print | xargs sed -b -i -e $'1i<template>' -e $'$a</template>'
+```
+
 ## Find directories recursievely
 ```Bash
 find /path/ -type d -print
