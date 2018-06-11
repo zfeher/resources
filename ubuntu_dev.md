@@ -15,22 +15,34 @@
 
 
 ## Using sed with multiple files
+
 ```Bash
 find app/scripts -type f -name "*.js" | xargs sed -b -i -- '/\/\* eslint max-len: \["error", 160\] \*\//d'
 find app/scripts -type f -name "*.js" | xargs sed -b -i -- 's/, max-len: \["error", 160\]//g'
 ```
 
-## Prepend header and append footer with seg
+## Prepend header and append footer with sed
+
 ```Bash
 find app/scripts/components/ -name "template.html" -print | xargs sed -b -i -e $'1i<template>' -e $'$a</template>'
 ```
 
+## Remove first and last line with sed
+
+```Bash
+find app/scripts/components/ -name "template.html" | xargs -p -L 1 sed -b -i '1d;$d'
+```
+
+[more info](https://unix.stackexchange.com/questions/209068/how-do-i-delete-the-first-n-lines-and-last-line-of-a-file-using-shell-commands)
+
 ## Find directories recursievely
+
 ```Bash
 find /path/ -type d -print
 ```
 
 ## Find files which contains text
+
 ```Bash
 egrep --include=\*.js --exclude=\*.spec.js -Rnwl './app/scripts/components' -e '@vue/component'
 ```
