@@ -21,6 +21,11 @@ find app/scripts -type f -name "*.js" | xargs sed -b -i -- '/\/\* eslint max-len
 find app/scripts -type f -name "*.js" | xargs sed -b -i -- 's/, max-len: \["error", 160\]//g'
 ```
 
+## Find files where first line includes pattern
+```Bash
+head -n1 -v app/scripts/components/base-input/basic/index.js | egrep -B1 "\/* eslint" | egrep "==>"
+```
+
 ## Prepend header and append footer with sed
 
 ```Bash
