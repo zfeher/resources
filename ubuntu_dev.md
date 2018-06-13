@@ -24,7 +24,7 @@ find app/scripts -type f -name "*.js" | xargs sed -b -i -- 's/, max-len: \["erro
 ## Prepend header and append footer with sed
 
 ```Bash
-find app/scripts/components/ -name "template.html" -print | xargs sed -b -i -e $'1i<template>' -e $'$a</template>'
+find app/scripts/components/ -name "template.html" | xargs - L 1 sed -b -i -e $'1i<template>' -e $'$a</template>'
 ```
 
 ## Remove first and last line with sed
