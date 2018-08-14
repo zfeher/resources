@@ -373,6 +373,7 @@
 
 ## Functional Programming (FP)
 
+- [Functional Programming Exercises in Javascript](http://reactivex.io/learnrx/)
 - [Composable, Immutable property access with Lenses in Typescript](https://medium.com/@reidev275/composable-immutable-property-access-with-lenses-in-typescript-798da4ddc30e)
 - [Master the JavaScript Interview: What is Functional Programming?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0)
 - [Marble testing Observable Introduction](https://medium.com/@bencabanes/marble-testing-observable-introduction-1f5ad39231c)[rxjs]
