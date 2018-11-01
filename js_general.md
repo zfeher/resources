@@ -598,10 +598,12 @@
 - [Bit](https://github.com/teambit/bit)
 
 
-# Vue.js
+## Vue.js
 
 - [Vue Curated](https://curated.vuejs.org/)
 - [Awesome Vue.js](https://github.com/vuejs/awesome-vue)
+
+- [Hooks](https://github.com/yyx990803/vue-hooks)
 
 - async components/code splitting
 - [4 Ways To Boost Your Vue.js App With Webpack](http://vuejsdevelopers.com/2017/06/18/vue-js-boost-your-app-with-webpack/)
@@ -723,6 +725,12 @@
 
 ## React
 
+### Hooks
+- [Making Sense of React Hooks](https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889)
+- [React Today and Tomorrow and 90% Cleaner React](https://www.youtube.com/watch?v=dpw9EHDh2bM)
+- [Docs](https://reactjs.org/docs/hooks-intro.html)
+
+### General
 - [Higher-order components vs Render Props](https://www.richardkotze.com/coding/hoc-vs-render-props-react)
 - How To Master Advanced React Design Patterns:
     - [part 1- Compound Components](https://itnext.io/using-advanced-design-patterns-to-create-flexible-and-reusable-react-components-part-1-dd495fa1823)
