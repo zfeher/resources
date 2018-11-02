@@ -726,6 +726,9 @@
 ## React
 
 ### Hooks
+- [React hooks: not magic, just arrays](https://medium.com/@ryardley/react-hooks-not-magic-just-arrays-cd4f1857236e)
+- [How the useEffect Hook Works](https://daveceddia.com/useeffect-hook-examples/)
+- [React hooks: changing the mindset](http://krasimirtsonev.com/blog/article/react-hooks-changing-the-mindset)
 - [Making Sense of React Hooks](https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889)
 - [React Today and Tomorrow and 90% Cleaner React](https://www.youtube.com/watch?v=dpw9EHDh2bM)
 - [Docs](https://reactjs.org/docs/hooks-intro.html)
