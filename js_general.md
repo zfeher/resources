@@ -122,6 +122,7 @@
 
 ## General
 
+- [Copying objects in Javascript](https://smalldata.tech/blog/2018/11/01/copying-objects-in-javascript)
 - [Should You Use Accelerated Mobile Pages ⚡ (AMP)? What is Wrong 💩 With AMP and What Can You Do To Improve 📈 Your Site](https://love2dev.com/blog/should-you-amp/)
 - [Drag and Drop It Like It’s Hot: Setting Up the Ultimate Gestures Glamour](https://medium.com/outsystems-engineering/drag-and-drop-it-like-its-hot-setting-up-the-ultimate-gestures-glamour-5b2a12503bb5)
 - [The Front-End Checklist](https://frontendchecklist.io/)
@@ -373,6 +374,7 @@
 
 ## Functional Programming (FP)
 
+- [Reactive Programming in JavaScript with RxJS](https://blog.bitsrc.io/reactive-programming-in-javascript-with-rxjs-9db53c07ef14)
 - [Functional Programming Exercises in Javascript](http://reactivex.io/learnrx/)
 - [Composable, Immutable property access with Lenses in Typescript](https://medium.com/@reidev275/composable-immutable-property-access-with-lenses-in-typescript-798da4ddc30e)
 - [Master the JavaScript Interview: What is Functional Programming?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0)
@@ -436,6 +438,7 @@
   - [The Hidden Treasures of Object Composition](https://medium.com/javascript-scene/the-hidden-treasures-of-object-composition-60cd89480381)
   - [Nested Ternaries are Great](https://medium.com/javascript-scene/nested-ternaries-are-great-361bddd0f340)
   - [Abstraction & Composition](https://medium.com/javascript-scene/abstraction-composition-cb2849d5bdd6)
+  - [The Forgotten History of OOP](https://medium.com/javascript-scene/the-forgotten-history-of-oop-88d71b9b2d9f)
 - [Thinking in Ramda](http://randycoulman.com/blog/categories/thinking-in-ramda/)
 - [Safely Accessing Deeply Nested Values In JavaScript](https://medium.com/javascript-inside/safely-accessing-deeply-nested-values-in-javascript-99bf72a0855a#.bpkwuriq1) [ramda][folktale]
 - [Casual functional adventures in JavaScript]()
@@ -518,6 +521,7 @@
 
 ## Typescript
 
+- [TypeScript — Make types “real”, the type guards](https://medium.com/@wittydeveloper/typescript-make-types-real-the-type-guard-functions-814364e8dbe3)
 - [TypeScript 2.7: Strict Property Initialization](https://blog.mariusschulz.com/2018/05/20/typescript-2-7-strict-property-initialization)
 - [Understanding TypeScript’s type notation](http://2ality.com/2018/04/type-notation-typescript.html?t=1&cn=ZmxleGlibGVfcmVjc18y&refsrc=email&iid=5f284d4b01d64e249c87c57812a61b0e&fl=4&uid=783211657027780608&nid=244+276893704)
 - [A Look at TypeScript's Conditional Types](http://koerbitz.me/posts/a-look-at-typescripts-conditional-types.html)
@@ -568,6 +572,7 @@
 
 ## Components
 
+- [The rules of reusable components](https://medium.com/@_kamerontanseli/the-rules-of-reusable-components-2b221c138bcf)[react]
 - [Tips and tricks for creating reusable UI components](https://www.codementor.io/gabrielcolombo/tips-and-tricks-for-creating-reusable-ui-components-ig7kws9qq)
 - [Sharing Code Between Projects: Lessons Learned In The Trenches](https://www.smashingmagazine.com/2018/04/sharing-code-between-projects/)[Bit]
 - [Structuring projects and naming components in React](https://hackernoon.com/structuring-projects-and-naming-components-in-react-1261b6e18d76)
@@ -682,6 +687,7 @@
 
 ### Related
 
+- [vue-inter](https://github.com/egoist/vue-inter)
 - [Vuido](https://github.com/mimecorg/vuido)[desktop]
 - [vue-coerce-props](https://github.com/posva/vue-coerce-props)
 - [iView](https://github.com/iview/iview)
