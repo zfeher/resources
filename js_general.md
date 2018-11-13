@@ -122,6 +122,8 @@
 
 ## General
 
+- [Object.fromEntries](https://davidwalsh.name/objectfromentries)
+- [Static Properties in JavaScript Classes with Inheritance](http://thecodebarbarian.com/static-properties-in-javascript-with-inheritance.html)
 - [Copying objects in Javascript](https://smalldata.tech/blog/2018/11/01/copying-objects-in-javascript)
 - [Should You Use Accelerated Mobile Pages ⚡ (AMP)? What is Wrong 💩 With AMP and What Can You Do To Improve 📈 Your Site](https://love2dev.com/blog/should-you-amp/)
 - [Drag and Drop It Like It’s Hot: Setting Up the Ultimate Gestures Glamour](https://medium.com/outsystems-engineering/drag-and-drop-it-like-its-hot-setting-up-the-ultimate-gestures-glamour-5b2a12503bb5)
@@ -439,6 +441,7 @@
   - [Nested Ternaries are Great](https://medium.com/javascript-scene/nested-ternaries-are-great-361bddd0f340)
   - [Abstraction & Composition](https://medium.com/javascript-scene/abstraction-composition-cb2849d5bdd6)
   - [The Forgotten History of OOP](https://medium.com/javascript-scene/the-forgotten-history-of-oop-88d71b9b2d9f)
+  - [Curry and Function Composition](https://medium.com/javascript-scene/curry-and-function-composition-2c208d774983)
 - [Thinking in Ramda](http://randycoulman.com/blog/categories/thinking-in-ramda/)
 - [Safely Accessing Deeply Nested Values In JavaScript](https://medium.com/javascript-inside/safely-accessing-deeply-nested-values-in-javascript-99bf72a0855a#.bpkwuriq1) [ramda][folktale]
 - [Casual functional adventures in JavaScript]()
@@ -609,6 +612,8 @@
 - [Awesome Vue.js](https://github.com/vuejs/awesome-vue)
 
 - [Hooks](https://github.com/yyx990803/vue-hooks)
+
+- [Type Vue without TypeScript](https://medium.com/@znck/type-vue-without-typescript-b2b49210f0b)
 
 - async components/code splitting
 - [4 Ways To Boost Your Vue.js App With Webpack](http://vuejsdevelopers.com/2017/06/18/vue-js-boost-your-app-with-webpack/)
