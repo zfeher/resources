@@ -83,6 +83,32 @@ sudo apt-get install git
 - [Git Flow](https://github.com/nvie/gitflow)
 
 
+## Python 2.7
+```Bash
+# refreshing the repositories
+sudo apt update
+# its wise to keep the system up to date!
+# you can skip the following line if you not
+# want to update all your software
+sudo apt upgrade
+# installing python 2.7 and pip for it
+sudo apt install python2.7 python-pip
+# installing python-pip for 3.6
+sudo apt install python3-pip
+```
+**NOTE: Do not try to remove python 3.6 as it will screw up your system**
+```Bash
+# for python 2.7
+pip2 install <package>
+
+# for python 3.6
+pip install <package>
+```
+
+### Resources
+- [Correct way to install python 2.7 on Ubuntu 17.10?](https://askubuntu.com/questions/981118/correct-way-to-install-python-2-7-on-ubuntu-17-10)
+- [How to Install Python 2.7.14 on Ubuntu & LinuxMint](https://tecadmin.net/install-python-2-7-on-ubuntu-and-linuxmint/)
+
 ## Diff and merge tools
 
 ### [DiffMerge](https://sourcegear.com/diffmerge)
