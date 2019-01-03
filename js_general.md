@@ -122,6 +122,10 @@
 
 ## General
 
+- [Creating and filling Arrays of arbitrary lengths in JavaScript](http://2ality.com/2018/12/creating-arrays.html)
+- [The Chronicles of JavaScript Objects](https://blog.bitsrc.io/the-chronicles-of-javascript-objects-2d6b9205cd66)
+- [An Open Letter to JavaScript Leaders Regarding Semicolons](http://blog.izs.me/post/2353458699/an-open-letter-to-javascript-leaders-regarding) [semicolon]
+- [JavaScript Semicolon Insertion Everything you need to know](http://inimino.org/~inimino/blog/javascript_semicolons) [semicolon]
 - [Object.fromEntries](https://davidwalsh.name/objectfromentries)
 - [Static Properties in JavaScript Classes with Inheritance](http://thecodebarbarian.com/static-properties-in-javascript-with-inheritance.html)
 - [Copying objects in Javascript](https://smalldata.tech/blog/2018/11/01/copying-objects-in-javascript)
@@ -930,6 +934,7 @@
 
 ## Testing
 
+- [A personal review of automated testing tools in the JavaScript world](https://itnext.io/a-personal-review-of-automated-testing-tools-in-the-javascript-world-3c504fe6e05d)
 - [Everything That's Not Tested Will Break](https://dev.to/stealthmusic/everything-thats-not-tested-will-break-1adg)
 - [An Overview of JavaScript Testing in 2018](https://medium.com/welldone-software/an-overview-of-javascript-testing-in-2018-f68950900bc3)
 - [Automatic visual diffing with Puppeteer](https://meowni.ca/posts/2017-puppeteer-tests/)[puppeteer]
