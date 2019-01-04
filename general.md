@@ -141,6 +141,11 @@
   - `git log --boundary --date-order development..feature` => last commit is the branch point
   - `git merge-base dev feature` shows BEST common ancestor eg. only the last merge base if there were more
 
+  - `git show :1:hello.rb > hello.common.rb` extract a copy of base version in merge
+  - `git show :2:hello.rb > hello.ours.rb` extract a copy of local version in merge
+  - `git show :3:hello.rb > hello.theirs.rb` extract a copy of remote version in merge
+  - `git ls-files -u` lists the blobs for each version (base/local/remote)
+
   - `git clean` clean/remove untracked/not ignored files (merge temp files, etc.)
   - `git clean -f -d` clean/remove untracked not/ignored files and empty dirs
   - `git clean -d -n` check what will be cleaned/removed

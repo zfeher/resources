@@ -70,6 +70,7 @@
 
 ## Learning
 
+- [Learn JavaScript](https://learnjavascript.online/)
 - [The secret to being a top developer is building things! Here’s a list of fun apps to build!](https://medium.freecodecamp.org/the-secret-to-being-a-top-developer-is-building-things-heres-a-list-of-fun-apps-to-build-aac61ac0736c)
 - [The Modern JavaScript Tutorial](https://javascript.info)
 - [Learn to Code by Making Games (2D & 3D)] (https://codeburst.io/learn-to-code-by-making-games-2d-3d-58b8758b167f)
@@ -263,6 +264,8 @@
 
 ## Machine Learning/Deep Learnings
 
+- [How to Use Machine Learning in Marketplace Development](https://sloboda-studio.com/blog/machine-learning-marketplace-development/)
+- [Kalimdor.js: Machine Learning with TypeScript](https://frontnet.eu/kalimdor-js-machine-learning-with-typescript/)
 - [The Ultimate Guide on Deep Learning for web developers](http://www.zerotodeeplearning.com/blog/ultimate-guide-on-deep-learning-for-web-developers/)
 - [11 Javascript Machine Learning Libraries To Use In Your App](https://blog.bitsrc.io/11-javascript-machine-learning-libraries-to-use-in-your-app-c49772cca46c)
 - [5 Ways to Get Started with Machine Learning](https://www.sitepoint.com/5-ways-get-started-machine-learning/)
@@ -626,6 +629,7 @@
 - [3 Code Splitting Patterns For VueJS and Webpack](http://vuejsdevelopers.com/2017/07/08/vue-js-3-ways-code-splitting-webpack/)[code splitting]
   - [Dynamic imports + common chunks](https://github.com/webpack/webpack/issues/4392)
 
+- [Storing and Using the Last Known Route in Vue](https://css-tricks.com/storing-and-using-the-last-known-route-in-vue/)[tutorial]
 - [Create & Publish Web Components With Vue CLI 3](https://vuejsdevelopers.com/2018/05/21/vue-js-web-component/?jsdojo_id=ech_vwc)
 - [Compile Vue.js templates on the Fly with v-runtime-template](https://alligator.io/vuejs/v-runtime-template/?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=Vue.js%20Developers)
 - [Vue.js — Considerations and Tricks](https://blog.webf.zone/vue-js-considerations-and-tricks-fa7e0e4bb7bb)
