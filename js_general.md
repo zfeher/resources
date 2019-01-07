@@ -106,7 +106,6 @@
 - [How the Internet works for a Front-End Developer](https://codeburst.io/how-the-internet-works-for-a-front-end-developer-528d72b801ce)
 - [Clearing your Front End Job Interview — JavaScript](https://codeburst.io/clearing-your-front-end-job-interview-javascript-d5ec896adda4)
 - [Master the JavaScript Interview: Soft Skills]()
-- [Master the JavaScript Interview: What is a Pure Function?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976)
 - [Interview Algorithm Questions in Javascript() {...}](https://github.com/kennymkchan/interview-questions-in-javascript) [interview]
 
 
@@ -118,6 +117,7 @@
 
 
 ## Foundations
+
 - [JS Foundation](https://js.foundation)
 
 
@@ -194,6 +194,7 @@
 
 ### Related
 
+- [omniclone](https://github.com/jfet97/omniclone)
 - [Awaity.js](https://github.com/asfktz/Awaity.js)
 - [Nothing](https://github.com/slmgc/Nothing)[maybe like]
 - [HotKeys.js](http://wangchujiang.com/hotkeys/)
@@ -412,7 +413,6 @@
 - [Functional pattern: flatMap](http://2ality.com/2017/04/flatmap.html)
 - [Monads in JavaScript](https://curiosity-driven.org/monads-in-javascript)
 - [Why use a Maybe type in JavaScript?](https://oliverjash.me/2017/04/10/why-use-a-maybe-type-in-javascript) [maybe]
-- [The Dao of Immutability: The Way of the Functional Programmer](https://medium.com/javascript-scene/the-dao-of-immutability-9f91a70c88cd)
 - Fantas, Eel, and Specification (Tom Harding)
   - [S1 Daggy](http://www.tomharding.me/2017/03/03/fantas-eel-and-specification/)
   - [S2 Type Signatures](http://www.tomharding.me/2017/03/08/fantas-eel-and-specification-2/)
@@ -435,24 +435,30 @@
   - [S18 Bifunctor + Profunctor](http://www.tomharding.me/2017/06/26/fantas-eel-and-specification-18/)
   - [S19 Semigroupoid + Category](http://www.tomharding.me/2017/07/10/fantas-eel-and-specification-19/)
 - Composing Software (Eric Elliott)
+  - ["Book"](https://medium.com/javascript-scene/composing-software-the-book-f31c77fc3ddc)
   - [An Introduction](https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea)
+  - [The Dao of Immutability: The Way of the Functional Programmer](https://medium.com/javascript-scene/the-dao-of-immutability-9f91a70c88cd)
   - [The Rise and Fall and Rise of Functional Programming](https://medium.com/javascript-scene/the-rise-and-fall-and-rise-of-functional-programming-composable-software-c2d91b424c8c)
   - [Why Learn Functional Programming in JavaScript?](https://medium.com/javascript-scene/why-learn-functional-programming-in-javascript-composing-software-ea13afc7a257)
+  - [Master the JavaScript Interview: What is a Pure Function?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976)
   - [A Functional Programmer’s Introduction to JavaScript](https://medium.com/javascript-scene/a-functional-programmers-introduction-to-javascript-composing-software-d670d14ede30)
   - [Higher Order Functions](https://medium.com/javascript-scene/higher-order-functions-composing-software-5365cf2cbe99)
   - [Reduce](https://medium.com/javascript-scene/reduce-composing-software-fe22f0c39a1d#.sd2hrgjrg)
+  - [Curry and Function Composition](https://medium.com/javascript-scene/curry-and-function-composition-2c208d774983)
+  - [Abstraction & Composition](https://medium.com/javascript-scene/abstraction-composition-cb2849d5bdd6)
   - [Functors & Categories](https://medium.com/javascript-scene/functors-categories-61e031bac53f)
-  - [Functional Mixins](https://medium.com/javascript-scene/functional-mixins-composing-software-ffb66d5e731c)
-  - [JavaScript Factory Functions with ES6+](https://medium.com/javascript-scene/javascript-factory-functions-with-es6-4d224591a8b1)
-  - [Why Composition is Harder with Classes](https://medium.com/javascript-scene/why-composition-is-harder-with-classes-c3e627dcd0aa)
-  - [Composable Datatypes with Functions](https://medium.com/javascript-scene/composable-datatypes-with-functions-aec72db3b093)
   - [JavaScript Monads Made Simple](https://medium.com/javascript-scene/javascript-monads-made-simple-7856be57bfe8)
-  - [Mocking is a Code Smell](https://medium.com/javascript-scene/mocking-is-a-code-smell-944a70c90a6a)
+  - [The Forgotten History of OOP](https://medium.com/javascript-scene/the-forgotten-history-of-oop-88d71b9b2d9f)
   - [The Hidden Treasures of Object Composition](https://medium.com/javascript-scene/the-hidden-treasures-of-object-composition-60cd89480381)
   - [Nested Ternaries are Great](https://medium.com/javascript-scene/nested-ternaries-are-great-361bddd0f340)
-  - [Abstraction & Composition](https://medium.com/javascript-scene/abstraction-composition-cb2849d5bdd6)
-  - [The Forgotten History of OOP](https://medium.com/javascript-scene/the-forgotten-history-of-oop-88d71b9b2d9f)
-  - [Curry and Function Composition](https://medium.com/javascript-scene/curry-and-function-composition-2c208d774983)
+  - [JavaScript Factory Functions with ES6+](https://medium.com/javascript-scene/javascript-factory-functions-with-es6-4d224591a8b1)
+  - [Functional Mixins](https://medium.com/javascript-scene/functional-mixins-composing-software-ffb66d5e731c)
+  - [Why Composition is Harder with Classes](https://medium.com/javascript-scene/why-composition-is-harder-with-classes-c3e627dcd0aa)
+  - [Composable Datatypes with Functions](https://medium.com/javascript-scene/composable-datatypes-with-functions-aec72db3b093)
+  - [Lenses](https://medium.com/javascript-scene/lenses-b85976cb0534)
+  - [Transducers: Efficient Data Processing Pipelines in JavaScript](https://medium.com/javascript-scene/transducers-efficient-data-processing-pipelines-in-javascript-7985330fe73d)
+  - [Elements of JavaScript Style](https://medium.com/javascript-scene/elements-of-javascript-style-caa8821cb99f)
+  - [Mocking is a Code Smell](https://medium.com/javascript-scene/mocking-is-a-code-smell-944a70c90a6a)
 - [Thinking in Ramda](http://randycoulman.com/blog/categories/thinking-in-ramda/)
 - [Safely Accessing Deeply Nested Values In JavaScript](https://medium.com/javascript-inside/safely-accessing-deeply-nested-values-in-javascript-99bf72a0855a#.bpkwuriq1) [ramda][folktale]
 - [Casual functional adventures in JavaScript]()
@@ -704,6 +710,7 @@
 
 ### Related
 
+- [vue-datepicker-ui](https://github.com/edisdev/vue-datepicker-ui)
 - [vue-inter](https://github.com/egoist/vue-inter)
 - [Vuido](https://github.com/mimecorg/vuido)[desktop]
 - [vue-coerce-props](https://github.com/posva/vue-coerce-props)
@@ -757,6 +764,7 @@
 - [Docs](https://reactjs.org/docs/hooks-intro.html)
 
 ### General
+- [Why Do We Write super(props)?](https://overreacted.io/why-do-we-write-super-props/)
 - [Higher-order components vs Render Props](https://www.richardkotze.com/coding/hoc-vs-render-props-react)
 - How To Master Advanced React Design Patterns:
     - [part 1- Compound Components](https://itnext.io/using-advanced-design-patterns-to-create-flexible-and-reusable-react-components-part-1-dd495fa1823)
@@ -866,6 +874,7 @@
 
 ### Related Libs
 
+- [Mood](https://github.com/bredele/mood)
 - [Meiosis](http://meiosis.js.org/)
 - [Unstated](https://github.com/jamiebuilds/unstated)
 - [Javascript State Machine](https://github.com/jakesgordon/javascript-state-machine)
