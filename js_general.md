@@ -333,6 +333,10 @@
 - [Web security essentials - Password storage](http://www.sohamkamani.com/blog/2016/11/24/web-security-password-storage/)
 - [The Most Common XSS Vulnerability in React.js Applications](https://medium.com/node-security/the-most-common-xss-vulnerability-in-react-js-applications-2bdffbcc1fa0#.ozdwlcx2g) [xss][react]
 
+### Related
+
+- [mkcert: valid HTTPS certificates for localhost](https://blog.filippo.io/mkcert-valid-https-certificates-for-localhost/)
+
 
 ## Keyboard
 
