@@ -101,6 +101,7 @@
 
 ## Interview
 
+- [Rethinking how we interview in Microsoft’s Developer Division](https://blog.usejournal.com/rethinking-how-we-interview-in-microsofts-developer-division-8f404cfd075a)
 - [Front end interview preparation guide](https://github.com/Jobeir/front-end-interview-preparation-guide)
 - [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
 - [How the Internet works for a Front-End Developer](https://codeburst.io/how-the-internet-works-for-a-front-end-developer-528d72b801ce)
@@ -123,6 +124,8 @@
 
 ## General
 
+- [How To Properly Handle Your User’s Passwords](https://tamalweb.com/how-to-properly-handle-your-users-passwords)
+- [Bad UX in Web Apps that Perform Intensive Tasks (and How to Avoid it with Queues)](https://vuejsdevelopers.com/2019/01/07/ux-intensive-processing-web-apps-vue-laravel/?utm_source=echojs&utm_medium=post&utm_campaign=lmq)
 - [Creating and filling Arrays of arbitrary lengths in JavaScript](http://2ality.com/2018/12/creating-arrays.html)
 - [The Chronicles of JavaScript Objects](https://blog.bitsrc.io/the-chronicles-of-javascript-objects-2d6b9205cd66)
 - [An Open Letter to JavaScript Leaders Regarding Semicolons](http://blog.izs.me/post/2353458699/an-open-letter-to-javascript-leaders-regarding) [semicolon]
@@ -234,6 +237,7 @@
 
 ## Performance, memory
 
+- [Front-End Performance Checklist 2019 (PDF, Apple Pages, MS Word)](https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/)
 - [Taming huge collections of DOM nodes](https://codeburst.io/taming-huge-collections-of-dom-nodes-bebafdba332)
 - [17 JavaScript / node.js performance coding tips to make applications faster ](http://voidcanvas.com/javascript-performant-coding-tips/)
 - [Isolating memory leaks with Chrome’s Allocation Timeline](https://blog.logrocket.com/isolating-memory-leaks-with-chromes-allocation-timeline-244fa9c48e8e)
@@ -277,6 +281,7 @@
 
 ### Related
 
+- [astorfi/TensorFlow-World](https://github.com/astorfi/TensorFlow-World)[tutorial]
 - [tfjs](https://github.com/tensorflow/tfjs)
 - [Probot](https://github.com/probot/probot)
 
@@ -358,7 +363,8 @@
 
 ### Related Libs
 
-- [immutadot] (github.com/Zenika/immutadot)
+- [unchanged](https://github.com/planttheidea/unchanged)
+- [immutadot](github.com/Zenika/immutadot)
 - [immer](https://github.com/mweststrate/immer)
 - [Mewt](https://github.com/sdgluck/mewt)
 - [Freezer](https://github.com/arqex/freezer)
@@ -514,6 +520,7 @@
 
 ## Progressive Web Apps / PWA
 
+- [A declarative router for service workers](https://jakearchibald.com/2019/service-worker-declarative-router/)
 - [Service Worker gotchas](https://labs.kollegorna.se/blog/2017/06/service-worker-gotchas/)
 - [High-performance service worker loading](https://developers.google.com/web/fundamentals/primers/service-workers/high-performance-loading)
 - [Understanding The Service worker LifeCycle](https://dev.to/achiengcindy/understanding-the-service-worker-lifecycle-47d5)
@@ -710,6 +717,7 @@
 
 ### Related
 
+- [egoist/lit-vue](https://github.com/egoist/lit-vue/?utm_campaign=Vue.js%20News&utm_medium=email&utm_source=Revue%20newsletter)
 - [vue-datepicker-ui](https://github.com/edisdev/vue-datepicker-ui)
 - [vue-inter](https://github.com/egoist/vue-inter)
 - [Vuido](https://github.com/mimecorg/vuido)[desktop]
@@ -756,6 +764,8 @@
 ## React
 
 ### Hooks
+
+- [Why Do React Hooks Rely on Call Order?](https://overreacted.io/why-do-hooks-rely-on-call-order/)[hooks]
 - [React hooks: not magic, just arrays](https://medium.com/@ryardley/react-hooks-not-magic-just-arrays-cd4f1857236e)
 - [How the useEffect Hook Works](https://daveceddia.com/useeffect-hook-examples/)
 - [React hooks: changing the mindset](http://krasimirtsonev.com/blog/article/react-hooks-changing-the-mindset)
@@ -764,6 +774,11 @@
 - [Docs](https://reactjs.org/docs/hooks-intro.html)
 
 ### General
+
+- [How Does setState Know What to Do?](https://overreacted.io/how-does-setstate-know-what-to-do/)
+- [My Wishlist for Hot Reloading](https://overreacted.io/my-wishlist-for-hot-reloading/)
+- [How Does React Tell a Class from a Function?](https://overreacted.io/how-does-react-tell-a-class-from-a-function/)
+- [Controlling tooltips & pop-up menus using compound components in React](https://blog.logrocket.com/controlling-tooltips-pop-up-menus-using-compound-components-in-react-ccedc15c7526)[tutorial]
 - [Why Do We Write super(props)?](https://overreacted.io/why-do-we-write-super-props/)
 - [Higher-order components vs Render Props](https://www.richardkotze.com/coding/hoc-vs-render-props-react)
 - How To Master Advanced React Design Patterns:
