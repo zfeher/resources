@@ -548,6 +548,7 @@
 
 ## Typescript
 
+- [TypeScript 2.8: Conditional Types](https://blog.mariusschulz.com/2019/01/09/typescript-2-8-conditional-types?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+mariusschulz+%28Marius+Schulz%29)
 - [TypeScript — Make types “real”, the type guards](https://medium.com/@wittydeveloper/typescript-make-types-real-the-type-guard-functions-814364e8dbe3)
 - [TypeScript 2.7: Strict Property Initialization](https://blog.mariusschulz.com/2018/05/20/typescript-2-7-strict-property-initialization)
 - [Understanding TypeScript’s type notation](http://2ality.com/2018/04/type-notation-typescript.html?t=1&cn=ZmxleGlibGVfcmVjc18y&refsrc=email&iid=5f284d4b01d64e249c87c57812a61b0e&fl=4&uid=783211657027780608&nid=244+276893704)
@@ -646,6 +647,8 @@
 - [3 Code Splitting Patterns For VueJS and Webpack](http://vuejsdevelopers.com/2017/07/08/vue-js-3-ways-code-splitting-webpack/)[code splitting]
   - [Dynamic imports + common chunks](https://github.com/webpack/webpack/issues/4392)
 
+- [egoist/styled-vue](https://github.com/egoist/styled-vue)
+- [30 Days of Vue](https://www.fullstack.io/30-days-of-vue/)[learn]
 - [Storing and Using the Last Known Route in Vue](https://css-tricks.com/storing-and-using-the-last-known-route-in-vue/)[tutorial]
 - [Create & Publish Web Components With Vue CLI 3](https://vuejsdevelopers.com/2018/05/21/vue-js-web-component/?jsdojo_id=ech_vwc)
 - [Compile Vue.js templates on the Fly with v-runtime-template](https://alligator.io/vuejs/v-runtime-template/?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=Vue.js%20Developers)
@@ -949,6 +952,8 @@
 
 
 ## Animation
+
+- [Toggling Animations On and Off](https://www.kirupa.com/html5/toggling_animations_on_off.htm)[tutorial]
 - [10 principles for smooth web animations](https://blog.gyrosco.pe/smooth-css-animations-7d8ffc2c1d29#.g0x4ti6he)
 - [An Introduction to mo.js](https://css-tricks.com/introduction-mo-js/)
 - [Animating the DOM with Anime.js](https://www.sitepoint.com/animating-the-dom-with-anime-js/)

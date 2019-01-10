@@ -42,6 +42,8 @@
 
 
 ## Git
+
+- [Git Checkout at Previous Timeframe](https://davidwalsh.name/git-checkout-at-previous-timeframe)
 - [Using multiple worktrees with git](https://stacktoheap.com/blog/2016/01/19/using-multiple-worktrees-with-git/)
 - [Sort git Branches by Date](https://davidwalsh.name/sort-git-branches)
 - [Flight rules for git](https://github.com/k88hudson/git-flight-rules)

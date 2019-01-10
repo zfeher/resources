@@ -36,6 +36,10 @@
 
 ## CSS
 
+- [New horizons in CSS: Houdini and the Paint API](https://blog.logrocket.com/new-horizons-in-css-houdini-and-the-paint-api-8b307cf387bb)
+- [Examining “squishiness” in Intrinsic Web Design](https://blog.logrocket.com/examining-squishiness-in-intrinsic-web-design-1005d30dda0c)
+- [How To Learn CSS](https://www.smashingmagazine.com/2019/01/how-to-learn-css/)
+- [Sass Techniques from the Trenches](https://css-tricks.com/sass-techniques-from-the-trenches/)
 - [Dark theme in a day](https://medium.com/@mwichary/dark-theme-in-a-day-3518dde2955a)
 - [Another Collection of Interesting Facts About CSS Grid ](https://css-tricks.com/another-collection-of-interesting-facts-about-css-grid/)
 - [CSS Grid — Responsive layouts and components](https://medium.com/deemaze-software/css-grid-responsive-layouts-and-components-eee1badd5a2f)
