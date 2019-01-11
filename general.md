@@ -1,8 +1,10 @@
 ## Watchout for
+
 - [The Languages, Frameworks and Tools You Should Learn in 2017](http://tutorialzine.com/2016/12/the-languages-frameworks-tools-you-should-learn-in-2017/)
 
 
 ## Fun
+
 - [Hype Driven Development](https://blog.daftcode.pl/hype-driven-development-3469fc2e9b22#.6yid21oth)
 
 
@@ -25,19 +27,23 @@
 
 
 ## Management / Productivity
+
 - [Ten Productivity Tips for Software Developers](http://www.zsoltnagy.eu/ten-productivity-tips-for-software-developers/)
 - [Three Goals for Effective Backlog Management](https://spin.atomicobject.com/2017/06/14/effective-backlog-management-goals/)
 
 
 ## Books
+
 - [DevFreeBooks](https://devfreebooks.github.io)
 
 
 ## Tools
+
 - [The Bash Guide](http://guide.bash.academy)
 
 
 ## Markdown
+
 - [Boost your productivity using Markdown](https://hackernoon.com/boost-your-productivity-using-markdown-b8a84fc2a089)
 
 
@@ -154,6 +160,7 @@
   - `git filter-branch --tree-filter 'rm -f passwords.txt' HEAD` removing a file from every commit
 
 ### related
+
 - [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy)
 
 
