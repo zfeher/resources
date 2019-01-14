@@ -1,3 +1,7 @@
+## General
+
+- [How to estimate time for a project/task accurately](https://dev.to/luminousmen/how-to-estimate-time-for-a-projecttask-accurately--27mn)[estimation]
+
 ## Watchout for
 
 - [The Languages, Frameworks and Tools You Should Learn in 2017](http://tutorialzine.com/2016/12/the-languages-frameworks-tools-you-should-learn-in-2017/)

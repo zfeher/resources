@@ -124,6 +124,7 @@
 
 ## General
 
+- [New ES2018 Features Every JavaScript Developer Should Know](https://css-tricks.com/new-es2018-features-every-javascript-developer-should-know/)
 - [How To Properly Handle Your User’s Passwords](https://tamalweb.com/how-to-properly-handle-your-users-passwords)
 - [Bad UX in Web Apps that Perform Intensive Tasks (and How to Avoid it with Queues)](https://vuejsdevelopers.com/2019/01/07/ux-intensive-processing-web-apps-vue-laravel/?utm_source=echojs&utm_medium=post&utm_campaign=lmq)
 - [Creating and filling Arrays of arbitrary lengths in JavaScript](http://2ality.com/2018/12/creating-arrays.html)
@@ -319,9 +320,14 @@
 - [posterus](https://github.com/Mitranim/posterus)
 - [Yield and Async notations](https://ouicar.github.io/2016/12/14/async-yield.html)
 
+### Related
+
+- [getify/CAF](https://github.com/getify/CAF)
+
 
 ## Security / Payment
 
+- [Defensive JavaScript](https://www.javascriptjanuary.com/blog/defensive-javascript)
 - [Pros and cons in using JWT (JSON Web Tokens)](https://www.codementor.io/rahulgolwalkar/pros-and-cons-in-using-jwt-json-web-tokens-ikc2e3y12)
 - [Protect your Node.js app from Cross-Site Request Forgery ](https://dev.to/dkundel/protect-your-nodejs-app-from-cross-site-request-forgery--46b9)
 - [Third party CSS is not safe](https://jakearchibald.com/2018/third-party-css-is-not-safe/)
@@ -778,6 +784,9 @@
 
 ### General
 
+- [Ultimate React Component Patterns with Typescript 2.8](https://levelup.gitconnected.com/ultimate-react-component-patterns-with-typescript-2-8-82990c516935)[typescript]
+- [TypeScript HOC (Higher-Order Component) and Decorators in React](https://medium.com/@jan.hesters/typescript-hoc-higher-order-component-and-decorators-in-react-586787f5a9e7)[typescript]
+- [React – Compound components with useContext Hook][tutorial]
 - [How Does setState Know What to Do?](https://overreacted.io/how-does-setstate-know-what-to-do/)
 - [My Wishlist for Hot Reloading](https://overreacted.io/my-wishlist-for-hot-reloading/)
 - [How Does React Tell a Class from a Function?](https://overreacted.io/how-does-react-tell-a-class-from-a-function/)
@@ -842,6 +851,7 @@
 
 
 ## React Native
+
 - [The React and React Native Event System Explained: A Harmonious Coexistence](https://levelup.gitconnected.com/how-exactly-does-react-handles-events-71e8b5e359f2?ref=reddit)
 - [React Native Quirks](https://codeburst.io/react-native-quirks-2fb1ae0bbf80)
 
@@ -954,6 +964,7 @@
 
 ## Animation
 
+- [Your WebGL aiders](https://areknawo.com/your-webgl-aiders/)
 - [Toggling Animations On and Off](https://www.kirupa.com/html5/toggling_animations_on_off.htm)[tutorial]
 - [10 principles for smooth web animations](https://blog.gyrosco.pe/smooth-css-animations-7d8ffc2c1d29#.g0x4ti6he)
 - [An Introduction to mo.js](https://css-tricks.com/introduction-mo-js/)
@@ -961,11 +972,14 @@
 - [Bringing to life with Web Animations API](https://codequs.com/p/H1oa_vGqA/bringing-to-life-with-web-animations-api/)
 
 ### Related Libs
+
+- [Anime.js](https://github.com/juliangarnier/anime/)
 - [mo.js](http://mojs.io)
 - [Web Animations API](https://github.com/web-animations/web-animations-js)
 
 
 ## Charts
+
 - [How to Draw Charts Using JavaScript and HTML5 Canvas](https://code.tutsplus.com/tutorials/how-to-draw-a-pie-chart-and-doughnut-chart-using-javascript-and-html5-canvas--cms-27197)
 - [SVG Charting Libraries](http://mediatemple.net/blog/tips/svg-charting-libraries/)
 
