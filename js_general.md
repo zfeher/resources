@@ -848,6 +848,7 @@
 
 ## State Management
 
+- [https://twitter.com/ryanflorence/status/1084248892072329216?s=12](https://twitter.com/ryanflorence/status/1084248892072329216?s=12)[xstate][state machine]
 - [Easy State Management in React Using Unstated](https://alligator.io/react/unstated/)
 - [Practical Redux](http://blog.isquaredsoftware.com/series/practical-redux/)[redux]
 - [My take on Redux architecture](http://krasimirtsonev.com/blog/article/my-take-on-redux-architecture)[redux]
