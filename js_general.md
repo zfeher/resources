@@ -124,6 +124,7 @@
 
 ## General
 
+- [Lazy Loading with the IntersectionObserver API](https://dev.to/aligoren/lazy-loading-with-the-intersectionobserver-api-44pe)
 - [New ES2018 Features Every JavaScript Developer Should Know](https://css-tricks.com/new-es2018-features-every-javascript-developer-should-know/)
 - [How To Properly Handle Your User’s Passwords](https://tamalweb.com/how-to-properly-handle-your-users-passwords)
 - [Bad UX in Web Apps that Perform Intensive Tasks (and How to Avoid it with Queues)](https://vuejsdevelopers.com/2019/01/07/ux-intensive-processing-web-apps-vue-laravel/?utm_source=echojs&utm_medium=post&utm_campaign=lmq)
@@ -400,6 +401,7 @@
 
 ## Functional Programming (FP)
 
+- [Observables, Side-effects, and Subscriptions](https://blog.eyas.sh/2018/12/observables-side-effects-and-subscriptions/)[rxjs]
 - [Reactive Programming in JavaScript with RxJS](https://blog.bitsrc.io/reactive-programming-in-javascript-with-rxjs-9db53c07ef14)
 - [Functional Programming Exercises in Javascript](http://reactivex.io/learnrx/)
 - [Composable, Immutable property access with Lenses in Typescript](https://medium.com/@reidev275/composable-immutable-property-access-with-lenses-in-typescript-798da4ddc30e)
@@ -653,6 +655,7 @@
 - [3 Code Splitting Patterns For VueJS and Webpack](http://vuejsdevelopers.com/2017/07/08/vue-js-3-ways-code-splitting-webpack/)[code splitting]
   - [Dynamic imports + common chunks](https://github.com/webpack/webpack/issues/4392)
 
+- [Accessible routing with vue.js](https://dev.to/marcush/accessible-routing-with-vuejs-ea)
 - [egoist/styled-vue](https://github.com/egoist/styled-vue)
 - [30 Days of Vue](https://www.fullstack.io/30-days-of-vue/)[learn]
 - [Storing and Using the Last Known Route in Vue](https://css-tricks.com/storing-and-using-the-last-known-route-in-vue/)[tutorial]
@@ -774,6 +777,11 @@
 
 ### Hooks
 
+- [useEffect vs useLayoutEffect](https://blog.kentcdodds.com/useeffect-vs-uselayouteffect-vs-usemutationeffect-6a3ee231304a)
+- [React Hooks: Array Destructuring Fundamentals](https://blog.kentcdodds.com/react-hooks-array-destructuring-fundamentals-952fbfd57ea)
+- [React Hooks: What’s going to happen to my tests?](https://blog.kentcdodds.com/react-hooks-whats-going-to-happen-to-my-tests-df4c2b4d67b7)
+- [React Hooks: What’s going to happen to react context?](https://blog.kentcdodds.com/react-hooks-whats-going-to-happen-to-react-context-1881f8a058be)
+- [React Hooks: What’s going to happen to render props?](https://blog.kentcdodds.com/react-hooks-whats-going-to-happen-to-render-props-8ade1f00f159)
 - [Why Do React Hooks Rely on Call Order?](https://overreacted.io/why-do-hooks-rely-on-call-order/)[hooks]
 - [React hooks: not magic, just arrays](https://medium.com/@ryardley/react-hooks-not-magic-just-arrays-cd4f1857236e)
 - [How the useEffect Hook Works](https://daveceddia.com/useeffect-hook-examples/)
@@ -986,6 +994,7 @@
 
 ## Testing
 
+- [Testing Implementation Details](https://blog.kentcdodds.com/testing-implementation-details-ccb8d269586)
 - [A personal review of automated testing tools in the JavaScript world](https://itnext.io/a-personal-review-of-automated-testing-tools-in-the-javascript-world-3c504fe6e05d)
 - [Everything That's Not Tested Will Break](https://dev.to/stealthmusic/everything-thats-not-tested-will-break-1adg)
 - [An Overview of JavaScript Testing in 2018](https://medium.com/welldone-software/an-overview-of-javascript-testing-in-2018-f68950900bc3)
