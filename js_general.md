@@ -401,6 +401,7 @@
 
 ## Functional Programming (FP)
 
+- [An Informal Exploration of Structural Sharing, Proxies, and Copy-on-Write Semantics](http://raganwald.com/2019/01/14/structural-sharing-and-copy-on-write.html?utm_source=ESnextNews.com&utm_medium=Weekly+Newsletter&utm_campaign=2019-01-15)[tutorial]
 - [Observables, Side-effects, and Subscriptions](https://blog.eyas.sh/2018/12/observables-side-effects-and-subscriptions/)[rxjs]
 - [Reactive Programming in JavaScript with RxJS](https://blog.bitsrc.io/reactive-programming-in-javascript-with-rxjs-9db53c07ef14)
 - [Functional Programming Exercises in Javascript](http://reactivex.io/learnrx/)
@@ -485,6 +486,7 @@
 - So You Want to be a Functional Programmer - Charles Scalfani: [Part 1](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536), [Part 2](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-2-7005682cec4a), [Part 3](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-3-1b0fd14eb1a7), [Part 4](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-4-18fbe3ea9e49), [Part 5](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-5-c70adc9cf56a), [Part 6](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-6-db502830403#.8wfy3yabr)
 
 ### Related Libs
+- [mori](http://swannodette.github.io/mori/)
 - [eslint-plugin-fp](https://github.com/jfmengels/eslint-plugin-fp)
 - [Sanctuary](https://sanctuary.js.org)
 - [Fluture](https://github.com/fluture-js/Fluture) [promise]
