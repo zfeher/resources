@@ -657,6 +657,7 @@
 - [3 Code Splitting Patterns For VueJS and Webpack](http://vuejsdevelopers.com/2017/07/08/vue-js-3-ways-code-splitting-webpack/)[code splitting]
   - [Dynamic imports + common chunks](https://github.com/webpack/webpack/issues/4392)
 
+- [Measure runtime performance in Vue apps](https://vuedose.tips/tips/2/)[performance]
 - [Accessible routing with vue.js](https://dev.to/marcush/accessible-routing-with-vuejs-ea)
 - [egoist/styled-vue](https://github.com/egoist/styled-vue)
 - [30 Days of Vue](https://www.fullstack.io/30-days-of-vue/)[learn]
