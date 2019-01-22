@@ -1,5 +1,6 @@
 ## General
 
+- [Improving Code Quality using Pull Requests](https://dev.to/arminaskatilius/improving-code-quality-using-pull-requests-2e9i)
 - [How to estimate time for a project/task accurately](https://dev.to/luminousmen/how-to-estimate-time-for-a-projecttask-accurately--27mn)[estimation]
 
 ## Watchout for
@@ -14,6 +15,7 @@
 
 ## Theory
 
+- [What Are The Best Software Engineering Principles?](https://dev.to/luminousmen/what-are-the-best-software-engineering-principles--3p8n)
 - SOLID Design Principles Explained
   - [The Single Responsibility Principle](https://stackify.com/solid-design-principles/)
   - [The Open/Closed Principle with Code Examples](https://stackify.com/solid-design-open-closed-principle/)
@@ -173,11 +175,14 @@
 - [Multiple Fonts: Alternative to Operator Mono in VSCode](https://medium.com/@zamamohammed/multiple-fonts-alternative-to-operator-mono-in-vscode-7745b52120a0)
 - [Visual Studio Code](https://code.visualstudio.com/)
   - [Awesome VSCode](https://github.com/viatsko/awesome-vscode)
+  - [10 Essential VS Code Extensions for JavaScript Developers in 2019](https://hackernoon.com/10-essential-vs-code-extensions-for-javascript-developers-in-2019-e8320e3f421e)
+  - [6 Awesome CSS Extensions for VS Code](https://scotch.io/bar-talk/6-awesome-css-extensions-for-vs-code)
   - [Top JavaScript VSCode Extensions for Faster Development](https://codeburst.io/top-javascript-vscode-extensions-for-faster-development-c687c39596f5)
   - [Visual Studio Code treasures](https://medium.com/wehkamp-techblog/visual-studio-code-treasures-1accae07c60a)
   - [JavaScript Extensions Part 1](https://code.visualstudio.com/blogs/2016/09/14/js_roundup_1)
   - [JavaScript Extensions Part 2](http://code.visualstudio.com/blogs/2016/10/31/js_roundup_2)
   - Extensions
+    - [Browser Preview for VS Code](https://github.com/auchenberg/vscode-browser-preview)
     - [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
     - [expand-region](https://marketplace.visualstudio.com/items?itemName=letrieu.expand-region)
     - [Quick and Simple Text Selection](https://marketplace.visualstudio.com/items?itemName=dbankier.vscode-quick-select)

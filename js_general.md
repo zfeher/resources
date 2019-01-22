@@ -558,6 +558,7 @@
 
 ## Typescript
 
+- [Data fetching in React the functional way powered by TypeScript, io-ts & fp-ts](http://blog.wolksoftware.com/data-fetching-in-react-the-functional-way-powered-by-typescript-io-ts-fp-ts)
 - [TypeScript 2.8: Conditional Types](https://blog.mariusschulz.com/2019/01/09/typescript-2-8-conditional-types?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+mariusschulz+%28Marius+Schulz%29)
 - [TypeScript — Make types “real”, the type guards](https://medium.com/@wittydeveloper/typescript-make-types-real-the-type-guard-functions-814364e8dbe3)
 - [TypeScript 2.7: Strict Property Initialization](https://blog.mariusschulz.com/2018/05/20/typescript-2-7-strict-property-initialization)
@@ -657,6 +658,7 @@
 - [3 Code Splitting Patterns For VueJS and Webpack](http://vuejsdevelopers.com/2017/07/08/vue-js-3-ways-code-splitting-webpack/)[code splitting]
   - [Dynamic imports + common chunks](https://github.com/webpack/webpack/issues/4392)
 
+- [Vue Route Component Hooks](https://itnext.io/vue-custom-route-hooks-3f50cc30bb87)
 - [Measure runtime performance in Vue apps](https://vuedose.tips/tips/2/)[performance]
 - [Accessible routing with vue.js](https://dev.to/marcush/accessible-routing-with-vuejs-ea)
 - [egoist/styled-vue](https://github.com/egoist/styled-vue)
