@@ -1115,6 +1115,8 @@
 - [History and Background of JavaScript Module Loaders](https://appendto.com/2016/06/the-short-history-of-javascript-module-loaders/)
 
 ### Related Libs
+
+- [BundlePhobia](https://bundlephobia.com)
 - [webpack-libs-optimizations](https://github.com/GoogleChromeLabs/webpack-libs-optimizations)
 - [prepack](https://github.com/facebook/prepack)
 - [Polyfill.io](https://polyfill.io/v2/docs/)
