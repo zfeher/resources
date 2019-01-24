@@ -558,6 +558,8 @@
 
 ## Typescript
 
+- [The TypeScript Tax](https://medium.com/javascript-scene/the-typescript-tax-132ff4cb175b)
+- [How TypeScript breaks referential transparency (and what to do about it)](https://blog.logrocket.com/how-typescript-breaks-referential-transparency-7a82c0345f2c)
 - [Data fetching in React the functional way powered by TypeScript, io-ts & fp-ts](http://blog.wolksoftware.com/data-fetching-in-react-the-functional-way-powered-by-typescript-io-ts-fp-ts)
 - [TypeScript 2.8: Conditional Types](https://blog.mariusschulz.com/2019/01/09/typescript-2-8-conditional-types?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+mariusschulz+%28Marius+Schulz%29)
 - [TypeScript — Make types “real”, the type guards](https://medium.com/@wittydeveloper/typescript-make-types-real-the-type-guard-functions-814364e8dbe3)
@@ -658,6 +660,9 @@
 - [3 Code Splitting Patterns For VueJS and Webpack](http://vuejsdevelopers.com/2017/07/08/vue-js-3-ways-code-splitting-webpack/)[code splitting]
   - [Dynamic imports + common chunks](https://github.com/webpack/webpack/issues/4392)
 
+- [Reactive Window Parameters in VueJS](https://blog.usejournal.com/reactive-window-parameters-in-vuejs-fc5de75d7ab5)
+- [Building a Desktop App with Vue: NW.js](https://dev.to/vuevixens/building-a-desktop-app-with-vue-nwjs-1f9e?utm_campaign=Vue.js%20News&utm_medium=email&utm_source=Revue%20newsletter)[NW.js]
+- [Lessons Learned on Writing Apps with NativeScript VueJS](https://medium.com/learning-lab/lessons-learned-on-writing-apps-with-nativescript-vuejs-bd6a3066f0cb)[NativeScript]
 - [Vue Route Component Hooks](https://itnext.io/vue-custom-route-hooks-3f50cc30bb87)
 - [Measure runtime performance in Vue apps](https://vuedose.tips/tips/2/)[performance]
 - [Accessible routing with vue.js](https://dev.to/marcush/accessible-routing-with-vuejs-ea)
@@ -999,6 +1004,7 @@
 
 ## Testing
 
+- [4 things that I always manually test](https://dev.to/lkopacz/4-things-that-i-always-manually-test-2je8)
 - [Testing Implementation Details](https://blog.kentcdodds.com/testing-implementation-details-ccb8d269586)
 - [A personal review of automated testing tools in the JavaScript world](https://itnext.io/a-personal-review-of-automated-testing-tools-in-the-javascript-world-3c504fe6e05d)
 - [Everything That's Not Tested Will Break](https://dev.to/stealthmusic/everything-thats-not-tested-will-break-1adg)
