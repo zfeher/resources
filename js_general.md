@@ -22,6 +22,7 @@
 
 ## Books
 
+- [Top 10 JavaScript Books 2019](https://www.ma-no.org/en/content/index_top-10-javascript-books-2019_2385.php)
 - [Front-End Developer Handbook 2018](https://frontendmasters.com/books/front-end-handbook/2018/)
 - [React in patterns](https://github.com/krasimir/react-in-patterns)
 - [The JavaScript Way](https://github.com/bpesquet/thejsway/)
@@ -124,6 +125,8 @@
 
 ## General
 
+- [Convert a String to a Number in JavaScript](http://thecodebarbarian.com/convert-a-string-to-a-number-in-javascript.html)
+- [How to Stop Using Browser Dev Tools and Start Using Your Editor’s Debugger](https://www.javascriptjanuary.com/blog/how-to-stop-using-browser-devtools-and-start-using-your-editors-debugger)[vscode]
 - [Lazy Loading with the IntersectionObserver API](https://dev.to/aligoren/lazy-loading-with-the-intersectionobserver-api-44pe)
 - [New ES2018 Features Every JavaScript Developer Should Know](https://css-tricks.com/new-es2018-features-every-javascript-developer-should-know/)
 - [How To Properly Handle Your User’s Passwords](https://tamalweb.com/how-to-properly-handle-your-users-passwords)
@@ -199,6 +202,7 @@
 
 ### Related
 
+- [github/hotkey](https://github.com/github/hotkey)
 - [omniclone](https://github.com/jfet97/omniclone)
 - [Awaity.js](https://github.com/asfktz/Awaity.js)
 - [Nothing](https://github.com/slmgc/Nothing)[maybe like]
@@ -328,6 +332,7 @@
 
 ## Security / Payment
 
+- [Tracking Users with CSS](https://www.templarbit.com/blog/2018/03/20/tracking-users-with-css/?fbclid=IwAR2-PiovK79aCzZj6AarPr46uvURp7wNo66ouQba0-mp-k6Uau9R9Stm38s)
 - [Defensive JavaScript](https://www.javascriptjanuary.com/blog/defensive-javascript)
 - [Pros and cons in using JWT (JSON Web Tokens)](https://www.codementor.io/rahulgolwalkar/pros-and-cons-in-using-jwt-json-web-tokens-ikc2e3y12)
 - [Protect your Node.js app from Cross-Site Request Forgery ](https://dev.to/dkundel/protect-your-nodejs-app-from-cross-site-request-forgery--46b9)
@@ -593,6 +598,7 @@
 
 ### Related
 
+- [transitive-bullshit/functional-typescript](https://github.com/transitive-bullshit/functional-typescript)
 - [TypeWiz](https://github.com/urish/typewiz)
 
 
@@ -982,6 +988,7 @@
 
 ## Animation
 
+- [How to Use the Animation Inspector in Chrome DevTools](https://webdesign.tutsplus.com/articles/quick-tip-chrome-animation-dev-tools--cms-31505)
 - [Your WebGL aiders](https://areknawo.com/your-webgl-aiders/)
 - [Toggling Animations On and Off](https://www.kirupa.com/html5/toggling_animations_on_off.htm)[tutorial]
 - [10 principles for smooth web animations](https://blog.gyrosco.pe/smooth-css-animations-7d8ffc2c1d29#.g0x4ti6he)
@@ -1085,6 +1092,8 @@
 
 ## Module loader/Module Bundler/Task Runner, CI, Build
 
+- [Code-splitting for libraries—bundling for npm with Rollup 1.0](https://levelup.gitconnected.com/code-splitting-for-libraries-bundling-for-npm-with-rollup-1-0-2522c7437697)
+- [Remove unused CSS with PurgeCSS](https://vuedose.tips/tips/3/)
 - [Deploying ES2015+ Code in Production Today](https://philipwalton.com/articles/deploying-es2015-code-in-production-today/)
 - [Decrease Front-end Size](https://developers.google.com/web/fundamentals/performance/webpack/decrease-frontend-size)[webpack]
 - [Tomorrow’s ES Modules Today!](https://medium.com/web-on-the-edge/tomorrows-es-modules-today-c53d29ac448c)[esm]
