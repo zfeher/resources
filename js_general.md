@@ -666,6 +666,7 @@
 - [3 Code Splitting Patterns For VueJS and Webpack](http://vuejsdevelopers.com/2017/07/08/vue-js-3-ways-code-splitting-webpack/)[code splitting]
   - [Dynamic imports + common chunks](https://github.com/webpack/webpack/issues/4392)
 
+- [New v-slot directive in Vue.js 2.6.0](https://vuedose.tips/tips/4/)
 - [Reactive Window Parameters in VueJS](https://blog.usejournal.com/reactive-window-parameters-in-vuejs-fc5de75d7ab5)
 - [Building a Desktop App with Vue: NW.js](https://dev.to/vuevixens/building-a-desktop-app-with-vue-nwjs-1f9e?utm_campaign=Vue.js%20News&utm_medium=email&utm_source=Revue%20newsletter)[NW.js]
 - [Lessons Learned on Writing Apps with NativeScript VueJS](https://medium.com/learning-lab/lessons-learned-on-writing-apps-with-nativescript-vuejs-bd6a3066f0cb)[NativeScript]

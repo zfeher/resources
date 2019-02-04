@@ -40,7 +40,7 @@ find app/scripts/components/ -name "template.html" | xargs -p -L 1 sed -b -i '1d
 
 [more info](https://unix.stackexchange.com/questions/209068/how-do-i-delete-the-first-n-lines-and-last-line-of-a-file-using-shell-commands)
 
-## Find directories recursievely
+## Find directories recursively
 
 ```Bash
 find /path/ -type d -print
