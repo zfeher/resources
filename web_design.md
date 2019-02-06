@@ -19,6 +19,7 @@
 
 
 ## UX
+
 - [5 WAYS TO START WORKING WITH UX TODAY](http://www.developerdrive.com/2017/06/5-ways-to-start-working-with-ux-today/)
 - [The Difference Between Customization and Personalization](http://babich.biz/the-difference-between-customization-and-personalization/)
 - [12 UX rules every designer should know](http://www.webdesignerdepot.com/2016/12/26-ux-rules-every-designer-should-know/)
@@ -36,6 +37,7 @@
 
 ## CSS
 
+- [Structuring your Sass Projects](https://itnext.io/structuring-your-sass-projects-c8d41fa55ed4)
 - [New horizons in CSS: Houdini and the Paint API](https://blog.logrocket.com/new-horizons-in-css-houdini-and-the-paint-api-8b307cf387bb)
 - [Examining “squishiness” in Intrinsic Web Design](https://blog.logrocket.com/examining-squishiness-in-intrinsic-web-design-1005d30dda0c)
 - [How To Learn CSS](https://www.smashingmagazine.com/2019/01/how-to-learn-css/)

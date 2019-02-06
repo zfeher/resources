@@ -181,6 +181,7 @@
   - [Visual Studio Code treasures](https://medium.com/wehkamp-techblog/visual-studio-code-treasures-1accae07c60a)
   - [JavaScript Extensions Part 1](https://code.visualstudio.com/blogs/2016/09/14/js_roundup_1)
   - [JavaScript Extensions Part 2](http://code.visualstudio.com/blogs/2016/10/31/js_roundup_2)
+  
   - Extensions
     - [Browser Preview for VS Code](https://github.com/auchenberg/vscode-browser-preview)
     - [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
@@ -216,6 +217,10 @@
     - [jsx](https://marketplace.visualstudio.com/items?itemName=TwentyChung.jsx) [react]
     - [Angular 2 TypeScript + HTML Snippets](https://marketplace.visualstudio.com/items?itemName=UVBrain.Angular2) [angular]
     - [language-vscode-javascript-angular2](https://marketplace.visualstudio.com/items?itemName=nwallace.language-vscode-javascript-angular2) [angular]
+  
+  - Fonts
+    - [kosimst/Firicico](https://github.com/kosimst/Firicico)
+    - [tonsky/FiraCode](https://github.com/tonsky/FiraCode)
 
 - [Sublime Text](https://www.sublimetext.com/)
   - dotfiles

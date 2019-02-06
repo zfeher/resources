@@ -22,6 +22,7 @@
 
 ## Books
 
+- [Exploring ES2018 and ES2019](http://exploringjs.com/es2018-es2019/)
 - [Top 10 JavaScript Books 2019](https://www.ma-no.org/en/content/index_top-10-javascript-books-2019_2385.php)
 - [Front-End Developer Handbook 2018](https://frontendmasters.com/books/front-end-handbook/2018/)
 - [React in patterns](https://github.com/krasimir/react-in-patterns)
@@ -107,9 +108,12 @@
 - [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
 - [How the Internet works for a Front-End Developer](https://codeburst.io/how-the-internet-works-for-a-front-end-developer-528d72b801ce)
 - [Clearing your Front End Job Interview — JavaScript](https://codeburst.io/clearing-your-front-end-job-interview-javascript-d5ec896adda4)
-- [Master the JavaScript Interview: Soft Skills]()
+- [Master the JavaScript Interview: Soft Skills](https://medium.com/javascript-scene/master-the-javascript-interview-soft-skills-a8a5fb02c466)
 - [Interview Algorithm Questions in Javascript() {...}](https://github.com/kennymkchan/interview-questions-in-javascript) [interview]
 
+### Related
+
+- [ashuray/interviewroom](https://github.com/ashuray/interviewroom/blob/master/readme.md)
 
 ## Conferences
 
@@ -406,6 +410,8 @@
 
 ## Functional Programming (FP)
 
+- [What's Happening With the Pipeline (|>) Proposal?](https://babeljs.io/blog/2018/07/19/whats-happening-with-the-pipeline-proposal?utm_source=ESnextNews.com&utm_medium=Weekly+Newsletter&utm_campaign=2019-02-05)
+- [Currying in JS: Answering the traditional question, Add(2)(3), which gives sum of both numbers.](http://theanubhav.com/2019/02/03/js-currying-in-interview/)
 - [An Informal Exploration of Structural Sharing, Proxies, and Copy-on-Write Semantics](http://raganwald.com/2019/01/14/structural-sharing-and-copy-on-write.html?utm_source=ESnextNews.com&utm_medium=Weekly+Newsletter&utm_campaign=2019-01-15)[tutorial]
 - [Observables, Side-effects, and Subscriptions](https://blog.eyas.sh/2018/12/observables-side-effects-and-subscriptions/)[rxjs]
 - [Reactive Programming in JavaScript with RxJS](https://blog.bitsrc.io/reactive-programming-in-javascript-with-rxjs-9db53c07ef14)
@@ -746,7 +752,9 @@
 
 ### Related
 
-- [egoist/lit-vue](https://github.com/egoist/lit-vue/?utm_campaign=Vue.js%20News&utm_medium=email&utm_source=Revue%20newsletter)
+- [sue71/vuex-typescript-fsa](https://github.com/sue71/vuex-typescript-fsa)[vuex][typescript]
+- [alexjoverm/v-lazy-image](https://github.com/alexjoverm/v-lazy-image)
+- [egoist/lit-vue](https://github.com/egoist/lit-vue/)
 - [vue-datepicker-ui](https://github.com/edisdev/vue-datepicker-ui)
 - [vue-inter](https://github.com/egoist/vue-inter)
 - [Vuido](https://github.com/mimecorg/vuido)[desktop]
@@ -794,6 +802,7 @@
 
 ### Hooks
 
+- [Learn React Hooks by building a game](https://react.games/)[tutorial]
 - [useEffect vs useLayoutEffect](https://blog.kentcdodds.com/useeffect-vs-uselayouteffect-vs-usemutationeffect-6a3ee231304a)
 - [React Hooks: Array Destructuring Fundamentals](https://blog.kentcdodds.com/react-hooks-array-destructuring-fundamentals-952fbfd57ea)
 - [React Hooks: What’s going to happen to my tests?](https://blog.kentcdodds.com/react-hooks-whats-going-to-happen-to-my-tests-df4c2b4d67b7)
