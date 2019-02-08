@@ -103,6 +103,7 @@
 
 ## Interview
 
+- [How to Beat 5 Common JavaScript Interview Challenges](https://www.sitepoint.com/5-common-coding-interview-challenges/)
 - [Rethinking how we interview in Microsoft’s Developer Division](https://blog.usejournal.com/rethinking-how-we-interview-in-microsofts-developer-division-8f404cfd075a)
 - [Front end interview preparation guide](https://github.com/Jobeir/front-end-interview-preparation-guide)
 - [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
@@ -662,6 +663,7 @@
 - [Awesome Vue.js](https://github.com/vuejs/awesome-vue)
 
 - [Hooks](https://github.com/yyx990803/vue-hooks)
+- [What Hooks Mean for Vue](https://css-tricks.com/what-hooks-mean-for-vue/)
 
 - [Type Vue without TypeScript](https://medium.com/@znck/type-vue-without-typescript-b2b49210f0b)
 
@@ -672,6 +674,7 @@
 - [3 Code Splitting Patterns For VueJS and Webpack](http://vuejsdevelopers.com/2017/07/08/vue-js-3-ways-code-splitting-webpack/)[code splitting]
   - [Dynamic imports + common chunks](https://github.com/webpack/webpack/issues/4392)
 
+- [New in Vue: ES Module Browser Build](https://vuejsdevelopers.com/2019/02/04/vue-es-module-browser-build)
 - [New v-slot directive in Vue.js 2.6.0](https://vuedose.tips/tips/4/)
 - [Reactive Window Parameters in VueJS](https://blog.usejournal.com/reactive-window-parameters-in-vuejs-fc5de75d7ab5)
 - [Building a Desktop App with Vue: NW.js](https://dev.to/vuevixens/building-a-desktop-app-with-vue-nwjs-1f9e?utm_campaign=Vue.js%20News&utm_medium=email&utm_source=Revue%20newsletter)[NW.js]
@@ -802,6 +805,9 @@
 
 ### Hooks
 
+- [Making setInterval Declarative with React Hooks](https://overreacted.io/making-setinterval-declarative-with-react-hooks/)
+- [useFetch: React custom hook for Fetch API with Suspense and Concurrent Mode in Mind](https://itnext.io/usefetch-react-custom-hook-for-fetch-api-with-suspense-and-concurrent-mode-in-mind-1d3ba9250e0)
+- [Playing with React Hooks and Web Workers](https://medium.com/@dai_shi/playing-with-react-hooks-and-web-workers-2ebdf1c93dea)
 - [Learn React Hooks by building a game](https://react.games/)[tutorial]
 - [useEffect vs useLayoutEffect](https://blog.kentcdodds.com/useeffect-vs-uselayouteffect-vs-usemutationeffect-6a3ee231304a)
 - [React Hooks: Array Destructuring Fundamentals](https://blog.kentcdodds.com/react-hooks-array-destructuring-fundamentals-952fbfd57ea)
