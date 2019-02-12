@@ -142,6 +142,7 @@
 - [How to Display Text on Image With CSS3 mix-blend-mode](http://www.hongkiat.com/blog/css3-mix-blend-mode/)
 
 ### Related
+- [callum-hart/immutable-styles](https://github.com/callum-hart/immutable-styles)
 - [CSS Triggers](https://csstriggers.com)
 - [Stylelint](https://stylelint.io)
 - [CSS modules](https://github.com/css-modules/css-modules)

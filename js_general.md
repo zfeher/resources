@@ -130,6 +130,7 @@
 
 ## General
 
+- [Rendering on the Web](https://developers.google.com/web/updates/2019/02/rendering-on-the-web)[SSR][CSR]
 - [Convert a String to a Number in JavaScript](http://thecodebarbarian.com/convert-a-string-to-a-number-in-javascript.html)
 - [How to Stop Using Browser Dev Tools and Start Using Your Editor’s Debugger](https://www.javascriptjanuary.com/blog/how-to-stop-using-browser-devtools-and-start-using-your-editors-debugger)[vscode]
 - [Lazy Loading with the IntersectionObserver API](https://dev.to/aligoren/lazy-loading-with-the-intersectionobserver-api-44pe)
@@ -207,6 +208,7 @@
 
 ### Related
 
+- [gruns/ImmortalDB](https://github.com/gruns/ImmortalDB)[cookie][localstorage][sessionstorage][indexeddb]
 - [github/hotkey](https://github.com/github/hotkey)
 - [omniclone](https://github.com/jfet97/omniclone)
 - [Awaity.js](https://github.com/asfktz/Awaity.js)
@@ -570,6 +572,9 @@
 
 ## Typescript
 
+- [Node.js TypeScript: the basics of Node.js](https://wanago.io/2019/02/11/node-js-typescript-modules-file-system/)
+- [TypeScript 2.8: Mapped Type Modifiers](https://mariusschulz.com/blog/typescript-2-8-mapped-type-modifiers)
+- [How not to lint your code?](https://areknawo.com/how-not-to-lint-your-code/)[lint]
 - [The TypeScript Tax](https://medium.com/javascript-scene/the-typescript-tax-132ff4cb175b)
 - [How TypeScript breaks referential transparency (and what to do about it)](https://blog.logrocket.com/how-typescript-breaks-referential-transparency-7a82c0345f2c)
 - [Data fetching in React the functional way powered by TypeScript, io-ts & fp-ts](http://blog.wolksoftware.com/data-fetching-in-react-the-functional-way-powered-by-typescript-io-ts-fp-ts)
@@ -674,6 +679,7 @@
 - [3 Code Splitting Patterns For VueJS and Webpack](http://vuejsdevelopers.com/2017/07/08/vue-js-3-ways-code-splitting-webpack/)[code splitting]
   - [Dynamic imports + common chunks](https://github.com/webpack/webpack/issues/4392)
 
+- [Adaptive components using v-bind and v-on](https://vuedose.tips/tips/5/)
 - [New in Vue: ES Module Browser Build](https://vuejsdevelopers.com/2019/02/04/vue-es-module-browser-build)
 - [New v-slot directive in Vue.js 2.6.0](https://vuedose.tips/tips/4/)
 - [Reactive Window Parameters in VueJS](https://blog.usejournal.com/reactive-window-parameters-in-vuejs-fc5de75d7ab5)
@@ -878,6 +884,7 @@
 
 ### Related
 
+- [dai-shi/react-hooks-async](https://github.com/dai-shi/react-hooks-async)
 - [Proton Native](https://github.com/kusti8/proton-native)
 - [React/Redux Links](https://github.com/markerikson/react-redux-links)
 - [shouldComponentUpdate-Children](https://github.com/NoamELB/shouldComponentUpdate-Children)
