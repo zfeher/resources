@@ -130,6 +130,7 @@
 
 ## General
 
+- [New JavaScript Features That Will Change How You Write Regex](https://www.smashingmagazine.com/2019/02/regexp-features-regular-expressions/)
 - [Rendering on the Web](https://developers.google.com/web/updates/2019/02/rendering-on-the-web)[SSR][CSR]
 - [Convert a String to a Number in JavaScript](http://thecodebarbarian.com/convert-a-string-to-a-number-in-javascript.html)
 - [How to Stop Using Browser Dev Tools and Start Using Your Editor’s Debugger](https://www.javascriptjanuary.com/blog/how-to-stop-using-browser-devtools-and-start-using-your-editors-debugger)[vscode]
@@ -208,6 +209,9 @@
 
 ### Related
 
+- [haiku.ai/](https://www.haiku.ai/)
+- [prismjs.com/](https://prismjs.com/)
+- [docusaurus.io/](https://docusaurus.io/)
 - [gruns/ImmortalDB](https://github.com/gruns/ImmortalDB)[cookie][localstorage][sessionstorage][indexeddb]
 - [github/hotkey](https://github.com/github/hotkey)
 - [omniclone](https://github.com/jfet97/omniclone)
@@ -306,11 +310,13 @@
 
 
 ## JSON
+
 - [What you didn’t know about JSON.parse](https://abdulapopoola.com/2018/02/26/what-you-didnt-know-about-json-parse/)
 - [What you didn’t know about JSON.Stringify](https://abdulapopoola.com/2017/02/27/what-you-didnt-know-about-json-stringify/)
 
 
 ## DOM
+
 - [https://www.sitepoint.com/dom-manipulation-vanilla-javascript-no-jquery/](http://devboosts.com/2017/03/28/conventional-commits/)
 - [Convert String to DOM Nodes](https://davidwalsh.name/convert-html-stings-dom-nodes)
 
@@ -761,6 +767,7 @@
 
 ### Related
 
+- [Hooper](https://baianat.github.io/hooper/)
 - [sue71/vuex-typescript-fsa](https://github.com/sue71/vuex-typescript-fsa)[vuex][typescript]
 - [alexjoverm/v-lazy-image](https://github.com/alexjoverm/v-lazy-image)
 - [egoist/lit-vue](https://github.com/egoist/lit-vue/)
@@ -811,6 +818,7 @@
 
 ### Hooks
 
+- [React hooks tip: event handlers should be the *simplest* parts of your code. Keep app logic centralized and loosely coupled from the view by sending events with `useReducer` instead of manipulating state with `useState`](https://twitter.com/DavidKPiano/status/1093600357995986945/photo/1)
 - [Making setInterval Declarative with React Hooks](https://overreacted.io/making-setinterval-declarative-with-react-hooks/)
 - [useFetch: React custom hook for Fetch API with Suspense and Concurrent Mode in Mind](https://itnext.io/usefetch-react-custom-hook-for-fetch-api-with-suspense-and-concurrent-mode-in-mind-1d3ba9250e0)
 - [Playing with React Hooks and Web Workers](https://medium.com/@dai_shi/playing-with-react-hooks-and-web-workers-2ebdf1c93dea)
@@ -1115,6 +1123,7 @@
 
 ## Module loader/Module Bundler/Task Runner, CI, Build
 
+- [Introducing: @pika/pack](https://www.pikapkg.com/blog/introducing-pika-pack/)
 - [Code-splitting for libraries—bundling for npm with Rollup 1.0](https://levelup.gitconnected.com/code-splitting-for-libraries-bundling-for-npm-with-rollup-1-0-2522c7437697)
 - [Remove unused CSS with PurgeCSS](https://vuedose.tips/tips/3/)
 - [Deploying ES2015+ Code in Production Today](https://philipwalton.com/articles/deploying-es2015-code-in-production-today/)
@@ -1156,6 +1165,7 @@
 
 ### Related Libs
 
+- [pikapkg/pack](https://github.com/pikapkg/pack)
 - [BundlePhobia](https://bundlephobia.com)
 - [webpack-libs-optimizations](https://github.com/GoogleChromeLabs/webpack-libs-optimizations)
 - [prepack](https://github.com/facebook/prepack)
