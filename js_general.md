@@ -22,6 +22,7 @@
 
 ## Books
 
+- [The Offline Cookbook](https://developers.google.com/web/fundamentals/instant-and-offline/offline-cookbook/)
 - [Exploring ES2018 and ES2019](http://exploringjs.com/es2018-es2019/)
 - [Top 10 JavaScript Books 2019](https://www.ma-no.org/en/content/index_top-10-javascript-books-2019_2385.php)
 - [Front-End Developer Handbook 2018](https://frontendmasters.com/books/front-end-handbook/2018/)
@@ -550,6 +551,7 @@
 
 ## Progressive Web Apps / PWA
 
+- [Understanding Service Workers and Caching Strategies](https://blog.bitsrc.io/understanding-service-workers-and-caching-strategies-a6c1e1cbde03)
 - [A declarative router for service workers](https://jakearchibald.com/2019/service-worker-declarative-router/)
 - [Service Worker gotchas](https://labs.kollegorna.se/blog/2017/06/service-worker-gotchas/)
 - [High-performance service worker loading](https://developers.google.com/web/fundamentals/primers/service-workers/high-performance-loading)
