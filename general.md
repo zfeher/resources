@@ -183,6 +183,7 @@
   - [JavaScript Extensions Part 2](http://code.visualstudio.com/blogs/2016/10/31/js_roundup_2)
   
   - Extensions
+    - [Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
     - [Browser Preview for VS Code](https://github.com/auchenberg/vscode-browser-preview)
     - [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
     - [expand-region](https://marketplace.visualstudio.com/items?itemName=letrieu.expand-region)
