@@ -687,6 +687,7 @@
 - [3 Code Splitting Patterns For VueJS and Webpack](http://vuejsdevelopers.com/2017/07/08/vue-js-3-ways-code-splitting-webpack/)[code splitting]
   - [Dynamic imports + common chunks](https://github.com/webpack/webpack/issues/4392)
 
+- [How to Unlock the Full Potential of Prop Types in Vue](http://michaelnthiessen.com/unlock-full-potential-prop-types/)
 - [Adaptive components using v-bind and v-on](https://vuedose.tips/tips/5/)
 - [New in Vue: ES Module Browser Build](https://vuejsdevelopers.com/2019/02/04/vue-es-module-browser-build)
 - [New v-slot directive in Vue.js 2.6.0](https://vuedose.tips/tips/4/)
@@ -769,6 +770,7 @@
 
 ### Related
 
+- [Vuefire](https://vuefire.netlify.com/)
 - [Hooper](https://baianat.github.io/hooper/)
 - [sue71/vuex-typescript-fsa](https://github.com/sue71/vuex-typescript-fsa)[vuex][typescript]
 - [alexjoverm/v-lazy-image](https://github.com/alexjoverm/v-lazy-image)
@@ -1125,6 +1127,7 @@
 
 ## Module loader/Module Bundler/Task Runner, CI, Build
 
+- [Differential Serving](https://css-tricks.com/differential-serving/) [modern][es5]
 - [Introducing: @pika/pack](https://www.pikapkg.com/blog/introducing-pika-pack/)
 - [Code-splitting for libraries—bundling for npm with Rollup 1.0](https://levelup.gitconnected.com/code-splitting-for-libraries-bundling-for-npm-with-rollup-1-0-2522c7437697)
 - [Remove unused CSS with PurgeCSS](https://vuedose.tips/tips/3/)

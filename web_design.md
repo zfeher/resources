@@ -37,6 +37,8 @@
 
 ## CSS
 
+- [CSS Houdini Could Change the Way We Write and Manage CSS](https://css-tricks.com/css-houdini-could-change-the-way-we-write-and-manage-css/)
+- [Dark Mode in CSS](https://css-tricks.com/dark-modes-with-css/)
 - [The only reason your CSS fails](https://blog.logrocket.com/the-only-reason-your-css-fails-8e4388d562af)
 - [Constructable Stylesheets: seamless reusable styles](https://developers.google.com/web/updates/2019/02/constructable-stylesheets)
 - [CSS selectors level 4](https://blog.logrocket.com/css-selectors-level-4-b5da36bcd54c)
