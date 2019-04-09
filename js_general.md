@@ -131,6 +131,9 @@
 
 ## General
 
+- [Data Structures and Algorithms using JavaScript](https://github.com/amejiarosario/dsa.js)
+- [8 time complexities that every programmer should know](https://adrianmejia.com/blog/2018/04/05/most-popular-algorithms-time-complexity-every-programmer-should-know-free-online-tutorial-course/)
+- [8 time complexities that every programmer should know](https://dev.to/amejiarosario/8-time-complexities-that-every-programmer-should-know-494m)
 - [New JavaScript Features That Will Change How You Write Regex](https://www.smashingmagazine.com/2019/02/regexp-features-regular-expressions/)
 - [Rendering on the Web](https://developers.google.com/web/updates/2019/02/rendering-on-the-web)[SSR][CSR]
 - [Convert a String to a Number in JavaScript](http://thecodebarbarian.com/convert-a-string-to-a-number-in-javascript.html)
@@ -842,6 +845,9 @@
 
 ### General
 
+- [Rocking JS data structures!](https://areknawo.com/rocking-js-data-structures/)
+- [Why Did You Render Mr. Big Pure React Component???](https://medium.com/welldone-software/why-did-you-render-mr-big-pure-react-component-2a36dd86996f)
+- [Track Redundant Re-renders That Caused By React Hooks With “Why Did You Render” Version 3](https://medium.com/welldone-software/track-redundant-re-renders-that-caused-by-hooks-with-why-did-you-render-version-3-504468deb653)
 - [Ultimate React Component Patterns with Typescript 2.8](https://levelup.gitconnected.com/ultimate-react-component-patterns-with-typescript-2-8-82990c516935)[typescript]
 - [TypeScript HOC (Higher-Order Component) and Decorators in React](https://medium.com/@jan.hesters/typescript-hoc-higher-order-component-and-decorators-in-react-586787f5a9e7)[typescript]
 - [React – Compound components with useContext Hook][tutorial]
@@ -962,6 +968,7 @@
 
 ### Related Libs
 
+- [cerebral/overmind](https://github.com/cerebral/overmind)
 - [Mood](https://github.com/bredele/mood)
 - [Meiosis](http://meiosis.js.org/)
 - [Unstated](https://github.com/jamiebuilds/unstated)
