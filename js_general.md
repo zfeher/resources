@@ -825,6 +825,10 @@
 
 ### Hooks
 
+- [Application State Management with React](https://kentcdodds.com/blog/application-state-management-with-react)
+- [The State Reducer Pattern with React Hooks](https://kentcdodds.com/blog/the-state-reducer-pattern-with-react-hooks)
+- [Jolly Roger - a 2KB micro-framework based on React hooks API](http://krasimirtsonev.com/blog/article/jolly-roger-2kb-micro-framework-react-hooks-api)
+- [Compose React hooks like composing React components](https://medium.com/@dai_shi/compose-react-hooks-like-composing-react-components-892c23530432)
 - [React hooks tip: event handlers should be the *simplest* parts of your code. Keep app logic centralized and loosely coupled from the view by sending events with `useReducer` instead of manipulating state with `useState`](https://twitter.com/DavidKPiano/status/1093600357995986945/photo/1)
 - [Making setInterval Declarative with React Hooks](https://overreacted.io/making-setinterval-declarative-with-react-hooks/)
 - [useFetch: React custom hook for Fetch API with Suspense and Concurrent Mode in Mind](https://itnext.io/usefetch-react-custom-hook-for-fetch-api-with-suspense-and-concurrent-mode-in-mind-1d3ba9250e0)
@@ -1134,6 +1138,7 @@
 
 ## Module loader/Module Bundler/Task Runner, CI, Build
 
+- [What's what? - Package.json cheatsheet!](https://areknawo.com/whats-what-package-json-cheatsheet/)
 - [Differential Serving](https://css-tricks.com/differential-serving/) [modern][es5]
 - [Introducing: @pika/pack](https://www.pikapkg.com/blog/introducing-pika-pack/)
 - [Code-splitting for libraries—bundling for npm with Rollup 1.0](https://levelup.gitconnected.com/code-splitting-for-libraries-bundling-for-npm-with-rollup-1-0-2522c7437697)
