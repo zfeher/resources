@@ -131,6 +131,7 @@
 
 ## General
 
+- [A horrifying globalThis polyfill in universal JavaScript](https://mathiasbynens.be/notes/globalthis)
 - [Data Structures and Algorithms using JavaScript](https://github.com/amejiarosario/dsa.js)
 - [8 time complexities that every programmer should know](https://adrianmejia.com/blog/2018/04/05/most-popular-algorithms-time-complexity-every-programmer-should-know-free-online-tutorial-course/)
 - [8 time complexities that every programmer should know](https://dev.to/amejiarosario/8-time-complexities-that-every-programmer-should-know-494m)
@@ -290,6 +291,7 @@
 
 ## Machine Learning/Deep Learnings
 
+- [TensorFlow.js: An intro and analysis with use cases](https://blog.logrocket.com/tensorflow-js-an-intro-and-analysis-with-use-cases-8e1f9a973183)
 - [How to Use Machine Learning in Marketplace Development](https://sloboda-studio.com/blog/machine-learning-marketplace-development/)
 - [Kalimdor.js: Machine Learning with TypeScript](https://frontnet.eu/kalimdor-js-machine-learning-with-typescript/)
 - [The Ultimate Guide on Deep Learning for web developers](http://www.zerotodeeplearning.com/blog/ultimate-guide-on-deep-learning-for-web-developers/)
@@ -849,6 +851,7 @@
 
 ### General
 
+- [Improve React App Performance Through Memoization](https://blog.bitsrc.io/improve-react-app-performance-through-memoization-cd651f561f66)
 - [Rocking JS data structures!](https://areknawo.com/rocking-js-data-structures/)
 - [Why Did You Render Mr. Big Pure React Component???](https://medium.com/welldone-software/why-did-you-render-mr-big-pure-react-component-2a36dd86996f)
 - [Track Redundant Re-renders That Caused By React Hooks With “Why Did You Render” Version 3](https://medium.com/welldone-software/track-redundant-re-renders-that-caused-by-hooks-with-why-did-you-render-version-3-504468deb653)

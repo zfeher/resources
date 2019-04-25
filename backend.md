@@ -41,6 +41,7 @@
 
 ## Node
 
+- [The new ECMAScript module support in Node.js 12](http://2ality.com/2019/04/nodejs-esm-impl.html)
 - [Node.js Best Practices](https://github.com/i0natan/nodebestpractices)
 - [How to easily set up node config following these best practices](http://codingsans.com/blog/node-config-best-practices)
 - [Debugging Node.js with Google Chrome](https://medium.com/the-node-js-collection/debugging-node-js-with-google-chrome-4965b5f910f4)
