@@ -692,6 +692,10 @@
 - [3 Code Splitting Patterns For VueJS and Webpack](http://vuejsdevelopers.com/2017/07/08/vue-js-3-ways-code-splitting-webpack/)[code splitting]
   - [Dynamic imports + common chunks](https://github.com/webpack/webpack/issues/4392)
 
+- [Nuxt: The Hard Parts](https://hire.jonasgalvez.com.br/2019/apr/27/nuxt-the-hard-parts/)[Nuxt]
+- [Handling Dialogs with Vue Router](https://dev.to/berniwittmann/handling-dialogs-with-vue-router-29ji)
+- [Testing with Jest and Vue.js: Pocket guide](https://itnext.io/testing-with-jest-and-vue-js-pocket-guide-7be290d20954)
+- [Custom Build Modes with Vue CLI 3](https://rangle.io/blog/custom-build-modes-with-vue-cli-3/)
 - [How to Unlock the Full Potential of Prop Types in Vue](http://michaelnthiessen.com/unlock-full-potential-prop-types/)
 - [Adaptive components using v-bind and v-on](https://vuedose.tips/tips/5/)
 - [New in Vue: ES Module Browser Build](https://vuejsdevelopers.com/2019/02/04/vue-es-module-browser-build)
@@ -851,6 +855,7 @@
 
 ### General
 
+- [How to use React Context effectively](https://kentcdodds.com/blog/how-to-use-react-context-effectively)
 - [Improve React App Performance Through Memoization](https://blog.bitsrc.io/improve-react-app-performance-through-memoization-cd651f561f66)
 - [Rocking JS data structures!](https://areknawo.com/rocking-js-data-structures/)
 - [Why Did You Render Mr. Big Pure React Component???](https://medium.com/welldone-software/why-did-you-render-mr-big-pure-react-component-2a36dd86996f)

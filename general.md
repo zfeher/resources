@@ -1,5 +1,6 @@
 ## General
 
+- [What Is CICD? What’s Important and How to Get It Right](https://stackify.com/what-is-cicd-whats-important-and-how-to-get-it-right/)
 - [Improving Code Quality using Pull Requests](https://dev.to/arminaskatilius/improving-code-quality-using-pull-requests-2e9i)
 - [How to estimate time for a project/task accurately](https://dev.to/luminousmen/how-to-estimate-time-for-a-projecttask-accurately--27mn)[estimation]
 
