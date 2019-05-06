@@ -855,6 +855,7 @@
 
 ### General
 
+- [When to use React Suspense vs React Hooks](https://medium.freecodecamp.org/when-to-use-react-suspense-vs-react-hooks-f66ef94cb54f)
 - [How to use React Context effectively](https://kentcdodds.com/blog/how-to-use-react-context-effectively)
 - [Improve React App Performance Through Memoization](https://blog.bitsrc.io/improve-react-app-performance-through-memoization-cd651f561f66)
 - [Rocking JS data structures!](https://areknawo.com/rocking-js-data-structures/)
@@ -1146,6 +1147,7 @@
 
 ## Module loader/Module Bundler/Task Runner, CI, Build
 
+- [A better strategy for long term caching](https://getpocket.com/a/read/2581262785)[webpack]
 - [What's what? - Package.json cheatsheet!](https://areknawo.com/whats-what-package-json-cheatsheet/)
 - [Differential Serving](https://css-tricks.com/differential-serving/) [modern][es5]
 - [Introducing: @pika/pack](https://www.pikapkg.com/blog/introducing-pika-pack/)
