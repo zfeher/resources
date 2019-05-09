@@ -131,6 +131,7 @@
 
 ## General
 
+- [Hands-on with Portals: seamless navigations on the Web](https://web.dev/hands-on-portals)
 - [A horrifying globalThis polyfill in universal JavaScript](https://mathiasbynens.be/notes/globalthis)
 - [Data Structures and Algorithms using JavaScript](https://github.com/amejiarosario/dsa.js)
 - [8 time complexities that every programmer should know](https://adrianmejia.com/blog/2018/04/05/most-popular-algorithms-time-complexity-every-programmer-should-know-free-online-tutorial-course/)
@@ -779,6 +780,7 @@
 
 ### Related
 
+- [vue-observe-visibility](https://github.com/Akryum/vue-observe-visibility)[intersection observer]
 - [Vuefire](https://vuefire.netlify.com/)
 - [Hooper](https://baianat.github.io/hooper/)
 - [sue71/vuex-typescript-fsa](https://github.com/sue71/vuex-typescript-fsa)[vuex][typescript]
@@ -831,6 +833,8 @@
 
 ### Hooks
 
+- [setInterval in React Components Using Hooks](https://upmostly.com/tutorials/setinterval-in-react-components-using-hooks/)
+- [Always useMemo your context value](https://kentcdodds.com/blog/always-use-memo-your-context-value)
 - [Application State Management with React](https://kentcdodds.com/blog/application-state-management-with-react)
 - [The State Reducer Pattern with React Hooks](https://kentcdodds.com/blog/the-state-reducer-pattern-with-react-hooks)
 - [Jolly Roger - a 2KB micro-framework based on React hooks API](http://krasimirtsonev.com/blog/article/jolly-roger-2kb-micro-framework-react-hooks-api)
@@ -1066,6 +1070,8 @@
 
 ## Testing
 
+- [Rethinking Software Testing: Perspectives from the world of Hardware](https://software.rajivprab.com/2019/04/28/rethinking-software-testing-perspectives-from-the-world-of-hardware/)
+- [Code Coverage for End-to-end Tests](https://glebbahmutov.com/blog/code-coverage-for-e2e-tests/)
 - [4 things that I always manually test](https://dev.to/lkopacz/4-things-that-i-always-manually-test-2je8)
 - [Testing Implementation Details](https://blog.kentcdodds.com/testing-implementation-details-ccb8d269586)
 - [A personal review of automated testing tools in the JavaScript world](https://itnext.io/a-personal-review-of-automated-testing-tools-in-the-javascript-world-3c504fe6e05d)
