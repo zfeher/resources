@@ -693,6 +693,7 @@
 - [3 Code Splitting Patterns For VueJS and Webpack](http://vuejsdevelopers.com/2017/07/08/vue-js-3-ways-code-splitting-webpack/)[code splitting]
   - [Dynamic imports + common chunks](https://github.com/webpack/webpack/issues/4392)
 
+- [Using Slots In Vue.js](https://www.smashingmagazine.com/2019/07/using-slots-vue-js/)
 - [Nuxt: The Hard Parts](https://hire.jonasgalvez.com.br/2019/apr/27/nuxt-the-hard-parts/)[Nuxt]
 - [Handling Dialogs with Vue Router](https://dev.to/berniwittmann/handling-dialogs-with-vue-router-29ji)
 - [Testing with Jest and Vue.js: Pocket guide](https://itnext.io/testing-with-jest-and-vue-js-pocket-guide-7be290d20954)
@@ -1153,6 +1154,7 @@
 
 ## Module loader/Module Bundler/Task Runner, CI, Build
 
+- [Build Performance](https://webpack.js.org/guides/build-performance/)[webpack]
 - [A better strategy for long term caching](https://getpocket.com/a/read/2581262785)[webpack]
 - [What's what? - Package.json cheatsheet!](https://areknawo.com/whats-what-package-json-cheatsheet/)
 - [Differential Serving](https://css-tricks.com/differential-serving/) [modern][es5]

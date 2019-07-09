@@ -37,6 +37,7 @@
 
 ## CSS
 
+- [Five Methods for Five-Star Ratings](https://css-tricks.com/five-methods-for-five-star-ratings/)[tutorial]
 - [Why you should use CSS env()](https://blog.logrocket.com/why-you-should-use-css-env-9ee719ce0f24)
 - [CSS Houdini Could Change the Way We Write and Manage CSS](https://css-tricks.com/css-houdini-could-change-the-way-we-write-and-manage-css/)
 - [Dark Mode in CSS](https://css-tricks.com/dark-modes-with-css/)
