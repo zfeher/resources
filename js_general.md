@@ -131,6 +131,8 @@
 
 ## General
 
+- [Weak references and finalizers](https://v8.dev/features/weak-references)
+- [Understanding Web Share APIs](https://blog.bitsrc.io/understanding-web-share-apis-d987ea3648ad)
 - [Hands-on with Portals: seamless navigations on the Web](https://web.dev/hands-on-portals)
 - [A horrifying globalThis polyfill in universal JavaScript](https://mathiasbynens.be/notes/globalthis)
 - [Data Structures and Algorithms using JavaScript](https://github.com/amejiarosario/dsa.js)
