@@ -56,6 +56,7 @@
 
 ## Git
 
+- [How to find the Git commit that introduced a string in any branch?](https://stackoverflow.com/questions/5816134/how-to-find-the-git-commit-that-introduced-a-string-in-any-branch)
 - [RomuloOliveira/commit-messages-guide](https://github.com/RomuloOliveira/commit-messages-guide)
 - [Git Checkout at Previous Timeframe](https://davidwalsh.name/git-checkout-at-previous-timeframe)
 - [Using multiple worktrees with git](https://stacktoheap.com/blog/2016/01/19/using-multiple-worktrees-with-git/)
