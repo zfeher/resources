@@ -131,6 +131,8 @@
 
 ## General
 
+- [ES proposal: private class fields](https://2ality.com/2019/07/private-class-fields.html)
+- [Keeping things fresh with stale-while-revalidate](https://web.dev/stale-while-revalidate/)
 - [Weak references and finalizers](https://v8.dev/features/weak-references)
 - [Understanding Web Share APIs](https://blog.bitsrc.io/understanding-web-share-apis-d987ea3648ad)
 - [Hands-on with Portals: seamless navigations on the Web](https://web.dev/hands-on-portals)
@@ -262,6 +264,7 @@
 
 ## Performance, memory
 
+- [Is postMessage slow?](https://dassur.ma/things/is-postmessage-slow/)[web worker]
 - [Front-End Performance Checklist 2019 (PDF, Apple Pages, MS Word)](https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/)
 - [Taming huge collections of DOM nodes](https://codeburst.io/taming-huge-collections-of-dom-nodes-bebafdba332)
 - [17 JavaScript / node.js performance coding tips to make applications faster ](http://voidcanvas.com/javascript-performant-coding-tips/)
@@ -588,6 +591,7 @@
 
 ## Typescript
 
+- [TypeScript without TypeScript -- JSDoc superpowers](https://fettblog.eu/typescript-jsdoc-superpowers/)[jsdoc]
 - [Node.js TypeScript: the basics of Node.js](https://wanago.io/2019/02/11/node-js-typescript-modules-file-system/)
 - [TypeScript 2.8: Mapped Type Modifiers](https://mariusschulz.com/blog/typescript-2-8-mapped-type-modifiers)
 - [How not to lint your code?](https://areknawo.com/how-not-to-lint-your-code/)[lint]
@@ -837,6 +841,7 @@
 
 ### Hooks
 
+- [Effortless render optimization with state usage tracking with React hooks](https://blog.axlight.com/posts/effortless-render-optimization-with-state-usage-tracking-with-react-hooks/)
 - [setInterval in React Components Using Hooks](https://upmostly.com/tutorials/setinterval-in-react-components-using-hooks/)
 - [Always useMemo your context value](https://kentcdodds.com/blog/always-use-memo-your-context-value)
 - [Application State Management with React](https://kentcdodds.com/blog/application-state-management-with-react)
@@ -863,6 +868,7 @@
 
 ### General
 
+- [Use React.memo() wisely](https://dmitripavlutin.com/use-react-memo-wisely/)
 - [When to use React Suspense vs React Hooks](https://medium.freecodecamp.org/when-to-use-react-suspense-vs-react-hooks-f66ef94cb54f)
 - [How to use React Context effectively](https://kentcdodds.com/blog/how-to-use-react-context-effectively)
 - [Improve React App Performance Through Memoization](https://blog.bitsrc.io/improve-react-app-performance-through-memoization-cd651f561f66)
@@ -1022,18 +1028,24 @@
 
 
 ## JQuery
+
 - [What’s New In jQuery 3 || 17 Added Features & How To Use Them](http://www.rankred.com/whats-new-in-jquery-3-added-features-how-to-use-them/)
 - [10 jQuery Performance Tips & Tricks](https://codingbox.io/10-jquery-performance-tips-tricks-872f170387cc#.e4c5n1net)
 - [Replace jQuery’s Ready() with Plain JavaScript](https://www.sitepoint.com/jquery-document-ready-plain-javascript/)
 
 ### Related
+
 - [Umbrella JS](https://umbrellajs.com)
 
 
 ## Networking
+
 - [Using Fetch](https://css-tricks.com/using-fetch/)
 - [Why I won’t be using Fetch API in my apps](https://medium.com/@shahata/why-i-wont-be-using-fetch-api-in-my-apps-6900e6c6fe78#.dbibpakjz) [axios]
 
+### Related
+
+- [Polly.js](https://netflix.github.io/pollyjs)[stub]
 
 ## Graphics/Images
 - [Creating a Book Cover Using JavaScript and p5.js](https://css-tricks.com/creating-book-cover-using-javascript-p5-js/)
