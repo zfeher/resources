@@ -699,6 +699,7 @@
 - [3 Code Splitting Patterns For VueJS and Webpack](http://vuejsdevelopers.com/2017/07/08/vue-js-3-ways-code-splitting-webpack/)[code splitting]
   - [Dynamic imports + common chunks](https://github.com/webpack/webpack/issues/4392)
 
+- [Resource-Adaptive Vue Apps](https://logaretm.com/blog/resource-adaptive-vue-apps/)
 - [Really typing Vue](https://sobolevn.me/2019/06/really-typing-vue)[typescript]
 - [Using Slots In Vue.js](https://www.smashingmagazine.com/2019/07/using-slots-vue-js/)
 - [Nuxt: The Hard Parts](https://hire.jonasgalvez.com.br/2019/apr/27/nuxt-the-hard-parts/)[Nuxt]
@@ -841,6 +842,7 @@
 
 ### Hooks
 
+- [Do React Hooks Replace Redux?](https://medium.com/javascript-scene/do-react-hooks-replace-redux-210bab340672)
 - [Effortless render optimization with state usage tracking with React hooks](https://blog.axlight.com/posts/effortless-render-optimization-with-state-usage-tracking-with-react-hooks/)
 - [setInterval in React Components Using Hooks](https://upmostly.com/tutorials/setinterval-in-react-components-using-hooks/)
 - [Always useMemo your context value](https://kentcdodds.com/blog/always-use-memo-your-context-value)
