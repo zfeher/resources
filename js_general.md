@@ -219,6 +219,7 @@
 
 ### Related
 
+- [humanwhocodes/computer-science-in-javascript](https://github.com/humanwhocodes/computer-science-in-javascript)
 - [haiku.ai/](https://www.haiku.ai/)
 - [prismjs.com/](https://prismjs.com/)
 - [docusaurus.io/](https://docusaurus.io/)
@@ -253,7 +254,7 @@
 
 ### Related
 
-- [Day.js](https://github.com/xx45/dayjs)
+- [Day.js](https://github.com/iamkun/dayjs)
 - [date-fns](https://date-fns.org)
 
 
@@ -1088,6 +1089,7 @@
 
 ## Testing
 
+- [Await, do not make your E2E tests sleep](https://itnext.io/await-do-not-sleep-your-e2e-tests-df67e051b409)[e2e][cypress]
 - [Rethinking Software Testing: Perspectives from the world of Hardware](https://software.rajivprab.com/2019/04/28/rethinking-software-testing-perspectives-from-the-world-of-hardware/)
 - [Code Coverage for End-to-end Tests](https://glebbahmutov.com/blog/code-coverage-for-e2e-tests/)
 - [4 things that I always manually test](https://dev.to/lkopacz/4-things-that-i-always-manually-test-2je8)
@@ -1146,6 +1148,7 @@
 
 
 ## Package/Dependency Management
+- [Running Multiple Versions of Node.js with Node Version Manager](https://alligator.io/nodejs/node-version-manager/)[nvm]
 - [Size Limit: Make the Web lighter](https://evilmartians.com/chronicles/size-limit-make-the-web-lighter?utm_source=weekendjs)
 - [Scan your projects for crossenv and other malicious npm packages](https://www.twilio.com/blog/2017/08/find-projects-infected-by-malicious-npm-packages.html?utm_source=ESnextNews.com&utm_medium=Weekly+Newsletter&utm_campaign=2017-08-08)[security]
 - [Introducing npx: an npm package runner](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b)
