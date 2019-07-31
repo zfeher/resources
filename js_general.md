@@ -131,6 +131,7 @@
 
 ## General
 
+- [tc39/proposal-optional-chaining](https://github.com/tc39/proposal-optional-chaining)
 - [ES proposal: private class fields](https://2ality.com/2019/07/private-class-fields.html)
 - [Keeping things fresh with stale-while-revalidate](https://web.dev/stale-while-revalidate/)
 - [Weak references and finalizers](https://v8.dev/features/weak-references)
