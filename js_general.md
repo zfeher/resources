@@ -131,6 +131,7 @@
 
 ## General
 
+- [Beyond cookies: Today’s options for client-side data storage](https://blog.logrocket.com/beyond-cookies-todays-options-for-client-side-data-storage/)
 - [tc39/proposal-optional-chaining](https://github.com/tc39/proposal-optional-chaining)
 - [ES proposal: private class fields](https://2ality.com/2019/07/private-class-fields.html)
 - [Keeping things fresh with stale-while-revalidate](https://web.dev/stale-while-revalidate/)
@@ -701,6 +702,7 @@
 - [3 Code Splitting Patterns For VueJS and Webpack](http://vuejsdevelopers.com/2017/07/08/vue-js-3-ways-code-splitting-webpack/)[code splitting]
   - [Dynamic imports + common chunks](https://github.com/webpack/webpack/issues/4392)
 
+- [Vue.js 3: Future-Oriented Programming](https://blog.bitsrc.io/vue-js-3-future-oriented-programming-54dee797988b)
 - [Resource-Adaptive Vue Apps](https://logaretm.com/blog/resource-adaptive-vue-apps/)
 - [Really typing Vue](https://sobolevn.me/2019/06/really-typing-vue)[typescript]
 - [Using Slots In Vue.js](https://www.smashingmagazine.com/2019/07/using-slots-vue-js/)
@@ -791,6 +793,7 @@
 
 ### Related
 
+- [vue-function-api](https://github.com/vuejs/vue-function-api)
 - [vue-observe-visibility](https://github.com/Akryum/vue-observe-visibility)[intersection observer]
 - [Vuefire](https://vuefire.netlify.com/)
 - [Hooper](https://baianat.github.io/hooper/)
