@@ -131,6 +131,8 @@
 
 ## General
 
+- [How to resume the flow inside a failed try block computation without algebraic effects](https://dev.to/jfet97/how-to-resume-the-flow-inside-a-failed-try-block-computation-without-algebraic-effects-pbo)[tutorial]
+- [Interesting use cases for JavaScript bitwise operators](https://blog.logrocket.com/interesting-use-cases-for-javascript-bitwise-operators/)
 - [Beyond cookies: Today’s options for client-side data storage](https://blog.logrocket.com/beyond-cookies-todays-options-for-client-side-data-storage/)
 - [tc39/proposal-optional-chaining](https://github.com/tc39/proposal-optional-chaining)
 - [ES proposal: private class fields](https://2ality.com/2019/07/private-class-fields.html)
@@ -957,6 +959,7 @@
 
 ## State Management
 
+- [When To Use State Management In Front-end Applications?](https://ilikekillnerds.com/2019/08/when-to-use-state-management-in-front-end-applications/)
 - [https://twitter.com/ryanflorence/status/1084248892072329216?s=12](https://twitter.com/ryanflorence/status/1084248892072329216?s=12)[xstate][state machine]
 - [Easy State Management in React Using Unstated](https://alligator.io/react/unstated/)
 - [Practical Redux](http://blog.isquaredsoftware.com/series/practical-redux/)[redux]
