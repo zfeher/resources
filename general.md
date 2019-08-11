@@ -85,6 +85,7 @@
 - [Stashing and Cleaning](https://git-scm.com/book/en/v2/Git-Tools-Stashing-and-Cleaning)
 - [Searching](https://git-scm.com/book/en/v2/Git-Tools-Searching)
 - [Reset Demystified](https://git-scm.com/book/en/v2/Git-Tools-Reset-Demystified)
+- [How to revert a faulty merge](https://github.com/git/git/blob/master/Documentation/howto/revert-a-faulty-merge.txt)
 - Rebase
   - [doc](https://git-scm.com/book/en/v2/Git-Branching-Rebasing)
   - [ref](https://git-scm.com/docs/git-rebase)
