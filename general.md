@@ -162,6 +162,10 @@
   - `git show :2:hello.rb > hello.ours.rb` extract a copy of local version in merge
   - `git show :3:hello.rb > hello.theirs.rb` extract a copy of remote version in merge
   - `git ls-files -u` lists the blobs for each version (base/local/remote)
+  - `git checkout --conflict=diff3` will re-checkout the file again and replace the merge conflict markers
+  - `git checkout --conflict` will re-checkout the file again and replace the merge conflict markers
+  - `git checkout --ours` / `--theirs` checkouts the specified versions
+  - `git diff --ours` / `--theirs` / `--base` shows the diffs between specified and merged version
 
   - `git clean` clean/remove untracked/not ignored files (merge temp files, etc.)
   - `git clean -f -d` clean/remove untracked not/ignored files and empty dirs
