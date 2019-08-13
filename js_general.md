@@ -1181,6 +1181,7 @@
 
 ## Module loader/Module Bundler/Task Runner, CI, Build
 
+- [How to delete ALL node_modules folders on your machine and free up HD space!](https://dev.to/trilon/how-to-delete-all-nodemodules-folders-on-your-machine-43dh)
 - [Build Performance](https://webpack.js.org/guides/build-performance/)[webpack]
 - [A better strategy for long term caching](https://getpocket.com/a/read/2581262785)[webpack]
 - [What's what? - Package.json cheatsheet!](https://areknawo.com/whats-what-package-json-cheatsheet/)
