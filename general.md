@@ -8,11 +8,9 @@
 
 - [The Languages, Frameworks and Tools You Should Learn in 2017](http://tutorialzine.com/2016/12/the-languages-frameworks-tools-you-should-learn-in-2017/)
 
-
 ## Fun
 
 - [Hype Driven Development](https://blog.daftcode.pl/hype-driven-development-3469fc2e9b22#.6yid21oth)
-
 
 ## Theory
 
@@ -32,27 +30,22 @@
 - [Understanding SOLID Principles: Open Closed Principle](https://codeburst.io/understanding-solid-principles-open-closed-principle-e2b588b6491f)
 - [Itsy Bitsy Data Structures](https://github.com/thejameskyle/itsy-bitsy-data-structures?utm_source=ESnextNews.com&utm_medium=Weekly+Newsletter&utm_campaign=2017-02-28)
 
-
 ## Management / Productivity
 
 - [Ten Productivity Tips for Software Developers](http://www.zsoltnagy.eu/ten-productivity-tips-for-software-developers/)
 - [Three Goals for Effective Backlog Management](https://spin.atomicobject.com/2017/06/14/effective-backlog-management-goals/)
 
-
 ## Books
 
 - [DevFreeBooks](https://devfreebooks.github.io)
-
 
 ## Tools
 
 - [The Bash Guide](http://guide.bash.academy)
 
-
 ## Markdown
 
 - [Boost your productivity using Markdown](https://hackernoon.com/boost-your-productivity-using-markdown-b8a84fc2a089)
-
 
 ## Git
 
@@ -95,6 +88,7 @@
 - [Distributed Git - Contributing to a Project](https://git-scm.com/book/en/v2/Distributed-Git-Contributing-to-a-Project)
 - [Distributed Git - Maintaining a Project](https://git-scm.com/book/en/v2/Distributed-Git-Maintaining-a-Project)
 - Some commands
+
   - `git checkout -` will checkout the previous branch (shorthand for `git checkout @{-1}`)
   - `git rebase master --autostash` will stash and reapply stashed stuff after rebase
   - `git fetch origin --prune` fetches origin end cleans up a bit, removes deleted remote branches but not the checked out ones
@@ -131,7 +125,7 @@
   - `git branch -r --sort=-committerdate --format='%(committerdate) %(refname)'` show remote branches ordered by modification date
   - `git push origin --delete serverfix` delete remote branch serverfix
     - `git push origin :serverfix` delete remote branch serverfix
-  - `git pull --rebase ` pull rebase instead pull merge
+  - `git pull --rebase` pull rebase instead pull merge
   - `git log --no-merges` check commit message structure/convention
   - `git request-pull origin/master myfork` create pull request info
   - `git format-patch -M origin/master` create a patch
@@ -177,20 +171,22 @@
 
 - [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy)
 
-
 ## Editor/IDE
 
 - [Multiple Fonts: Alternative to Operator Mono in VSCode](https://medium.com/@zamamohammed/multiple-fonts-alternative-to-operator-mono-in-vscode-7745b52120a0)
 - [Visual Studio Code](https://code.visualstudio.com/)
+
   - [Awesome VSCode](https://github.com/viatsko/awesome-vscode)
+  - [8 VS Code Extensions Every Javascript Developer Should Use](https://blog.bitsrc.io/8-vs-code-extensions-every-javascript-developer-should-use-5ef798987e08)
   - [10 Essential VS Code Extensions for JavaScript Developers in 2019](https://hackernoon.com/10-essential-vs-code-extensions-for-javascript-developers-in-2019-e8320e3f421e)
   - [6 Awesome CSS Extensions for VS Code](https://scotch.io/bar-talk/6-awesome-css-extensions-for-vs-code)
   - [Top JavaScript VSCode Extensions for Faster Development](https://codeburst.io/top-javascript-vscode-extensions-for-faster-development-c687c39596f5)
   - [Visual Studio Code treasures](https://medium.com/wehkamp-techblog/visual-studio-code-treasures-1accae07c60a)
   - [JavaScript Extensions Part 1](https://code.visualstudio.com/blogs/2016/09/14/js_roundup_1)
   - [JavaScript Extensions Part 2](http://code.visualstudio.com/blogs/2016/10/31/js_roundup_2)
-  
+
   - Extensions
+
     - [Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
     - [Browser Preview for VS Code](https://github.com/auchenberg/vscode-browser-preview)
     - [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
@@ -226,12 +222,13 @@
     - [jsx](https://marketplace.visualstudio.com/items?itemName=TwentyChung.jsx) [react]
     - [Angular 2 TypeScript + HTML Snippets](https://marketplace.visualstudio.com/items?itemName=UVBrain.Angular2) [angular]
     - [language-vscode-javascript-angular2](https://marketplace.visualstudio.com/items?itemName=nwallace.language-vscode-javascript-angular2) [angular]
-  
+
   - Fonts
     - [kosimst/Firicico](https://github.com/kosimst/Firicico)
     - [tonsky/FiraCode](https://github.com/tonsky/FiraCode)
 
 - [Sublime Text](https://www.sublimetext.com/)
+
   - dotfiles
     - [PackageControl Syncing](https://packagecontrol.io/docs/syncing)
   - [PackageControl](https://packagecontrol.io)
@@ -263,6 +260,7 @@
   - ScopeHunter
 
 - [Atom](https://atom.io/)
+
   - [Nuclide](https://nuclide.io/)
 
 - [ALM Tools](http://alm.tools/)

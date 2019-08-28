@@ -19,7 +19,6 @@
 - [inferno](https://github.com/trueadm/inferno)[react][component][lib]
 - [Popper.js](https://popper.js.org)
 
-
 ## Books
 
 - [The Offline Cookbook](https://developers.google.com/web/fundamentals/instant-and-offline/offline-cookbook/)
@@ -42,7 +41,6 @@
 - [Learning JavaScript Design Patterns - Addy Osmani](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 - [Eloquent JavaScript 2nd Edition](http://eloquentjavascript.net)
 
-
 ## News
 
 - [https://frontendfront.com](https://frontendfront.com)
@@ -60,23 +58,20 @@
 - [Frontend Weekly](http://frontendweekly.co)
 - [JavaScript Weekly](http://javascriptweekly.com)
 
-
 ## Conference Videos
 
 - [Curry On!](https://www.youtube.com/channel/UC-WICcSW1k3HsScuXxDrp0w)
 
-
 ## Video Courses
 
 - [Frontend Masters](https://frontendmasters.com/courses/) [legradi]
-
 
 ## Learning
 
 - [Learn JavaScript](https://learnjavascript.online/)
 - [The secret to being a top developer is building things! Here’s a list of fun apps to build!](https://medium.freecodecamp.org/the-secret-to-being-a-top-developer-is-building-things-heres-a-list-of-fun-apps-to-build-aac61ac0736c)
 - [The Modern JavaScript Tutorial](https://javascript.info)
-- [Learn to Code by Making Games (2D & 3D)] (https://codeburst.io/learn-to-code-by-making-games-2d-3d-58b8758b167f)
+- [Learn to Code by Making Games (2D & 3D)](https://codeburst.io/learn-to-code-by-making-games-2d-3d-58b8758b167f)
 - [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks)
 - [spellbook-of-modern-webdev](https://github.com/dexteryy/spellbook-of-modern-webdev)
 - [Keeping up with Front-end development](http://blog.grossman.io/keeping-up-with-front-end-development/)
@@ -96,11 +91,9 @@
 - [Stampit](https://github.com/stampit-org/stampit)
 - [stamp-utils](https://github.com/stampit-org/stamp-utils)
 
-
 ## Exercises
 
 - [Implementing The Sieve Of Eratosthenes in JavaScript](https://benmccormick.org/2017/11/28/sieveoferatosthenes/)[prime]
-
 
 ## Interview
 
@@ -123,14 +116,13 @@
 - [https://css-tricks.com/guide-2017-conferences/](https://css-tricks.com/guide-2017-conferences/)
 - [JavaScript conferences you can look forward to in 2017](https://medium.freecodecamp.com/javascript-conferences-to-attend-in-2017-b46b288a5df0#.wh4t4oi0c)
 
-
 ## Foundations
 
 - [JS Foundation](https://js.foundation)
 
-
 ## General
 
+- [Why I like JavaScript Optional Chaining](https://dmitripavlutin.com/javascript-optional-chaining/)
 - [How to resume the flow inside a failed try block computation without algebraic effects](https://dev.to/jfet97/how-to-resume-the-flow-inside-a-failed-try-block-computation-without-algebraic-effects-pbo)[tutorial]
 - [Interesting use cases for JavaScript bitwise operators](https://blog.logrocket.com/interesting-use-cases-for-javascript-bitwise-operators/)
 - [Beyond cookies: Today’s options for client-side data storage](https://blog.logrocket.com/beyond-cookies-todays-options-for-client-side-data-storage/)
@@ -145,7 +137,7 @@
 - [8 time complexities that every programmer should know](https://adrianmejia.com/blog/2018/04/05/most-popular-algorithms-time-complexity-every-programmer-should-know-free-online-tutorial-course/)
 - [8 time complexities that every programmer should know](https://dev.to/amejiarosario/8-time-complexities-that-every-programmer-should-know-494m)
 - [New JavaScript Features That Will Change How You Write Regex](https://www.smashingmagazine.com/2019/02/regexp-features-regular-expressions/)
-- [Rendering on the Web](https://developers.google.com/web/updates/2019/02/rendering-on-the-web)[SSR][CSR]
+- [Rendering on the Web](https://developers.google.com/web/updates/2019/02/rendering-on-the-web)[SSR][csr]
 - [Convert a String to a Number in JavaScript](http://thecodebarbarian.com/convert-a-string-to-a-number-in-javascript.html)
 - [How to Stop Using Browser Dev Tools and Start Using Your Editor’s Debugger](https://www.javascriptjanuary.com/blog/how-to-stop-using-browser-devtools-and-start-using-your-editors-debugger)[vscode]
 - [Lazy Loading with the IntersectionObserver API](https://dev.to/aligoren/lazy-loading-with-the-intersectionobserver-api-44pe)
@@ -246,11 +238,9 @@
 - [Collections.js](http://www.collectionsjs.com)
 - [Moment.js](https://momentjs.com)
 
-
 ## Analytics
 
 - [The Google Analytics Setup I Use on Every Site I Build](https://philipwalton.com/articles/the-google-analytics-setup-i-use-on-every-site-i-build/?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=revue)
-
 
 ## Date/time
 
@@ -261,11 +251,9 @@
 - [Day.js](https://github.com/iamkun/dayjs)
 - [date-fns](https://date-fns.org)
 
-
 ## SEO, Search Engine Optimization
 
 - [A Practical Guide to Search Engine Optimization (SEO) with Google](https://www.taniarascia.com/a-practical-guide-to-search-engine-optimization-seo-with-google/)
-
 
 ## Performance, memory
 
@@ -294,11 +282,9 @@
 - [lighthouse](https://github.com/GoogleChrome/lighthouse)
 - [WebPagetest](https://www.webpagetest.org)
 
-
 ## Development
 
 - [ngrok](https://ngrok.com) // share localhost stuff via tunneling
-
 
 ## Machine Learning/Deep Learnings
 
@@ -319,26 +305,23 @@
 - [tfjs](https://github.com/tensorflow/tfjs)
 - [Probot](https://github.com/probot/probot)
 
-
 ## Web Workers
 
 - [Parallel programming in JavaScript](https://itnext.io/achieving-parallelism-in-javascript-using-web-workers-8f921f2d26db)
 - [JavaScript in parallel](http://50linesofco.de/post/2017-02-06-javascript-in-parallel-web-workers-transferables-and-sharedarraybuffer.html?utm_source=ESnextNews.com&utm_medium=Weekly+Newsletter&utm_campaign=2017-02-07)
-
 
 ## JSON
 
 - [What you didn’t know about JSON.parse](https://abdulapopoola.com/2018/02/26/what-you-didnt-know-about-json-parse/)
 - [What you didn’t know about JSON.Stringify](https://abdulapopoola.com/2017/02/27/what-you-didnt-know-about-json-stringify/)
 
-
 ## DOM
 
 - [https://www.sitepoint.com/dom-manipulation-vanilla-javascript-no-jquery/](http://devboosts.com/2017/03/28/conventional-commits/)
 - [Convert String to DOM Nodes](https://davidwalsh.name/convert-html-stings-dom-nodes)
 
-
 ## Accessibility
+
 - [Accessibility Testing with pa11y](https://bitsofco.de/pa11y/)
 - [10 guidelines to improve your web accessibility](https://aerolab.co/blog/web-accessibility/)
 - [9 tips to get bare minimum of web accessibility](https://medium.com/@realabhijeet4u/9-tips-to-get-bare-minimum-of-web-accessibility-739899a9437c)
@@ -346,8 +329,8 @@
 - [Accessibility Basics: Designing for Visual Impairment](https://webdesign.tutsplus.com/articles/accessibility-basics-designing-for-visual-impairment--cms-27634)
 
 ### Related
-- [pa11y](https://github.com/pa11y/pa11y)
 
+- [pa11y](https://github.com/pa11y/pa11y)
 
 ## Async/Promise
 
@@ -358,7 +341,6 @@
 ### Related
 
 - [getify/CAF](https://github.com/getify/CAF)
-
 
 ## Security / Payment
 
@@ -385,23 +367,20 @@
 
 - [mkcert: valid HTTPS certificates for localhost](https://blog.filippo.io/mkcert-valid-https-certificates-for-localhost/)
 
-
 ## Keyboard
 
 - [Mousetrap](https://craig.is/killing/mice)
 
-
 ## Mixins
 
 - ["Real" Mixins with JavaScript Classes](http://justinfagnani.com/2015/12/21/real-mixins-with-javascript-classes/)
-
 
 ## Immutability
 
 - [Immutable.js, persistent data structures and structural sharing](https://medium.com/@dtinth/immutable-js-persistent-data-structures-and-structural-sharing-6d163fbd73d2)
 - [You’re missing out on ImmutableJS Records](https://medium.com/@ahmadbamieh/immutablejs-records-bd369137da06)
 - [The Missing Immutable.js Manual with all the Examples you’ll ever need](http://untangled.io/the-missing-immutable-js-manual/)
-- [Embracing Immutable Architecture](https://medium.com/react-weekly/embracing-immutable-architecture-dc04e3f08543#.lkceku4fh) [react] [redux] [elm]
+- [Embracing Immutable Architecture](https://medium.com/react-weekly/embracing-immutable-architecture-dc04e3f08543#.lkceku4fh) [react][redux] [elm]
 
 ### Related Libs
 
@@ -413,10 +392,10 @@
 - [seamless-immutable](https://github.com/rtfeldman/seamless-immutable)
 - [Immutable JS](http://facebook.github.io/immutable-js/)
 
-
 ## Elm
 
 - Elm - Franzé Jr.
+
   - [part 1: General Aspects Between Elm And Js](https://www.dailydrip.com/blog/general-aspects-between-elm-and-js)
   - [part 2: Creating Html Elements And Using Libraries In Elm](https://www.dailydrip.com/blog/creating-html-elements-and-using-libraries-in-elm)
   - [part 3: Understanding The Elm Architecture](https://www.dailydrip.com/blog/understanding-the-elm-architecture)
@@ -425,6 +404,7 @@
   - [part 6: Building your SPA in Elm](https://www.dailydrip.com/blog/building-your-spa-in-elm-part-1)
 
 - James Kolce
+
   - [Why Elm? (And How To Get Started With It)](https://css-tricks.com/elm-get-started/)
   - [Introduction to The Elm Architecture and How to Build our First Application](https://css-tricks.com/introduction-elm-architecture-build-first-application/)
   - [The Structure of an Elm Application](https://css-tricks.com/structure-elm-application/)
@@ -432,7 +412,6 @@
 - Introduction Into Elm
   - [part 1](https://medium.com/javascript-inside/introduction-into-elm-77512c6c0baf)
   - [part 2](https://medium.com/javascript-inside/introduction-into-elm-67a422911ae5)
-
 
 ## Functional Programming (FP)
 
@@ -523,6 +502,7 @@
 - So You Want to be a Functional Programmer - Charles Scalfani: [Part 1](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536), [Part 2](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-2-7005682cec4a), [Part 3](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-3-1b0fd14eb1a7), [Part 4](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-4-18fbe3ea9e49), [Part 5](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-5-c70adc9cf56a), [Part 6](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-6-db502830403#.8wfy3yabr)
 
 ### Related Libs
+
 - [mori](http://swannodette.github.io/mori/)
 - [eslint-plugin-fp](https://github.com/jfmengels/eslint-plugin-fp)
 - [Sanctuary](https://sanctuary.js.org)
@@ -538,8 +518,8 @@
 - [Ramda](http://ramdajs.com)
 - [ramda-fantasy](https://github.com/ramda/ramda-fantasy) [maybe][either][io][monad]
 
-
 ## CSP/Processes/Channels/Transducers
+
 - [Understanding Transducers in JavaScript](https://medium.com/@roman01la/understanding-transducers-in-javascript-3500d3bd9624)
 - [Introduction into Channels and Transducers in JavaScript](https://medium.com/javascript-inside/introduction-into-channels-and-transducers-in-javascript-a1dfd0a09268#.nlio69t20) [transducer]
 - [Generators and Channels in JavaScript](https://medium.com/javascript-inside/generators-and-channels-in-javascript-594f2cf9c16e#.v2nj7s1fs) [generator][promise][react]
@@ -547,23 +527,24 @@
 - [Communicating Sequential Processes](http://swannodette.github.io/2013/07/12/communicating-sequential-processes)
 
 ### Related Libs
+
 - [transducers-js](https://github.com/cognitect-labs/transducers-js)
 - [transducers.js](https://github.com/jlongster/transducers.js)
 - [js-csp](https://github.com/ubolonton/js-csp)
 
-
 ## Style/Guide
+
 - [Linters Gonna Lint](https://glebbahmutov.com/blog/linters-gonna-lint/)
 - [Why aren’t you using Prettier?](https://engineering.hexacta.com/why-arent-you-using-prettier-4fe0a77713e8)
 - [XO](https://github.com/sindresorhus/xo)
 - [JavaScript Standard Style](http://standardjs.com/index.html)
 - [ESLint](http://eslint.org)
 - [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js)
-- [Rules For Structuring (Redux) Applications](http://jaysoo.ca/2016/02/28/organizing-redux-application/) [react] [redux] [structure]
+- [Rules For Structuring (Redux) Applications](http://jaysoo.ca/2016/02/28/organizing-redux-application/) [react][redux] [structure]
 
 ### Related
-- [eslint-plugin-immutable](https://github.com/jhusain/eslint-plugin-immutable)
 
+- [eslint-plugin-immutable](https://github.com/jhusain/eslint-plugin-immutable)
 
 ## Progressive Web Apps / PWA
 
@@ -588,11 +569,9 @@
 - [Native Apps are Doomed](https://medium.com/javascript-scene/native-apps-are-doomed-ac397148a2c0)
 - [Learning Progressive Web App](https://github.com/ragingwind/learning-pwa)
 
-
 ## Transpilers
 
 - [babel-preset-env: a preset that configures Babel for you](http://www.2ality.com/2017/02/babel-preset-env.html) [babel]
-
 
 ## Typescript
 
@@ -638,21 +617,21 @@
 - [transitive-bullshit/functional-typescript](https://github.com/transitive-bullshit/functional-typescript)
 - [TypeWiz](https://github.com/urish/typewiz)
 
-
 ## Types, runtime typecheck, etc
 
 ### Related libs
+
 - [Flow Runtime](https://codemix.github.io/flow-runtime/#/)
 - [tcomb](https://github.com/gcanti/tcomb)
 
-
 ## Flow
+
 - [Authoring and publishing JavaScript modules with Flow](http://javascriptplayground.com/blog/2017/01/npm-flowjs-javascript/)
 
 ## Related Libs
+
 - [flow-copy-source](https://github.com/AgentME/flow-copy-source)
 - [flow-typed](https://github.com/flowtype/flow-typed)
-
 
 ## Components
 
@@ -682,10 +661,10 @@
 - [Flattening Deep Hierarchies of Components](http://blog.rangle.io/flattening-deep-hierarchies-of-components/)
 
 ### Related
+
 - [react-powerplug](https://github.com/renatorib/react-powerplug/)
 - [Storybook](https://storybook.js.org)
 - [Bit](https://github.com/teambit/bit)
-
 
 ## Vue.js
 
@@ -702,8 +681,10 @@
 - [Code Splitting With Vue.js And Webpack](https://medium.com/js-dojo/code-splitting-with-vue-js-and-webpack-c9830b29d557)[webpack][code splitting][async component]
 - [Lazy loading in Vue using Webpack's code splitting](https://alexjoverm.github.io/2017/07/16/Lazy-load-in-Vue-using-Webpack-s-code-splitting/?utm_source=weekendjs&utm_medium=email&utm_campaign=issue)
 - [3 Code Splitting Patterns For VueJS and Webpack](http://vuejsdevelopers.com/2017/07/08/vue-js-3-ways-code-splitting-webpack/)[code splitting]
+
   - [Dynamic imports + common chunks](https://github.com/webpack/webpack/issues/4392)
 
+- [Knowing What To Test - Vue Component Unit Testing](https://vuejsdevelopers.com/2019/08/26/vue-what-to-unit-test-components/)[test]
 - [Vue.js 3: Future-Oriented Programming](https://blog.bitsrc.io/vue-js-3-future-oriented-programming-54dee797988b)
 - [Resource-Adaptive Vue Apps](https://logaretm.com/blog/resource-adaptive-vue-apps/)
 - [Really typing Vue](https://sobolevn.me/2019/06/really-typing-vue)[typescript]
@@ -783,7 +764,7 @@
   [part 3](https://css-tricks.com/intro-to-vue-3-vue-cli-lifecycle-hooks/)
   [part 4](https://css-tricks.com/intro-to-vue-4-vuex/)
   [part 5](https://css-tricks.com/intro-to-vue-5-animations/)
-- [DejaVue](http://dejavue.co) [visualization] [time travel]
+- [DejaVue](http://dejavue.co) [visualization][time travel]
 - [Vue.js Component Style Guide](https://github.com/pablohpsilva/vuejs-component-style-guide)
 - [How to unit test Vue components](http://www.coding123.org/tutorials/unit-test-vue-components/)
 - [Vuex](https://vuex.vuejs.org)
@@ -795,6 +776,7 @@
 
 ### Related
 
+- [chenquincy/vue-dynamic-form-component](https://github.com/chenquincy/vue-dynamic-form-component)
 - [vue-function-api](https://github.com/vuejs/vue-function-api)
 - [vue-observe-visibility](https://github.com/Akryum/vue-observe-visibility)[intersection observer]
 - [Vuefire](https://vuefire.netlify.com/)
@@ -826,11 +808,12 @@
 - [Vuetify.js](https://vuetifyjs.com)
 - [Vuelidate](https://monterail.github.io/vuelidate/)
 
-
 ## Routing
+
 - [Do I Even Need A Routing Library?](http://jamesknelson.com/even-need-routing-library/)
 
 ## Angular 2
+
 - [Techniques for Improving ng-repeat Performance](http://www.codelord.net/2017/01/25/techniques-for-improving-ng-repeat-performance/)
 - [Angular 2 Testing In Depth: Services](https://auth0.com/blog/angular-2-testing-in-depth-services/)
 - [Angular 2 — Explore The Renderer Service](https://medium.com/@NetanelBasal/angular-2-explore-the-renderer-service-e43ef673b26c#.vrl9xa5eq)
@@ -842,8 +825,8 @@
 - [Functional and reactive programming in Angular 2](https://medium.com/@henslejoseph/functional-and-reactive-programming-in-angular-2-ebc500c52870#.esq3hdgv4) [rxjs]
 
 ### Related Libs
-- [Angular 2 UI Bootstrap](https://ng-bootstrap.github.io/)
 
+- [Angular 2 UI Bootstrap](https://ng-bootstrap.github.io/)
 
 ## React
 
@@ -857,7 +840,7 @@
 - [The State Reducer Pattern with React Hooks](https://kentcdodds.com/blog/the-state-reducer-pattern-with-react-hooks)
 - [Jolly Roger - a 2KB micro-framework based on React hooks API](http://krasimirtsonev.com/blog/article/jolly-roger-2kb-micro-framework-react-hooks-api)
 - [Compose React hooks like composing React components](https://medium.com/@dai_shi/compose-react-hooks-like-composing-react-components-892c23530432)
-- [React hooks tip: event handlers should be the *simplest* parts of your code. Keep app logic centralized and loosely coupled from the view by sending events with `useReducer` instead of manipulating state with `useState`](https://twitter.com/DavidKPiano/status/1093600357995986945/photo/1)
+- [React hooks tip: event handlers should be the _simplest_ parts of your code. Keep app logic centralized and loosely coupled from the view by sending events with `useReducer` instead of manipulating state with `useState`](https://twitter.com/DavidKPiano/status/1093600357995986945/photo/1)
 - [Making setInterval Declarative with React Hooks](https://overreacted.io/making-setinterval-declarative-with-react-hooks/)
 - [useFetch: React custom hook for Fetch API with Suspense and Concurrent Mode in Mind](https://itnext.io/usefetch-react-custom-hook-for-fetch-api-with-suspense-and-concurrent-mode-in-mind-1d3ba9250e0)
 - [Playing with React Hooks and Web Workers](https://medium.com/@dai_shi/playing-with-react-hooks-and-web-workers-2ebdf1c93dea)
@@ -894,9 +877,9 @@
 - [Why Do We Write super(props)?](https://overreacted.io/why-do-we-write-super-props/)
 - [Higher-order components vs Render Props](https://www.richardkotze.com/coding/hoc-vs-render-props-react)
 - How To Master Advanced React Design Patterns:
-    - [part 1- Compound Components](https://itnext.io/using-advanced-design-patterns-to-create-flexible-and-reusable-react-components-part-1-dd495fa1823)
-    - [part 2 - Context API](https://itnext.io/using-advanced-design-patterns-to-create-flexible-and-reusable-react-components-part-2-react-3c5662b997ab)
-    - [part 3- Render Props](https://itnext.io/using-advanced-design-patterns-to-create-flexible-and-reusable-react-components-part-3-render-d7517dfe72bc)
+  - [part 1- Compound Components](https://itnext.io/using-advanced-design-patterns-to-create-flexible-and-reusable-react-components-part-1-dd495fa1823)
+  - [part 2 - Context API](https://itnext.io/using-advanced-design-patterns-to-create-flexible-and-reusable-react-components-part-2-react-3c5662b997ab)
+  - [part 3- Render Props](https://itnext.io/using-advanced-design-patterns-to-create-flexible-and-reusable-react-components-part-3-render-d7517dfe72bc)
 - [Optimizing React: Virtual DOM explained](https://evilmartians.com/chronicles/optimizing-react-virtual-dom-explained)
 - [Error Boundaries in React 16](https://www.codementor.io/viveknayyar09/error-boundaries-in-react-16-ifeu1vc4x)
 - [A Secret parts of React New Context API](https://medium.com/@koba04/a-secret-parts-of-react-new-context-api-e9506a4578aa)
@@ -950,12 +933,10 @@
 - [NEXT.js](https://github.com/zeit/next.js) [server side render]
 - [create-react-app](https://github.com/facebookincubator/create-react-app)
 
-
 ## React Native
 
 - [The React and React Native Event System Explained: A Harmonious Coexistence](https://levelup.gitconnected.com/how-exactly-does-react-handles-events-71e8b5e359f2?ref=reddit)
 - [React Native Quirks](https://codeburst.io/react-native-quirks-2fb1ae0bbf80)
-
 
 ## State Management
 
@@ -999,8 +980,8 @@
 - [Epic Middleware in Redux](https://medium.com/@kevinsalter/epic-middleware-in-redux-e4385b6ff7c6#.a91vsdwy5)
 - [Lazy registration with Redux and Sagas](http://goshakkk.name/lazy-auth-redux-saga-flow/) [redux-saga][redux]
 - [Managing State in Angular 2 Applications](http://blog.oasisdigital.com/2016/managing-state-angular-2/) [angular]
-- [Redux Step by Step: A Simple and Robust Workflow for Real Life Apps](https://hackernoon.com/redux-step-by-step-a-simple-and-robust-workflow-for-real-life-apps-1fdf7df46092#.cnq6yww5k) [tutorial] [react] [flux]
-- [Avoiding Accidental Complexity When Structuring Your App State](https://hackernoon.com/avoiding-accidental-complexity-when-structuring-your-app-state-6e6d22ad5e2a#.hun7r1nil) [redux] [flux]
+- [Redux Step by Step: A Simple and Robust Workflow for Real Life Apps](https://hackernoon.com/redux-step-by-step-a-simple-and-robust-workflow-for-real-life-apps-1fdf7df46092#.cnq6yww5k) [tutorial][react] [flux]
+- [Avoiding Accidental Complexity When Structuring Your App State](https://hackernoon.com/avoiding-accidental-complexity-when-structuring-your-app-state-6e6d22ad5e2a#.hun7r1nil) [redux][flux]
 - [10 Tips for Better Redux Architecture](https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44#.c92fz9hwb) [redux]
 
 ### Related Libs
@@ -1036,7 +1017,6 @@
 - [Fluxxor](http://fluxxor.com) [flux]
 - [Flux](https://facebook.github.io/flux/docs/overview.html#content)
 
-
 ## JQuery
 
 - [What’s New In jQuery 3 || 17 Added Features & How To Use Them](http://www.rankred.com/whats-new-in-jquery-3-added-features-how-to-use-them/)
@@ -1046,7 +1026,6 @@
 ### Related
 
 - [Umbrella JS](https://umbrellajs.com)
-
 
 ## Networking
 
@@ -1058,6 +1037,7 @@
 - [Polly.js](https://netflix.github.io/pollyjs)[stub]
 
 ## Graphics/Images
+
 - [Creating a Book Cover Using JavaScript and p5.js](https://css-tricks.com/creating-book-cover-using-javascript-p5-js/)
 - [Image Processing in Javascript](http://blog.webkid.io/image-processing-in-javascript/)
 - [A 'modern 3D API' wrapper for WebGL](http://floooh.github.io/2016/10/24/altai.html)
@@ -1067,9 +1047,9 @@
 - [Getting Started With Paper.js: Projects and Items](https://code.tutsplus.com/tutorials/getting-started-with-paperjs-projects-and-items--cms-26481)
 
 ### Related Libs
+
 - [p5.js](https://p5js.org)
 - [Paper.js](http://paperjs.org/about/)
-
 
 ## Animation
 
@@ -1087,15 +1067,14 @@
 - [mo.js](http://mojs.io)
 - [Web Animations API](https://github.com/web-animations/web-animations-js)
 
-
 ## Charts
 
 - [How to Draw Charts Using JavaScript and HTML5 Canvas](https://code.tutsplus.com/tutorials/how-to-draw-a-pie-chart-and-doughnut-chart-using-javascript-and-html5-canvas--cms-27197)
 - [SVG Charting Libraries](http://mediatemple.net/blog/tips/svg-charting-libraries/)
 
-
 ## Testing
 
+- [Write fewer, longer tests](https://kentcdodds.com/blog/write-fewer-longer-tests)
 - [Await, do not make your E2E tests sleep](https://itnext.io/await-do-not-sleep-your-e2e-tests-df67e051b409)[e2e][cypress]
 - [Rethinking Software Testing: Perspectives from the world of Hardware](https://software.rajivprab.com/2019/04/28/rethinking-software-testing-perspectives-from-the-world-of-hardware/)
 - [Code Coverage for End-to-end Tests](https://glebbahmutov.com/blog/code-coverage-for-e2e-tests/)
@@ -1134,6 +1113,7 @@
 - [What is property based testing (and how to do it in JavaScript)?](http://codeutopia.net/blog/2016/10/03/what-is-property-based-testing-and-how-to-do-it-in-javascript/)
 
 ### Related Libs
+
 - [Newman](https://github.com/postmanlabs/newman)
 - [Puppeteer](https://github.com/GoogleChrome/puppeteer)
 - [Intern](https://theintern.io)
@@ -1145,16 +1125,16 @@
 - [Karma](https://github.com/karma-runner/karma) [test runner]
 - [WebdriverIO](http://webdriver.io)
 
-
 ## Offline Apps
-- [How to Build Offline-smart Web Apps with Hoodie] (https://www.codementor.io/offlinefirst/tutorial/build-offline-smart-web-apps-with-hoodie)
 
+- [How to Build Offline-smart Web Apps with Hoodie](https://www.codementor.io/offlinefirst/tutorial/build-offline-smart-web-apps-with-hoodie)
 
 ## Dependencies
+
 - [Managing Async Dependencies with JavaScript](https://hackcabin.com/post/managing-async-dependencies-javascript/)
 
-
 ## Package/Dependency Management
+
 - [Running Multiple Versions of Node.js with Node Version Manager](https://alligator.io/nodejs/node-version-manager/)[nvm]
 - [Size Limit: Make the Web lighter](https://evilmartians.com/chronicles/size-limit-make-the-web-lighter?utm_source=weekendjs)
 - [Scan your projects for crossenv and other malicious npm packages](https://www.twilio.com/blog/2017/08/find-projects-infected-by-malicious-npm-packages.html?utm_source=ESnextNews.com&utm_medium=Weekly+Newsletter&utm_campaign=2017-08-08)[security]
@@ -1172,12 +1152,12 @@
 - [Bower](https://bower.io)
 
 ### Related Libs
+
 - [Size Limit](https://github.com/ai/size-limit)
 - [pnpm](https://github.com/pnpm/pnpm)
 - [npm_lazy](https://github.com/mixu/npm_lazy)
 - [local-npm](https://github.com/nolanlawson/local-npm)
 - [Node Version Manager (NVM)](https://github.com/creationix/nvm)
-
 
 ## Module loader/Module Bundler/Task Runner, CI, Build
 
@@ -1211,14 +1191,14 @@
 - [Optimizing Webpack build times and improving caching with DLL bundles](https://robertknight.github.io/posts/webpack-dll-plugins/) [webpack][dll]
 - [One build tool to rule them all—Blendid!](https://www.viget.com/articles/blendid)
 - [Prepack.io](https://prepack.io)
-- [MAY 02	Webpack: A simple loader](https://bocoup.com/blog/webpack-a-simple-loader) [webpack]
+- [MAY 02 Webpack: A simple loader](https://bocoup.com/blog/webpack-a-simple-loader) [webpack]
 - [How to do proper tree-shaking in Webpack 2](https://blog.craftlab.hu/how-to-do-proper-tree-shaking-in-webpack-2-e27852af8b21) [webpack][tree shaking]
 - [Tree-shaking versus dead code elimination](https://medium.com/@Rich_Harris/tree-shaking-versus-dead-code-elimination-d3765df85c80)
 - [ES6 modules support lands in browsers: is it time to rethink bundling?](https://www.contentful.com/blog/2017/04/04/es6-modules-support-lands-in-browsers-is-it-time-to-rethink-bundling/)
 - [webpack bits: Getting the most out of the CommonsChunkPlugin()](https://medium.com/webpack/webpack-bits-getting-the-most-out-of-the-commonschunkplugin-ab389e5f318)
 - [Setting up multi-platform npm packages](http://2ality.com/2017/04/setting-up-multi-platform-packages.html) [main][module][es2015]
 - [Cut the File Size with These Three HTML Minification Tools](https://www.sitepoint.com/cut-filesize-with-three-html-minification-tools/)
-- [Travis - a free CI for an opensource project](https://devblog.dymel.pl/2017/03/13/travis-free-ci-for-opensource-projects/) [ci] [travis]
+- [Travis - a free CI for an opensource project](https://devblog.dymel.pl/2017/03/13/travis-free-ci-for-opensource-projects/) [ci][travis]
 - [The Fine Art of the Webpack 2 Config](https://dev.to/alflennik/the-fine-art-of-the-webpack-2-config) [webpack]
 - [Modern JavaScript Apps with Neutrino](https://davidwalsh.name/neutrino) [webpack]
 - [Optimising your application bundle size with webpack](https://hackernoon.com/optimising-your-application-bundle-size-with-webpack-e85b00bab579#.hcxhzoxkt)
