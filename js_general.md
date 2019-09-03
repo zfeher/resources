@@ -684,6 +684,8 @@
 
   - [Dynamic imports + common chunks](https://github.com/webpack/webpack/issues/4392)
 
+- [When To Use Vuex Getters In a Vue.js Project](https://www.drewtown.dev/post/when-to-use-vuex-getters-in-a-vue-js-project/)
+- [VeeValidate 3.0](https://www.baianat.com/labs/code/veevalidate-3-0)
 - [Knowing What To Test - Vue Component Unit Testing](https://vuejsdevelopers.com/2019/08/26/vue-what-to-unit-test-components/)[test]
 - [Vue.js 3: Future-Oriented Programming](https://blog.bitsrc.io/vue-js-3-future-oriented-programming-54dee797988b)
 - [Resource-Adaptive Vue Apps](https://logaretm.com/blog/resource-adaptive-vue-apps/)
@@ -1161,6 +1163,7 @@
 
 ## Module loader/Module Bundler/Task Runner, CI, Build
 
+- [Should We All Start Implementing Differential Serving?](https://macarthur.me/posts/should-we-implement-differential-serving)[modern build]
 - [How to delete ALL node_modules folders on your machine and free up HD space!](https://dev.to/trilon/how-to-delete-all-nodemodules-folders-on-your-machine-43dh)
 - [Build Performance](https://webpack.js.org/guides/build-performance/)[webpack]
 - [A better strategy for long term caching](https://getpocket.com/a/read/2581262785)[webpack]
