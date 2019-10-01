@@ -122,6 +122,9 @@
 
 ## General
 
+- [Why do we love Isomorphic/Universal rendering?](https://medium.com/@sujankanwar/why-do-we-love-isomorphic-universal-rendering-988c22933933)[ssr][csr]
+- [Top JavaScript Maps API and Libraries](https://flatlogic.com/blog/top-javascript-maps-api-and-libraries/)
+- [JavaScript Iterators and Generators: Synchronous Generators](https://dev.to/jfet97/javascript-iterators-and-generators-synchronous-generators-3ai4)[generator]
 - [Why I like JavaScript Optional Chaining](https://dmitripavlutin.com/javascript-optional-chaining/)
 - [How to resume the flow inside a failed try block computation without algebraic effects](https://dev.to/jfet97/how-to-resume-the-flow-inside-a-failed-try-block-computation-without-algebraic-effects-pbo)[tutorial]
 - [Interesting use cases for JavaScript bitwise operators](https://blog.logrocket.com/interesting-use-cases-for-javascript-bitwise-operators/)
@@ -1163,6 +1166,7 @@
 
 ## Module loader/Module Bundler/Task Runner, CI, Build
 
+- [Enable source-map on production?](https://medium.com/@sujankanwar/enable-source-map-on-production-f2f53c5f4345)
 - [Should We All Start Implementing Differential Serving?](https://macarthur.me/posts/should-we-implement-differential-serving)[modern build]
 - [How to delete ALL node_modules folders on your machine and free up HD space!](https://dev.to/trilon/how-to-delete-all-nodemodules-folders-on-your-machine-43dh)
 - [Build Performance](https://webpack.js.org/guides/build-performance/)[webpack]
