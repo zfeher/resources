@@ -687,6 +687,7 @@
 
   - [Dynamic imports + common chunks](https://github.com/webpack/webpack/issues/4392)
 
+- [When to "Unstub" a Component in a Vue.js Unit Test](https://vuejsdevelopers.com/2019/09/30/stubs-vue-unit-test/)
 - [When To Use Vuex Getters In a Vue.js Project](https://www.drewtown.dev/post/when-to-use-vuex-getters-in-a-vue-js-project/)
 - [VeeValidate 3.0](https://www.baianat.com/labs/code/veevalidate-3-0)
 - [Knowing What To Test - Vue Component Unit Testing](https://vuejsdevelopers.com/2019/08/26/vue-what-to-unit-test-components/)[test]
@@ -837,6 +838,7 @@
 
 ### Hooks
 
+- [Don't Sync State. Derive It!](https://kentcdodds.com/blog/dont-sync-state-derive-it/)
 - [Do React Hooks Replace Redux?](https://medium.com/javascript-scene/do-react-hooks-replace-redux-210bab340672)
 - [Effortless render optimization with state usage tracking with React hooks](https://blog.axlight.com/posts/effortless-render-optimization-with-state-usage-tracking-with-react-hooks/)
 - [setInterval in React Components Using Hooks](https://upmostly.com/tutorials/setinterval-in-react-components-using-hooks/)
@@ -1036,6 +1038,10 @@
 
 - [Using Fetch](https://css-tricks.com/using-fetch/)
 - [Why I won’t be using Fetch API in my apps](https://medium.com/@shahata/why-i-wont-be-using-fetch-api-in-my-apps-6900e6c6fe78#.dbibpakjz) [axios]
+
+### Related
+
+- [sindresorhus/ky](https://github.com/sindresorhus/ky)
 
 ### Related
 
