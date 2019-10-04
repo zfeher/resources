@@ -97,6 +97,7 @@
 
 ## Interview
 
+- [TypeOfNaN JavaScript Quizzes](https://quiz.typeofnan.dev/)
 - [How to Beat 5 Common JavaScript Interview Challenges](https://www.sitepoint.com/5-common-coding-interview-challenges/)
 - [Rethinking how we interview in Microsoft’s Developer Division](https://blog.usejournal.com/rethinking-how-we-interview-in-microsofts-developer-division-8f404cfd075a)
 - [Front end interview preparation guide](https://github.com/Jobeir/front-end-interview-preparation-guide)
@@ -122,6 +123,7 @@
 
 ## General
 
+- [Creating custom JavaScript syntax with Babel](https://lihautan.com/creating-custom-javascript-syntax-with-babel/)
 - [Why do we love Isomorphic/Universal rendering?](https://medium.com/@sujankanwar/why-do-we-love-isomorphic-universal-rendering-988c22933933)[ssr][csr]
 - [Top JavaScript Maps API and Libraries](https://flatlogic.com/blog/top-javascript-maps-api-and-libraries/)
 - [JavaScript Iterators and Generators: Synchronous Generators](https://dev.to/jfet97/javascript-iterators-and-generators-synchronous-generators-3ai4)[generator]
