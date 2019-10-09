@@ -128,6 +128,7 @@
 - [Top JavaScript Maps API and Libraries](https://flatlogic.com/blog/top-javascript-maps-api-and-libraries/)
 - [JavaScript Iterators and Generators: Synchronous Generators](https://dev.to/jfet97/javascript-iterators-and-generators-synchronous-generators-3ai4)[generator]
 - [Why I like JavaScript Optional Chaining](https://dmitripavlutin.com/javascript-optional-chaining/)
+- [ES proposal: optional chaining](https://2ality.com/2019/07/optional-chaining.html)
 - [How to resume the flow inside a failed try block computation without algebraic effects](https://dev.to/jfet97/how-to-resume-the-flow-inside-a-failed-try-block-computation-without-algebraic-effects-pbo)[tutorial]
 - [Interesting use cases for JavaScript bitwise operators](https://blog.logrocket.com/interesting-use-cases-for-javascript-bitwise-operators/)
 - [Beyond cookies: Today’s options for client-side data storage](https://blog.logrocket.com/beyond-cookies-todays-options-for-client-side-data-storage/)
