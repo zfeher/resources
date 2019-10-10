@@ -123,6 +123,7 @@
 
 ## General
 
+- [When to Use Map instead of Plain JavaScript Object](https://dmitripavlutin.com/maps-vs-plain-objects-javascript/)
 - [Creating custom JavaScript syntax with Babel](https://lihautan.com/creating-custom-javascript-syntax-with-babel/)
 - [Why do we love Isomorphic/Universal rendering?](https://medium.com/@sujankanwar/why-do-we-love-isomorphic-universal-rendering-988c22933933)[ssr][csr]
 - [Top JavaScript Maps API and Libraries](https://flatlogic.com/blog/top-javascript-maps-api-and-libraries/)
