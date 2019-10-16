@@ -97,6 +97,7 @@
 
 ## Interview
 
+- [7 Simple but Tricky JavaScript Interview Questions](https://dmitripavlutin.com/simple-but-tricky-javascript-interview-questions/)
 - [TypeOfNaN JavaScript Quizzes](https://quiz.typeofnan.dev/)
 - [How to Beat 5 Common JavaScript Interview Challenges](https://www.sitepoint.com/5-common-coding-interview-challenges/)
 - [Rethinking how we interview in Microsoft’s Developer Division](https://blog.usejournal.com/rethinking-how-we-interview-in-microsofts-developer-division-8f404cfd075a)
