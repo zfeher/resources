@@ -872,6 +872,7 @@
 
 ### General
 
+- [Announcing Ionic React](https://ionicframework.com/blog/announcing-ionic-react/)
 - [Use React.memo() wisely](https://dmitripavlutin.com/use-react-memo-wisely/)
 - [When to use React Suspense vs React Hooks](https://medium.freecodecamp.org/when-to-use-react-suspense-vs-react-hooks-f66ef94cb54f)
 - [How to use React Context effectively](https://kentcdodds.com/blog/how-to-use-react-context-effectively)
