@@ -1152,6 +1152,7 @@
 
 ## Package/Dependency Management
 
+- [npm Commands and Features You Should Know](https://alligator.io/nodejs/npm-commands-you-should-know/)
 - [Running Multiple Versions of Node.js with Node Version Manager](https://alligator.io/nodejs/node-version-manager/)[nvm]
 - [Size Limit: Make the Web lighter](https://evilmartians.com/chronicles/size-limit-make-the-web-lighter?utm_source=weekendjs)
 - [Scan your projects for crossenv and other malicious npm packages](https://www.twilio.com/blog/2017/08/find-projects-infected-by-malicious-npm-packages.html?utm_source=ESnextNews.com&utm_medium=Weekly+Newsletter&utm_campaign=2017-08-08)[security]
