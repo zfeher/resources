@@ -124,6 +124,8 @@
 
 ## General
 
+- [Serverless Can Help You To Focus](https://hackernoon.com/serverless-can-do-that-7nw32mk)[serverless]
+- [Understanding the Delete Operator in JavaScript](https://blog.bitsrc.io/understanding-the-delete-operator-in-javascript-3791ba6f3a08)
 - [When to Use Map instead of Plain JavaScript Object](https://dmitripavlutin.com/maps-vs-plain-objects-javascript/)
 - [Creating custom JavaScript syntax with Babel](https://lihautan.com/creating-custom-javascript-syntax-with-babel/)
 - [Why do we love Isomorphic/Universal rendering?](https://medium.com/@sujankanwar/why-do-we-love-isomorphic-universal-rendering-988c22933933)[ssr][csr]
@@ -692,6 +694,7 @@
 
   - [Dynamic imports + common chunks](https://github.com/webpack/webpack/issues/4392)
 
+- [How to make provide/inject reactive](https://blog.logrocket.com/how-to-make-provide-inject-reactive/)
 - [When to "Unstub" a Component in a Vue.js Unit Test](https://vuejsdevelopers.com/2019/09/30/stubs-vue-unit-test/)
 - [When To Use Vuex Getters In a Vue.js Project](https://www.drewtown.dev/post/when-to-use-vuex-getters-in-a-vue-js-project/)
 - [VeeValidate 3.0](https://www.baianat.com/labs/code/veevalidate-3-0)
@@ -787,6 +790,7 @@
 
 ### Related
 
+- [awesome-vue-composition-api](https://github.com/kefranabg/awesome-vue-composition-api)
 - [chenquincy/vue-dynamic-form-component](https://github.com/chenquincy/vue-dynamic-form-component)
 - [vue-function-api](https://github.com/vuejs/vue-function-api)
 - [vue-observe-visibility](https://github.com/Akryum/vue-observe-visibility)[intersection observer]
@@ -843,6 +847,7 @@
 
 ### Hooks
 
+- [How to handle async side effects in 2019](https://blog.logrocket.com/how-to-handle-async-side-effects-in-2019/)
 - [Don't Sync State. Derive It!](https://kentcdodds.com/blog/dont-sync-state-derive-it/)
 - [Do React Hooks Replace Redux?](https://medium.com/javascript-scene/do-react-hooks-replace-redux-210bab340672)
 - [Effortless render optimization with state usage tracking with React hooks](https://blog.axlight.com/posts/effortless-render-optimization-with-state-usage-tracking-with-react-hooks/)
@@ -872,6 +877,7 @@
 
 ### General
 
+- [7 Methods for Working With Directories in NodeJS](https://coderrocketfuel.com/article/7-methods-for-working-with-directories-in-node-js)[node]
 - [Announcing Ionic React](https://ionicframework.com/blog/announcing-ionic-react/)
 - [Use React.memo() wisely](https://dmitripavlutin.com/use-react-memo-wisely/)
 - [When to use React Suspense vs React Hooks](https://medium.freecodecamp.org/when-to-use-react-suspense-vs-react-hooks-f66ef94cb54f)
