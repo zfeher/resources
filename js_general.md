@@ -124,6 +124,8 @@
 
 ## General
 
+- [Attributes of object properties in JavaScript](https://2ality.com/2019/11/object-property-attributes.html)
+- [34 Tips To Become a First-Rate Software Developer](https://coderrocketfuel.com/article/34-tips-to-become-a-first-rate-software-developer)
 - [Serverless Can Help You To Focus](https://hackernoon.com/serverless-can-do-that-7nw32mk)[serverless]
 - [Understanding the Delete Operator in JavaScript](https://blog.bitsrc.io/understanding-the-delete-operator-in-javascript-3791ba6f3a08)
 - [When to Use Map instead of Plain JavaScript Object](https://dmitripavlutin.com/maps-vs-plain-objects-javascript/)
@@ -694,6 +696,7 @@
 
   - [Dynamic imports + common chunks](https://github.com/webpack/webpack/issues/4392)
 
+- [Theming using CSS Custom Properties in Vue.js Components](https://vuedose.tips/tips/theming-using-custom-properties-in-vuejs-components/)
 - [How to make provide/inject reactive](https://blog.logrocket.com/how-to-make-provide-inject-reactive/)
 - [When to "Unstub" a Component in a Vue.js Unit Test](https://vuejsdevelopers.com/2019/09/30/stubs-vue-unit-test/)
 - [When To Use Vuex Getters In a Vue.js Project](https://www.drewtown.dev/post/when-to-use-vuex-getters-in-a-vue-js-project/)
