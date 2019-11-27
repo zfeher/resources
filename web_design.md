@@ -6,17 +6,14 @@
 - [Understanding the Critical Rendering Path](https://bitsofco.de/understanding-the-critical-rendering-path/)
 - [Best practices for prototyping websites](https://webflow.com/blog/best-practices-for-prototyping-websites)
 
-
 ## DOM
 
 - [Internationalize your keyboard controls](https://hacks.mozilla.org/2017/03/internationalize-your-keyboard-controls/)
-
 
 ## SVG
 
 - [A Comprehensive Guide to Clipping and Masking in SVG](https://webdesign.tutsplus.com/tutorials/a-comprehensive-guide-to-clipping-and-masking-in-svg--cms-30380)
 - [Transparent JPG (With SVG)](https://css-tricks.com/transparent-jpg-svg/)
-
 
 ## UX
 
@@ -28,12 +25,10 @@
 
 - [Ant Design](https://ant.design/)
 
-
 ## Performance
 
 - [Using the Paint Timing API](https://css-tricks.com/paint-timing-api/)
 - [Performant Web Animations and Interactions: Achieving 60 FPS](https://blog.algolia.com/performant-web-animations/)
-
 
 ## CSS
 
@@ -99,7 +94,7 @@
 - [30 of Our Favorite CSS Resources from This Year](https://speckyboy.com/favorite-css-resources/)
 - [css-protips](https://github.com/AllThingsSmitty/css-protips)
 - [The Beginner’s Guide to Learn Sass – Mastering Advanced Sass](https://blog.alexdevero.com/guide-learn-sass-mastering-advanced-sass/)
-- [Fun places to learn CSS Layout –  Part 1: Flexbox](https://blog.stephaniewalter.fr/en/fun-places-learn-css-layout-part-1-flexbox/) [flex]
+- [Fun places to learn CSS Layout – Part 1: Flexbox](https://blog.stephaniewalter.fr/en/fun-places-learn-css-layout-part-1-flexbox/) [flex]
 - [flex-cheatsheet](http://yoksel.github.io/flex-cheatsheet/) [flex]
 - [CSS in JavaScript: The future of component-based styling](https://medium.freecodecamp.com/css-in-javascript-the-future-of-component-based-styling-70b161a79a32)
 - [High-level advice and guidelines for writing sane, manageable, scalable CSS](http://cssguidelin.es) [BEM]
@@ -135,7 +130,7 @@
 - [3 Ways to Center in CSS](https://appendto.com/2016/11/3-ways-to-center-in-css/)
 - [The Power of the rgba() Color Function in CSS](https://css-tricks.com/the-power-of-rgba/)
 - [AtoZ CSS Quick Tip: Mastering Z-index](https://www.sitepoint.com/atoz-css-z-index/)
-- [What is the difference between CSS variables and preprocessor variables?] (https://css-tricks.com/difference-between-types-of-css-variables/)
+- [What is the difference between CSS variables and preprocessor variables?](https://css-tricks.com/difference-between-types-of-css-variables/)
 - [Responsive Images in CSS](https://css-tricks.com/responsive-images-css/)
 - [Automatic responsive images with client hints](http://www.webdesignerdepot.com/2016/10/automatic-responsive-images-with-client-hints/)
 - CSS Best Practices – 14 Steps to Become a CSS Ninja: [part 1](http://blog.alexdevero.com/css-best-practices-become-css-ninja-pt1/), [part 2](http://blog.alexdevero.com/css-best-practices-become-css-ninja-pt2/) [tips][reset][normalize][specificity]
@@ -150,6 +145,7 @@
 - [How to Display Text on Image With CSS3 mix-blend-mode](http://www.hongkiat.com/blog/css3-mix-blend-mode/)
 
 ### Related
+
 - [callum-hart/immutable-styles](https://github.com/callum-hart/immutable-styles)
 - [CSS Triggers](https://csstriggers.com)
 - [Stylelint](https://stylelint.io)
@@ -159,9 +155,9 @@
 - [BEM 1](http://getbem.com)
 - [Atomic CSS](https://acss.io)
 
-
 ## HTML
 
+- [An intro to responsive image optimization with HTML5 and Intersection Observer](https://www.freecodecamp.org/news/an-intro-to-responsive-image-optimization-with-html5-and-intersection-observer-2a4fbe1473c1/)
 - [How to Use The HTML5 Sectioning Elements](http://blog.teamtreehouse.com/use-html5-sectioning-elements)
 - [The most uncommon HTML5 tags you can use right now](https://codeburst.io/the-most-uncommon-html5-tags-52273fabc0a7)
 - [What’s New in HTML 5.2?](https://bitsofco.de/whats-new-in-html-5-2/)
@@ -174,5 +170,6 @@
 - [15 JavaScript Methods For DOM Manipulation for Web Developers](http://www.hongkiat.com/blog/dom-manipulation-javascript-methods/)
 
 ### Related
+
 - [W3C Validator](https://validator.w3.org)
 - [DirtyMarkup](https://dirtymarkup.com)

@@ -962,6 +962,7 @@
 
 ## State Management
 
+- [How to Approach State Management in React, Vue and Angular](https://medium.com/javascript-in-plain-english/the-art-of-the-state-e19816732530)
 - [When To Use State Management In Front-end Applications?](https://ilikekillnerds.com/2019/08/when-to-use-state-management-in-front-end-applications/)
 - [https://twitter.com/ryanflorence/status/1084248892072329216?s=12](https://twitter.com/ryanflorence/status/1084248892072329216?s=12)[xstate][state machine]
 - [Easy State Management in React Using Unstated](https://alligator.io/react/unstated/)
