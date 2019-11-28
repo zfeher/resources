@@ -674,6 +674,7 @@
 
 ### Related
 
+- [Litedom](https://litedom.js.org/)
 - [react-powerplug](https://github.com/renatorib/react-powerplug/)
 - [Storybook](https://storybook.js.org)
 - [Bit](https://github.com/teambit/bit)
@@ -696,6 +697,7 @@
 
   - [Dynamic imports + common chunks](https://github.com/webpack/webpack/issues/4392)
 
+- [Animating Vue with GreenSock](https://blog.logrocket.com/animating-vue-with-greensock/)
 - [Theming using CSS Custom Properties in Vue.js Components](https://vuedose.tips/tips/theming-using-custom-properties-in-vuejs-components/)
 - [How to make provide/inject reactive](https://blog.logrocket.com/how-to-make-provide-inject-reactive/)
 - [When to "Unstub" a Component in a Vue.js Unit Test](https://vuejsdevelopers.com/2019/09/30/stubs-vue-unit-test/)
@@ -1141,6 +1143,7 @@
 
 ### Related Libs
 
+- [Puppetry](https://puppetry.app/)
 - [Newman](https://github.com/postmanlabs/newman)
 - [Puppeteer](https://github.com/GoogleChrome/puppeteer)
 - [Intern](https://theintern.io)
