@@ -131,6 +131,7 @@
   - `git format-patch -M origin/master` create a patch
   - `git apply /tmp/patch-ruby-client.patch` apply a patch
   - `git am 0001-limit-log-function.patch` apply a format-patch patch
+  - `git update-ref -d HEAD` resets the branch to its initial state, eg before the first commit
 
   - `git branch -a --contains <commit>` list local + remote branches which contains the specified commit
   - `git branch -r --contains <commit>` list remote branches which contains the specified commit
