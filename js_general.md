@@ -124,6 +124,11 @@
 
 ## General
 
+- [Detect Function Argument Names with JavaScript](https://davidwalsh.name/javascript-arguments)
+- Clean Code Applied to JavaScript:
+  - [part 1](https://dev.to/carlillo/clean-code-applied-to-javascript-part-i-before-your-start-16ic)
+  - [part 2 - Variables](https://dev.to/carlillo/clean-code-applied-to-javascript-part-ii-variables-pc)
+  - [part 3 - Functions](https://dev.to/carlillo/clean-code-applied-to-javascript-part-iii-functions-4235)
 - [Attributes of object properties in JavaScript](https://2ality.com/2019/11/object-property-attributes.html)
 - [34 Tips To Become a First-Rate Software Developer](https://coderrocketfuel.com/article/34-tips-to-become-a-first-rate-software-developer)
 - [Serverless Can Help You To Focus](https://hackernoon.com/serverless-can-do-that-7nw32mk)[serverless]
@@ -1192,6 +1197,7 @@
 
 ## Module loader/Module Bundler/Task Runner, CI, Build
 
+- [Webpack: Reusing Module in Multiple Entries](https://medium.com/front-end-weekly/webpack-reusing-module-in-multiple-entries-c9b3dae0ebbc)[webpack]
 - [Enable source-map on production?](https://medium.com/@sujankanwar/enable-source-map-on-production-f2f53c5f4345)
 - [Should We All Start Implementing Differential Serving?](https://macarthur.me/posts/should-we-implement-differential-serving)[modern build]
 - [How to delete ALL node_modules folders on your machine and free up HD space!](https://dev.to/trilon/how-to-delete-all-nodemodules-folders-on-your-machine-43dh)
