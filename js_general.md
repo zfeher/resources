@@ -124,6 +124,8 @@
 
 ## General
 
+- [Understand the Nullish coalescing operator coming in ES2020](https://levelup.gitconnected.com/understand-the-nullish-coalescing-operator-coming-in-es2020-2d1c6df1765f)
+- [5 things you don’t know about try-catch-finally in JavaScript](https://levelup.gitconnected.com/5-things-you-dont-know-about-try-catch-finally-in-javascript-5d661996d77c)
 - [Detect Function Argument Names with JavaScript](https://davidwalsh.name/javascript-arguments)
 - Clean Code Applied to JavaScript:
   - [part 1](https://dev.to/carlillo/clean-code-applied-to-javascript-part-i-before-your-start-16ic)
@@ -520,6 +522,7 @@
 
 ### Related Libs
 
+- [purify-ts](https://gigobyte.github.io/purify/)
 - [mori](http://swannodette.github.io/mori/)
 - [eslint-plugin-fp](https://github.com/jfmengels/eslint-plugin-fp)
 - [Sanctuary](https://sanctuary.js.org)
@@ -702,6 +705,7 @@
 
   - [Dynamic imports + common chunks](https://github.com/webpack/webpack/issues/4392)
 
+- [Vue Testing Crash Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl)
 - [Animating Vue with GreenSock](https://blog.logrocket.com/animating-vue-with-greensock/)
 - [Theming using CSS Custom Properties in Vue.js Components](https://vuedose.tips/tips/theming-using-custom-properties-in-vuejs-components/)
 - [How to make provide/inject reactive](https://blog.logrocket.com/how-to-make-provide-inject-reactive/)
