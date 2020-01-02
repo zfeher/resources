@@ -124,6 +124,7 @@
 
 ## General
 
+- [Micro Frontends](https://martinfowler.com/articles/micro-frontends.html#InANutshell)[micro frontend]
 - [Understand the Nullish coalescing operator coming in ES2020](https://levelup.gitconnected.com/understand-the-nullish-coalescing-operator-coming-in-es2020-2d1c6df1765f)
 - [5 things you don’t know about try-catch-finally in JavaScript](https://levelup.gitconnected.com/5-things-you-dont-know-about-try-catch-finally-in-javascript-5d661996d77c)
 - [Detect Function Argument Names with JavaScript](https://davidwalsh.name/javascript-arguments)
@@ -804,6 +805,7 @@
 
 ### Related
 
+- [y-nk/vue-fragment](https://github.com/y-nk/vue-fragment)
 - [awesome-vue-composition-api](https://github.com/kefranabg/awesome-vue-composition-api)
 - [chenquincy/vue-dynamic-form-component](https://github.com/chenquincy/vue-dynamic-form-component)
 - [vue-function-api](https://github.com/vuejs/vue-function-api)
@@ -891,6 +893,7 @@
 
 ### General
 
+- [Understanding Compound Components in React](https://blog.bitsrc.io/understanding-compound-components-in-react-23c4b84535b5)
 - [7 Methods for Working With Directories in NodeJS](https://coderrocketfuel.com/article/7-methods-for-working-with-directories-in-node-js)[node]
 - [Announcing Ionic React](https://ionicframework.com/blog/announcing-ionic-react/)
 - [Use React.memo() wisely](https://dmitripavlutin.com/use-react-memo-wisely/)
