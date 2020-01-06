@@ -894,6 +894,7 @@
 
 ### General
 
+- [Reactive view - the concept](https://krasimirtsonev.com/blog/article/riew-reactive-view-concept)
 - [Understanding Compound Components in React](https://blog.bitsrc.io/understanding-compound-components-in-react-23c4b84535b5)
 - [7 Methods for Working With Directories in NodeJS](https://coderrocketfuel.com/article/7-methods-for-working-with-directories-in-node-js)[node]
 - [Announcing Ionic React](https://ionicframework.com/blog/announcing-ionic-react/)
