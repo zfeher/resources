@@ -32,6 +32,7 @@
 
 ## CSS
 
+- [What are CSS Modules and why do we need them?](https://css-tricks.com/css-modules-part-1-need/), [part 2](https://css-tricks.com/css-modules-part-2-getting-started/), [part 3](https://css-tricks.com/css-modules-part-3-react/)
 - [Themify your app with Custom Properties](https://dev.to/bpetetot/themify-your-app-with-custom-properties-2kke)
 - [Five Methods for Five-Star Ratings](https://css-tricks.com/five-methods-for-five-star-ratings/)[tutorial]
 - [Why you should use CSS env()](https://blog.logrocket.com/why-you-should-use-css-env-9ee719ce0f24)
