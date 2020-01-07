@@ -1179,6 +1179,8 @@
 
 ## Package/Dependency Management
 
+- [How to successfully manage a large scale JavaScript monorepo aka megarepo](https://www.jonathancreamer.com/how-to-successfully-manage-a-monorepo-aka-megarepo/)
+- [Why Lerna and Yarn Workspaces is a Perfect Match for Building Mono-Repos – A Close Look at Features and Performance](https://doppelmutzi.github.io/monorepo-lerna-yarn-workspaces/)[lerna][npm][yarn][yarn workspaces]
 - [npm Commands and Features You Should Know](https://alligator.io/nodejs/npm-commands-you-should-know/)
 - [Running Multiple Versions of Node.js with Node Version Manager](https://alligator.io/nodejs/node-version-manager/)[nvm]
 - [Size Limit: Make the Web lighter](https://evilmartians.com/chronicles/size-limit-make-the-web-lighter?utm_source=weekendjs)
@@ -1198,7 +1200,10 @@
 
 ### Related Libs
 
+- [bolt](http://boltpkg.com/)
+- [Lerna](https://lerna.js.org/)
 - [Size Limit](https://github.com/ai/size-limit)
+- [Yarn](https://yarnpkg.com/en/)
 - [pnpm](https://github.com/pnpm/pnpm)
 - [npm_lazy](https://github.com/mixu/npm_lazy)
 - [local-npm](https://github.com/nolanlawson/local-npm)
