@@ -124,6 +124,7 @@
 
 ## General
 
+- [Sharing Dependencies in Micro Frontends](https://blog.bitsrc.io/sharing-dependencies-in-micro-frontends-9da142296a2b)[micro frontend]
 - [The 10 most popular coding challenge websites for 2020](https://www.freecodecamp.org/news/the-10-most-popular-coding-challenge-websites-of-2016-fb8a5672d22f/)[challenge]
 - [Micro Frontends](https://martinfowler.com/articles/micro-frontends.html#InANutshell)[micro frontend]
 - [Understand the Nullish coalescing operator coming in ES2020](https://levelup.gitconnected.com/understand-the-nullish-coalescing-operator-coming-in-es2020-2d1c6df1765f)
