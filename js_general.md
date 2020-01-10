@@ -21,6 +21,7 @@
 
 ## Books
 
+- [The Twelve-Factor App](https://12factor.net/)[architecture]
 - [The Offline Cookbook](https://developers.google.com/web/fundamentals/instant-and-offline/offline-cookbook/)
 - [Exploring ES2018 and ES2019](http://exploringjs.com/es2018-es2019/)
 - [Top 10 JavaScript Books 2019](https://www.ma-no.org/en/content/index_top-10-javascript-books-2019_2385.php)
@@ -68,6 +69,10 @@
 
 ## Learning
 
+- [Code Jam](https://codingcompetitions.withgoogle.com/codejam)[learning][competition]
+- [Codewars](https://www.codewars.com/)[learning][training]
+- [Project Euler](https://projecteuler.net/)[mathematical problems][computer programming problems]
+- [30 Seconds of Code](https://www.30secondsofcode.org/)
 - [Learn JavaScript](https://learnjavascript.online/)
 - [The secret to being a top developer is building things! Here’s a list of fun apps to build!](https://medium.freecodecamp.org/the-secret-to-being-a-top-developer-is-building-things-heres-a-list-of-fun-apps-to-build-aac61ac0736c)
 - [The Modern JavaScript Tutorial](https://javascript.info)
@@ -97,6 +102,7 @@
 
 ## Interview
 
+- [47 behavioral interview questions and tips to nail your onsite](https://www.pathrise.com/guides/45-behavioral-interview-questions/)
 - [7 Simple but Tricky JavaScript Interview Questions](https://dmitripavlutin.com/simple-but-tricky-javascript-interview-questions/)
 - [TypeOfNaN JavaScript Quizzes](https://quiz.typeofnan.dev/)
 - [How to Beat 5 Common JavaScript Interview Challenges](https://www.sitepoint.com/5-common-coding-interview-challenges/)
@@ -237,6 +243,7 @@
 
 ### Related
 
+- [klona](https://github.com/lukeed/klona)[deep clone][clone]
 - [humanwhocodes/computer-science-in-javascript](https://github.com/humanwhocodes/computer-science-in-javascript)
 - [haiku.ai/](https://www.haiku.ai/)
 - [prismjs.com/](https://prismjs.com/)
