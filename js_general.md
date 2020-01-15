@@ -130,9 +130,7 @@
 
 ## General
 
-- [Sharing Dependencies in Micro Frontends](https://blog.bitsrc.io/sharing-dependencies-in-micro-frontends-9da142296a2b)[micro frontend]
 - [The 10 most popular coding challenge websites for 2020](https://www.freecodecamp.org/news/the-10-most-popular-coding-challenge-websites-of-2016-fb8a5672d22f/)[challenge]
-- [Micro Frontends](https://martinfowler.com/articles/micro-frontends.html#InANutshell)[micro frontend]
 - [Understand the Nullish coalescing operator coming in ES2020](https://levelup.gitconnected.com/understand-the-nullish-coalescing-operator-coming-in-es2020-2d1c6df1765f)
 - [5 things you don’t know about try-catch-finally in JavaScript](https://levelup.gitconnected.com/5-things-you-dont-know-about-try-catch-finally-in-javascript-5d661996d77c)
 - [Detect Function Argument Names with JavaScript](https://davidwalsh.name/javascript-arguments)
@@ -266,6 +264,28 @@
 - [js-joda](https://github.com/js-joda/js-joda?utm_source=ESnextNews.com&utm_medium=Weekly+Newsletter&utm_campaign=2017-06-13)
 - [Collections.js](http://www.collectionsjs.com)
 - [Moment.js](https://momentjs.com)
+
+## Micro frontends
+
+- [Micro Frontends](https://martinfowler.com/articles/micro-frontends.html#InANutshell)
+- [Micro Frontends](https://micro-frontends.org/)
+- [Micro Frontends Made Easy](https://medium.com/javascript-in-plain-english/micro-frontends-made-easy-e49acceea536)
+- [Sharing Dependencies in Micro Frontends](https://blog.bitsrc.io/sharing-dependencies-in-micro-frontends-9da142296a2b)
+
+- [Understanding Micro Frontends](https://hackernoon.com/understanding-micro-frontends-b1c11585a297)
+- [Independent micro frontends with Single SPA library](https://blog.pragmatists.com/independent-micro-frontends-with-single-spa-library-a829012dc5be)[single-spa]
+- [My experience using micro frontends](https://medium.com/passionate-people/my-experience-using-micro-frontends-e99a1ad6ed32)
+- [Building Micro Frontends with React, Vue, and Single-spa](https://dev.to/dabit3/building-micro-frontends-with-react-vue-and-single-spa-52op)[single-spa]
+- [Micro-frontend Architecture: Replacing a Monolith from the Inside Out](https://levelup.gitconnected.com/micro-frontend-architecture-replacing-a-monolith-from-the-inside-out-61f60d2e14c1)
+- [Micro Frontend Architecture: Import chunks from another Webpack bundle at runtime](https://levelup.gitconnected.com/micro-frontend-architecture-dynamic-import-chunks-from-another-webpack-bundle-at-runtime-1132d8cb6051)[webpack]
+
+### Related
+
+- [single-spa](https://single-spa.js.org/)
+- [Frint.js](https://frint.js.org/)
+- [tailor](https://github.com/zalando/tailor)
+- [h-include.js](https://gustafnk.github.io/h-include/)
+- [hinclude.js](http://mnot.github.io/hinclude/)
 
 ## Analytics
 
