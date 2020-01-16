@@ -270,6 +270,7 @@
 - [Micro Frontends](https://martinfowler.com/articles/micro-frontends.html#InANutshell)
 - [Micro Frontends](https://micro-frontends.org/)
 - [Micro Frontends Made Easy](https://medium.com/javascript-in-plain-english/micro-frontends-made-easy-e49acceea536)
+- [Six Patterns for Microfrontends](https://dev.to/florianrappl/microfrontends-from-zero-to-hero-3be7)
 - [Sharing Dependencies in Micro Frontends](https://blog.bitsrc.io/sharing-dependencies-in-micro-frontends-9da142296a2b)
 
 - [Understanding Micro Frontends](https://hackernoon.com/understanding-micro-frontends-b1c11585a297)
@@ -278,9 +279,20 @@
 - [Building Micro Frontends with React, Vue, and Single-spa](https://dev.to/dabit3/building-micro-frontends-with-react-vue-and-single-spa-52op)[single-spa]
 - [Micro-frontend Architecture: Replacing a Monolith from the Inside Out](https://levelup.gitconnected.com/micro-frontend-architecture-replacing-a-monolith-from-the-inside-out-61f60d2e14c1)
 - [Micro Frontend Architecture: Import chunks from another Webpack bundle at runtime](https://levelup.gitconnected.com/micro-frontend-architecture-dynamic-import-chunks-from-another-webpack-bundle-at-runtime-1132d8cb6051)[webpack]
+- [Serverless Microfrontends in AWS](https://blog.bitsrc.io/serverless-microfrontends-in-aws-999450ed3795)
 
 ### Related
 
+- [Piral](https://piral.io/)
+- [Luigi](https://luigi-project.io/)
+- [Open Components](https://opencomponents.github.io/)
+- [PostMate](https://github.com/dollarshaveclub/postmate)
+- [Web Components](https://www.webcomponents.org/)
+- [Puzzle.js](https://github.com/puzzle-js/puzzle-js)
+- [Ara Framework](https://ara-framework.github.io/website/)
+- [Podium](https://podium-lib.io/)
+- [Project Mosaic](https://www.mosaic9.org/)
+- [Bit](https://bit.dev/)
 - [single-spa](https://single-spa.js.org/)
 - [Frint.js](https://frint.js.org/)
 - [tailor](https://github.com/zalando/tailor)
