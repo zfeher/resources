@@ -130,6 +130,9 @@
 
 ## General
 
+- [Deep dive into ES6 Symbols](https://medium.com/javascript-in-plain-english/deep-dive-into-es6-symbols-3b44f4ba7eb3)
+- [6 Handy Regular Expressions Every Front-End Developer Should Know](https://blog.bitsrc.io/6-handy-regular-expressions-every-front-end-developer-should-know-ac9e0c514b71)
+- [Generate Unique Id in the Browser Without a Library](https://levelup.gitconnected.com/generate-unique-id-in-the-browser-without-a-library-50618cdc3cb1)
 - [The 10 most popular coding challenge websites for 2020](https://www.freecodecamp.org/news/the-10-most-popular-coding-challenge-websites-of-2016-fb8a5672d22f/)[challenge]
 - [Understand the Nullish coalescing operator coming in ES2020](https://levelup.gitconnected.com/understand-the-nullish-coalescing-operator-coming-in-es2020-2d1c6df1765f)
 - [5 things you don’t know about try-catch-finally in JavaScript](https://levelup.gitconnected.com/5-things-you-dont-know-about-try-catch-finally-in-javascript-5d661996d77c)
@@ -476,6 +479,7 @@
 
 ## Functional Programming (FP)
 
+- [Promise Lifting: A new async coding technique](https://blog.bitsrc.io/out-with-async-await-and-in-with-promise-lifting-c42882a474fd)
 - [What's Happening With the Pipeline (|>) Proposal?](https://babeljs.io/blog/2018/07/19/whats-happening-with-the-pipeline-proposal?utm_source=ESnextNews.com&utm_medium=Weekly+Newsletter&utm_campaign=2019-02-05)
 - [Currying in JS: Answering the traditional question, Add(2)(3), which gives sum of both numbers.](http://theanubhav.com/2019/02/03/js-currying-in-interview/)
 - [An Informal Exploration of Structural Sharing, Proxies, and Copy-on-Write Semantics](http://raganwald.com/2019/01/14/structural-sharing-and-copy-on-write.html?utm_source=ESnextNews.com&utm_medium=Weekly+Newsletter&utm_campaign=2019-01-15)[tutorial]
@@ -637,6 +641,7 @@
 
 ## Typescript
 
+- [Get rid of relative import path hell by adding absolute imports to your Typescript project](https://levelup.gitconnected.com/get-rid-of-relative-import-path-hell-in-your-typescript-project-9952adec2e84)
 - [TypeScript without TypeScript -- JSDoc superpowers](https://fettblog.eu/typescript-jsdoc-superpowers/)[jsdoc]
 - [Node.js TypeScript: the basics of Node.js](https://wanago.io/2019/02/11/node-js-typescript-modules-file-system/)
 - [TypeScript 2.8: Mapped Type Modifiers](https://mariusschulz.com/blog/typescript-2-8-mapped-type-modifiers)
@@ -934,6 +939,7 @@
 
 ### General
 
+- [Understanding JavaScript Pass By Value](https://www.javascripttutorial.net/javascript-pass-by-value/)
 - [Reactive view - the concept](https://krasimirtsonev.com/blog/article/riew-reactive-view-concept)
 - [Understanding Compound Components in React](https://blog.bitsrc.io/understanding-compound-components-in-react-23c4b84535b5)
 - [7 Methods for Working With Directories in NodeJS](https://coderrocketfuel.com/article/7-methods-for-working-with-directories-in-node-js)[node]
