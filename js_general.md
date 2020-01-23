@@ -130,6 +130,7 @@
 
 ## General
 
+- [10 Chrome Console Utility APIs You Probably Never Used](https://blog.bitsrc.io/10-chrome-console-utility-apis-you-probably-never-used-14a0b64f1bd6)
 - [Deep dive into ES6 Symbols](https://medium.com/javascript-in-plain-english/deep-dive-into-es6-symbols-3b44f4ba7eb3)
 - [6 Handy Regular Expressions Every Front-End Developer Should Know](https://blog.bitsrc.io/6-handy-regular-expressions-every-front-end-developer-should-know-ac9e0c514b71)
 - [Generate Unique Id in the Browser Without a Library](https://levelup.gitconnected.com/generate-unique-id-in-the-browser-without-a-library-50618cdc3cb1)
