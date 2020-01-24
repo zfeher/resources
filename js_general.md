@@ -130,6 +130,7 @@
 
 ## General
 
+- [The ultimate guide to iframes](https://blog.logrocket.com/the-ultimate-guide-to-iframes/)
 - [10 Chrome Console Utility APIs You Probably Never Used](https://blog.bitsrc.io/10-chrome-console-utility-apis-you-probably-never-used-14a0b64f1bd6)
 - [Deep dive into ES6 Symbols](https://medium.com/javascript-in-plain-english/deep-dive-into-es6-symbols-3b44f4ba7eb3)
 - [6 Handy Regular Expressions Every Front-End Developer Should Know](https://blog.bitsrc.io/6-handy-regular-expressions-every-front-end-developer-should-know-ac9e0c514b71)
@@ -277,6 +278,7 @@
 - [Six Patterns for Microfrontends](https://dev.to/florianrappl/microfrontends-from-zero-to-hero-3be7)
 - [Sharing Dependencies in Micro Frontends](https://blog.bitsrc.io/sharing-dependencies-in-micro-frontends-9da142296a2b)
 
+- [Story behind Micro Frontends in Sabre](https://medium.com/@elastofragmentoplast/story-behind-micro-frontends-in-sabre-9c776861433d)
 - [Understanding Micro Frontends](https://hackernoon.com/understanding-micro-frontends-b1c11585a297)
 - [Independent micro frontends with Single SPA library](https://blog.pragmatists.com/independent-micro-frontends-with-single-spa-library-a829012dc5be)[single-spa]
 - [My experience using micro frontends](https://medium.com/passionate-people/my-experience-using-micro-frontends-e99a1ad6ed32)
@@ -852,6 +854,7 @@
 
 ### Related
 
+- [Vue Watch](https://vuewatch.com/)
 - [y-nk/vue-fragment](https://github.com/y-nk/vue-fragment)
 - [awesome-vue-composition-api](https://github.com/kefranabg/awesome-vue-composition-api)
 - [chenquincy/vue-dynamic-form-component](https://github.com/chenquincy/vue-dynamic-form-component)
