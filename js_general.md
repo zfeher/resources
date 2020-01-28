@@ -278,6 +278,7 @@
 - [Six Patterns for Microfrontends](https://dev.to/florianrappl/microfrontends-from-zero-to-hero-3be7)
 - [Sharing Dependencies in Micro Frontends](https://blog.bitsrc.io/sharing-dependencies-in-micro-frontends-9da142296a2b)
 
+- [5 Reasons for Doing Microfrontends](https://dev.to/florianrappl/5-reasons-for-doing-microfrontends-1mba)
 - [Story behind Micro Frontends in Sabre](https://medium.com/@elastofragmentoplast/story-behind-micro-frontends-in-sabre-9c776861433d)
 - [Understanding Micro Frontends](https://hackernoon.com/understanding-micro-frontends-b1c11585a297)
 - [Independent micro frontends with Single SPA library](https://blog.pragmatists.com/independent-micro-frontends-with-single-spa-library-a829012dc5be)[single-spa]
