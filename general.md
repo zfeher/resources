@@ -49,6 +49,7 @@
 
 ## Git
 
+- [gitmoji](https://gitmoji.carloscuesta.me/)
 - [Git Basics: Renaming a Local and Remote Branch](https://medium.com/javascript-in-plain-english/git-basics-renaming-a-local-and-remote-branch-2badf749ea3d)
 - [How to find the Git commit that introduced a string in any branch?](https://stackoverflow.com/questions/5816134/how-to-find-the-git-commit-that-introduced-a-string-in-any-branch)
 - [RomuloOliveira/commit-messages-guide](https://github.com/RomuloOliveira/commit-messages-guide)
