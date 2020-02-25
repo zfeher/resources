@@ -130,6 +130,7 @@
 
 ## General
 
+- [10 Useful Web APIs for 2020](https://blog.bitsrc.io/10-useful-web-apis-for-2020-8e43905cbdc5)
 - [The ultimate guide to iframes](https://blog.logrocket.com/the-ultimate-guide-to-iframes/)
 - [10 Chrome Console Utility APIs You Probably Never Used](https://blog.bitsrc.io/10-chrome-console-utility-apis-you-probably-never-used-14a0b64f1bd6)
 - [Deep dive into ES6 Symbols](https://medium.com/javascript-in-plain-english/deep-dive-into-es6-symbols-3b44f4ba7eb3)
@@ -483,6 +484,7 @@
 
 ## Functional Programming (FP)
 
+- [kongware/scriptum](https://github.com/kongware/scriptum)
 - [Promise Lifting: A new async coding technique](https://blog.bitsrc.io/out-with-async-await-and-in-with-promise-lifting-c42882a474fd)
 - [What's Happening With the Pipeline (|>) Proposal?](https://babeljs.io/blog/2018/07/19/whats-happening-with-the-pipeline-proposal?utm_source=ESnextNews.com&utm_medium=Weekly+Newsletter&utm_campaign=2019-02-05)
 - [Currying in JS: Answering the traditional question, Add(2)(3), which gives sum of both numbers.](http://theanubhav.com/2019/02/03/js-currying-in-interview/)
@@ -645,6 +647,9 @@
 
 ## Typescript
 
+- [More advanced types with TypeScript generics](https://wanago.io/2020/02/24/more-advanced-types-with-typescript-generics/)
+- [Typescript Generics Discussing Naming Conventions](https://wanago.io/2020/02/17/typescript-generics-discussing-naming-conventions/)
+- [Types for classes in TypeScript](https://2ality.com/2020/02/types-for-classes-typescript.html)
 - [Get rid of relative import path hell by adding absolute imports to your Typescript project](https://levelup.gitconnected.com/get-rid-of-relative-import-path-hell-in-your-typescript-project-9952adec2e84)
 - [TypeScript without TypeScript -- JSDoc superpowers](https://fettblog.eu/typescript-jsdoc-superpowers/)[jsdoc]
 - [Node.js TypeScript: the basics of Node.js](https://wanago.io/2019/02/11/node-js-typescript-modules-file-system/)
@@ -756,6 +761,8 @@
 
   - [Dynamic imports + common chunks](https://github.com/webpack/webpack/issues/4392)
 
+- [Extending Vue Component Templates](https://vuejsdevelopers.com/2017/06/11/vue-js-extending-components/)
+- [Top 10 Vue JS Books You Should Read](https://vuejsexamples.com/top-10-vue-js-books-you-should-read/)
 - [Vue Testing Crash Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl)
 - [Animating Vue with GreenSock](https://blog.logrocket.com/animating-vue-with-greensock/)
 - [Theming using CSS Custom Properties in Vue.js Components](https://vuedose.tips/tips/theming-using-custom-properties-in-vuejs-components/)
@@ -1213,6 +1220,7 @@
 
 ### Related Libs
 
+- [Baretest](https://volument.com/baretest)
 - [Puppetry](https://puppetry.app/)
 - [Newman](https://github.com/postmanlabs/newman)
 - [Puppeteer](https://github.com/GoogleChrome/puppeteer)
