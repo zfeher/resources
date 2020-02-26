@@ -925,6 +925,7 @@
 
 ### Hooks
 
+- [Advanced memoization and effects in React](https://gist.github.com/slikts/fd3768de1493419ed9506002b452fcdc)
 - [How to handle async side effects in 2019](https://blog.logrocket.com/how-to-handle-async-side-effects-in-2019/)
 - [Don't Sync State. Derive It!](https://kentcdodds.com/blog/dont-sync-state-derive-it/)
 - [Do React Hooks Replace Redux?](https://medium.com/javascript-scene/do-react-hooks-replace-redux-210bab340672)
@@ -955,6 +956,7 @@
 
 ### General
 
+- [React context vs Redux in 2020](https://gist.github.com/slikts/57ff1acdb6f5b2ea075b701d1daf896d)
 - [Understanding JavaScript Pass By Value](https://www.javascripttutorial.net/javascript-pass-by-value/)
 - [Is JavaScript a pass-by-reference or pass-by-value language?](https://stackoverflow.com/questions/518000/is-javascript-a-pass-by-reference-or-pass-by-value-language)
 - [Reactive view - the concept](https://krasimirtsonev.com/blog/article/riew-reactive-view-concept)
