@@ -21,6 +21,7 @@
 
 ## Books
 
+- [ leonardomso/33-js-concepts ](https://github.com/leonardomso/33-js-concepts)
 - [The Twelve-Factor App](https://12factor.net/)[architecture]
 - [The Offline Cookbook](https://developers.google.com/web/fundamentals/instant-and-offline/offline-cookbook/)
 - [Exploring ES2018 and ES2019](http://exploringjs.com/es2018-es2019/)
@@ -1277,6 +1278,7 @@
 
 ## Module loader/Module Bundler/Task Runner, CI, Build
 
+- [Rome, a new JavaScript Toolchain](https://jasonformat.com/rome-javascript-toolchain/)
 - [Webpack: Reusing Module in Multiple Entries](https://medium.com/front-end-weekly/webpack-reusing-module-in-multiple-entries-c9b3dae0ebbc)[webpack]
 - [Enable source-map on production?](https://medium.com/@sujankanwar/enable-source-map-on-production-f2f53c5f4345)
 - [Should We All Start Implementing Differential Serving?](https://macarthur.me/posts/should-we-implement-differential-serving)[modern build]
@@ -1327,6 +1329,7 @@
 
 ### Related Libs
 
+- [Rome](https://github.com/facebookexperimental/rome)
 - [pikapkg/pack](https://github.com/pikapkg/pack)
 - [BundlePhobia](https://bundlephobia.com)
 - [webpack-libs-optimizations](https://github.com/GoogleChromeLabs/webpack-libs-optimizations)
