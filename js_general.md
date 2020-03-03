@@ -1183,6 +1183,7 @@
 
 ## Testing
 
+- [Setting up Cypress with axe for accessibility](https://timdeschryver.dev/blog/setting-up-cypress-with-axe-for-accessibility)
 - [Write fewer, longer tests](https://kentcdodds.com/blog/write-fewer-longer-tests)
 - [Await, do not make your E2E tests sleep](https://itnext.io/await-do-not-sleep-your-e2e-tests-df67e051b409)[e2e][cypress]
 - [Rethinking Software Testing: Perspectives from the world of Hardware](https://software.rajivprab.com/2019/04/28/rethinking-software-testing-perspectives-from-the-world-of-hardware/)
@@ -1223,6 +1224,7 @@
 
 ### Related Libs
 
+- [Axe](https://www.deque.com/axe/)
 - [Baretest](https://volument.com/baretest)
 - [Puppetry](https://puppetry.app/)
 - [Newman](https://github.com/postmanlabs/newman)
@@ -1278,6 +1280,7 @@
 
 ## Module loader/Module Bundler/Task Runner, CI, Build
 
+- [Webpack 5 Module Federation: A game-changer in JavaScript architecture](https://medium.com/javascript-in-plain-english/webpack-5-module-federation-a-game-changer-to-javascript-architecture-bcdd30e02669)
 - [Rome, a new JavaScript Toolchain](https://jasonformat.com/rome-javascript-toolchain/)
 - [Webpack: Reusing Module in Multiple Entries](https://medium.com/front-end-weekly/webpack-reusing-module-in-multiple-entries-c9b3dae0ebbc)[webpack]
 - [Enable source-map on production?](https://medium.com/@sujankanwar/enable-source-map-on-production-f2f53c5f4345)
