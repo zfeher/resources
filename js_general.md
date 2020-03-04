@@ -131,6 +131,9 @@
 
 ## General
 
+- [Managing Cyclomatic Complexity](https://kyleshevlin.com/managing-cyclomatic-complexity)
+- [Stop using isLoading booleans](https://kentcdodds.com/blog/stop-using-isloading-booleans)
+- [Angular vs React vs Vue: Which Is the Best Choice for 2020?](https://levelup.gitconnected.com/angular-vs-react-vs-vue-which-is-the-best-choice-for-2020-81f577697c7e)
 - [10 Useful Web APIs for 2020](https://blog.bitsrc.io/10-useful-web-apis-for-2020-8e43905cbdc5)
 - [The ultimate guide to iframes](https://blog.logrocket.com/the-ultimate-guide-to-iframes/)
 - [10 Chrome Console Utility APIs You Probably Never Used](https://blog.bitsrc.io/10-chrome-console-utility-apis-you-probably-never-used-14a0b64f1bd6)
@@ -358,6 +361,7 @@
 
 ## Machine Learning/Deep Learnings
 
+- [Top 12 JavaScript Machine Learning Libraries for 2020](https://medium.com/javascript-in-plain-english/top-12-javascript-machine-learning-libraries-for-2020-8bec30ecfa58)
 - [TensorFlow.js: An intro and analysis with use cases](https://blog.logrocket.com/tensorflow-js-an-intro-and-analysis-with-use-cases-8e1f9a973183)
 - [How to Use Machine Learning in Marketplace Development](https://sloboda-studio.com/blog/machine-learning-marketplace-development/)
 - [Kalimdor.js: Machine Learning with TypeScript](https://frontnet.eu/kalimdor-js-machine-learning-with-typescript/)
@@ -712,6 +716,7 @@
 
 ## Components
 
+- [6 Ways to Share React Components in 2020](https://blog.bitsrc.io/6-ways-to-share-and-reuse-react-components-6d80e2fd16cd)[component sharing][microfrontend]
 - [The rules of reusable components](https://medium.com/@_kamerontanseli/the-rules-of-reusable-components-2b221c138bcf)[react]
 - [Tips and tricks for creating reusable UI components](https://www.codementor.io/gabrielcolombo/tips-and-tricks-for-creating-reusable-ui-components-ig7kws9qq)
 - [Sharing Code Between Projects: Lessons Learned In The Trenches](https://www.smashingmagazine.com/2018/04/sharing-code-between-projects/)[Bit]
@@ -957,6 +962,7 @@
 
 ### General
 
+- [React TypeScript: Basics and Best Practices](https://blog.bitsrc.io/react-typescript-cheetsheet-2b6fa2cecfe2)
 - [React context vs Redux in 2020](https://gist.github.com/slikts/57ff1acdb6f5b2ea075b701d1daf896d)
 - [Understanding JavaScript Pass By Value](https://www.javascripttutorial.net/javascript-pass-by-value/)
 - [Is JavaScript a pass-by-reference or pass-by-value language?](https://stackoverflow.com/questions/518000/is-javascript-a-pass-by-reference-or-pass-by-value-language)
@@ -1248,6 +1254,7 @@
 
 ## Package/Dependency Management
 
+- [How to find unused npm packages?](https://w3lessons.info/how-to-find-unused-npm-packages/)[depcheck][npm]
 - [How to successfully manage a large scale JavaScript monorepo aka megarepo](https://www.jonathancreamer.com/how-to-successfully-manage-a-monorepo-aka-megarepo/)
 - [Why Lerna and Yarn Workspaces is a Perfect Match for Building Mono-Repos – A Close Look at Features and Performance](https://doppelmutzi.github.io/monorepo-lerna-yarn-workspaces/)[lerna][npm][yarn][yarn workspaces]
 - [npm Commands and Features You Should Know](https://alligator.io/nodejs/npm-commands-you-should-know/)
@@ -1269,6 +1276,7 @@
 
 ### Related Libs
 
+- [depcheck](https://github.com/depcheck/depcheck)
 - [bolt](http://boltpkg.com/)
 - [Lerna](https://lerna.js.org/)
 - [Size Limit](https://github.com/ai/size-limit)
