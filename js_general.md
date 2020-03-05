@@ -931,6 +931,7 @@
 
 ### Hooks
 
+- [3 Rules of React State Management](https://dmitripavlutin.com/react-state-management/)
 - [Advanced memoization and effects in React](https://gist.github.com/slikts/fd3768de1493419ed9506002b452fcdc)
 - [How to handle async side effects in 2019](https://blog.logrocket.com/how-to-handle-async-side-effects-in-2019/)
 - [Don't Sync State. Derive It!](https://kentcdodds.com/blog/dont-sync-state-derive-it/)
