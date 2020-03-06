@@ -131,6 +131,8 @@
 
 ## General
 
+- [Introducing Alpine.js: A Tiny JavaScript Framework](https://www.smashingmagazine.com/2020/03/introduction-alpinejs-javascript-framework/)
+- [Lazyload images the browser way](https://itsopensource.com/lazyload-images-the-browser-way/)
 - [Managing Cyclomatic Complexity](https://kyleshevlin.com/managing-cyclomatic-complexity)
 - [Stop using isLoading booleans](https://kentcdodds.com/blog/stop-using-isloading-booleans)
 - [Angular vs React vs Vue: Which Is the Best Choice for 2020?](https://levelup.gitconnected.com/angular-vs-react-vs-vue-which-is-the-best-choice-for-2020-81f577697c7e)
@@ -277,7 +279,7 @@
 
 ## Micro frontends
 
-- [Micro Frontends](https://martinfowler.com/articles/micro-frontends.html#InANutshell)
+- [Micro Frontends](https://martinfowler.com/articles/micro-frontends.html)
 - [Micro Frontends](https://micro-frontends.org/)
 - [Micro Frontends Made Easy](https://medium.com/javascript-in-plain-english/micro-frontends-made-easy-e49acceea536)
 - [Six Patterns for Microfrontends](https://dev.to/florianrappl/microfrontends-from-zero-to-hero-3be7)
@@ -489,6 +491,14 @@
 
 ## Functional Programming (FP)
 
+- Functional Programming for JavaScript Developers
+  [Immutability and Pure Functions](https://levelup.gitconnected.com/functional-programming-for-javascript-developers-669c3db705f0)
+  [Currying](https://levelup.gitconnected.com/functional-programming-for-javascript-developers-currying-2d16766909e9)
+  [Compose](https://levelup.gitconnected.com/functional-programming-for-javascript-developers-compose-508d71b4e7b8)
+  [Map](https://levelup.gitconnected.com/functional-programming-for-javascript-developers-map-3627494cb5a6)
+  [Safe Containers in JavaScript](https://levelup.gitconnected.com/safe-containers-in-javascript-functional-programming-for-javascript-developers-67a32838e9d9)
+  [Type Signatures](https://levelup.gitconnected.com/type-signatures-functional-programming-for-javascript-developers-28ea03dc1192)
+  [Introduction to Algebraic Structures](https://levelup.gitconnected.com/introduction-to-algebraic-structures-functional-programming-for-javascript-developers-cdd627943a4d)
 - [kongware/scriptum](https://github.com/kongware/scriptum)
 - [Promise Lifting: A new async coding technique](https://blog.bitsrc.io/out-with-async-await-and-in-with-promise-lifting-c42882a474fd)
 - [What's Happening With the Pipeline (|>) Proposal?](https://babeljs.io/blog/2018/07/19/whats-happening-with-the-pipeline-proposal?utm_source=ESnextNews.com&utm_medium=Weekly+Newsletter&utm_campaign=2019-02-05)
@@ -1032,6 +1042,7 @@
 
 ### Related
 
+- [Alpine.js](https://github.com/alpinejs/alpine)
 - [dai-shi/react-hooks-async](https://github.com/dai-shi/react-hooks-async)
 - [Proton Native](https://github.com/kusti8/proton-native)
 - [React/Redux Links](https://github.com/markerikson/react-redux-links)
@@ -1231,6 +1242,7 @@
 
 ### Related Libs
 
+- [Stryker](https://stryker-mutator.io/) [mutation testing][mutant]
 - [Axe](https://www.deque.com/axe/)
 - [Baretest](https://volument.com/baretest)
 - [Puppetry](https://puppetry.app/)
