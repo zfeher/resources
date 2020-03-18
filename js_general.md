@@ -131,6 +131,7 @@
 
 ## General
 
+- [Modern browser APIs to use today](https://blog.logrocket.com/modern-browser-apis-to-use-today/)
 - [Introducing Alpine.js: A Tiny JavaScript Framework](https://www.smashingmagazine.com/2020/03/introduction-alpinejs-javascript-framework/)
 - [Lazyload images the browser way](https://itsopensource.com/lazyload-images-the-browser-way/)
 - [Managing Cyclomatic Complexity](https://kyleshevlin.com/managing-cyclomatic-complexity)
@@ -1201,6 +1202,7 @@
 
 ## Testing
 
+- [Generated tests with XState and Cypress](https://timdeschryver.dev/blog/generated-tests-with-xstate-and-cypress)
 - [Setting up Cypress with axe for accessibility](https://timdeschryver.dev/blog/setting-up-cypress-with-axe-for-accessibility)
 - [Write fewer, longer tests](https://kentcdodds.com/blog/write-fewer-longer-tests)
 - [Await, do not make your E2E tests sleep](https://itnext.io/await-do-not-sleep-your-e2e-tests-df67e051b409)[e2e][cypress]
