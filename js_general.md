@@ -706,6 +706,7 @@
 
 ### Related
 
+- [ts-toolbelt](https://pirix-gh.github.io/ts-toolbelt/index.html)
 - [transitive-bullshit/functional-typescript](https://github.com/transitive-bullshit/functional-typescript)
 - [TypeWiz](https://github.com/urish/typewiz)
 
