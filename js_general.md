@@ -608,7 +608,7 @@
 
 ## CSP/Processes/Channels/Transducers
 
-- [Understanding Transducers in JavaScript](https://medium.com/@roman01la/understanding-transducers-in-javascript-3500d3bd9624)
+- [Understanding Transducers in JavaScript](https://web.archive.org/web/20190316032907/https://medium.com/@roman01la/understanding-transducers-in-javascript-3500d3bd9624)
 - [Introduction into Channels and Transducers in JavaScript](https://medium.com/javascript-inside/introduction-into-channels-and-transducers-in-javascript-a1dfd0a09268#.nlio69t20) [transducer]
 - [Generators and Channels in JavaScript](https://medium.com/javascript-inside/generators-and-channels-in-javascript-594f2cf9c16e#.v2nj7s1fs) [generator][promise][react]
 - [Taming the Asynchronous Beast with CSP Channels in JavaScript](http://jlongster.com/Taming-the-Asynchronous-Beast-with-CSP-in-JavaScript)
