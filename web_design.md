@@ -32,6 +32,7 @@
 
 ## CSS
 
+- [Intrinsic Sizing In CSS](https://ishadeed.com/article/intrinsic-sizing-in-css/)
 - [The most in-demand CSS technologies in 2020](https://blog.logrocket.com/the-most-in-demand-css-technologies-in-2020/)
 - [What are CSS Modules and why do we need them?](https://css-tricks.com/css-modules-part-1-need/), [part 2](https://css-tricks.com/css-modules-part-2-getting-started/), [part 3](https://css-tricks.com/css-modules-part-3-react/)
 - [Themify your app with Custom Properties](https://dev.to/bpetetot/themify-your-app-with-custom-properties-2kke)

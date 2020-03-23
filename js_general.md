@@ -131,6 +131,8 @@
 
 ## General
 
+- [Javascript Proxies : Real World Use Cases](https://www.arbazsiddiqui.me/javascript-proxies-real-world-use-cases/)
+- [Debounce vs Throttle: Definitive Visual Guide](https://redd.one/blog/debounce-vs-throttle)
 - [Modern browser APIs to use today](https://blog.logrocket.com/modern-browser-apis-to-use-today/)
 - [Introducing Alpine.js: A Tiny JavaScript Framework](https://www.smashingmagazine.com/2020/03/introduction-alpinejs-javascript-framework/)
 - [Lazyload images the browser way](https://itsopensource.com/lazyload-images-the-browser-way/)
@@ -285,6 +287,7 @@
 - [Micro Frontends Made Easy](https://medium.com/javascript-in-plain-english/micro-frontends-made-easy-e49acceea536)
 - [Six Patterns for Microfrontends](https://dev.to/florianrappl/microfrontends-from-zero-to-hero-3be7)
 - [Sharing Dependencies in Micro Frontends](https://blog.bitsrc.io/sharing-dependencies-in-micro-frontends-9da142296a2b)
+- [Quick Front-End Integrations Through Components](https://blog.bitsrc.io/quick-front-end-integrations-through-components-739625e7069d)[bit]
 
 - [5 Reasons for Doing Microfrontends](https://dev.to/florianrappl/5-reasons-for-doing-microfrontends-1mba)
 - [Story behind Micro Frontends in Sabre](https://medium.com/@elastofragmentoplast/story-behind-micro-frontends-in-sabre-9c776861433d)
@@ -975,6 +978,7 @@
 
 ### General
 
+- [Secrets of JavaScript: A tale of React, Performance Optimization and Multi-threading](https://levelup.gitconnected.com/secrets-of-javascript-a-tale-of-react-performance-optimization-and-multi-threading-9409332d349f)[performance]
 - [React TypeScript: Basics and Best Practices](https://blog.bitsrc.io/react-typescript-cheetsheet-2b6fa2cecfe2)
 - [React context vs Redux in 2020](https://gist.github.com/slikts/57ff1acdb6f5b2ea075b701d1daf896d)
 - [Understanding JavaScript Pass By Value](https://www.javascripttutorial.net/javascript-pass-by-value/)
@@ -1154,6 +1158,7 @@
 
 ## Networking
 
+- [Introducing Gretchen: Making Fetch Happen in TypeScript](https://www.truework.com/blog/engineering/2020-03-04-introducing-gretchen/)
 - [Using Fetch](https://css-tricks.com/using-fetch/)
 - [Why I won’t be using Fetch API in my apps](https://medium.com/@shahata/why-i-wont-be-using-fetch-api-in-my-apps-6900e6c6fe78#.dbibpakjz) [axios]
 
@@ -1245,6 +1250,7 @@
 
 ### Related Libs
 
+- [QA Wolf](https://www.qawolf.com/)
 - [Stryker](https://stryker-mutator.io/) [mutation testing][mutant]
 - [Axe](https://www.deque.com/axe/)
 - [Baretest](https://volument.com/baretest)
