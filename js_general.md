@@ -496,6 +496,7 @@
 
 ## Functional Programming (FP)
 
+- [Lambda Calculus - Computerphile](https://www.youtube.com/watch?v=eis11j_iGMs)
 - [An introduction to Lambda Calculus, explained through JavaScript](http://willtaylor.blog/an-introduction-to-lambda-calculus-explained-through-javascript/)
 - Functional Programming for JavaScript Developers
   [Immutability and Pure Functions](https://levelup.gitconnected.com/functional-programming-for-javascript-developers-669c3db705f0)
