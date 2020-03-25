@@ -424,6 +424,7 @@
 
 ## Security / Payment
 
+- [CS 253 Web Security](https://web.stanford.edu/class/cs253/)[course]
 - [Tracking Users with CSS](https://www.templarbit.com/blog/2018/03/20/tracking-users-with-css/?fbclid=IwAR2-PiovK79aCzZj6AarPr46uvURp7wNo66ouQba0-mp-k6Uau9R9Stm38s)
 - [Defensive JavaScript](https://www.javascriptjanuary.com/blog/defensive-javascript)
 - [Pros and cons in using JWT (JSON Web Tokens)](https://www.codementor.io/rahulgolwalkar/pros-and-cons-in-using-jwt-json-web-tokens-ikc2e3y12)
@@ -495,6 +496,7 @@
 
 ## Functional Programming (FP)
 
+- [An introduction to Lambda Calculus, explained through JavaScript](http://willtaylor.blog/an-introduction-to-lambda-calculus-explained-through-javascript/)
 - Functional Programming for JavaScript Developers
   [Immutability and Pure Functions](https://levelup.gitconnected.com/functional-programming-for-javascript-developers-669c3db705f0)
   [Currying](https://levelup.gitconnected.com/functional-programming-for-javascript-developers-currying-2d16766909e9)
