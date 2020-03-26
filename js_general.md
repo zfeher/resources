@@ -288,6 +288,7 @@
 - [Six Patterns for Microfrontends](https://dev.to/florianrappl/microfrontends-from-zero-to-hero-3be7)
 - [Sharing Dependencies in Micro Frontends](https://blog.bitsrc.io/sharing-dependencies-in-micro-frontends-9da142296a2b)
 - [Quick Front-End Integrations Through Components](https://blog.bitsrc.io/quick-front-end-integrations-through-components-739625e7069d)[bit]
+- [Yoav Yanovski - Micro Frontends: Composing a Greater Whole - Vue.js Amsterdam 2020](https://www.youtube.com/watch?v=VoeGjJ57XgI&list=PLCxzy-hmQq9FnnpckFDeDtbpsUqxdheQn&index=27)
 
 - [5 Reasons for Doing Microfrontends](https://dev.to/florianrappl/5-reasons-for-doing-microfrontends-1mba)
 - [Story behind Micro Frontends in Sabre](https://medium.com/@elastofragmentoplast/story-behind-micro-frontends-in-sabre-9c776861433d)
