@@ -99,6 +99,7 @@
 
 ## Exercises
 
+- [Solving the Josephus problem in JavaScript](https://medium.com/javascript-in-plain-english/solving-the-josephus-problem-in-javascript-35325d7f74a5)
 - [Implementing The Sieve Of Eratosthenes in JavaScript](https://benmccormick.org/2017/11/28/sieveoferatosthenes/)[prime]
 
 ## Interview
@@ -131,6 +132,9 @@
 
 ## General
 
+- [how to manage HTML DOM](https://htmldom.dev/)[native api]
+- [How to Cancel a Fetch Request](https://davidwalsh.name/cancel-fetch)[fetch][abortcontroller][AbortSignal]
+- [Abortable fetch](https://developers.google.com/web/updates/2017/09/abortable-fetch)[AbortController][abortsignal]
 - [Javascript Proxies : Real World Use Cases](https://www.arbazsiddiqui.me/javascript-proxies-real-world-use-cases/)
 - [Debounce vs Throttle: Definitive Visual Guide](https://redd.one/blog/debounce-vs-throttle)
 - [Modern browser APIs to use today](https://blog.logrocket.com/modern-browser-apis-to-use-today/)
@@ -1212,6 +1216,7 @@
 
 ## Testing
 
+- [Behavior Driven Development (BDD) and Functional Testing](https://medium.com/javascript-scene/behavior-driven-development-bdd-and-functional-testing-62084ad7f1f2)[BDD][tdd]
 - [Generated tests with XState and Cypress](https://timdeschryver.dev/blog/generated-tests-with-xstate-and-cypress)
 - [Setting up Cypress with axe for accessibility](https://timdeschryver.dev/blog/setting-up-cypress-with-axe-for-accessibility)
 - [Write fewer, longer tests](https://kentcdodds.com/blog/write-fewer-longer-tests)
