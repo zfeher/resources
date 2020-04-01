@@ -104,6 +104,7 @@
 
 ## Interview
 
+- [Top CSS Interview Questions and Answers](https://codersera.com/blog/top-css-interview-questions-and-answers/)
 - [47 behavioral interview questions and tips to nail your onsite](https://www.pathrise.com/guides/45-behavioral-interview-questions/)
 - [7 Simple but Tricky JavaScript Interview Questions](https://dmitripavlutin.com/simple-but-tricky-javascript-interview-questions/)
 - [TypeOfNaN JavaScript Quizzes](https://quiz.typeofnan.dev/)
@@ -787,9 +788,9 @@
 - [Code Splitting With Vue.js And Webpack](https://medium.com/js-dojo/code-splitting-with-vue-js-and-webpack-c9830b29d557)[webpack][code splitting][async component]
 - [Lazy loading in Vue using Webpack's code splitting](https://alexjoverm.github.io/2017/07/16/Lazy-load-in-Vue-using-Webpack-s-code-splitting/?utm_source=weekendjs&utm_medium=email&utm_campaign=issue)
 - [3 Code Splitting Patterns For VueJS and Webpack](http://vuejsdevelopers.com/2017/07/08/vue-js-3-ways-code-splitting-webpack/)[code splitting]
+- [Dynamic imports + common chunks](https://github.com/webpack/webpack/issues/4392)
 
-  - [Dynamic imports + common chunks](https://github.com/webpack/webpack/issues/4392)
-
+- [Clean, Scalable Forms with Vue Composition API](https://vuejsdevelopers.com/2020/03/31/vue-js-form-composition-api/)[validation][composition]
 - [Extending Vue Component Templates](https://vuejsdevelopers.com/2017/06/11/vue-js-extending-components/)
 - [Top 10 Vue JS Books You Should Read](https://vuejsexamples.com/top-10-vue-js-books-you-should-read/)
 - [Vue Testing Crash Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl)
@@ -1166,6 +1167,7 @@
 
 ## Networking
 
+- [Replace axios with a simple custom fetch wrapper](https://kentcdodds.com/blog/replace-axios-with-a-simple-custom-fetch-wrapper)
 - [Introducing Gretchen: Making Fetch Happen in TypeScript](https://www.truework.com/blog/engineering/2020-03-04-introducing-gretchen/)
 - [Using Fetch](https://css-tricks.com/using-fetch/)
 - [Why I won’t be using Fetch API in my apps](https://medium.com/@shahata/why-i-wont-be-using-fetch-api-in-my-apps-6900e6c6fe78#.dbibpakjz) [axios]
