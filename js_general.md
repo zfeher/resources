@@ -104,6 +104,8 @@
 
 ## Interview
 
+- [JavaScript Interview Questions — Objects](https://medium.com/javascript-in-plain-english/javascript-interview-questions-objects-e380395dffff)
+- [Airbnb Coding Interview Questions](https://medium.com/javascript-in-plain-english/airbnb-coding-interview-questions-4818501a7c80)
 - [Top CSS Interview Questions and Answers](https://codersera.com/blog/top-css-interview-questions-and-answers/)
 - [47 behavioral interview questions and tips to nail your onsite](https://www.pathrise.com/guides/45-behavioral-interview-questions/)
 - [7 Simple but Tricky JavaScript Interview Questions](https://dmitripavlutin.com/simple-but-tricky-javascript-interview-questions/)
@@ -430,6 +432,7 @@
 
 ## Security / Payment
 
+- [Passwords are Obsolete — How to Secure Your App and Protect Your Users](https://medium.com/javascript-scene/passwords-are-obsolete-how-to-secure-your-app-and-protect-your-users-1cd6c7b7c3bc)
 - [CS 253 Web Security](https://web.stanford.edu/class/cs253/)[course]
 - [Tracking Users with CSS](https://www.templarbit.com/blog/2018/03/20/tracking-users-with-css/?fbclid=IwAR2-PiovK79aCzZj6AarPr46uvURp7wNo66ouQba0-mp-k6Uau9R9Stm38s)
 - [Defensive JavaScript](https://www.javascriptjanuary.com/blog/defensive-javascript)
@@ -452,6 +455,7 @@
 
 ### Related
 
+- [MagicLink](https://docs.magic.link/)
 - [mkcert: valid HTTPS certificates for localhost](https://blog.filippo.io/mkcert-valid-https-certificates-for-localhost/)
 
 ## Keyboard
