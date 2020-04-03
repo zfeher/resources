@@ -325,6 +325,10 @@
 - [h-include.js](https://gustafnk.github.io/h-include/)
 - [hinclude.js](http://mnot.github.io/hinclude/)
 
+## Content / CMS
+
+- [Why E-Commerce and CMS Should Be Separated](https://snipcart.com/blog/why-e-commerce-and-cms-should-be-separated)
+
 ## Analytics
 
 - [The Google Analytics Setup I Use on Every Site I Build](https://philipwalton.com/articles/the-google-analytics-setup-i-use-on-every-site-i-build/?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=revue)
@@ -506,6 +510,7 @@
 
 ## Functional Programming (FP)
 
+- [How to not create your RxJS observables](https://timdeschryver.dev/blog/how-to-not-create-your-rxjs-observables)[rxjs]
 - [Lambda Calculus - Computerphile](https://www.youtube.com/watch?v=eis11j_iGMs)
 - [An introduction to Lambda Calculus, explained through JavaScript](http://willtaylor.blog/an-introduction-to-lambda-calculus-explained-through-javascript/)
 - Functional Programming for JavaScript Developers
@@ -679,6 +684,7 @@
 
 ## Typescript
 
+- [The Omit Helper Type in TypeScript](https://mariusschulz.com/blog/the-omit-helper-type-in-typescript)
 - [More advanced types with TypeScript generics](https://wanago.io/2020/02/24/more-advanced-types-with-typescript-generics/)
 - [Typescript Generics Discussing Naming Conventions](https://wanago.io/2020/02/17/typescript-generics-discussing-naming-conventions/)
 - [Types for classes in TypeScript](https://2ality.com/2020/02/types-for-classes-typescript.html)
@@ -794,6 +800,7 @@
 - [3 Code Splitting Patterns For VueJS and Webpack](http://vuejsdevelopers.com/2017/07/08/vue-js-3-ways-code-splitting-webpack/)[code splitting]
 - [Dynamic imports + common chunks](https://github.com/webpack/webpack/issues/4392)
 
+- [Vue Async Components: Props and Testing](https://itnext.io/vue-async-components-props-and-testing-cbcb1e5f89a5)
 - [Clean, Scalable Forms with Vue Composition API](https://vuejsdevelopers.com/2020/03/31/vue-js-form-composition-api/)[validation][composition]
 - [Extending Vue Component Templates](https://vuejsdevelopers.com/2017/06/11/vue-js-extending-components/)
 - [Top 10 Vue JS Books You Should Read](https://vuejsexamples.com/top-10-vue-js-books-you-should-read/)
@@ -1222,6 +1229,7 @@
 
 ## Testing
 
+- [Testing a Virtual List component with Cypress and Storybook](https://dev.to/noriste/testing-a-virtual-list-component-with-cypress-and-storybook-3lam)
 - [Behavior Driven Development (BDD) and Functional Testing](https://medium.com/javascript-scene/behavior-driven-development-bdd-and-functional-testing-62084ad7f1f2)[BDD][tdd]
 - [Generated tests with XState and Cypress](https://timdeschryver.dev/blog/generated-tests-with-xstate-and-cypress)
 - [Setting up Cypress with axe for accessibility](https://timdeschryver.dev/blog/setting-up-cypress-with-axe-for-accessibility)
@@ -1325,6 +1333,7 @@
 
 ## Module loader/Module Bundler/Task Runner, CI, Build
 
+- [Fast JavaScript bundling with esbuild](https://blog.logrocket.com/fast-javascript-bundling-with-esbuild/)
 - [Webpack 5 Module Federation: A game-changer in JavaScript architecture](https://medium.com/javascript-in-plain-english/webpack-5-module-federation-a-game-changer-to-javascript-architecture-bcdd30e02669)
 - [Rome, a new JavaScript Toolchain](https://jasonformat.com/rome-javascript-toolchain/)
 - [Webpack: Reusing Module in Multiple Entries](https://medium.com/front-end-weekly/webpack-reusing-module-in-multiple-entries-c9b3dae0ebbc)[webpack]
@@ -1377,6 +1386,7 @@
 
 ### Related Libs
 
+- [esbuild](https://github.com/evanw/esbuild)
 - [Rome](https://github.com/facebookexperimental/rome)
 - [pikapkg/pack](https://github.com/pikapkg/pack)
 - [BundlePhobia](https://bundlephobia.com)
