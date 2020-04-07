@@ -263,6 +263,8 @@
 
 ### Related
 
+- [licia](https://github.com/liriliri/licia)
+- [luruke/browser-2020](https://github.com/luruke/browser-2020)
 - [klona](https://github.com/lukeed/klona)[deep clone][clone]
 - [humanwhocodes/computer-science-in-javascript](https://github.com/humanwhocodes/computer-science-in-javascript)
 - [haiku.ai/](https://www.haiku.ai/)
@@ -286,6 +288,10 @@
 - [js-joda](https://github.com/js-joda/js-joda?utm_source=ESnextNews.com&utm_medium=Weekly+Newsletter&utm_campaign=2017-06-13)
 - [Collections.js](http://www.collectionsjs.com)
 - [Moment.js](https://momentjs.com)
+
+## Architecture
+
+- [Architecture Spotlight: Event Sourcing](https://www.sitepen.com/blog/architecture-spotlight-event-sourcing/)
 
 ## Micro frontends
 
@@ -348,10 +354,11 @@
 
 ## Performance, memory
 
+- [Accurately measuring layout on the web](https://nolanlawson.com/2018/09/25/accurately-measuring-layout-on-the-web/)
 - [Is postMessage slow?](https://dassur.ma/things/is-postmessage-slow/)[web worker]
 - [Front-End Performance Checklist 2019 (PDF, Apple Pages, MS Word)](https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/)
 - [Taming huge collections of DOM nodes](https://codeburst.io/taming-huge-collections-of-dom-nodes-bebafdba332)
-- [17 JavaScript / node.js performance coding tips to make applications faster ](http://voidcanvas.com/javascript-performant-coding-tips/)
+- [17 JavaScript / node.js performance coding tips to make applications faster](http://voidcanvas.com/javascript-performant-coding-tips/)
 - [Isolating memory leaks with Chrome’s Allocation Timeline](https://blog.logrocket.com/isolating-memory-leaks-with-chromes-allocation-timeline-244fa9c48e8e)
 - [How JavaScript works: memory management + how to handle 4 common memory leaks](https://blog.sessionstack.com/how-javascript-works-memory-management-how-to-handle-4-common-memory-leaks-3f28b94cfbec)
 - [The Critical Request](https://css-tricks.com/the-critical-request/)
@@ -436,6 +443,7 @@
 
 ## Security / Payment
 
+- [Authentication & Authorization in Web Apps](https://blog.jscrambler.com/authentication-authorization-in-web-apps/)
 - [Passwords are Obsolete — How to Secure Your App and Protect Your Users](https://medium.com/javascript-scene/passwords-are-obsolete-how-to-secure-your-app-and-protect-your-users-1cd6c7b7c3bc)
 - [CS 253 Web Security](https://web.stanford.edu/class/cs253/)[course]
 - [Tracking Users with CSS](https://www.templarbit.com/blog/2018/03/20/tracking-users-with-css/?fbclid=IwAR2-PiovK79aCzZj6AarPr46uvURp7wNo66ouQba0-mp-k6Uau9R9Stm38s)
@@ -998,6 +1006,7 @@
 
 ### General
 
+- [The future of Reach Router and React Router](https://blog.logrocket.com/future-reach-router-react-router/)
 - [Secrets of JavaScript: A tale of React, Performance Optimization and Multi-threading](https://levelup.gitconnected.com/secrets-of-javascript-a-tale-of-react-performance-optimization-and-multi-threading-9409332d349f)[performance]
 - [React TypeScript: Basics and Best Practices](https://blog.bitsrc.io/react-typescript-cheetsheet-2b6fa2cecfe2)
 - [React context vs Redux in 2020](https://gist.github.com/slikts/57ff1acdb6f5b2ea075b701d1daf896d)
