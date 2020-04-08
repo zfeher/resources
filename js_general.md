@@ -911,9 +911,12 @@
 
 ### Related
 
+- [composition-api](https://github.com/vuejs/composition-api)
+- [VueUse](https://vueuse.js.org)[composition]
+- [vue-composable](https://pikax.me/vue-composable)[composition]
+- [awesome-vue-composition-api](https://github.com/kefranabg/awesome-vue-composition-api)
 - [Vue Watch](https://vuewatch.com/)
 - [y-nk/vue-fragment](https://github.com/y-nk/vue-fragment)
-- [awesome-vue-composition-api](https://github.com/kefranabg/awesome-vue-composition-api)
 - [chenquincy/vue-dynamic-form-component](https://github.com/chenquincy/vue-dynamic-form-component)
 - [vue-function-api](https://github.com/vuejs/vue-function-api)
 - [vue-observe-visibility](https://github.com/Akryum/vue-observe-visibility)[intersection observer]
