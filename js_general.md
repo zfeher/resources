@@ -263,6 +263,13 @@
 
 ### Related
 
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+- [app-ideas](https://github.com/florinpop17/app-ideas)
+- [project-guideline](https://github.com/elsewhencode/project-guidelines)
+- [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+- [awesome-learning-resources](https://github.com/lauragift21/awesome-learning-resources)
 - [licia](https://github.com/liriliri/licia)
 - [luruke/browser-2020](https://github.com/luruke/browser-2020)
 - [klona](https://github.com/lukeed/klona)[deep clone][clone]
@@ -315,6 +322,7 @@
 
 ### Related
 
+- [awesome-microfrontends](https://github.com/ChristianUlbrich/awesome-microfrontends)
 - [Piral](https://piral.io/)
 - [Luigi](https://luigi-project.io/)
 - [Open Components](https://opencomponents.github.io/)
@@ -692,6 +700,8 @@
 
 ## Typescript
 
+- [Types for classes as values in TypeScript](https://2ality.com/2020/04/classes-as-values-typescript.html)
+- [Augmenting Interfaces in the Global Scope in TypeScript](https://mariusschulz.com/blog/augmenting-interfaces-in-the-global-scope-in-typescript)
 - [The Omit Helper Type in TypeScript](https://mariusschulz.com/blog/the-omit-helper-type-in-typescript)
 - [More advanced types with TypeScript generics](https://wanago.io/2020/02/24/more-advanced-types-with-typescript-generics/)
 - [Typescript Generics Discussing Naming Conventions](https://wanago.io/2020/02/17/typescript-generics-discussing-naming-conventions/)
@@ -808,6 +818,7 @@
 - [3 Code Splitting Patterns For VueJS and Webpack](http://vuejsdevelopers.com/2017/07/08/vue-js-3-ways-code-splitting-webpack/)[code splitting]
 - [Dynamic imports + common chunks](https://github.com/webpack/webpack/issues/4392)
 
+- [How the Vue Composition API Replaces Vue Mixins ](https://css-tricks.com/how-the-vue-composition-api-replaces-vue-mixins/)
 - [Vue Async Components: Props and Testing](https://itnext.io/vue-async-components-props-and-testing-cbcb1e5f89a5)
 - [Clean, Scalable Forms with Vue Composition API](https://vuejsdevelopers.com/2020/03/31/vue-js-form-composition-api/)[validation][composition]
 - [Extending Vue Component Templates](https://vuejsdevelopers.com/2017/06/11/vue-js-extending-components/)
