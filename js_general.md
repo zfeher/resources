@@ -279,7 +279,6 @@
 - [docusaurus.io/](https://docusaurus.io/)
 - [gruns/ImmortalDB](https://github.com/gruns/ImmortalDB)[cookie][localstorage][sessionstorage][indexeddb]
 - [github/hotkey](https://github.com/github/hotkey)
-- [omniclone](https://github.com/jfet97/omniclone)
 - [Awaity.js](https://github.com/asfktz/Awaity.js)
 - [Nothing](https://github.com/slmgc/Nothing)[maybe like]
 - [HotKeys.js](http://wangchujiang.com/hotkeys/)
@@ -304,12 +303,12 @@
 
 - [Micro Frontends](https://martinfowler.com/articles/micro-frontends.html)
 - [Micro Frontends](https://micro-frontends.org/)
-- [Micro Frontends Made Easy](https://medium.com/javascript-in-plain-english/micro-frontends-made-easy-e49acceea536)
 - [Six Patterns for Microfrontends](https://dev.to/florianrappl/microfrontends-from-zero-to-hero-3be7)
 - [Sharing Dependencies in Micro Frontends](https://blog.bitsrc.io/sharing-dependencies-in-micro-frontends-9da142296a2b)
 - [Quick Front-End Integrations Through Components](https://blog.bitsrc.io/quick-front-end-integrations-through-components-739625e7069d)[bit]
 - [Yoav Yanovski - Micro Frontends: Composing a Greater Whole - Vue.js Amsterdam 2020](https://www.youtube.com/watch?v=VoeGjJ57XgI&list=PLCxzy-hmQq9FnnpckFDeDtbpsUqxdheQn&index=27)
 
+- [Micro Frontends Made Easy](https://medium.com/javascript-in-plain-english/micro-frontends-made-easy-e49acceea536)
 - [5 Reasons for Doing Microfrontends](https://dev.to/florianrappl/5-reasons-for-doing-microfrontends-1mba)
 - [Story behind Micro Frontends in Sabre](https://medium.com/@elastofragmentoplast/story-behind-micro-frontends-in-sabre-9c776861433d)
 - [Understanding Micro Frontends](https://hackernoon.com/understanding-micro-frontends-b1c11585a297)
