@@ -304,10 +304,12 @@
 - [Micro Frontends](https://martinfowler.com/articles/micro-frontends.html)
 - [Micro Frontends](https://micro-frontends.org/)
 - [Six Patterns for Microfrontends](https://dev.to/florianrappl/microfrontends-from-zero-to-hero-3be7)
+- [Building Microfrontends with React](https://blog.bitsrc.io/building-react-microfrontends-using-piral-c26eb206310e)[Piral]
 - [Sharing Dependencies in Micro Frontends](https://blog.bitsrc.io/sharing-dependencies-in-micro-frontends-9da142296a2b)
 - [Quick Front-End Integrations Through Components](https://blog.bitsrc.io/quick-front-end-integrations-through-components-739625e7069d)[bit]
 - [Yoav Yanovski - Micro Frontends: Composing a Greater Whole - Vue.js Amsterdam 2020](https://www.youtube.com/watch?v=VoeGjJ57XgI&list=PLCxzy-hmQq9FnnpckFDeDtbpsUqxdheQn&index=27)
 
+- [Microfrontends based on React](https://dev.to/florianrappl/microfrontends-based-on-react-4oo9)
 - [Micro Frontends Made Easy](https://medium.com/javascript-in-plain-english/micro-frontends-made-easy-e49acceea536)
 - [5 Reasons for Doing Microfrontends](https://dev.to/florianrappl/5-reasons-for-doing-microfrontends-1mba)
 - [Story behind Micro Frontends in Sabre](https://medium.com/@elastofragmentoplast/story-behind-micro-frontends-in-sabre-9c776861433d)
@@ -817,7 +819,8 @@
 - [3 Code Splitting Patterns For VueJS and Webpack](http://vuejsdevelopers.com/2017/07/08/vue-js-3-ways-code-splitting-webpack/)[code splitting]
 - [Dynamic imports + common chunks](https://github.com/webpack/webpack/issues/4392)
 
-- [How the Vue Composition API Replaces Vue Mixins ](https://css-tricks.com/how-the-vue-composition-api-replaces-vue-mixins/)
+- [Naming Webpack Chunks on Lazy Loaded Routes in Vue.js](https://vuedose.tips/tips/naming-webpack-chunks-on-lazy-loaded-routes-in-vuejs/)
+- [How the Vue Composition API Replaces Vue Mixins](https://css-tricks.com/how-the-vue-composition-api-replaces-vue-mixins/)
 - [Vue Async Components: Props and Testing](https://itnext.io/vue-async-components-props-and-testing-cbcb1e5f89a5)
 - [Clean, Scalable Forms with Vue Composition API](https://vuejsdevelopers.com/2020/03/31/vue-js-form-composition-api/)[validation][composition]
 - [Extending Vue Component Templates](https://vuejsdevelopers.com/2017/06/11/vue-js-extending-components/)
@@ -921,6 +924,7 @@
 
 ### Related
 
+- [u3u/vue-hooks](https://github.com/u3u/vue-hooks)
 - [composition-api](https://github.com/vuejs/composition-api)
 - [VueUse](https://vueuse.js.org)[composition]
 - [vue-composable](https://pikax.me/vue-composable)[composition]
