@@ -820,6 +820,8 @@
 - [3 Code Splitting Patterns For VueJS and Webpack](http://vuejsdevelopers.com/2017/07/08/vue-js-3-ways-code-splitting-webpack/)[code splitting]
 - [Dynamic imports + common chunks](https://github.com/webpack/webpack/issues/4392)
 
+- [Turning Vue components into reusable npm packages](https://www.voorhoede.nl/en/blog/turning-vue-components-into-reusable-npm-packages/)
+- [Vue 3 Infinite Scroll with the Composition API](https://whatthecode.dev/vue-3-infinite-scroll-composition-api/)
 - [Naming Webpack Chunks on Lazy Loaded Routes in Vue.js](https://vuedose.tips/tips/naming-webpack-chunks-on-lazy-loaded-routes-in-vuejs/)
 - [How the Vue Composition API Replaces Vue Mixins](https://css-tricks.com/how-the-vue-composition-api-replaces-vue-mixins/)
 - [Vue Async Components: Props and Testing](https://itnext.io/vue-async-components-props-and-testing-cbcb1e5f89a5)
@@ -1235,6 +1237,7 @@
 
 ## Animation
 
+- [Comparing JavaScript animation libraries](https://blog.logrocket.com/comparing-javascript-animation-libraries/)
 - [How to Use the Animation Inspector in Chrome DevTools](https://webdesign.tutsplus.com/articles/quick-tip-chrome-animation-dev-tools--cms-31505)
 - [Your WebGL aiders](https://areknawo.com/your-webgl-aiders/)
 - [Toggling Animations On and Off](https://www.kirupa.com/html5/toggling_animations_on_off.htm)[tutorial]
