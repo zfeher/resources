@@ -1363,8 +1363,9 @@
 
 ## Module loader/Module Bundler/Task Runner, CI, Build
 
-- [Fast JavaScript bundling with esbuild](https://blog.logrocket.com/fast-javascript-bundling-with-esbuild/)
+- [Webpack 5 Module Federation — Stitching two simple bundles together](https://medium.com/swlh/webpack-5-module-federation-stitching-two-simple-bundles-together-fe4e6a069716)
 - [Webpack 5 Module Federation: A game-changer in JavaScript architecture](https://medium.com/@ScriptedAlchemy/webpack-5-module-federation-a-game-changer-to-javascript-architecture-bcdd30e02669)
+- [Fast JavaScript bundling with esbuild](https://blog.logrocket.com/fast-javascript-bundling-with-esbuild/)
 - [Rome, a new JavaScript Toolchain](https://jasonformat.com/rome-javascript-toolchain/)
 - [Webpack: Reusing Module in Multiple Entries](https://medium.com/front-end-weekly/webpack-reusing-module-in-multiple-entries-c9b3dae0ebbc)[webpack]
 - [Enable source-map on production?](https://medium.com/@sujankanwar/enable-source-map-on-production-f2f53c5f4345)
