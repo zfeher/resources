@@ -21,7 +21,8 @@
 
 ## Books
 
-- [ leonardomso/33-js-concepts ](https://github.com/leonardomso/33-js-concepts)
+- [7 Essential Books For Web Developers](https://levelup.gitconnected.com/7-essential-books-for-web-developers-9daa401ffbc7)
+- [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts)
 - [The Twelve-Factor App](https://12factor.net/)[architecture]
 - [The Offline Cookbook](https://developers.google.com/web/fundamentals/instant-and-offline/offline-cookbook/)
 - [Exploring ES2018 and ES2019](http://exploringjs.com/es2018-es2019/)
@@ -820,6 +821,7 @@
 - [3 Code Splitting Patterns For VueJS and Webpack](http://vuejsdevelopers.com/2017/07/08/vue-js-3-ways-code-splitting-webpack/)[code splitting]
 - [Dynamic imports + common chunks](https://github.com/webpack/webpack/issues/4392)
 
+- [State Management with Composition API](https://vueschool.io/articles/vuejs-tutorials/state-management-with-composition-api/)
 - [Turning Vue components into reusable npm packages](https://www.voorhoede.nl/en/blog/turning-vue-components-into-reusable-npm-packages/)
 - [Vue 3 Infinite Scroll with the Composition API](https://whatthecode.dev/vue-3-infinite-scroll-composition-api/)
 - [Naming Webpack Chunks on Lazy Loaded Routes in Vue.js](https://vuedose.tips/tips/naming-webpack-chunks-on-lazy-loaded-routes-in-vuejs/)
