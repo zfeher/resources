@@ -365,6 +365,7 @@
 
 ## Performance, memory
 
+- [Web Vitals - Essential metrics for a healthy site](https://web.dev/vitals/)[LCP][fid][CLS]
 - [Accurately measuring layout on the web](https://nolanlawson.com/2018/09/25/accurately-measuring-layout-on-the-web/)
 - [Is postMessage slow?](https://dassur.ma/things/is-postmessage-slow/)[web worker]
 - [Front-End Performance Checklist 2019 (PDF, Apple Pages, MS Word)](https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/)
@@ -1261,6 +1262,7 @@
 
 ## Testing
 
+- [Monitor Visual Changes in Websites with Puppeteer and Resemble JS](https://blog.bitsrc.io/monitor-visual-changes-in-websites-with-puppeteer-and-resemble-js-811437593659)
 - [Testing a Virtual List component with Cypress and Storybook](https://dev.to/noriste/testing-a-virtual-list-component-with-cypress-and-storybook-3lam)
 - [Behavior Driven Development (BDD) and Functional Testing](https://medium.com/javascript-scene/behavior-driven-development-bdd-and-functional-testing-62084ad7f1f2)[BDD][tdd]
 - [Generated tests with XState and Cypress](https://timdeschryver.dev/blog/generated-tests-with-xstate-and-cypress)
