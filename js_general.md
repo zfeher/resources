@@ -389,6 +389,7 @@
 
 ### Related
 
+- [Web Vitals Chrome Extension](https://github.com/GoogleChrome/web-vitals-extension#web-vitals-chrome-extension-alpha)
 - [lighthouse](https://github.com/GoogleChrome/lighthouse)
 - [WebPagetest](https://www.webpagetest.org)
 
@@ -605,6 +606,7 @@
   - [Reduce](https://medium.com/javascript-scene/reduce-composing-software-fe22f0c39a1d#.sd2hrgjrg)
   - [Curry and Function Composition](https://medium.com/javascript-scene/curry-and-function-composition-2c208d774983)
   - [Abstraction & Composition](https://medium.com/javascript-scene/abstraction-composition-cb2849d5bdd6)
+  - [Abstract Data Types](https://medium.com/javascript-scene/abstract-data-types-and-the-software-crisis-671ea7fc72e7)
   - [Functors & Categories](https://medium.com/javascript-scene/functors-categories-61e031bac53f)
   - [JavaScript Monads Made Simple](https://medium.com/javascript-scene/javascript-monads-made-simple-7856be57bfe8)
   - [The Forgotten History of OOP](https://medium.com/javascript-scene/the-forgotten-history-of-oop-88d71b9b2d9f)
