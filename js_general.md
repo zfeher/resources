@@ -1369,6 +1369,7 @@
 
 ## Module loader/Module Bundler/Task Runner, CI, Build
 
+- [An in-depth guide to performance optimization with webpack](https://blog.logrocket.com/guide-performance-optimization-webpack/)
 - [Webpack 5 Module Federation — Stitching two simple bundles together](https://medium.com/swlh/webpack-5-module-federation-stitching-two-simple-bundles-together-fe4e6a069716)
 - [Webpack 5 Module Federation: A game-changer in JavaScript architecture](https://medium.com/@ScriptedAlchemy/webpack-5-module-federation-a-game-changer-to-javascript-architecture-bcdd30e02669)
 - [Fast JavaScript bundling with esbuild](https://blog.logrocket.com/fast-javascript-bundling-with-esbuild/)
