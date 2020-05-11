@@ -1,5 +1,6 @@
 ## Unsorted
 
+- [NeutralinoJs](https://neutralino.js.org/)
 - [Frogger in Hyperapp](https://medium.com/hyperapp/frogger-in-hyperapp-90c0a7cd23a4)
 - [How I built super fast JS framework](https://medium.com/@marcisbee/how-i-built-super-fast-js-framework-faster-than-react-ea99f0d03150)
 - [Getting started with ReasonML](http://2ality.com/2017/11/getting-started-reasonml.html?t=1&cn=ZmxleGlibGVfcmVjc18y&refsrc=email&iid=becb7c9ce58e4aa08739b43624689537&fl=4&uid=783211657027780608&nid=244+272699400)
@@ -136,6 +137,7 @@
 
 ## General
 
+- [ES2020: Everything You Need to Know](https://www.martinmck.com/posts/es2020-everything-you-need-to-know/)
 - [how to manage HTML DOM](https://htmldom.dev/)[native api]
 - [How to Cancel a Fetch Request](https://davidwalsh.name/cancel-fetch)[fetch][abortcontroller][AbortSignal]
 - [Abortable fetch](https://developers.google.com/web/updates/2017/09/abortable-fetch)[AbortController][abortsignal]
