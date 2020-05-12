@@ -826,6 +826,8 @@
 - [3 Code Splitting Patterns For VueJS and Webpack](http://vuejsdevelopers.com/2017/07/08/vue-js-3-ways-code-splitting-webpack/)[code splitting]
 - [Dynamic imports + common chunks](https://github.com/webpack/webpack/issues/4392)
 
+- [Example of Using a Watcher](https://michaelnthiessen.com/using-watchers-examples/)
+- [When to Use Watchers](https://michaelnthiessen.com/when-to-use-watchers)
 - [State Management with Composition API](https://vueschool.io/articles/vuejs-tutorials/state-management-with-composition-api/)
 - [Turning Vue components into reusable npm packages](https://www.voorhoede.nl/en/blog/turning-vue-components-into-reusable-npm-packages/)
 - [Vue 3 Infinite Scroll with the Composition API](https://whatthecode.dev/vue-3-infinite-scroll-composition-api/)
