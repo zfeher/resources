@@ -266,6 +266,7 @@
 
 ### Related
 
+- [Fuse.js](https://fusejs.io/)
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
 - [app-ideas](https://github.com/florinpop17/app-ideas)
@@ -391,6 +392,8 @@
 
 ### Related
 
+- [Perfume.js](https://zizzamia.github.io/perfume/)
+- [Quicklinks](https://getquick.link/)[prefetch]
 - [Web Vitals Chrome Extension](https://github.com/GoogleChrome/web-vitals-extension#web-vitals-chrome-extension-alpha)
 - [lighthouse](https://github.com/GoogleChrome/lighthouse)
 - [WebPagetest](https://www.webpagetest.org)
@@ -1173,6 +1176,7 @@
 
 ### Related Libs
 
+- [Recoil](https://recoiljs.org/)[react]
 - [cerebral/overmind](https://github.com/cerebral/overmind)
 - [Mood](https://github.com/bredele/mood)
 - [Meiosis](http://meiosis.js.org/)
@@ -1268,6 +1272,7 @@
 
 ## Testing
 
+- [Fast and reliable cross-browser testing with Playwright](https://medium.com/@arjunattam/fast-and-reliable-cross-browser-testing-with-playwright-155c0e8a821f)
 - [Monitor Visual Changes in Websites with Puppeteer and Resemble JS](https://blog.bitsrc.io/monitor-visual-changes-in-websites-with-puppeteer-and-resemble-js-811437593659)
 - [Testing a Virtual List component with Cypress and Storybook](https://dev.to/noriste/testing-a-virtual-list-component-with-cypress-and-storybook-3lam)
 - [Behavior Driven Development (BDD) and Functional Testing](https://medium.com/javascript-scene/behavior-driven-development-bdd-and-functional-testing-62084ad7f1f2)[BDD][tdd]
