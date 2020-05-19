@@ -1038,6 +1038,7 @@
 
 ### General
 
+- [Blogged Answers: A (Mostly) Complete Guide to React Rendering Behavior](https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/)
 - [The future of Reach Router and React Router](https://blog.logrocket.com/future-reach-router-react-router/)
 - [Secrets of JavaScript: A tale of React, Performance Optimization and Multi-threading](https://levelup.gitconnected.com/secrets-of-javascript-a-tale-of-react-performance-optimization-and-multi-threading-9409332d349f)[performance]
 - [React TypeScript: Basics and Best Practices](https://blog.bitsrc.io/react-typescript-cheetsheet-2b6fa2cecfe2)
