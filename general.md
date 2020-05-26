@@ -47,6 +47,10 @@
 
 - [Boost your productivity using Markdown](https://hackernoon.com/boost-your-productivity-using-markdown-b8a84fc2a089)
 
+## Command Line / Bash / Shell / Terminal
+
+- [jlevy / the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
+
 ## Git
 
 - [gitmoji](https://gitmoji.carloscuesta.me/)

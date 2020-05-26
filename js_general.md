@@ -312,6 +312,7 @@
 - [Sharing Dependencies in Micro Frontends](https://blog.bitsrc.io/sharing-dependencies-in-micro-frontends-9da142296a2b)
 - [Quick Front-End Integrations Through Components](https://blog.bitsrc.io/quick-front-end-integrations-through-components-739625e7069d)[bit]
 - [Yoav Yanovski - Micro Frontends: Composing a Greater Whole - Vue.js Amsterdam 2020](https://www.youtube.com/watch?v=VoeGjJ57XgI&list=PLCxzy-hmQq9FnnpckFDeDtbpsUqxdheQn&index=27)
+- [The State of Micro Frontends](https://blog.bitsrc.io/state-of-micro-frontends-9c0c604ed13a)
 
 - [Microfrontends based on React](https://dev.to/florianrappl/microfrontends-based-on-react-4oo9)[Piral]
 - [Taming the front-end monolith](https://blog.logrocket.com/taming-the-front-end-monolith-dbaede402c39/)[Piral]
@@ -461,13 +462,14 @@
 
 ## Security / Payment
 
+- [Authentication on the Client Side the Right Way: Cookies vs. Local Storage](https://www.taniarascia.com/full-stack-cookies-localstorage-react-express/)
 - [Authentication & Authorization in Web Apps](https://blog.jscrambler.com/authentication-authorization-in-web-apps/)
 - [Passwords are Obsolete — How to Secure Your App and Protect Your Users](https://medium.com/javascript-scene/passwords-are-obsolete-how-to-secure-your-app-and-protect-your-users-1cd6c7b7c3bc)
 - [CS 253 Web Security](https://web.stanford.edu/class/cs253/)[course]
 - [Tracking Users with CSS](https://www.templarbit.com/blog/2018/03/20/tracking-users-with-css/?fbclid=IwAR2-PiovK79aCzZj6AarPr46uvURp7wNo66ouQba0-mp-k6Uau9R9Stm38s)
 - [Defensive JavaScript](https://www.javascriptjanuary.com/blog/defensive-javascript)
 - [Pros and cons in using JWT (JSON Web Tokens)](https://www.codementor.io/rahulgolwalkar/pros-and-cons-in-using-jwt-json-web-tokens-ikc2e3y12)
-- [Protect your Node.js app from Cross-Site Request Forgery ](https://dev.to/dkundel/protect-your-nodejs-app-from-cross-site-request-forgery--46b9)
+- [Protect your Node.js app from Cross-Site Request Forgery](https://dev.to/dkundel/protect-your-nodejs-app-from-cross-site-request-forgery--46b9)
 - [Third party CSS is not safe](https://jakearchibald.com/2018/third-party-css-is-not-safe/)
 - Security Checklist for Full Stack Web Developers
   [part 1](https://blog.logrocket.com/security-for-fullstack-web-developers-part-1-a56340283f7c)
@@ -816,6 +818,7 @@
 
 - [Vue Curated](https://curated.vuejs.org/)
 - [Awesome Vue.js](https://github.com/vuejs/awesome-vue)
+- [Awesome Accessibility Vue.js](https://github.com/vue-a11y/awesome-a11y-vue)
 
 - [Hooks](https://github.com/yyx990803/vue-hooks)
 - [What Hooks Mean for Vue](https://css-tricks.com/what-hooks-mean-for-vue/)
@@ -939,6 +942,9 @@
 
 ### Related
 
+- [vue-a11y/vue-axe](https://github.com/vue-a11y/vue-axe)
+- [ktsn/vue-auto-routing](https://github.com/ktsn/vue-auto-routing)
+- [ktsn/vue-route-generator](https://github.com/ktsn/vue-route-generator)
 - [u3u/vue-hooks](https://github.com/u3u/vue-hooks)
 - [composition-api](https://github.com/vuejs/composition-api)
 - [VueUse](https://vueuse.js.org)[composition]
