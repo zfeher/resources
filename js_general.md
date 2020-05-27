@@ -462,6 +462,7 @@
 
 ## Security / Payment
 
+- [How to Hide Secrets in Strings— Modern Text hiding in JavaScript](https://blog.bitsrc.io/how-to-hide-secrets-in-strings-modern-text-hiding-in-javascript-613a9faa5787)
 - [Authentication on the Client Side the Right Way: Cookies vs. Local Storage](https://www.taniarascia.com/full-stack-cookies-localstorage-react-express/)
 - [Authentication & Authorization in Web Apps](https://blog.jscrambler.com/authentication-authorization-in-web-apps/)
 - [Passwords are Obsolete — How to Secure Your App and Protect Your Users](https://medium.com/javascript-scene/passwords-are-obsolete-how-to-secure-your-app-and-protect-your-users-1cd6c7b7c3bc)
