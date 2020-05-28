@@ -1441,6 +1441,7 @@
 
 ### Related Libs
 
+- [Snowpack](https://www.snowpack.dev/)
 - [esbuild](https://github.com/evanw/esbuild)
 - [Rome](https://github.com/facebookexperimental/rome)
 - [pikapkg/pack](https://github.com/pikapkg/pack)
