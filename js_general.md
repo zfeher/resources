@@ -1280,6 +1280,7 @@
 
 ## Testing
 
+- [Core Cypress Lessons We Learned That 10x-ed Our E2E Automation](https://11sigma.com/blog/2019-05-08--core-cypress-lessons-we-learned-that-10x-ed-our-automation)
 - [Fast and reliable cross-browser testing with Playwright](https://medium.com/@arjunattam/fast-and-reliable-cross-browser-testing-with-playwright-155c0e8a821f)
 - [Monitor Visual Changes in Websites with Puppeteer and Resemble JS](https://blog.bitsrc.io/monitor-visual-changes-in-websites-with-puppeteer-and-resemble-js-811437593659)
 - [Testing a Virtual List component with Cypress and Storybook](https://dev.to/noriste/testing-a-virtual-list-component-with-cypress-and-storybook-3lam)
