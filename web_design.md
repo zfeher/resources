@@ -32,6 +32,7 @@
 
 ## CSS
 
+- [Improve site performance by inlining your CSS](https://blog.logrocket.com/improve-site-performance-inlining-css/)
 - [A Guide to the Responsive Images Syntax in HTML](https://css-tricks.com/a-guide-to-the-responsive-images-syntax-in-html/)
 - [A Complete Guide to CSS Functions](https://css-tricks.com/complete-guide-to-css-functions/)
 - ['lh' and 'rlh' units](https://css-tricks.com/lh-and-rlh-units/)
@@ -153,6 +154,8 @@
 
 ### Related
 
+- [pocketjoso/penthouse](https://github.com/pocketjoso/penthouse)[critical css]
+- [addyosmani/critical](https://github.com/addyosmani/critical)[critical css]
 - [callum-hart/immutable-styles](https://github.com/callum-hart/immutable-styles)
 - [CSS Triggers](https://csstriggers.com)
 - [Stylelint](https://stylelint.io)

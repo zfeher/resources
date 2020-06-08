@@ -266,6 +266,7 @@
 
 ### Related
 
+- [jquense/yup](https://github.com/jquense/yup)[schema validation]
 - [Fuse.js](https://fusejs.io/)
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
@@ -687,6 +688,7 @@
 
 ## Progressive Web Apps / PWA
 
+- [Service Worker Lifecycle Explained](https://felixgerschau.com/service-worker-lifecycle-update/)
 - [Understanding Service Workers and Caching Strategies](https://blog.bitsrc.io/understanding-service-workers-and-caching-strategies-a6c1e1cbde03)
 - [A declarative router for service workers](https://jakearchibald.com/2019/service-worker-declarative-router/)
 - [Service Worker gotchas](https://labs.kollegorna.se/blog/2017/06/service-worker-gotchas/)
@@ -782,6 +784,7 @@
 
 ## Components
 
+- [Sharing UI components at an enterprise level](https://medium.com/paypal-engineering/reusing-ui-components-at-enterprise-level-a7df1ea1f8dd)[bit][storybook]
 - [6 Ways to Share React Components in 2020](https://blog.bitsrc.io/6-ways-to-share-and-reuse-react-components-6d80e2fd16cd)[component sharing][microfrontend]
 - [The rules of reusable components](https://medium.com/@_kamerontanseli/the-rules-of-reusable-components-2b221c138bcf)[react]
 - [Tips and tricks for creating reusable UI components](https://www.codementor.io/gabrielcolombo/tips-and-tricks-for-creating-reusable-ui-components-ig7kws9qq)
