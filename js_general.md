@@ -716,6 +716,7 @@
 
 ## Typescript
 
+- [The top types any and unknown in TypeScript](https://2ality.com/2020/06/any-unknown-typescript.html)
 - [Types for classes as values in TypeScript](https://2ality.com/2020/04/classes-as-values-typescript.html)
 - [Augmenting Interfaces in the Global Scope in TypeScript](https://mariusschulz.com/blog/augmenting-interfaces-in-the-global-scope-in-typescript)
 - [The Omit Helper Type in TypeScript](https://mariusschulz.com/blog/the-omit-helper-type-in-typescript)

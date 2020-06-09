@@ -32,6 +32,7 @@
 
 ## CSS
 
+- [A user’s guide to CSS variables](https://increment.com/frontend/a-users-guide-to-css-variables/)
 - [Improve site performance by inlining your CSS](https://blog.logrocket.com/improve-site-performance-inlining-css/)
 - [A Guide to the Responsive Images Syntax in HTML](https://css-tricks.com/a-guide-to-the-responsive-images-syntax-in-html/)
 - [A Complete Guide to CSS Functions](https://css-tricks.com/complete-guide-to-css-functions/)
