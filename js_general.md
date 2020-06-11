@@ -147,7 +147,7 @@
 - [Introducing Alpine.js: A Tiny JavaScript Framework](https://www.smashingmagazine.com/2020/03/introduction-alpinejs-javascript-framework/)
 - [Lazyload images the browser way](https://itsopensource.com/lazyload-images-the-browser-way/)
 - [Managing Cyclomatic Complexity](https://kyleshevlin.com/managing-cyclomatic-complexity)
-- [Stop using isLoading booleans](https://kentcdodds.com/blog/stop-using-isloading-booleans)
+- [Stop using isLoading booleans](https://kentcdodds.com/blog/stop-using-isloading-booleans)[state enum]
 - [Angular vs React vs Vue: Which Is the Best Choice for 2020?](https://levelup.gitconnected.com/angular-vs-react-vs-vue-which-is-the-best-choice-for-2020-81f577697c7e)
 - [10 Useful Web APIs for 2020](https://blog.bitsrc.io/10-useful-web-apis-for-2020-8e43905cbdc5)
 - [The ultimate guide to iframes](https://blog.logrocket.com/the-ultimate-guide-to-iframes/)
@@ -169,7 +169,6 @@
 - [Understanding the Delete Operator in JavaScript](https://blog.bitsrc.io/understanding-the-delete-operator-in-javascript-3791ba6f3a08)
 - [When to Use Map instead of Plain JavaScript Object](https://dmitripavlutin.com/maps-vs-plain-objects-javascript/)
 - [Creating custom JavaScript syntax with Babel](https://lihautan.com/creating-custom-javascript-syntax-with-babel/)
-- [Why do we love Isomorphic/Universal rendering?](https://medium.com/@sujankanwar/why-do-we-love-isomorphic-universal-rendering-988c22933933)[ssr][csr]
 - [Top JavaScript Maps API and Libraries](https://flatlogic.com/blog/top-javascript-maps-api-and-libraries/)
 - [JavaScript Iterators and Generators: Synchronous Generators](https://dev.to/jfet97/javascript-iterators-and-generators-synchronous-generators-3ai4)[generator]
 - [Why I like JavaScript Optional Chaining](https://dmitripavlutin.com/javascript-optional-chaining/)
@@ -188,7 +187,6 @@
 - [8 time complexities that every programmer should know](https://adrianmejia.com/blog/2018/04/05/most-popular-algorithms-time-complexity-every-programmer-should-know-free-online-tutorial-course/)
 - [8 time complexities that every programmer should know](https://dev.to/amejiarosario/8-time-complexities-that-every-programmer-should-know-494m)
 - [New JavaScript Features That Will Change How You Write Regex](https://www.smashingmagazine.com/2019/02/regexp-features-regular-expressions/)
-- [Rendering on the Web](https://developers.google.com/web/updates/2019/02/rendering-on-the-web)[SSR][csr]
 - [Convert a String to a Number in JavaScript](http://thecodebarbarian.com/convert-a-string-to-a-number-in-javascript.html)
 - [How to Stop Using Browser Dev Tools and Start Using Your Editor’s Debugger](https://www.javascriptjanuary.com/blog/how-to-stop-using-browser-devtools-and-start-using-your-editors-debugger)[vscode]
 - [Lazy Loading with the IntersectionObserver API](https://dev.to/aligoren/lazy-loading-with-the-intersectionobserver-api-44pe)
@@ -370,6 +368,11 @@
 
 ## Performance, memory
 
+- [Rendering on the Web](https://developers.google.com/web/updates/2019/02/rendering-on-the-web)[SSR][csr][Prerendering][seo]
+- [In the name of SEO: Server-side rendering for single-page apps](https://shakuro.com/blog/in-the-name-of-seo-server-side-rendering-for-single-page-apps/)[SSR][csr][Prerendering][seo]
+- [Why do we love Isomorphic/Universal rendering?](https://medium.com/@sujankanwar/why-do-we-love-isomorphic-universal-rendering-988c22933933)[ssr][csr][SEO]
+- [Advanced Server-Side Rendering With Laravel & Vue: Multi-Page App](https://www.codementor.io/vuejsdevelopers/advanced-server-side-rendering-with-laravel-vue-multi-page-app-e8w50850x)[ssr][seo]
+- [Is My Single-Page Application SEO Friendly?](https://vuejsdevelopers.com/2018/04/09/single-page-app-seo/)[SSR][csr][Prerendering][seo]
 - [Web Vitals - Essential metrics for a healthy site](https://web.dev/vitals/)[LCP][fid][CLS]
 - [Accurately measuring layout on the web](https://nolanlawson.com/2018/09/25/accurately-measuring-layout-on-the-web/)
 - [Is postMessage slow?](https://dassur.ma/things/is-postmessage-slow/)[web worker]
@@ -891,7 +894,6 @@
 - [Cancelling async operations in Vue.js](https://codeburst.io/cancelling-async-operations-in-vue-js-3d0f3c2de598)[promise]
 - [Setting up JWT authentication with Laravel and Vue JS - Part 1](http://blog.peterplucinski.com/setting-up-jwt-authentication-with-laravel-and-vue-part-1/?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=Vue.js%20Developers)[jwt][tutorial][authentication]
 - [Higher Order Components in Vue.js](https://medium.com/bethink-pl/higher-order-components-in-vue-js-a79951ac9176)[hoc][tutorial]
-- [Advanced Server-Side Rendering With Laravel & Vue: Multi-Page App](https://www.codementor.io/vuejsdevelopers/advanced-server-side-rendering-with-laravel-vue-multi-page-app-e8w50850x)[ssr]
 - [Let’s Build a Custom Vue Router ](https://css-tricks.com/build-a-custom-vue-router/)[tutorial][route]
 - [Creating Reusable Transitions in Vue](https://vuejsdevelopers.com/2018/02/26/vue-js-reusable-transitions/)[animation][transition][reusable]
 - [How to Create an Accessible Autocomplete Component with Vue.js](https://alligator.io/vuejs/vue-a11y-autocomplete/)[aria][accessibility]
