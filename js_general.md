@@ -72,6 +72,7 @@
 
 ## Learning
 
+- [JavaScript Questions](https://github.com/lydiahallie/javascript-questions)
 - [Code Jam](https://codingcompetitions.withgoogle.com/codejam)[learning][competition]
 - [Codewars](https://www.codewars.com/)[learning][training]
 - [Project Euler](https://projecteuler.net/)[mathematical problems][computer programming problems]
@@ -466,6 +467,7 @@
 
 ## Security / Payment
 
+- [Web Application Security Practices Every Developer Must Know](https://medium.com/javascript-in-plain-english/web-application-security-best-practices-881e3cfde2a1)[OWASP]
 - [How to Hide Secrets in Strings— Modern Text hiding in JavaScript](https://blog.bitsrc.io/how-to-hide-secrets-in-strings-modern-text-hiding-in-javascript-613a9faa5787)
 - [Authentication on the Client Side the Right Way: Cookies vs. Local Storage](https://www.taniarascia.com/full-stack-cookies-localstorage-react-express/)
 - [Authentication & Authorization in Web Apps](https://blog.jscrambler.com/authentication-authorization-in-web-apps/)
@@ -840,6 +842,7 @@
 - [3 Code Splitting Patterns For VueJS and Webpack](http://vuejsdevelopers.com/2017/07/08/vue-js-3-ways-code-splitting-webpack/)[code splitting]
 - [Dynamic imports + common chunks](https://github.com/webpack/webpack/issues/4392)
 
+- [Internationalization In Vue With The Vue I18n Plugin](https://www.smashingmagazine.com/2020/06/internationalization-vue-i18n/)[i18n]
 - [Example of Using a Watcher](https://michaelnthiessen.com/using-watchers-examples/)
 - [When to Use Watchers](https://michaelnthiessen.com/when-to-use-watchers)
 - [State Management with Composition API](https://vueschool.io/articles/vuejs-tutorials/state-management-with-composition-api/)
@@ -1013,6 +1016,7 @@
 
 ## Svelte
 
+- [Svelte, why so much hype?](https://dev.to/zenika/svelte-why-so-much-hype-2k61)
 - [Practical Svelte: The use-directive](https://medium.com/better-programming/practical-svelte-the-use-directive-60635671335f)
 
 ## React
