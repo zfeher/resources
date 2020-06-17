@@ -22,6 +22,7 @@
 
 ## Books
 
+- [Deep JavaScript: Theory and techniques - Dr Axel Rauschmayer](https://exploringjs.com/deep-js/)
 - [7 Essential Books For Web Developers](https://levelup.gitconnected.com/7-essential-books-for-web-developers-9daa401ffbc7)
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts)
 - [The Twelve-Factor App](https://12factor.net/)[architecture]
@@ -721,6 +722,8 @@
 
 ## Typescript
 
+- [Testing Typescript Types](https://medium.com/front-end-weekly/testing-typescript-types-1595c641d7c7)
+- [Computing with types in TypeScript](https://2ality.com/2020/06/computing-with-types.html)
 - [The top types any and unknown in TypeScript](https://2ality.com/2020/06/any-unknown-typescript.html)
 - [Types for classes as values in TypeScript](https://2ality.com/2020/04/classes-as-values-typescript.html)
 - [Augmenting Interfaces in the Global Scope in TypeScript](https://mariusschulz.com/blog/augmenting-interfaces-in-the-global-scope-in-typescript)
