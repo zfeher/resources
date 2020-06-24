@@ -468,6 +468,7 @@
 
 ## Security / Payment
 
+- [JavaScript Security Issues and Best Practices](https://blog.bitsrc.io/javascript-security-issues-and-best-practices-37e78df4dce4)
 - [Web Application Security Practices Every Developer Must Know](https://medium.com/javascript-in-plain-english/web-application-security-best-practices-881e3cfde2a1)[OWASP]
 - [How to Hide Secrets in Strings— Modern Text hiding in JavaScript](https://blog.bitsrc.io/how-to-hide-secrets-in-strings-modern-text-hiding-in-javascript-613a9faa5787)
 - [Authentication on the Client Side the Right Way: Cookies vs. Local Storage](https://www.taniarascia.com/full-stack-cookies-localstorage-react-express/)
@@ -1026,6 +1027,7 @@
 
 ### Hooks
 
+- [Render props vs hooks](https://webup.org/blog/render-props-vs-hooks/)
 - [3 Rules of React State Management](https://dmitripavlutin.com/react-state-management/)
 - [Advanced memoization and effects in React](https://gist.github.com/slikts/fd3768de1493419ed9506002b452fcdc)
 - [How to handle async side effects in 2019](https://blog.logrocket.com/how-to-handle-async-side-effects-in-2019/)
