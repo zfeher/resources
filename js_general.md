@@ -13,7 +13,7 @@
 - [RE:DOM](https://redom.js.org)
 - [StackBlitz](https://stackblitz.com)[playground][react][angular][ionic][vscode]
 - [RunKit](https://runkit.com/home)
-- [HyperApp](https://github.com/hyperapp/hyperapp)
+- [HyperApp](https://hyperapp.dev/)
 - [Codesandbox](https://codesandbox.io)[playground][react]
 - [Marko](http://markojs.com)
 - [Svelte](https://svelte.technology)
@@ -370,6 +370,7 @@
 
 ## Performance, memory
 
+- [Optimize for Core Web Vitals](https://www.youtube.com/watch?list=PLNYkxOF6rcIDC0-BiwSL52yQ0n9rNozaF&v=AQqFZ5t8uNc&feature=emb_logo)[video]
 - [Rendering on the Web](https://developers.google.com/web/updates/2019/02/rendering-on-the-web)[SSR][csr][Prerendering][seo]
 - [In the name of SEO: Server-side rendering for single-page apps](https://shakuro.com/blog/in-the-name-of-seo-server-side-rendering-for-single-page-apps/)[SSR][csr][Prerendering][seo]
 - [Why do we love Isomorphic/Universal rendering?](https://medium.com/@sujankanwar/why-do-we-love-isomorphic-universal-rendering-988c22933933)[ssr][csr][SEO]
@@ -846,6 +847,7 @@
 - [3 Code Splitting Patterns For VueJS and Webpack](http://vuejsdevelopers.com/2017/07/08/vue-js-3-ways-code-splitting-webpack/)[code splitting]
 - [Dynamic imports + common chunks](https://github.com/webpack/webpack/issues/4392)
 
+- [Testing Vue+Apollo: 2020 edition](https://dev.to/n_tepluhina/testing-vue-apollo-2020-edition-2l2p)[apollo]
 - [Internationalization In Vue With The Vue I18n Plugin](https://www.smashingmagazine.com/2020/06/internationalization-vue-i18n/)[i18n]
 - [Example of Using a Watcher](https://michaelnthiessen.com/using-watchers-examples/)
 - [When to Use Watchers](https://michaelnthiessen.com/when-to-use-watchers)
@@ -1295,6 +1297,9 @@
 
 ## Testing
 
+- [End-to-End Snapshot Testing](https://www.cypress.io/blog/2018/01/16/end-to-end-snapshot-testing/)[cypress][snapshot]
+- [Write Your First Vue Component Test](https://glebbahmutov.com/blog/first-vue-component-test/)[cypress][vue]
+- [Running Cypress tests in a monorepo](https://www.jonathancreamer.com/running-cypress-tests-in-a-monorepo/)[cypress][monorepo]
 - [Core Cypress Lessons We Learned That 10x-ed Our E2E Automation](https://11sigma.com/blog/2019-05-08--core-cypress-lessons-we-learned-that-10x-ed-our-automation)
 - [Fast and reliable cross-browser testing with Playwright](https://medium.com/@arjunattam/fast-and-reliable-cross-browser-testing-with-playwright-155c0e8a821f)
 - [Monitor Visual Changes in Websites with Puppeteer and Resemble JS](https://blog.bitsrc.io/monitor-visual-changes-in-websites-with-puppeteer-and-resemble-js-811437593659)
