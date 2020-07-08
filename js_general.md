@@ -315,6 +315,7 @@
 - [Yoav Yanovski - Micro Frontends: Composing a Greater Whole - Vue.js Amsterdam 2020](https://www.youtube.com/watch?v=VoeGjJ57XgI&list=PLCxzy-hmQq9FnnpckFDeDtbpsUqxdheQn&index=27)
 - [The State of Micro Frontends](https://blog.bitsrc.io/state-of-micro-frontends-9c0c604ed13a)
 
+- [How We Achieved Smooth Navigation Across Microfrontends](https://blog.bitsrc.io/how-we-achieved-smooth-navigation-across-micro-frontends-42130577924d)
 - [Microfrontends based on React](https://dev.to/florianrappl/microfrontends-based-on-react-4oo9)[Piral]
 - [Taming the front-end monolith](https://blog.logrocket.com/taming-the-front-end-monolith-dbaede402c39/)[Piral]
 - [Micro Frontends Made Easy](https://medium.com/javascript-in-plain-english/micro-frontends-made-easy-e49acceea536)
