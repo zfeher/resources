@@ -1,5 +1,6 @@
 ## Unsorted
 
+- [Skypack](https://www.skypack.dev/)[CDN][PDN]
 - [NeutralinoJs](https://neutralino.js.org/)
 - [Frogger in Hyperapp](https://medium.com/hyperapp/frogger-in-hyperapp-90c0a7cd23a4)
 - [How I built super fast JS framework](https://medium.com/@marcisbee/how-i-built-super-fast-js-framework-faster-than-react-ea99f0d03150)
