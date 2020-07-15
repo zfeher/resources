@@ -1031,6 +1031,7 @@
 
 ### Hooks
 
+- [Why I Stopped Using Redux](https://dev.to/g_abud/why-i-quit-redux-1knl)
 - [Render props vs hooks](https://webup.org/blog/render-props-vs-hooks/)
 - [3 Rules of React State Management](https://dmitripavlutin.com/react-state-management/)
 - [Advanced memoization and effects in React](https://gist.github.com/slikts/fd3768de1493419ed9506002b452fcdc)
