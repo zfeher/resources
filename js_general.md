@@ -372,6 +372,7 @@
 
 ## Performance, memory
 
+- [Preloading responsive images](https://web.dev/preload-responsive-images/)
 - [Optimize for Core Web Vitals](https://www.youtube.com/watch?list=PLNYkxOF6rcIDC0-BiwSL52yQ0n9rNozaF&v=AQqFZ5t8uNc&feature=emb_logo)[video]
 - [Rendering on the Web](https://developers.google.com/web/updates/2019/02/rendering-on-the-web)[SSR][csr][Prerendering][seo]
 - [In the name of SEO: Server-side rendering for single-page apps](https://shakuro.com/blog/in-the-name-of-seo-server-side-rendering-for-single-page-apps/)[SSR][csr][Prerendering][seo]
@@ -1376,6 +1377,7 @@
 
 ## Package/Dependency Management
 
+- [Is Monorepo for You? — 2020](https://blog.bitsrc.io/is-monorepo-for-you-2020-78cc1717a4f1)[monorepo]
 - [How to find unused npm packages?](https://w3lessons.info/how-to-find-unused-npm-packages/)[depcheck][npm]
 - [How to successfully manage a large scale JavaScript monorepo aka megarepo](https://www.jonathancreamer.com/how-to-successfully-manage-a-monorepo-aka-megarepo/)
 - [Why Lerna and Yarn Workspaces is a Perfect Match for Building Mono-Repos – A Close Look at Features and Performance](https://doppelmutzi.github.io/monorepo-lerna-yarn-workspaces/)[lerna][npm][yarn][yarn workspaces]
