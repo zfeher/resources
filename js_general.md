@@ -109,6 +109,7 @@
 
 ## Interview
 
+- [Finding the REAL shortest path in JavaScript: Depth First Search](https://levelup.gitconnected.com/finding-the-real-shortest-path-in-javascript-depth-first-search-93a3ce514250)
 - [JavaScript Interview Questions — Objects](https://medium.com/javascript-in-plain-english/javascript-interview-questions-objects-e380395dffff)
 - [Airbnb Coding Interview Questions](https://medium.com/javascript-in-plain-english/airbnb-coding-interview-questions-4818501a7c80)
 - [Top CSS Interview Questions and Answers](https://codersera.com/blog/top-css-interview-questions-and-answers/)
@@ -551,6 +552,7 @@
 
 ## Functional Programming (FP)
 
+- [Thoughts on Railway Oriented Programming — JavaScript](https://levelup.gitconnected.com/thoughts-on-railway-oriented-programming-javascript-473acdf1fe82)[either]
 - [How to not create your RxJS observables](https://timdeschryver.dev/blog/how-to-not-create-your-rxjs-observables)[rxjs]
 - [Lambda Calculus - Computerphile](https://www.youtube.com/watch?v=eis11j_iGMs)
 - [An introduction to Lambda Calculus, explained through JavaScript](http://willtaylor.blog/an-introduction-to-lambda-calculus-explained-through-javascript/)
@@ -1301,6 +1303,7 @@
 
 ## Testing
 
+- [Code Coverage for Vue Applications](https://vuejsdevelopers.com/2020/07/20/code-coverage-vue-cypress/)[vue][coverage]
 - [End-to-End Snapshot Testing](https://www.cypress.io/blog/2018/01/16/end-to-end-snapshot-testing/)[cypress][snapshot]
 - [Write Your First Vue Component Test](https://glebbahmutov.com/blog/first-vue-component-test/)[cypress][vue]
 - [Running Cypress tests in a monorepo](https://www.jonathancreamer.com/running-cypress-tests-in-a-monorepo/)[cypress][monorepo]
