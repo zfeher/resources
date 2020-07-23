@@ -317,6 +317,7 @@
 - [Yoav Yanovski - Micro Frontends: Composing a Greater Whole - Vue.js Amsterdam 2020](https://www.youtube.com/watch?v=VoeGjJ57XgI&list=PLCxzy-hmQq9FnnpckFDeDtbpsUqxdheQn&index=27)
 - [The State of Micro Frontends](https://blog.bitsrc.io/state-of-micro-frontends-9c0c604ed13a)
 
+- [Revolutionizing Micro Frontends with Webpack 5, Module Federation and Bit](https://blog.bitsrc.io/revolutionizing-micro-frontends-with-webpack-5-module-federation-and-bit-99ff81ceb0)[webpack]
 - [How We Achieved Smooth Navigation Across Microfrontends](https://blog.bitsrc.io/how-we-achieved-smooth-navigation-across-micro-frontends-42130577924d)
 - [Microfrontends based on React](https://dev.to/florianrappl/microfrontends-based-on-react-4oo9)[Piral]
 - [Taming the front-end monolith](https://blog.logrocket.com/taming-the-front-end-monolith-dbaede402c39/)[Piral]
@@ -852,6 +853,8 @@
 - [3 Code Splitting Patterns For VueJS and Webpack](http://vuejsdevelopers.com/2017/07/08/vue-js-3-ways-code-splitting-webpack/)[code splitting]
 - [Dynamic imports + common chunks](https://github.com/webpack/webpack/issues/4392)
 
+- [Building Desktop Apps With Electron And Vue](https://www.smashingmagazine.com/2020/07/desktop-apps-electron-vue-javascript/)
+- [Be prepared to migrate your Vue app to Vue 3](https://dev.to/chenxeed/be-prepared-to-migrate-your-vue-app-to-vue-3-eom)
 - [Testing Vue+Apollo: 2020 edition](https://dev.to/n_tepluhina/testing-vue-apollo-2020-edition-2l2p)[apollo]
 - [Internationalization In Vue With The Vue I18n Plugin](https://www.smashingmagazine.com/2020/06/internationalization-vue-i18n/)[i18n]
 - [Example of Using a Watcher](https://michaelnthiessen.com/using-watchers-examples/)
@@ -1068,6 +1071,7 @@
 
 ### General
 
+- [10 Awesome JavaScript Libraries You Should Try Out in 2020](https://www.freecodecamp.org/news/10-javascript-libraries-you-should-try/)
 - [Blogged Answers: A (Mostly) Complete Guide to React Rendering Behavior](https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/)
 - [The future of Reach Router and React Router](https://blog.logrocket.com/future-reach-router-react-router/)
 - [Secrets of JavaScript: A tale of React, Performance Optimization and Multi-threading](https://levelup.gitconnected.com/secrets-of-javascript-a-tale-of-react-performance-optimization-and-multi-threading-9409332d349f)[performance]
