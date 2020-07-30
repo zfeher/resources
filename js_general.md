@@ -316,6 +316,7 @@
 - [Quick Front-End Integrations Through Components](https://blog.bitsrc.io/quick-front-end-integrations-through-components-739625e7069d)[bit]
 - [Yoav Yanovski - Micro Frontends: Composing a Greater Whole - Vue.js Amsterdam 2020](https://www.youtube.com/watch?v=VoeGjJ57XgI&list=PLCxzy-hmQq9FnnpckFDeDtbpsUqxdheQn&index=27)
 - [The State of Micro Frontends](https://blog.bitsrc.io/state-of-micro-frontends-9c0c604ed13a)
+- [Developing and Deploying Micro-Frontends with single-spa](https://dev.to/thawkin3/developing-and-deploying-micro-frontends-with-single-spa-39ij)
 
 - [Revolutionizing Micro Frontends with Webpack 5, Module Federation and Bit](https://blog.bitsrc.io/revolutionizing-micro-frontends-with-webpack-5-module-federation-and-bit-99ff81ceb0)[webpack]
 - [How We Achieved Smooth Navigation Across Microfrontends](https://blog.bitsrc.io/how-we-achieved-smooth-navigation-across-micro-frontends-42130577924d)
