@@ -375,6 +375,7 @@
 
 ## Performance, memory
 
+- [It's time to lazy-load offscreen iframes!](https://web.dev/iframe-lazy-loading/)
 - [Preloading responsive images](https://web.dev/preload-responsive-images/)
 - [Optimize for Core Web Vitals](https://www.youtube.com/watch?list=PLNYkxOF6rcIDC0-BiwSL52yQ0n9rNozaF&v=AQqFZ5t8uNc&feature=emb_logo)[video]
 - [Rendering on the Web](https://developers.google.com/web/updates/2019/02/rendering-on-the-web)[SSR][csr][Prerendering][seo]
@@ -854,6 +855,7 @@
 - [3 Code Splitting Patterns For VueJS and Webpack](http://vuejsdevelopers.com/2017/07/08/vue-js-3-ways-code-splitting-webpack/)[code splitting]
 - [Dynamic imports + common chunks](https://github.com/webpack/webpack/issues/4392)
 
+- [Do Vue 3 refs admit a monad instance?](https://dev.to/jfet97/do-vue-3-refs-admit-a-monad-instance-5fan)[fp][monad]
 - [Building Desktop Apps With Electron And Vue](https://www.smashingmagazine.com/2020/07/desktop-apps-electron-vue-javascript/)
 - [Be prepared to migrate your Vue app to Vue 3](https://dev.to/chenxeed/be-prepared-to-migrate-your-vue-app-to-vue-3-eom)
 - [Testing Vue+Apollo: 2020 edition](https://dev.to/n_tepluhina/testing-vue-apollo-2020-edition-2l2p)[apollo]
@@ -967,6 +969,7 @@
 
 ### Related
 
+- [Vue-Tailwind](https://github.com/alfonsobries/vue-tailwind)
 - [vue-a11y/vue-axe](https://github.com/vue-a11y/vue-axe)
 - [ktsn/vue-auto-routing](https://github.com/ktsn/vue-auto-routing)
 - [ktsn/vue-route-generator](https://github.com/ktsn/vue-route-generator)
