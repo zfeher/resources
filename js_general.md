@@ -109,6 +109,7 @@
 
 ## Interview
 
+- [10 Most Asked Questions About JavaScript](https://thedevpost.com/blog/10-most-asked-questions-about-javascript/)
 - [Finding the REAL shortest path in JavaScript: Depth First Search](https://levelup.gitconnected.com/finding-the-real-shortest-path-in-javascript-depth-first-search-93a3ce514250)
 - [JavaScript Interview Questions — Objects](https://medium.com/javascript-in-plain-english/javascript-interview-questions-objects-e380395dffff)
 - [Airbnb Coding Interview Questions](https://medium.com/javascript-in-plain-english/airbnb-coding-interview-questions-4818501a7c80)
