@@ -142,6 +142,9 @@
 
 ## General
 
+- [Natively Format JavaScript Numbers](https://elijahmanor.com/format-js-numbers)
+- [Natively Format JavaScript Dates and Times](https://elijahmanor.com/format-js-dates-and-times)
+- [23 Insanely Useful NodeJs Libraries You Should Know in 2020](https://blog.bitsrc.io/23-insanely-useful-nodejs-libraries-you-should-know-in-2020-5a9b570d5416)
 - [ES2020: Everything You Need to Know](https://www.martinmck.com/posts/es2020-everything-you-need-to-know/)
 - [how to manage HTML DOM](https://htmldom.dev/)[native api]
 - [How to Cancel a Fetch Request](https://davidwalsh.name/cancel-fetch)[fetch][abortcontroller][AbortSignal]
@@ -372,10 +375,12 @@
 
 ## SEO, Search Engine Optimization
 
+- [Optimize SEO and Social Media Sharing in a Nuxt blog](https://vuedose.tips/optimize-seo-and-social-media-sharing-in-a-nuxt-blog/)
 - [A Practical Guide to Search Engine Optimization (SEO) with Google](https://www.taniarascia.com/a-practical-guide-to-search-engine-optimization-seo-with-google/)
 
 ## Performance, memory
 
+- [radEventListener: a Tale of Client-side Framework Performance](https://css-tricks.com/radeventlistener-a-tale-of-client-side-framework-performance/)
 - [It's time to lazy-load offscreen iframes!](https://web.dev/iframe-lazy-loading/)
 - [Preloading responsive images](https://web.dev/preload-responsive-images/)
 - [Optimize for Core Web Vitals](https://www.youtube.com/watch?list=PLNYkxOF6rcIDC0-BiwSL52yQ0n9rNozaF&v=AQqFZ5t8uNc&feature=emb_logo)[video]
@@ -733,6 +738,7 @@
 
 ## Typescript
 
+- [TypeScript exercises](https://typescript-exercises.github.io/)
 - [Testing Typescript Types](https://medium.com/front-end-weekly/testing-typescript-types-1595c641d7c7)
 - [Computing with types in TypeScript](https://2ality.com/2020/06/computing-with-types.html)
 - [The top types any and unknown in TypeScript](https://2ality.com/2020/06/any-unknown-typescript.html)
@@ -782,6 +788,7 @@
 
 ### Related
 
+- [airbnb/ts-migrate](https://github.com/airbnb/ts-migrate)
 - [ts-toolbelt](https://pirix-gh.github.io/ts-toolbelt/index.html)
 - [transitive-bullshit/functional-typescript](https://github.com/transitive-bullshit/functional-typescript)
 - [TypeWiz](https://github.com/urish/typewiz)
@@ -1076,6 +1083,7 @@
 
 ### General
 
+- [Is it Safe to Compare JavaScript Strings?](https://dmitripavlutin.com/compare-javascript-strings/)
 - [10 Awesome JavaScript Libraries You Should Try Out in 2020](https://www.freecodecamp.org/news/10-javascript-libraries-you-should-try/)
 - [Blogged Answers: A (Mostly) Complete Guide to React Rendering Behavior](https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/)
 - [The future of Reach Router and React Router](https://blog.logrocket.com/future-reach-router-react-router/)
@@ -1312,6 +1320,7 @@
 
 ## Testing
 
+- [Testing Implementation Details](https://kentcdodds.com/blog/testing-implementation-details)
 - [Code Coverage for Vue Applications](https://vuejsdevelopers.com/2020/07/20/code-coverage-vue-cypress/)[vue][coverage]
 - [End-to-End Snapshot Testing](https://www.cypress.io/blog/2018/01/16/end-to-end-snapshot-testing/)[cypress][snapshot]
 - [Write Your First Vue Component Test](https://glebbahmutov.com/blog/first-vue-component-test/)[cypress][vue]
