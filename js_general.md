@@ -863,6 +863,9 @@
 - [3 Code Splitting Patterns For VueJS and Webpack](http://vuejsdevelopers.com/2017/07/08/vue-js-3-ways-code-splitting-webpack/)[code splitting]
 - [Dynamic imports + common chunks](https://github.com/webpack/webpack/issues/4392)
 
+- [Handling Asynchrony in Vue 3 / Composition API](https://medium.com/javascript-in-plain-english/handling-asynchrony-in-vue-3-composition-api-part-1-managing-async-state-e993842ebf8f)
+- [Handling Asynchrony with Vue Composition API and vue-concurrency](https://medium.com/javascript-in-plain-english/handling-asynchrony-with-vue-composition-api-and-vue-concurrency-part-2-canceling-throttling-4e0305c82367)
+- [Building a data layer with Vue and Composition API](https://medium.com/javascript-in-plain-english/building-a-data-layer-with-vue-and-composition-api-547cc9761b4c)
 - [Do Vue 3 refs admit a monad instance?](https://dev.to/jfet97/do-vue-3-refs-admit-a-monad-instance-5fan)[fp][monad]
 - [Building Desktop Apps With Electron And Vue](https://www.smashingmagazine.com/2020/07/desktop-apps-electron-vue-javascript/)
 - [Be prepared to migrate your Vue app to Vue 3](https://dev.to/chenxeed/be-prepared-to-migrate-your-vue-app-to-vue-3-eom)
