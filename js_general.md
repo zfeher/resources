@@ -322,6 +322,7 @@
 - [The State of Micro Frontends](https://blog.bitsrc.io/state-of-micro-frontends-9c0c604ed13a)
 - [Developing and Deploying Micro-Frontends with single-spa](https://dev.to/thawkin3/developing-and-deploying-micro-frontends-with-single-spa-39ij)
 
+- [How We Build Micro Frontends](https://blog.bitsrc.io/how-we-build-micro-front-ends-d3eeeac0acfc)
 - [Revolutionizing Micro Frontends with Webpack 5, Module Federation and Bit](https://blog.bitsrc.io/revolutionizing-micro-frontends-with-webpack-5-module-federation-and-bit-99ff81ceb0)[webpack]
 - [How We Achieved Smooth Navigation Across Microfrontends](https://blog.bitsrc.io/how-we-achieved-smooth-navigation-across-micro-frontends-42130577924d)
 - [Microfrontends based on React](https://dev.to/florianrappl/microfrontends-based-on-react-4oo9)[Piral]
@@ -811,6 +812,7 @@
 
 ## Components
 
+- [Sharing reusable Vue.js components with Lerna, Storybook, and npm or GitHub Package Registries](https://medium.com/js-dojo/sharing-reusable-vue-js-components-with-lerna-storybook-and-npm-7dc33b38b011)
 - [Sharing UI components at an enterprise level](https://medium.com/paypal-engineering/reusing-ui-components-at-enterprise-level-a7df1ea1f8dd)[bit][storybook]
 - [6 Ways to Share React Components in 2020](https://blog.bitsrc.io/6-ways-to-share-and-reuse-react-components-6d80e2fd16cd)[component sharing][microfrontend]
 - [The rules of reusable components](https://medium.com/@_kamerontanseli/the-rules-of-reusable-components-2b221c138bcf)[react]
