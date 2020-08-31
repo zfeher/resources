@@ -195,6 +195,7 @@
 
   - Extensions
 
+    - [Commit Message Editor](https://marketplace.visualstudio.com/items?itemName=adam-bender.commit-message-editor)
     - [Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
     - [Browser Preview for VS Code](https://github.com/auchenberg/vscode-browser-preview)
     - [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
