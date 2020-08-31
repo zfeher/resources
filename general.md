@@ -195,6 +195,7 @@
 
   - Extensions
 
+    - [VSCode Conventional Commits](https://marketplace.visualstudio.com/items?itemName=vivaxy.vscode-conventional-commits)
     - [Commit Message Editor](https://marketplace.visualstudio.com/items?itemName=adam-bender.commit-message-editor)
     - [Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
     - [Browser Preview for VS Code](https://github.com/auchenberg/vscode-browser-preview)
