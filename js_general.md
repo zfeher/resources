@@ -142,6 +142,7 @@
 
 ## General
 
+- [How JavaScript Works: Under the Hood of the V8 Engine](https://www.freecodecamp.org/news/javascript-under-the-hood-v8/)
 - [Natively Format JavaScript Numbers](https://elijahmanor.com/format-js-numbers)
 - [Natively Format JavaScript Dates and Times](https://elijahmanor.com/format-js-dates-and-times)
 - [23 Insanely Useful NodeJs Libraries You Should Know in 2020](https://blog.bitsrc.io/23-insanely-useful-nodejs-libraries-you-should-know-in-2020-5a9b570d5416)
