@@ -23,6 +23,7 @@
 
 ## Books
 
+- [Tackling TypeScript: Upgrading from JavaScript](https://exploringjs.com/tackling-ts/)
 - [Deep JavaScript: Theory and techniques - Dr Axel Rauschmayer](https://exploringjs.com/deep-js/)
 - [7 Essential Books For Web Developers](https://levelup.gitconnected.com/7-essential-books-for-web-developers-9daa401ffbc7)
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts)
@@ -142,6 +143,7 @@
 
 ## General
 
+- [What is Serverless?](https://medium.com/javascript-in-plain-english/what-is-serverless-550dd9340042)
 - [How JavaScript Works: Under the Hood of the V8 Engine](https://www.freecodecamp.org/news/javascript-under-the-hood-v8/)
 - [Natively Format JavaScript Numbers](https://elijahmanor.com/format-js-numbers)
 - [Natively Format JavaScript Dates and Times](https://elijahmanor.com/format-js-dates-and-times)
