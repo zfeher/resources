@@ -143,6 +143,7 @@
 
 ## General
 
+- [What Is Canary Deployment?](https://semaphoreci.com/blog/what-is-canary-deployment)
 - [What is Serverless?](https://medium.com/javascript-in-plain-english/what-is-serverless-550dd9340042)
 - [How JavaScript Works: Under the Hood of the V8 Engine](https://www.freecodecamp.org/news/javascript-under-the-hood-v8/)
 - [Natively Format JavaScript Numbers](https://elijahmanor.com/format-js-numbers)
@@ -275,6 +276,7 @@
 
 ### Related
 
+- [devcert](https://github.com/davewasmer/devcert)
 - [jquense/yup](https://github.com/jquense/yup)[schema validation]
 - [Fuse.js](https://fusejs.io/)
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
