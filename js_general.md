@@ -1,6 +1,5 @@
 ## Unsorted
 
-- [Skypack](https://www.skypack.dev/)[CDN][PDN]
 - [NeutralinoJs](https://neutralino.js.org/)
 - [Frogger in Hyperapp](https://medium.com/hyperapp/frogger-in-hyperapp-90c0a7cd23a4)
 - [How I built super fast JS framework](https://medium.com/@marcisbee/how-i-built-super-fast-js-framework-faster-than-react-ea99f0d03150)
@@ -143,6 +142,7 @@
 
 ## General
 
+- [Bringing Modern JavaScript to Libraries](https://dev.to/garylchew/bringing-modern-javascript-to-libraries-432c)
 - [What Is Canary Deployment?](https://semaphoreci.com/blog/what-is-canary-deployment)
 - [What is Serverless?](https://medium.com/javascript-in-plain-english/what-is-serverless-550dd9340042)
 - [How JavaScript Works: Under the Hood of the V8 Engine](https://www.freecodecamp.org/news/javascript-under-the-hood-v8/)
@@ -276,6 +276,7 @@
 
 ### Related
 
+- [detect-es-version](http://detect-es-version.glitch.me/)
 - [devcert](https://github.com/davewasmer/devcert)
 - [jquense/yup](https://github.com/jquense/yup)[schema validation]
 - [Fuse.js](https://fusejs.io/)
@@ -387,6 +388,7 @@
 
 ## Performance, memory
 
+- [An Introduction To Running Lighthouse Programmatically](https://www.smashingmagazine.com/2020/09/introduction-running-lighthouse-programmatically/)
 - [radEventListener: a Tale of Client-side Framework Performance](https://css-tricks.com/radeventlistener-a-tale-of-client-side-framework-performance/)
 - [It's time to lazy-load offscreen iframes!](https://web.dev/iframe-lazy-loading/)
 - [Preloading responsive images](https://web.dev/preload-responsive-images/)
@@ -1444,6 +1446,7 @@
 
 ## Module loader/Module Bundler/Task Runner, CI, Build
 
+- [IE11 and the Missing Polyfills](https://dev.to/thekashey/ie11-and-the-missing-polyfills-1cd9)
 - [An in-depth guide to performance optimization with webpack](https://blog.logrocket.com/guide-performance-optimization-webpack/)
 - [Webpack 5 Module Federation — Stitching two simple bundles together](https://medium.com/swlh/webpack-5-module-federation-stitching-two-simple-bundles-together-fe4e6a069716)
 - [Webpack 5 Module Federation: A game-changer in JavaScript architecture](https://medium.com/@ScriptedAlchemy/webpack-5-module-federation-a-game-changer-to-javascript-architecture-bcdd30e02669)
@@ -1499,6 +1502,8 @@
 
 ### Related Libs
 
+- [Skypack](https://www.skypack.dev/)
+- [devolution](https://github.com/theKashey/devolution)
 - [Snowpack](https://www.snowpack.dev/)
 - [esbuild](https://github.com/evanw/esbuild)
 - [Rome](https://github.com/facebookexperimental/rome)
