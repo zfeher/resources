@@ -1,18 +1,19 @@
 ## Latest Chrome
+
 - [install 1](http://askubuntu.com/questions/510056/how-to-install-google-chrome)
 - [install 2](http://tecadmin.net/install-google-chrome-in-ubuntu/#)
 
-
 ## Unix
+
+- [Starship](https://starship.rs/)
 - [bash-guide](https://github.com/Idnan/bash-guide)
 - [What are the shell's control and redirection operators?](http://unix.stackexchange.com/questions/159513/what-are-the-shells-control-and-redirection-operators)
 
-
 ## Check encoding for sed
+
 - [sed-and-utf-8-encoding](https://stackoverflow.com/questions/27072558/sed-and-utf-8-encoding)
 - `Bash printf à | wc -c` must say 2, not 1
 - `Bash locale` should list "UTF-8" or "utf8" in the LC_CTYPE line
-
 
 ## Using sed with multiple files
 
@@ -55,7 +56,7 @@ egrep --include=\*.js --exclude=\*.spec.js -Rnwl './app/scripts/components' -e '
 ## xargs multiple commands / input arg usage
 ```
 # -I can give a name to input arg to be used in commands
-cat foo.txt | xargs -I % sh -c 'echo %; mkdir %' 
+cat foo.txt | xargs -I % sh -c 'echo %; mkdir %'
 ```
 
 ## Run script in the current shell

@@ -276,6 +276,7 @@
 
 ### Related
 
+- [winston](https://github.com/winstonjs/winston)
 - [detect-es-version](http://detect-es-version.glitch.me/)
 - [devcert](https://github.com/davewasmer/devcert)
 - [jquense/yup](https://github.com/jquense/yup)[schema validation]
@@ -432,8 +433,9 @@
 
 - [ngrok](https://ngrok.com) // share localhost stuff via tunneling
 
-## Machine Learning/Deep Learnings
+## Machine Learning/Deep Learning/Data Science
 
+- [JavaScript for Data Science](https://js4ds.org/)
 - [Top 12 JavaScript Machine Learning Libraries for 2020](https://medium.com/javascript-in-plain-english/top-12-javascript-machine-learning-libraries-for-2020-8bec30ecfa58)
 - [TensorFlow.js: An intro and analysis with use cases](https://blog.logrocket.com/tensorflow-js-an-intro-and-analysis-with-use-cases-8e1f9a973183)
 - [How to Use Machine Learning in Marketplace Development](https://sloboda-studio.com/blog/machine-learning-marketplace-development/)
@@ -873,6 +875,7 @@
 - [3 Code Splitting Patterns For VueJS and Webpack](http://vuejsdevelopers.com/2017/07/08/vue-js-3-ways-code-splitting-webpack/)[code splitting]
 - [Dynamic imports + common chunks](https://github.com/webpack/webpack/issues/4392)
 
+- [Craft Better Looking Vue Apps Using Tailwind CSS](https://snipcart.com/blog/tailwind-vue-tutorial)
 - [Handling Asynchrony in Vue 3 / Composition API](https://medium.com/javascript-in-plain-english/handling-asynchrony-in-vue-3-composition-api-part-1-managing-async-state-e993842ebf8f)
 - [Handling Asynchrony with Vue Composition API and vue-concurrency](https://medium.com/javascript-in-plain-english/handling-asynchrony-with-vue-composition-api-and-vue-concurrency-part-2-canceling-throttling-4e0305c82367)
 - [Building a data layer with Vue and Composition API](https://medium.com/javascript-in-plain-english/building-a-data-layer-with-vue-and-composition-api-547cc9761b4c)
@@ -1385,6 +1388,7 @@
 
 ### Related Libs
 
+- [Playwright](https://github.com/microsoft/playwright)
 - [QA Wolf](https://www.qawolf.com/)
 - [Stryker](https://stryker-mutator.io/) [mutation testing][mutant]
 - [Axe](https://www.deque.com/axe/)
