@@ -1467,7 +1467,6 @@
 - [Introducing: @pika/pack](https://www.pikapkg.com/blog/introducing-pika-pack/)
 - [Code-splitting for libraries—bundling for npm with Rollup 1.0](https://levelup.gitconnected.com/code-splitting-for-libraries-bundling-for-npm-with-rollup-1-0-2522c7437697)
 - [Remove unused CSS with PurgeCSS](https://vuedose.tips/tips/3/)
-- [Deploying ES2015+ Code in Production Today](https://philipwalton.com/articles/deploying-es2015-code-in-production-today/)
 - [Decrease Front-end Size](https://developers.google.com/web/fundamentals/performance/webpack/decrease-frontend-size)[webpack]
 - [Tomorrow’s ES Modules Today!](https://medium.com/web-on-the-edge/tomorrows-es-modules-today-c53d29ac448c)[esm]
 - [Webpack 4 Tutorial: from 0 Conf to Production Mode](https://www.valentinog.com/blog/webpack-4-tutorial/)[webpack]
@@ -1480,7 +1479,7 @@
 - [A study about how to improve frontend dev experience without a bundler](https://codeburst.io/a-study-about-how-to-improve-frontend-dev-experience-without-a-bundler-1b4c3a461a35)[unchained]
 - [State of Modules in JavaScript](https://www.sitepen.com/blog/2017/10/26/state-of-modules-in-javascript/?utm_source=ESnextNews.com&utm_medium=Weekly+Newsletter&utm_campaign=2017-10-31)[esm]
 - [Critical CSS and Webpack: Automatically Minimize Render-Blocking CSS](https://medium.com/js-dojo/critical-css-and-webpack-automatically-minimize-render-blocking-css-5390850dad45)
-- [Deploying ES2015+ Code in Production Today](https://philipwalton.com/articles/deploying-es2015-code-in-production-today/?utm_source=ESnextNews.com&utm_medium=Weekly+Newsletter&utm_campaign=2017-09-19)
+- [Deploying ES2015+ Code in Production Today](https://philipwalton.com/articles/deploying-es2015-code-in-production-today)
 - [Delivering untranspiled source code via npm](http://2ality.com/2017/06/pkg-esnext.html)
 - [Predictable long term caching with Webpack](https://medium.com/webpack/predictable-long-term-caching-with-webpack-d3eee1d3fa31)
 - [OPTIMIZING WEBPACK FOR FASTER REACT BUILDS](http://engineering.invisionapp.com/post/optimizing-webpack/) [webpack][dll]

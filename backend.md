@@ -41,6 +41,7 @@
 
 ## Node
 
+- [12 Useful Packages Every Node.js Developer Should Know](https://medium.com/better-programming/12-useful-packages-every-node-js-developer-should-know-2746db760e)
 - [The new ECMAScript module support in Node.js 12](http://2ality.com/2019/04/nodejs-esm-impl.html)
 - [Node.js Best Practices](https://github.com/i0natan/nodebestpractices)
 - [How to easily set up node config following these best practices](http://codingsans.com/blog/node-config-best-practices)
