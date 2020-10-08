@@ -142,6 +142,7 @@
 
 ## General
 
+- [Declarative Shadow DOM](https://web.dev/declarative-shadow-dom/)
 - [Bringing Modern JavaScript to Libraries](https://dev.to/garylchew/bringing-modern-javascript-to-libraries-432c)
 - [What Is Canary Deployment?](https://semaphoreci.com/blog/what-is-canary-deployment)
 - [What is Serverless?](https://medium.com/javascript-in-plain-english/what-is-serverless-550dd9340042)
@@ -389,6 +390,8 @@
 
 ## Performance, memory
 
+- [Preload, Prefetch And Priorities in Chrome](https://medium.com/reloading/preload-prefetch-and-priorities-in-chrome-776165961bbf)
+- [5 tricks to eliminate render blocking resources](https://blog.logrocket.com/5-tricks-to-eliminate-render-blocking-resources/)
 - [An Introduction To Running Lighthouse Programmatically](https://www.smashingmagazine.com/2020/09/introduction-running-lighthouse-programmatically/)
 - [radEventListener: a Tale of Client-side Framework Performance](https://css-tricks.com/radeventlistener-a-tale-of-client-side-framework-performance/)
 - [It's time to lazy-load offscreen iframes!](https://web.dev/iframe-lazy-loading/)
@@ -875,6 +878,7 @@
 - [3 Code Splitting Patterns For VueJS and Webpack](http://vuejsdevelopers.com/2017/07/08/vue-js-3-ways-code-splitting-webpack/)[code splitting]
 - [Dynamic imports + common chunks](https://github.com/webpack/webpack/issues/4392)
 
+- [Lazy-Loading Routes with Vue Router with a Progress Bar](https://stackabuse.com/lazy-loading-routes-with-vue-router/)[tutorial]
 - [Craft Better Looking Vue Apps Using Tailwind CSS](https://snipcart.com/blog/tailwind-vue-tutorial)
 - [Handling Asynchrony in Vue 3 / Composition API](https://medium.com/javascript-in-plain-english/handling-asynchrony-in-vue-3-composition-api-part-1-managing-async-state-e993842ebf8f)
 - [Handling Asynchrony with Vue Composition API and vue-concurrency](https://medium.com/javascript-in-plain-english/handling-asynchrony-with-vue-composition-api-and-vue-concurrency-part-2-canceling-throttling-4e0305c82367)
@@ -1505,6 +1509,7 @@
 
 ### Related Libs
 
+- [esbuild](https://github.com/evanw/esbuild)
 - [Skypack](https://www.skypack.dev/)
 - [devolution](https://github.com/theKashey/devolution)
 - [Snowpack](https://www.snowpack.dev/)

@@ -32,6 +32,8 @@
 
 ## CSS
 
+- [Using JavaScript to Adjust Saturation and Brightness of RGB Colors](https://css-tricks.com/using-javascript-to-adjust-saturation-and-brightness-of-rgb-colors/)
+- [Finding/Fixing Unintended Body Overflow](https://css-tricks.com/findingfixing-unintended-body-overflow/)
 - [1-Line Layouts](https://1linelayouts.glitch.me/)
 - [What does 100% mean in CSS?](https://wattenberger.com/blog/css-percents)
 - [A user’s guide to CSS variables](https://increment.com/frontend/a-users-guide-to-css-variables/)
@@ -157,6 +159,7 @@
 
 ### Related
 
+- [headless.ui](https://headlessui.dev/)
 - [Responsively.app](https://responsively.app/)
 - [pocketjoso/penthouse](https://github.com/pocketjoso/penthouse)[critical css]
 - [addyosmani/critical](https://github.com/addyosmani/critical)[critical css]
