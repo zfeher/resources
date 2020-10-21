@@ -142,6 +142,7 @@
 
 ## General
 
+- [Pattern Matching in JavaScript](https://kyleshevlin.com/pattern-matching)[switch]
 - [Declarative Shadow DOM](https://web.dev/declarative-shadow-dom/)
 - [Bringing Modern JavaScript to Libraries](https://dev.to/garylchew/bringing-modern-javascript-to-libraries-432c)
 - [What Is Canary Deployment?](https://semaphoreci.com/blog/what-is-canary-deployment)
@@ -390,6 +391,9 @@
 
 ## Performance, memory
 
+- [Faster Web App Delivery with PRPL](https://addyosmani.com/blog/the-prpl-pattern/)
+- [Reducing the Site-Speed Impact of Third-Party Tags](https://andydavies.me/blog/2020/10/02/reducing-the-site-speed-impact-of-third-party-tags/)
+- [Optimized media loading using Web Workers](https://blog.logrocket.com/optimized-media-loading-web-workers/)
 - [Preload, Prefetch And Priorities in Chrome](https://medium.com/reloading/preload-prefetch-and-priorities-in-chrome-776165961bbf)
 - [5 tricks to eliminate render blocking resources](https://blog.logrocket.com/5-tricks-to-eliminate-render-blocking-resources/)
 - [An Introduction To Running Lighthouse Programmatically](https://www.smashingmagazine.com/2020/09/introduction-running-lighthouse-programmatically/)
@@ -752,6 +756,7 @@
 
 ## Typescript
 
+- [Bringing TypeScript Types at Runtime with TypeOnly](https://itnext.io/bringing-typescript-types-at-runtime-with-typeonly-c317e9dd8880)
 - [TypeScript exercises](https://typescript-exercises.github.io/)
 - [Testing Typescript Types](https://medium.com/front-end-weekly/testing-typescript-types-1595c641d7c7)
 - [Computing with types in TypeScript](https://2ality.com/2020/06/computing-with-types.html)
@@ -1340,6 +1345,7 @@
 
 ## Testing
 
+- [Effective React Tests](https://glebbahmutov.com/blog/effective-react-tests/)
 - [Testing Implementation Details](https://kentcdodds.com/blog/testing-implementation-details)
 - [Code Coverage for Vue Applications](https://vuejsdevelopers.com/2020/07/20/code-coverage-vue-cypress/)[vue][coverage]
 - [End-to-End Snapshot Testing](https://www.cypress.io/blog/2018/01/16/end-to-end-snapshot-testing/)[cypress][snapshot]
