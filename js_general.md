@@ -883,6 +883,7 @@
 - [3 Code Splitting Patterns For VueJS and Webpack](http://vuejsdevelopers.com/2017/07/08/vue-js-3-ways-code-splitting-webpack/)[code splitting]
 - [Dynamic imports + common chunks](https://github.com/webpack/webpack/issues/4392)
 
+- [How to make vue-router play nice with loading states](https://medium.com/bauer-kirch/how-to-make-vue-router-play-nice-with-loading-states-3f2ff6bfd633)
 - [Lazy-Loading Routes with Vue Router with a Progress Bar](https://stackabuse.com/lazy-loading-routes-with-vue-router/)[tutorial]
 - [Craft Better Looking Vue Apps Using Tailwind CSS](https://snipcart.com/blog/tailwind-vue-tutorial)
 - [Handling Asynchrony in Vue 3 / Composition API](https://medium.com/javascript-in-plain-english/handling-asynchrony-in-vue-3-composition-api-part-1-managing-async-state-e993842ebf8f)
