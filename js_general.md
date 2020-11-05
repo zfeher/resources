@@ -391,6 +391,7 @@
 
 ## Performance, memory
 
+- [Thoughts on device based code split in React](https://webup.org/blog/react-device-based-code-split/)
 - [Faster Web App Delivery with PRPL](https://addyosmani.com/blog/the-prpl-pattern/)
 - [Reducing the Site-Speed Impact of Third-Party Tags](https://andydavies.me/blog/2020/10/02/reducing-the-site-speed-impact-of-third-party-tags/)
 - [Optimized media loading using Web Workers](https://blog.logrocket.com/optimized-media-loading-web-workers/)
@@ -1052,6 +1053,7 @@
 
 ## Angular 2
 
+- [The Good and Bad of Angular Development](https://medium.com/javascript-in-plain-english/the-good-and-bad-of-angular-development-f48ac045d556)
 - [Techniques for Improving ng-repeat Performance](http://www.codelord.net/2017/01/25/techniques-for-improving-ng-repeat-performance/)
 - [Angular 2 Testing In Depth: Services](https://auth0.com/blog/angular-2-testing-in-depth-services/)
 - [Angular 2 — Explore The Renderer Service](https://medium.com/@NetanelBasal/angular-2-explore-the-renderer-service-e43ef673b26c#.vrl9xa5eq)
@@ -1075,6 +1077,7 @@
 
 ### Hooks
 
+- [The last guide to the useEffect Hook you’ll ever need](https://blog.logrocket.com/guide-to-react-useeffect-hook/)
 - [Why I Stopped Using Redux](https://dev.to/g_abud/why-i-quit-redux-1knl)
 - [Render props vs hooks](https://webup.org/blog/render-props-vs-hooks/)
 - [3 Rules of React State Management](https://dmitripavlutin.com/react-state-management/)
@@ -1109,6 +1112,7 @@
 
 ### General
 
+- [4 Ways to Communicate Across Browser Tabs in Realtime](https://blog.bitsrc.io/4-ways-to-communicate-across-browser-tabs-in-realtime-e4f5f6cbedca)
 - [Is it Safe to Compare JavaScript Strings?](https://dmitripavlutin.com/compare-javascript-strings/)
 - [10 Awesome JavaScript Libraries You Should Try Out in 2020](https://www.freecodecamp.org/news/10-javascript-libraries-you-should-try/)
 - [Blogged Answers: A (Mostly) Complete Guide to React Rendering Behavior](https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/)
@@ -1426,6 +1430,7 @@
 
 ## Package/Dependency Management
 
+- [How to deploy only changed packages in a Lerna Monorepo](https://itnext.io/how-to-deploy-only-changed-packages-in-a-lerna-monorepo-7e5fb234b32a)
 - [Is Monorepo for You? — 2020](https://blog.bitsrc.io/is-monorepo-for-you-2020-78cc1717a4f1)[monorepo]
 - [How to find unused npm packages?](https://w3lessons.info/how-to-find-unused-npm-packages/)[depcheck][npm]
 - [How to successfully manage a large scale JavaScript monorepo aka megarepo](https://www.jonathancreamer.com/how-to-successfully-manage-a-monorepo-aka-megarepo/)
