@@ -142,6 +142,7 @@
 
 ## General
 
+- [The Fetch API Cheatsheet: Nine of the Most Common API Requests](https://www.freecodecamp.org/news/fetch-api-cheatsheet/)
 - [Pattern Matching in JavaScript](https://kyleshevlin.com/pattern-matching)[switch]
 - [Declarative Shadow DOM](https://web.dev/declarative-shadow-dom/)
 - [Bringing Modern JavaScript to Libraries](https://dev.to/garylchew/bringing-modern-javascript-to-libraries-432c)
