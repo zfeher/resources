@@ -142,6 +142,7 @@
 
 ## General
 
+- [Sick of the stupid jokes? Write your own arbitrary-precision JavaScript math library](https://jrsinclair.com/articles/2020/sick-of-the-jokes-write-your-own-arbitrary-precision-javascript-math-library/)[tutorial]
 - [The Fetch API Cheatsheet: Nine of the Most Common API Requests](https://www.freecodecamp.org/news/fetch-api-cheatsheet/)
 - [Pattern Matching in JavaScript](https://kyleshevlin.com/pattern-matching)[switch]
 - [Declarative Shadow DOM](https://web.dev/declarative-shadow-dom/)
@@ -581,6 +582,7 @@
 
 ## Functional Programming (FP)
 
+- [A fool's scriptum on functional programming](https://github.com/kongware/scriptum)[course]
 - [Thoughts on Railway Oriented Programming — JavaScript](https://levelup.gitconnected.com/thoughts-on-railway-oriented-programming-javascript-473acdf1fe82)[either]
 - [How to not create your RxJS observables](https://timdeschryver.dev/blog/how-to-not-create-your-rxjs-observables)[rxjs]
 - [Lambda Calculus - Computerphile](https://www.youtube.com/watch?v=eis11j_iGMs)
@@ -885,6 +887,7 @@
 - [3 Code Splitting Patterns For VueJS and Webpack](http://vuejsdevelopers.com/2017/07/08/vue-js-3-ways-code-splitting-webpack/)[code splitting]
 - [Dynamic imports + common chunks](https://github.com/webpack/webpack/issues/4392)
 
+- [Best Static Site Generators for Vue.js](https://blog.bitsrc.io/best-static-site-generators-for-vue-js-e273d52ea208)[Nuxt][Gridsome][VuePress][Saber]
 - [How to make vue-router play nice with loading states](https://medium.com/bauer-kirch/how-to-make-vue-router-play-nice-with-loading-states-3f2ff6bfd633)
 - [Lazy-Loading Routes with Vue Router with a Progress Bar](https://stackabuse.com/lazy-loading-routes-with-vue-router/)[tutorial]
 - [Craft Better Looking Vue Apps Using Tailwind CSS](https://snipcart.com/blog/tailwind-vue-tutorial)

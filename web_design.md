@@ -32,6 +32,7 @@
 
 ## CSS
 
+- [Native Aspect Ratio Boxes in CSS thanks to aspect-ratio](https://www.bram.us/2020/11/30/native-aspect-ratio-boxes-in-css-thanks-to-aspect-ratio/)
 - [Using JavaScript to Adjust Saturation and Brightness of RGB Colors](https://css-tricks.com/using-javascript-to-adjust-saturation-and-brightness-of-rgb-colors/)
 - [Finding/Fixing Unintended Body Overflow](https://css-tricks.com/findingfixing-unintended-body-overflow/)
 - [1-Line Layouts](https://1linelayouts.glitch.me/)
