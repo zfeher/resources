@@ -393,6 +393,7 @@
 
 ## Performance, memory
 
+- [Enabling faster SPA navigation with Turbolinks](https://blog.logrocket.com/faster-spa-navigation-with-turbolinks/)
 - [Thoughts on device based code split in React](https://webup.org/blog/react-device-based-code-split/)
 - [Faster Web App Delivery with PRPL](https://addyosmani.com/blog/the-prpl-pattern/)
 - [Reducing the Site-Speed Impact of Third-Party Tags](https://andydavies.me/blog/2020/10/02/reducing-the-site-speed-impact-of-third-party-tags/)
@@ -433,6 +434,7 @@
 
 ### Related
 
+- [Turbolinks](https://github.com/turbolinks/turbolinks)
 - [Perfume.js](https://zizzamia.github.io/perfume/)
 - [Quicklinks](https://getquick.link/)[prefetch]
 - [Web Vitals Chrome Extension](https://github.com/GoogleChrome/web-vitals-extension#web-vitals-chrome-extension-alpha)
@@ -503,6 +505,7 @@
 
 ## Security / Payment
 
+- [Dealing with some CSRF attacks using the SameSite cookies](https://wanago.io/2020/12/21/csrf-attacks-same-site-cookies/)
 - [JavaScript Security Issues and Best Practices](https://blog.bitsrc.io/javascript-security-issues-and-best-practices-37e78df4dce4)
 - [Web Application Security Practices Every Developer Must Know](https://medium.com/javascript-in-plain-english/web-application-security-best-practices-881e3cfde2a1)[OWASP]
 - [How to Hide Secrets in Strings— Modern Text hiding in JavaScript](https://blog.bitsrc.io/how-to-hide-secrets-in-strings-modern-text-hiding-in-javascript-613a9faa5787)
@@ -887,6 +890,7 @@
 - [3 Code Splitting Patterns For VueJS and Webpack](http://vuejsdevelopers.com/2017/07/08/vue-js-3-ways-code-splitting-webpack/)[code splitting]
 - [Dynamic imports + common chunks](https://github.com/webpack/webpack/issues/4392)
 
+- [What’s Coming To VueX?](https://www.smashingmagazine.com/2020/12/vuex-library/)
 - [Best Static Site Generators for Vue.js](https://blog.bitsrc.io/best-static-site-generators-for-vue-js-e273d52ea208)[Nuxt][Gridsome][VuePress][Saber]
 - [How to make vue-router play nice with loading states](https://medium.com/bauer-kirch/how-to-make-vue-router-play-nice-with-loading-states-3f2ff6bfd633)
 - [Lazy-Loading Routes with Vue Router with a Progress Bar](https://stackabuse.com/lazy-loading-routes-with-vue-router/)[tutorial]
@@ -1525,6 +1529,7 @@
 
 ### Related Libs
 
+- [Microbundle](https://github.com/developit/microbundle)
 - [esbuild](https://github.com/evanw/esbuild)
 - [Skypack](https://www.skypack.dev/)
 - [devolution](https://github.com/theKashey/devolution)
