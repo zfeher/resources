@@ -585,6 +585,7 @@
 
 ## Functional Programming (FP)
 
+- [Cube Composer](https://david-peter.de/cube-composer/)[game]
 - [A fool's scriptum on functional programming](https://github.com/kongware/scriptum)[course]
 - [Thoughts on Railway Oriented Programming — JavaScript](https://levelup.gitconnected.com/thoughts-on-railway-oriented-programming-javascript-473acdf1fe82)[either]
 - [How to not create your RxJS observables](https://timdeschryver.dev/blog/how-to-not-create-your-rxjs-observables)[rxjs]
