@@ -142,6 +142,8 @@
 
 ## General
 
+- [How to display dates in your user's time zone with the Intl API](https://philna.sh/blog/2021/02/22/display-dates-in-your-users-time-zone/)
+- [Zero Server: Build Modern Web Apps with Multiple Languages and Frameworks — and Zero Config](https://blog.bitsrc.io/zero-server-introduction-build-modern-web-apps-without-any-configurations-792791da89a8)
 - [Sick of the stupid jokes? Write your own arbitrary-precision JavaScript math library](https://jrsinclair.com/articles/2020/sick-of-the-jokes-write-your-own-arbitrary-precision-javascript-math-library/)[tutorial]
 - [The Fetch API Cheatsheet: Nine of the Most Common API Requests](https://www.freecodecamp.org/news/fetch-api-cheatsheet/)
 - [Pattern Matching in JavaScript](https://kyleshevlin.com/pattern-matching)[switch]
@@ -280,6 +282,7 @@
 
 ### Related
 
+- [Zero Server](https://zeroserver.io/), [remoteinterview/zero](https://github.com/remoteinterview/zero)
 - [winston](https://github.com/winstonjs/winston)
 - [detect-es-version](http://detect-es-version.glitch.me/)
 - [devcert](https://github.com/davewasmer/devcert)
@@ -434,6 +437,7 @@
 
 ### Related
 
+- [Clinic.js Doctor](https://clinicjs.org/)
 - [Turbolinks](https://github.com/turbolinks/turbolinks)
 - [Perfume.js](https://zizzamia.github.io/perfume/)
 - [Quicklinks](https://getquick.link/)[prefetch]
@@ -736,6 +740,7 @@
 
 ## Progressive Web Apps / PWA
 
+- [Progressive Web Apps in 2021](https://firt.dev/pwa-2021)
 - [Service Worker Lifecycle Explained](https://felixgerschau.com/service-worker-lifecycle-update/)
 - [Understanding Service Workers and Caching Strategies](https://blog.bitsrc.io/understanding-service-workers-and-caching-strategies-a6c1e1cbde03)
 - [A declarative router for service workers](https://jakearchibald.com/2019/service-worker-declarative-router/)
@@ -764,6 +769,7 @@
 
 ## Typescript
 
+- [Using built-in utility types in TypeScript](https://blog.logrocket.com/using-built-in-utility-types-in-typescript/)
 - [Bringing TypeScript Types at Runtime with TypeOnly](https://itnext.io/bringing-typescript-types-at-runtime-with-typeonly-c317e9dd8880)
 - [TypeScript exercises](https://typescript-exercises.github.io/)
 - [Testing Typescript Types](https://medium.com/front-end-weekly/testing-typescript-types-1595c641d7c7)
@@ -838,6 +844,7 @@
 
 ## Components
 
+- [Building a Tabs component](https://web.dev/building-a-tabs-component/)
 - [Sharing reusable Vue.js components with Lerna, Storybook, and npm or GitHub Package Registries](https://medium.com/js-dojo/sharing-reusable-vue-js-components-with-lerna-storybook-and-npm-7dc33b38b011)
 - [Sharing UI components at an enterprise level](https://medium.com/paypal-engineering/reusing-ui-components-at-enterprise-level-a7df1ea1f8dd)[bit][storybook]
 - [6 Ways to Share React Components in 2020](https://blog.bitsrc.io/6-ways-to-share-and-reuse-react-components-6d80e2fd16cd)[component sharing][microfrontend]
@@ -1121,6 +1128,7 @@
 
 ### General
 
+- [Before You memo()](https://overreacted.io/before-you-memo/)
 - [4 Ways to Communicate Across Browser Tabs in Realtime](https://blog.bitsrc.io/4-ways-to-communicate-across-browser-tabs-in-realtime-e4f5f6cbedca)
 - [Is it Safe to Compare JavaScript Strings?](https://dmitripavlutin.com/compare-javascript-strings/)
 - [10 Awesome JavaScript Libraries You Should Try Out in 2020](https://www.freecodecamp.org/news/10-javascript-libraries-you-should-try/)
@@ -1412,6 +1420,7 @@
 
 ### Related Libs
 
+- [Mocks Server](https://www.mocks-server.org/)
 - [Playwright](https://github.com/microsoft/playwright)
 - [QA Wolf](https://www.qawolf.com/)
 - [Stryker](https://stryker-mutator.io/) [mutation testing][mutant]
