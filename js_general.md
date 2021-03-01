@@ -142,6 +142,8 @@
 
 ## General
 
+- [Looks Good To Me: Making code reviews better for remote-first teams](https://medium.com/bbc-design-engineering/looks-good-to-me-making-code-reviews-better-for-remote-first-teams-95bd92ee4e27)
+- [Chrome Extension Tutorial: How to Pass Messages from a Page's Context](https://www.freecodecamp.org/news/chrome-extension-message-passing-essentials/)
 - [How to display dates in your user's time zone with the Intl API](https://philna.sh/blog/2021/02/22/display-dates-in-your-users-time-zone/)
 - [Zero Server: Build Modern Web Apps with Multiple Languages and Frameworks — and Zero Config](https://blog.bitsrc.io/zero-server-introduction-build-modern-web-apps-without-any-configurations-792791da89a8)
 - [Sick of the stupid jokes? Write your own arbitrary-precision JavaScript math library](https://jrsinclair.com/articles/2020/sick-of-the-jokes-write-your-own-arbitrary-precision-javascript-math-library/)[tutorial]
@@ -150,7 +152,6 @@
 - [Declarative Shadow DOM](https://web.dev/declarative-shadow-dom/)
 - [Bringing Modern JavaScript to Libraries](https://dev.to/garylchew/bringing-modern-javascript-to-libraries-432c)
 - [What Is Canary Deployment?](https://semaphoreci.com/blog/what-is-canary-deployment)
-- [What is Serverless?](https://medium.com/javascript-in-plain-english/what-is-serverless-550dd9340042)
 - [How JavaScript Works: Under the Hood of the V8 Engine](https://www.freecodecamp.org/news/javascript-under-the-hood-v8/)
 - [Natively Format JavaScript Numbers](https://elijahmanor.com/format-js-numbers)
 - [Natively Format JavaScript Dates and Times](https://elijahmanor.com/format-js-dates-and-times)
@@ -183,7 +184,6 @@
   - [part 3 - Functions](https://dev.to/carlillo/clean-code-applied-to-javascript-part-iii-functions-4235)
 - [Attributes of object properties in JavaScript](https://2ality.com/2019/11/object-property-attributes.html)
 - [34 Tips To Become a First-Rate Software Developer](https://coderrocketfuel.com/article/34-tips-to-become-a-first-rate-software-developer)
-- [Serverless Can Help You To Focus](https://hackernoon.com/serverless-can-do-that-7nw32mk)[serverless]
 - [Understanding the Delete Operator in JavaScript](https://blog.bitsrc.io/understanding-the-delete-operator-in-javascript-3791ba6f3a08)
 - [When to Use Map instead of Plain JavaScript Object](https://dmitripavlutin.com/maps-vs-plain-objects-javascript/)
 - [Creating custom JavaScript syntax with Babel](https://lihautan.com/creating-custom-javascript-syntax-with-babel/)
@@ -324,10 +324,21 @@
 
 - [Architecture Spotlight: Event Sourcing](https://www.sitepen.com/blog/architecture-spotlight-event-sourcing/)
 
+## Serverless (Cloud Computing)
+
+- [What is Serverless?](https://medium.com/javascript-in-plain-english/what-is-serverless-550dd9340042)
+- [Serverless Can Help You To Focus](https://hackernoon.com/serverless-can-do-that-7nw32mk)[serverless]
+
+### Related
+
+- [Serverless Framework](https://www.serverless.com/)
+- [Serverless UI](https://github.com/JakePartusch/serverlessui)
+
 ## Micro frontends
 
 - [Micro Frontends](https://martinfowler.com/articles/micro-frontends.html)
 - [Micro Frontends](https://micro-frontends.org/)
+- [The BFF Pattern (Backend for Frontend): An Introduction](https://blog.bitsrc.io/bff-pattern-backend-for-frontend-an-introduction-e4fa965128bf)
 - [Six Patterns for Microfrontends](https://dev.to/florianrappl/microfrontends-from-zero-to-hero-3be7)
 - [Building Microfrontends with React](https://blog.bitsrc.io/building-react-microfrontends-using-piral-c26eb206310e)[Piral]
 - [Sharing Dependencies in Micro Frontends](https://blog.bitsrc.io/sharing-dependencies-in-micro-frontends-9da142296a2b)
@@ -898,6 +909,7 @@
 - [3 Code Splitting Patterns For VueJS and Webpack](http://vuejsdevelopers.com/2017/07/08/vue-js-3-ways-code-splitting-webpack/)[code splitting]
 - [Dynamic imports + common chunks](https://github.com/webpack/webpack/issues/4392)
 
+- [Top 3 GraphQL Resources for Vue.js Developers in 2021](https://hasura.io/blog/top-3-graphql-resources-for-vuejs-developers/)[GraphQL][SWR][urql][JWT][Auth0][Firebase]
 - [What’s Coming To VueX?](https://www.smashingmagazine.com/2020/12/vuex-library/)
 - [Best Static Site Generators for Vue.js](https://blog.bitsrc.io/best-static-site-generators-for-vue-js-e273d52ea208)[Nuxt][Gridsome][VuePress][Saber]
 - [How to make vue-router play nice with loading states](https://medium.com/bauer-kirch/how-to-make-vue-router-play-nice-with-loading-states-3f2ff6bfd633)
@@ -1020,6 +1032,10 @@
 
 ### Related
 
+- [#vueuse/motion](https://motion.vueuse.org/)
+- [OverVue](https://www.overvue.io/) #prototyping
+- [urql](https://github.com/FormidableLabs/urql)[GraphQL]
+- [SWRV](https://github.com/Kong/swrv)[SWR][GraphQL]
 - [Vue-Tailwind](https://github.com/alfonsobries/vue-tailwind)
 - [vue-a11y/vue-axe](https://github.com/vue-a11y/vue-axe)
 - [ktsn/vue-auto-routing](https://github.com/ktsn/vue-auto-routing)
@@ -1128,6 +1144,7 @@
 
 ### General
 
+- [How to create React components with TypeScript](https://felixgerschau.com/react-typescript-components/)
 - [Before You memo()](https://overreacted.io/before-you-memo/)
 - [4 Ways to Communicate Across Browser Tabs in Realtime](https://blog.bitsrc.io/4-ways-to-communicate-across-browser-tabs-in-realtime-e4f5f6cbedca)
 - [Is it Safe to Compare JavaScript Strings?](https://dmitripavlutin.com/compare-javascript-strings/)
@@ -1204,6 +1221,7 @@
 
 ### Related
 
+- [SWR](https://github.com/vercel/swr)
 - [Alpine.js](https://github.com/alpinejs/alpine)
 - [dai-shi/react-hooks-async](https://github.com/dai-shi/react-hooks-async)
 - [Proton Native](https://github.com/kusti8/proton-native)
