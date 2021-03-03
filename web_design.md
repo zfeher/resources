@@ -32,6 +32,7 @@
 
 ## CSS
 
+- [An Interactive Guide to CSS Transitions](https://www.joshwcomeau.com/animation/css-transitions/)
 - [What the heck, z-index??](https://www.joshwcomeau.com/css/stacking-contexts/)
 - [Sharing data between CSS and JavaScript using custom properties](https://christianheilmann.com/2021/02/08/sharing-data-between-css-and-javascript-using-custom-properties/)
 - [Native Aspect Ratio Boxes in CSS thanks to aspect-ratio](https://www.bram.us/2020/11/30/native-aspect-ratio-boxes-in-css-thanks-to-aspect-ratio/)

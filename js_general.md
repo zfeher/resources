@@ -366,6 +366,7 @@
 
 ### Related
 
+- [MicroLib](https://github.com/module-federation/MicroLib)
 - [awesome-microfrontends](https://github.com/ChristianUlbrich/awesome-microfrontends)
 - [Piral](https://piral.io/)
 - [Luigi](https://luigi-project.io/)
@@ -780,6 +781,11 @@
 
 ## Typescript
 
+- [Introduction to Index Types in TypeScript](https://www.geekabyte.io/2021/02/introduction-to-index-types-in.html)
+- [Boost Your Automated Test Workflow using TypeScript IntelliSense](https://javascript.plainenglish.io/boost-your-automated-test-workflow-using-typescript-intellisense-ec85f2a0391e)
+- [TypeScript Typeguard Transparency](https://javascript.plainenglish.io/typeguard-transparency-fe33061c1744)
+- [TypeScript: narrowing types via type guards and assertion functions](https://2ality.com/2020/06/type-guards-assertion-functions-typescript.html)
+- [How to get the types you want with TypeScript type guards](https://rangle.io/blog/how-to-use-typescript-type-guards/)
 - [Using built-in utility types in TypeScript](https://blog.logrocket.com/using-built-in-utility-types-in-typescript/)
 - [Bringing TypeScript Types at Runtime with TypeOnly](https://itnext.io/bringing-typescript-types-at-runtime-with-typeonly-c317e9dd8880)
 - [TypeScript exercises](https://typescript-exercises.github.io/)
@@ -909,6 +915,8 @@
 - [3 Code Splitting Patterns For VueJS and Webpack](http://vuejsdevelopers.com/2017/07/08/vue-js-3-ways-code-splitting-webpack/)[code splitting]
 - [Dynamic imports + common chunks](https://github.com/webpack/webpack/issues/4392)
 
+- [Vue with TSX - the perfect duo!?](https://areknawo.com/vue-with-tsx-the-perfect-duo/)
+- [What to do when Vue hydration fails](https://blog.lichter.io/posts/vue-hydration-error/)
 - [Top 3 GraphQL Resources for Vue.js Developers in 2021](https://hasura.io/blog/top-3-graphql-resources-for-vuejs-developers/)[GraphQL][SWR][urql][JWT][Auth0][Firebase]
 - [What’s Coming To VueX?](https://www.smashingmagazine.com/2020/12/vuex-library/)
 - [Best Static Site Generators for Vue.js](https://blog.bitsrc.io/best-static-site-generators-for-vue-js-e273d52ea208)[Nuxt][Gridsome][VuePress][Saber]
@@ -1032,7 +1040,8 @@
 
 ### Related
 
-- [#vueuse/motion](https://motion.vueuse.org/)
+- [vue-promised](https://github.com/posva/vue-promised#usage)
+- [vueuse/motion](https://motion.vueuse.org/)
 - [OverVue](https://www.overvue.io/) #prototyping
 - [urql](https://github.com/FormidableLabs/urql)[GraphQL]
 - [SWRV](https://github.com/Kong/swrv)[SWR][GraphQL]
@@ -1490,6 +1499,7 @@
 
 ### Related Libs
 
+- [Awesome npm scripts](https://github.com/RyanZim/awesome-npm-scripts)
 - [depcheck](https://github.com/depcheck/depcheck)
 - [bolt](http://boltpkg.com/)
 - [Lerna](https://lerna.js.org/)
