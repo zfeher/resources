@@ -8,6 +8,7 @@
 
 ### Related
 
+- [Nodes](https://nodes.io/) #visual programming
 - [Radi.js](https://github.com/radi-js/radi)
 - [Reason](https://reasonml.github.io)
 - [RE:DOM](https://redom.js.org)
@@ -781,6 +782,7 @@
 
 ## Typescript
 
+- [Using 'Pick' in TypeScript to simplify Types and Interfaces](https://ultimatecourses.com/blog/using-typescript-pick-mapped-type)
 - [Introduction to Index Types in TypeScript](https://www.geekabyte.io/2021/02/introduction-to-index-types-in.html)
 - [Boost Your Automated Test Workflow using TypeScript IntelliSense](https://javascript.plainenglish.io/boost-your-automated-test-workflow-using-typescript-intellisense-ec85f2a0391e)
 - [TypeScript Typeguard Transparency](https://javascript.plainenglish.io/typeguard-transparency-fe33061c1744)
@@ -915,6 +917,8 @@
 - [3 Code Splitting Patterns For VueJS and Webpack](http://vuejsdevelopers.com/2017/07/08/vue-js-3-ways-code-splitting-webpack/)[code splitting]
 - [Dynamic imports + common chunks](https://github.com/webpack/webpack/issues/4392)
 
+- [Building large projects with Vue, Vite and Lerna](https://letsdebug.it/post/12-monorepo-with-vue-vite-lerna/)
+- [Vue Enterprise Patterns - How to Build Components With Design System Variants And Share Variant Styles Using Variant Style Provider](https://theroadtoenterprise.com/blog/how-to-build-components-with-design-system-variants-and-share-variant-styles-using-variant-style-provider)
 - [Vue with TSX - the perfect duo!?](https://areknawo.com/vue-with-tsx-the-perfect-duo/)
 - [What to do when Vue hydration fails](https://blog.lichter.io/posts/vue-hydration-error/)
 - [Top 3 GraphQL Resources for Vue.js Developers in 2021](https://hasura.io/blog/top-3-graphql-resources-for-vuejs-developers/)[GraphQL][SWR][urql][JWT][Auth0][Firebase]
