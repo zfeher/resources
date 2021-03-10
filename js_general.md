@@ -143,6 +143,7 @@
 
 ## General
 
+- [Import Maps Release & Module CDN Launch](https://jspm.org/import-map-cdn)
 - [Looks Good To Me: Making code reviews better for remote-first teams](https://medium.com/bbc-design-engineering/looks-good-to-me-making-code-reviews-better-for-remote-first-teams-95bd92ee4e27)
 - [Chrome Extension Tutorial: How to Pass Messages from a Page's Context](https://www.freecodecamp.org/news/chrome-extension-message-passing-essentials/)
 - [How to display dates in your user's time zone with the Intl API](https://philna.sh/blog/2021/02/22/display-dates-in-your-users-time-zone/)
@@ -404,6 +405,7 @@
 
 ## SEO, Search Engine Optimization
 
+- [SEO for JavaScript-heavy websites](https://javascript.plainenglish.io/javascript-seo-6b69f673ef8b)
 - [Optimize SEO and Social Media Sharing in a Nuxt blog](https://vuedose.tips/optimize-seo-and-social-media-sharing-in-a-nuxt-blog/)
 - [A Practical Guide to Search Engine Optimization (SEO) with Google](https://www.taniarascia.com/a-practical-guide-to-search-engine-optimization-seo-with-google/)
 
@@ -450,6 +452,7 @@
 
 ### Related
 
+- [Yellow Lab Tools](https://yellowlab.tools/)
 - [Clinic.js Doctor](https://clinicjs.org/)
 - [Turbolinks](https://github.com/turbolinks/turbolinks)
 - [Perfume.js](https://zizzamia.github.io/perfume/)
@@ -863,6 +866,7 @@
 
 ## Components
 
+- [Web Components Are Easier Than You Think](https://css-tricks.com/web-components-are-easier-than-you-think/)
 - [Building a Tabs component](https://web.dev/building-a-tabs-component/)
 - [Sharing reusable Vue.js components with Lerna, Storybook, and npm or GitHub Package Registries](https://medium.com/js-dojo/sharing-reusable-vue-js-components-with-lerna-storybook-and-npm-7dc33b38b011)
 - [Sharing UI components at an enterprise level](https://medium.com/paypal-engineering/reusing-ui-components-at-enterprise-level-a7df1ea1f8dd)[bit][storybook]
@@ -1571,6 +1575,9 @@
 
 ### Related Libs
 
+- [Estrella](https://github.com/rsms/estrella)
+- [Vite](https://vitejs.dev/)
+- [Vitesse](https://github.com/antfu/vitesse)
 - [Microbundle](https://github.com/developit/microbundle)
 - [esbuild](https://github.com/evanw/esbuild)
 - [Skypack](https://www.skypack.dev/)
