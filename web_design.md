@@ -32,6 +32,8 @@
 
 ## CSS
 
+- [CSS Generators](https://denic.hashnode.dev/css-generators)
+- [CSS Auditing Tools](https://www.smashingmagazine.com/2021/03/css-auditing-tools/)
 - [An Interactive Guide to CSS Transitions](https://www.joshwcomeau.com/animation/css-transitions/)
 - [What the heck, z-index??](https://www.joshwcomeau.com/css/stacking-contexts/)
 - [Sharing data between CSS and JavaScript using custom properties](https://christianheilmann.com/2021/02/08/sharing-data-between-css-and-javascript-using-custom-properties/)

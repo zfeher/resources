@@ -75,6 +75,7 @@
 
 ## Learning
 
+- [Frontend Masters Learning Roadmap](https://frontendmasters.com/guides/learning-roadmap/)
 - [JavaScript Questions](https://github.com/lydiahallie/javascript-questions)
 - [Code Jam](https://codingcompetitions.withgoogle.com/codejam)[learning][competition]
 - [Codewars](https://www.codewars.com/)[learning][training]
@@ -143,6 +144,7 @@
 
 ## General
 
+- [You don't know the classNames library](https://areknawo.com/you-dont-know-the-classnames-library/) #CSS
 - [Import Maps Release & Module CDN Launch](https://jspm.org/import-map-cdn)
 - [Looks Good To Me: Making code reviews better for remote-first teams](https://medium.com/bbc-design-engineering/looks-good-to-me-making-code-reviews-better-for-remote-first-teams-95bd92ee4e27)
 - [Chrome Extension Tutorial: How to Pass Messages from a Page's Context](https://www.freecodecamp.org/news/chrome-extension-message-passing-essentials/)
@@ -284,6 +286,7 @@
 
 ### Related
 
+- [classNames](https://github.com/JedWatson/classnames)
 - [Zero Server](https://zeroserver.io/), [remoteinterview/zero](https://github.com/remoteinterview/zero)
 - [winston](https://github.com/winstonjs/winston)
 - [detect-es-version](http://detect-es-version.glitch.me/)
@@ -328,6 +331,7 @@
 
 ## Serverless (Cloud Computing)
 
+- [Introducing Amazon S3 Object Lambda – Use Your Code to Process Data as It Is Being Retrieved from S3](https://aws.amazon.com/blogs/aws/introducing-amazon-s3-object-lambda-use-your-code-to-process-data-as-it-is-being-retrieved-from-s3/)
 - [What is Serverless?](https://medium.com/javascript-in-plain-english/what-is-serverless-550dd9340042)
 - [Serverless Can Help You To Focus](https://hackernoon.com/serverless-can-do-that-7nw32mk)[serverless]
 
@@ -710,6 +714,7 @@
 
 ### Related Libs
 
+- [Clio](https://clio-lang.org/) #language
 - [purify-ts](https://gigobyte.github.io/purify/)
 - [mori](http://swannodette.github.io/mori/)
 - [eslint-plugin-fp](https://github.com/jfmengels/eslint-plugin-fp)
@@ -785,6 +790,7 @@
 
 ## Typescript
 
+- [TypeScript Function Syntaxes](https://kentcdodds.com/blog/typescript-function-syntaxes)
 - [Using 'Pick' in TypeScript to simplify Types and Interfaces](https://ultimatecourses.com/blog/using-typescript-pick-mapped-type)
 - [Introduction to Index Types in TypeScript](https://www.geekabyte.io/2021/02/introduction-to-index-types-in.html)
 - [Boost Your Automated Test Workflow using TypeScript IntelliSense](https://javascript.plainenglish.io/boost-your-automated-test-workflow-using-typescript-intellisense-ec85f2a0391e)
@@ -1402,6 +1408,7 @@
 
 ## Testing
 
+- [7 Ways to Debug Jest Tests in Terminal](https://pragmaticpineapple.com/7-ways-to-debug-jest-tests-in-terminal/)
 - [Effective React Tests](https://glebbahmutov.com/blog/effective-react-tests/)
 - [Testing Implementation Details](https://kentcdodds.com/blog/testing-implementation-details)
 - [Code Coverage for Vue Applications](https://vuejsdevelopers.com/2020/07/20/code-coverage-vue-cypress/)[vue][coverage]
