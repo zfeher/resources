@@ -23,6 +23,7 @@
 
 ## Books
 
+- [Serverless Handbook](https://serverlesshandbook.dev/)
 - [Tackling TypeScript: Upgrading from JavaScript](https://exploringjs.com/tackling-ts/)
 - [Deep JavaScript: Theory and techniques - Dr Axel Rauschmayer](https://exploringjs.com/deep-js/)
 - [7 Essential Books For Web Developers](https://levelup.gitconnected.com/7-essential-books-for-web-developers-9daa401ffbc7)
@@ -144,6 +145,7 @@
 
 ## General
 
+- [JavaScript: How Line Breaks and Missing Semicolons Can Break Your Code](https://javascript.plainenglish.io/javascript-how-line-breaks-and-missing-semicolons-can-break-your-code-58e031e7f235)
 - [You don't know the classNames library](https://areknawo.com/you-dont-know-the-classnames-library/) #CSS
 - [Import Maps Release & Module CDN Launch](https://jspm.org/import-map-cdn)
 - [Looks Good To Me: Making code reviews better for remote-first teams](https://medium.com/bbc-design-engineering/looks-good-to-me-making-code-reviews-better-for-remote-first-teams-95bd92ee4e27)
@@ -286,6 +288,7 @@
 
 ### Related
 
+- [patch-package](https://github.com/ds300/patch-package) #avoid fork
 - [classNames](https://github.com/JedWatson/classnames)
 - [Zero Server](https://zeroserver.io/), [remoteinterview/zero](https://github.com/remoteinterview/zero)
 - [winston](https://github.com/winstonjs/winston)
@@ -761,6 +764,7 @@
 
 ## Progressive Web Apps / PWA
 
+- [Now THAT’S What I Call Service Worker!](https://alistapart.com/article/now-thats-what-i-call-service-worker/)
 - [Progressive Web Apps in 2021](https://firt.dev/pwa-2021)
 - [Service Worker Lifecycle Explained](https://felixgerschau.com/service-worker-lifecycle-update/)
 - [Understanding Service Workers and Caching Strategies](https://blog.bitsrc.io/understanding-service-workers-and-caching-strategies-a6c1e1cbde03)
@@ -790,6 +794,7 @@
 
 ## Typescript
 
+- [The Complete Guide to Immutability in TypeScript](https://levelup.gitconnected.com/the-complete-guide-to-immutability-in-typescript-99154f859fdb)
 - [TypeScript Function Syntaxes](https://kentcdodds.com/blog/typescript-function-syntaxes)
 - [Using 'Pick' in TypeScript to simplify Types and Interfaces](https://ultimatecourses.com/blog/using-typescript-pick-mapped-type)
 - [Introduction to Index Types in TypeScript](https://www.geekabyte.io/2021/02/introduction-to-index-types-in.html)
@@ -1167,6 +1172,7 @@
 
 ### General
 
+- [Clean APIs in React with TypeScript](https://javascript.plainenglish.io/a-cleaner-api-for-react-ts-components-47d0704a508c) #TypeScript
 - [How to create React components with TypeScript](https://felixgerschau.com/react-typescript-components/)
 - [Before You memo()](https://overreacted.io/before-you-memo/)
 - [4 Ways to Communicate Across Browser Tabs in Realtime](https://blog.bitsrc.io/4-ways-to-communicate-across-browser-tabs-in-realtime-e4f5f6cbedca)
@@ -1490,6 +1496,7 @@
 
 ## Package/Dependency Management
 
+- [What is monorepo? (and should you use it?)](https://semaphoreci.com/blog/what-is-monorepo)
 - [How to deploy only changed packages in a Lerna Monorepo](https://itnext.io/how-to-deploy-only-changed-packages-in-a-lerna-monorepo-7e5fb234b32a)
 - [Is Monorepo for You? — 2020](https://blog.bitsrc.io/is-monorepo-for-you-2020-78cc1717a4f1)[monorepo]
 - [How to find unused npm packages?](https://w3lessons.info/how-to-find-unused-npm-packages/)[depcheck][npm]
