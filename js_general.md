@@ -1414,6 +1414,7 @@
 
 ## Testing
 
+- [Stop mocking fetch](https://kentcdodds.com/blog/stop-mocking-fetch) #msw #faker.js
 - [7 Ways to Debug Jest Tests in Terminal](https://pragmaticpineapple.com/7-ways-to-debug-jest-tests-in-terminal/)
 - [Effective React Tests](https://glebbahmutov.com/blog/effective-react-tests/)
 - [Testing Implementation Details](https://kentcdodds.com/blog/testing-implementation-details)
@@ -1468,6 +1469,8 @@
 
 ### Related Libs
 
+- [Mock Service Worker (msw)](https://github.com/mswjs/msw)
+- [faker.js](https://github.com/Marak/Faker.js)
 - [Mocks Server](https://www.mocks-server.org/)
 - [Playwright](https://github.com/microsoft/playwright)
 - [QA Wolf](https://www.qawolf.com/)
