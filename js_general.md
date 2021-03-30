@@ -145,6 +145,7 @@
 
 ## General
 
+- [5 Different Tools for Frontend Monitoring](https://blog.bitsrc.io/5-different-tools-for-frontend-monitoring-79db94014d)
 - [JavaScript: How Line Breaks and Missing Semicolons Can Break Your Code](https://javascript.plainenglish.io/javascript-how-line-breaks-and-missing-semicolons-can-break-your-code-58e031e7f235)
 - [You don't know the classNames library](https://areknawo.com/you-dont-know-the-classnames-library/) #CSS
 - [Import Maps Release & Module CDN Launch](https://jspm.org/import-map-cdn)
@@ -932,6 +933,8 @@
 - [3 Code Splitting Patterns For VueJS and Webpack](http://vuejsdevelopers.com/2017/07/08/vue-js-3-ways-code-splitting-webpack/)[code splitting]
 - [Dynamic imports + common chunks](https://github.com/webpack/webpack/issues/4392)
 
+- [Reactivity In Vue](https://www.smashingmagazine.com/2021/03/reactivity-in-vue/)
+- [Creating a Chrome extension with Vue.js and Node.js](https://javascript.plainenglish.io/creating-a-chrome-extension-with-vue-js-and-node-13ddafcf0d84)
 - [Building large projects with Vue, Vite and Lerna](https://letsdebug.it/post/12-monorepo-with-vue-vite-lerna/)
 - [Vue Enterprise Patterns - How to Build Components With Design System Variants And Share Variant Styles Using Variant Style Provider](https://theroadtoenterprise.com/blog/how-to-build-components-with-design-system-variants-and-share-variant-styles-using-variant-style-provider)
 - [Vue with TSX - the perfect duo!?](https://areknawo.com/vue-with-tsx-the-perfect-duo/)
@@ -1059,6 +1062,7 @@
 
 ### Related
 
+- [Vue SFC Playground](https://sfc.vuejs.org)
 - [vue-promised](https://github.com/posva/vue-promised#usage)
 - [vueuse/motion](https://motion.vueuse.org/)
 - [OverVue](https://www.overvue.io/) #prototyping
@@ -1135,8 +1139,9 @@
 
 ## React
 
-### Hooks
+### General
 
+- [React State Management Libraries and How to Choose](https://daveceddia.com/react-state-management/)
 - [The last guide to the useEffect Hook you’ll ever need](https://blog.logrocket.com/guide-to-react-useeffect-hook/)
 - [Why I Stopped Using Redux](https://dev.to/g_abud/why-i-quit-redux-1knl)
 - [Render props vs hooks](https://webup.org/blog/render-props-vs-hooks/)
@@ -1168,10 +1173,7 @@
 - [React hooks: changing the mindset](http://krasimirtsonev.com/blog/article/react-hooks-changing-the-mindset)
 - [Making Sense of React Hooks](https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889)
 - [React Today and Tomorrow and 90% Cleaner React](https://www.youtube.com/watch?v=dpw9EHDh2bM)
-- [Docs](https://reactjs.org/docs/hooks-intro.html)
-
-### General
-
+- [Hooks Docs](https://reactjs.org/docs/hooks-intro.html)
 - [Clean APIs in React with TypeScript](https://javascript.plainenglish.io/a-cleaner-api-for-react-ts-components-47d0704a508c) #TypeScript
 - [How to create React components with TypeScript](https://felixgerschau.com/react-typescript-components/)
 - [Before You memo()](https://overreacted.io/before-you-memo/)
