@@ -1499,7 +1499,7 @@
 
 - [Managing Async Dependencies with JavaScript](https://hackcabin.com/post/managing-async-dependencies-javascript/)
 
-## Package/Dependency Management
+## Package Management, Dependency Management
 
 - [What is monorepo? (and should you use it?)](https://semaphoreci.com/blog/what-is-monorepo)
 - [How to deploy only changed packages in a Lerna Monorepo](https://itnext.io/how-to-deploy-only-changed-packages-in-a-lerna-monorepo-7e5fb234b32a)
@@ -1526,6 +1526,8 @@
 
 ### Related Libs
 
+- [Volta](https://volta.sh/)
+- [Verdaccio](https://github.com/verdaccio/verdaccio)
 - [Awesome npm scripts](https://github.com/RyanZim/awesome-npm-scripts)
 - [depcheck](https://github.com/depcheck/depcheck)
 - [bolt](http://boltpkg.com/)
