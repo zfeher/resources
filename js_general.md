@@ -1596,6 +1596,8 @@
 
 ### Related Libs
 
+- [Webpack Bundle Analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) #webpack
+- [Statoscope](https://github.com/smelukov/statoscope) #webpack
 - [Estrella](https://github.com/rsms/estrella)
 - [Vite](https://vitejs.dev/)
 - [Vitesse](https://github.com/antfu/vitesse)
@@ -1618,7 +1620,6 @@
 - [Getlibs](http://getlibs.com)
 - [Fusebox](http://fuse-box.org)
 - [Source Map Explorer](https://github.com/danvk/source-map-explorer)
-- [Webpack Bundle Analyzer](https://github.com/th0r/webpack-bundle-analyzer)
 - [Butternut](https://butternut.now.sh)
 - [Blendid](https://github.com/vigetlabs/blendid)
 - [fly](https://github.com/flyjs/fly) [generator]
