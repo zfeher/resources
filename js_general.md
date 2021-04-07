@@ -23,6 +23,9 @@
 
 ## Books
 
+- [SurviveJS - Webpack Book](https://survivejs.com/webpack/foreword/)
+- [SurviveJS - React Book](https://survivejs.com/react/introduction/)
+- [SurviveJS - Maintenance Book](https://survivejs.com/maintenance/preface/)
 - [Serverless Handbook](https://serverlesshandbook.dev/)
 - [Tackling TypeScript: Upgrading from JavaScript](https://exploringjs.com/tackling-ts/)
 - [Deep JavaScript: Theory and techniques - Dr Axel Rauschmayer](https://exploringjs.com/deep-js/)
@@ -36,7 +39,6 @@
 - [React in patterns](https://github.com/krasimir/react-in-patterns)
 - [The JavaScript Way](https://github.com/bpesquet/thejsway/)
 - [Exploring ES2016 and ES2017 - Dr. Axel Rauschmayer](http://exploringjs.com/es2016-es2017/index.html)
-- [SurviveJS - Webpack - v2.0](https://survivejs.com/webpack/preface/)
 - [Babel Handbook](https://github.com/thejameskyle/babel-handbook/blob/master/translations/en/README.md)
 - [Setting up ES6 - Dr. Axel Rauschmayer](https://leanpub.com/setting-up-es6/) [webpack][babel]
 - [Mostly adequate guide to FP (in javascript)](https://github.com/MostlyAdequate/mostly-adequate-guide)
@@ -795,6 +797,8 @@
 
 ## Typescript
 
+- [Using TypeScript Project References to share common code](https://dev.to/jameswallis/using-typescript-project-references-to-share-common-code-p8o)
+- [Build JavaScript applications using TypeScript](https://docs.microsoft.com/en-us/learn/paths/build-javascript-applications-typescript/) #course
 - [The Complete Guide to Immutability in TypeScript](https://levelup.gitconnected.com/the-complete-guide-to-immutability-in-typescript-99154f859fdb)
 - [TypeScript Function Syntaxes](https://kentcdodds.com/blog/typescript-function-syntaxes)
 - [Using 'Pick' in TypeScript to simplify Types and Interfaces](https://ultimatecourses.com/blog/using-typescript-pick-mapped-type)
@@ -1141,6 +1145,7 @@
 
 ### General
 
+- [How State Works in React – Explained with Code Examples](https://www.freecodecamp.org/news/what-is-state-in-react-explained-with-examples/)
 - [React State Management Libraries and How to Choose](https://daveceddia.com/react-state-management/)
 - [The last guide to the useEffect Hook you’ll ever need](https://blog.logrocket.com/guide-to-react-useeffect-hook/)
 - [Why I Stopped Using Redux](https://dev.to/g_abud/why-i-quit-redux-1knl)
@@ -1273,6 +1278,7 @@
 
 ## State Management
 
+- [Beautiful State Machines](https://xstate-catalogue.com/) #XState
 - [How to Approach State Management in React, Vue and Angular](https://medium.com/javascript-in-plain-english/the-art-of-the-state-e19816732530)
 - [When To Use State Management In Front-end Applications?](https://ilikekillnerds.com/2019/08/when-to-use-state-management-in-front-end-applications/)
 - [https://twitter.com/ryanflorence/status/1084248892072329216?s=12](https://twitter.com/ryanflorence/status/1084248892072329216?s=12)[xstate][state machine]
@@ -1416,6 +1422,7 @@
 
 ## Testing
 
+- [Introducing the Cypress Component Test Runner– new in 7.0.0](https://cypress.io/blog/2021/04/06/introducing-the-cypress-component-test-runner)
 - [Stop mocking fetch](https://kentcdodds.com/blog/stop-mocking-fetch) #msw #faker.js
 - [7 Ways to Debug Jest Tests in Terminal](https://pragmaticpineapple.com/7-ways-to-debug-jest-tests-in-terminal/)
 - [Effective React Tests](https://glebbahmutov.com/blog/effective-react-tests/)
@@ -1541,6 +1548,7 @@
 
 ## Module loader/Module Bundler/Task Runner, CI, Build
 
+- [SurviveJS Webpack: Build Analysis](https://survivejs.com/webpack/optimizing/build-analysis/) #webpack
 - [IE11 and the Missing Polyfills](https://dev.to/thekashey/ie11-and-the-missing-polyfills-1cd9)
 - [An in-depth guide to performance optimization with webpack](https://blog.logrocket.com/guide-performance-optimization-webpack/)
 - [Webpack 5 Module Federation — Stitching two simple bundles together](https://medium.com/swlh/webpack-5-module-federation-stitching-two-simple-bundles-together-fe4e6a069716)
@@ -1597,6 +1605,7 @@
 ### Related Libs
 
 - [Webpack Bundle Analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) #webpack
+- [whybundled](https://github.com/d4rkr00t/whybundled) #webpack
 - [Statoscope](https://github.com/smelukov/statoscope) #webpack
 - [Estrella](https://github.com/rsms/estrella)
 - [Vite](https://vitejs.dev/)
