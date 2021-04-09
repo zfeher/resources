@@ -23,11 +23,12 @@
 
 ## Books
 
+- [Human Redux](https://read.reduxbook.com/) #react
 - [SurviveJS - Webpack Book](https://survivejs.com/webpack/foreword/)
 - [SurviveJS - React Book](https://survivejs.com/react/introduction/)
 - [SurviveJS - Maintenance Book](https://survivejs.com/maintenance/preface/)
 - [Serverless Handbook](https://serverlesshandbook.dev/)
-- [Tackling TypeScript: Upgrading from JavaScript](https://exploringjs.com/tackling-ts/)
+- [Tackling TypeScript: Upgrading from JavaScript - Dr Axel Rauschmayer](https://exploringjs.com/tackling-ts/)
 - [Deep JavaScript: Theory and techniques - Dr Axel Rauschmayer](https://exploringjs.com/deep-js/)
 - [7 Essential Books For Web Developers](https://levelup.gitconnected.com/7-essential-books-for-web-developers-9daa401ffbc7)
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts)
@@ -114,6 +115,8 @@
 
 ## Interview
 
+- [7 GitHub Repositories To Help You Crush Your Job Interviews](https://catalins.tech/7-github-repositories-to-help-you-crush-your-job-interviews)
+- [List of Github repositories - Sunil Kumar](https://twitter.com/sunilc_/status/1380181963231793156?s=09)
 - [10 Most Asked Questions About JavaScript](https://thedevpost.com/blog/10-most-asked-questions-about-javascript/)
 - [Finding the REAL shortest path in JavaScript: Depth First Search](https://levelup.gitconnected.com/finding-the-real-shortest-path-in-javascript-depth-first-search-93a3ce514250)
 - [JavaScript Interview Questions — Objects](https://medium.com/javascript-in-plain-english/javascript-interview-questions-objects-e380395dffff)
@@ -147,6 +150,7 @@
 
 ## General
 
+- [Declarative Shadow DOM](https://web.dev/declarative-shadow-dom/) #SSR
 - [5 Different Tools for Frontend Monitoring](https://blog.bitsrc.io/5-different-tools-for-frontend-monitoring-79db94014d)
 - [JavaScript: How Line Breaks and Missing Semicolons Can Break Your Code](https://javascript.plainenglish.io/javascript-how-line-breaks-and-missing-semicolons-can-break-your-code-58e031e7f235)
 - [You don't know the classNames library](https://areknawo.com/you-dont-know-the-classnames-library/) #CSS
@@ -1066,6 +1070,7 @@
 
 ### Related
 
+- [Pinia](https://pinia.esm.dev/) #state management
 - [Vue SFC Playground](https://sfc.vuejs.org)
 - [vue-promised](https://github.com/posva/vue-promised#usage)
 - [vueuse/motion](https://motion.vueuse.org/)
@@ -1257,6 +1262,7 @@
 
 ### Related
 
+- [Easy Peast](https://easy-peasy.dev/) #state management
 - [SWR](https://github.com/vercel/swr)
 - [Alpine.js](https://github.com/alpinejs/alpine)
 - [dai-shi/react-hooks-async](https://github.com/dai-shi/react-hooks-async)
@@ -1548,6 +1554,7 @@
 
 ## Module loader/Module Bundler/Task Runner, CI, Build
 
+- [Comparing the New Generation of Build Tools](https://css-tricks.com/comparing-the-new-generation-of-build-tools/)
 - [SurviveJS Webpack: Build Analysis](https://survivejs.com/webpack/optimizing/build-analysis/) #webpack
 - [IE11 and the Missing Polyfills](https://dev.to/thekashey/ie11-and-the-missing-polyfills-1cd9)
 - [An in-depth guide to performance optimization with webpack](https://blog.logrocket.com/guide-performance-optimization-webpack/)
@@ -1612,12 +1619,13 @@
 - [Vitesse](https://github.com/antfu/vitesse)
 - [Microbundle](https://github.com/developit/microbundle)
 - [esbuild](https://github.com/evanw/esbuild)
+- [Community plugins for esbuild](https://github.com/esbuild/community-plugins)
+- [Pika](https://www.pika.dev/)
 - [Skypack](https://www.skypack.dev/)
-- [devolution](https://github.com/theKashey/devolution)
 - [Snowpack](https://www.snowpack.dev/)
-- [esbuild](https://github.com/evanw/esbuild)
-- [Rome](https://github.com/facebookexperimental/rome)
 - [pikapkg/pack](https://github.com/pikapkg/pack)
+- [devolution](https://github.com/theKashey/devolution)
+- [Rome](https://github.com/facebookexperimental/rome)
 - [BundlePhobia](https://bundlephobia.com)
 - [webpack-libs-optimizations](https://github.com/GoogleChromeLabs/webpack-libs-optimizations)
 - [prepack](https://github.com/facebook/prepack)

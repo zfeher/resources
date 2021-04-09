@@ -165,6 +165,7 @@
 
 ### Related
 
+- [Reseter.css](https://github.com/krishdevdb/reseter.css)
 - [headless.ui](https://headlessui.dev/)
 - [Responsively.app](https://responsively.app/)
 - [pocketjoso/penthouse](https://github.com/pocketjoso/penthouse)[critical css]
