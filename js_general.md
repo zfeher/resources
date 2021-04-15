@@ -79,6 +79,7 @@
 
 ## Learning
 
+- [Yare](https://yare.io) #game
 - [Frontend Masters Learning Roadmap](https://frontendmasters.com/guides/learning-roadmap/)
 - [JavaScript Questions](https://github.com/lydiahallie/javascript-questions)
 - [Code Jam](https://codingcompetitions.withgoogle.com/codejam)[learning][competition]
@@ -295,6 +296,7 @@
 
 ### Related
 
+- [Gitlet](http://gitlet.maryrosecook.com/) #git
 - [patch-package](https://github.com/ds300/patch-package) #avoid fork
 - [classNames](https://github.com/JedWatson/classnames)
 - [Zero Server](https://zeroserver.io/), [remoteinterview/zero](https://github.com/remoteinterview/zero)
@@ -886,6 +888,8 @@
 
 ## Components
 
+- [Tailwind UI: Now with React + Vue support](https://blog.tailwindcss.com/tailwind-ui-now-with-react-and-vue-support)
+- [Headless UI: Unstyled, Accessible UI Components](https://blog.tailwindcss.com/headless-ui-unstyled-accessible-ui-components)
 - [Web Components Are Easier Than You Think](https://css-tricks.com/web-components-are-easier-than-you-think/)
 - [Building a Tabs component](https://web.dev/building-a-tabs-component/)
 - [Sharing reusable Vue.js components with Lerna, Storybook, and npm or GitHub Package Registries](https://medium.com/js-dojo/sharing-reusable-vue-js-components-with-lerna-storybook-and-npm-7dc33b38b011)
@@ -941,6 +945,7 @@
 - [3 Code Splitting Patterns For VueJS and Webpack](http://vuejsdevelopers.com/2017/07/08/vue-js-3-ways-code-splitting-webpack/)[code splitting]
 - [Dynamic imports + common chunks](https://github.com/webpack/webpack/issues/4392)
 
+- [Developing A Vue 3 Headless Component](https://www.maxgfeller.com/blog/vue-3-headless/)
 - [Reactivity In Vue](https://www.smashingmagazine.com/2021/03/reactivity-in-vue/)
 - [Creating a Chrome extension with Vue.js and Node.js](https://javascript.plainenglish.io/creating-a-chrome-extension-with-vue-js-and-node-13ddafcf0d84)
 - [Building large projects with Vue, Vite and Lerna](https://letsdebug.it/post/12-monorepo-with-vue-vite-lerna/)
@@ -1150,6 +1155,7 @@
 
 ### General
 
+- [useEncapsulation or Why Your React Components Should Only Use Custom Hooks](https://kyleshevlin.com/use-encapsulation)
 - [How State Works in React – Explained with Code Examples](https://www.freecodecamp.org/news/what-is-state-in-react-explained-with-examples/)
 - [React State Management Libraries and How to Choose](https://daveceddia.com/react-state-management/)
 - [The last guide to the useEffect Hook you’ll ever need](https://blog.logrocket.com/guide-to-react-useeffect-hook/)

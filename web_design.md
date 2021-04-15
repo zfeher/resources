@@ -32,6 +32,7 @@
 
 ## CSS
 
+- [Say Hello To CSS Container Queries](https://ishadeed.com/article/say-hello-to-css-container-queries/)
 - [CSS Generators](https://denic.hashnode.dev/css-generators)
 - [CSS Auditing Tools](https://www.smashingmagazine.com/2021/03/css-auditing-tools/)
 - [An Interactive Guide to CSS Transitions](https://www.joshwcomeau.com/animation/css-transitions/)
