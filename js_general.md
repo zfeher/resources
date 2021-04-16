@@ -337,10 +337,6 @@
 - [Collections.js](http://www.collectionsjs.com)
 - [Moment.js](https://momentjs.com)
 
-## Architecture
-
-- [Architecture Spotlight: Event Sourcing](https://www.sitepen.com/blog/architecture-spotlight-event-sourcing/)
-
 ## Serverless (Cloud Computing)
 
 - [Introducing Amazon S3 Object Lambda – Use Your Code to Process Data as It Is Being Retrieved from S3](https://aws.amazon.com/blogs/aws/introducing-amazon-s3-object-lambda-use-your-code-to-process-data-as-it-is-being-retrieved-from-s3/)

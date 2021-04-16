@@ -30,6 +30,19 @@
 - [Understanding SOLID Principles: Open Closed Principle](https://codeburst.io/understanding-solid-principles-open-closed-principle-e2b588b6491f)
 - [Itsy Bitsy Data Structures](https://github.com/thejameskyle/itsy-bitsy-data-structures?utm_source=ESnextNews.com&utm_medium=Weekly+Newsletter&utm_campaign=2017-02-28)
 
+## Patterns
+
+- [Event Sourcing pattern - Microsoft](https://docs.microsoft.com/en-us/azure/architecture/patterns/event-sourcing)
+- [Event Sourcing: What it is and why it's awesome](https://dev.to/barryosull/event-sourcing-what-it-is-and-why-its-awesome)
+- [Event Sourcing - Martin Fowler](https://martinfowler.com/eaaDev/EventSourcing.html)
+- [What they don’t tell you about event sourcing](https://medium.com/@hugo.oliveira.rocha/what-they-dont-tell-you-about-event-sourcing-6afc23c69e9a)
+- [Architecture Spotlight: Event Sourcing](https://www.sitepen.com/blog/architecture-spotlight-event-sourcing/)
+- [Command and Query Responsibility Segregation (CQRS) patterns - Microsoft](https://docs.microsoft.com/en-us/azure/architecture/patterns/cqrs)
+- [Command and Query Responsibility Segregation (CQRS) - Martin Fowler](https://martinfowler.com/bliki/CQRS.html)
+- [DomainDrivenDesign (DDD) - Martin Fowler](https://martinfowler.com/bliki/DomainDrivenDesign.html)
+- [BoundedContext - Martin Fowler](https://martinfowler.com/bliki/BoundedContext.html) #DDD
+- [DDD_Aggregate](https://martinfowler.com/bliki/DDD_Aggregate.html) #DDD
+
 ## Management / Productivity
 
 - [Ten Productivity Tips for Software Developers](http://www.zsoltnagy.eu/ten-productivity-tips-for-software-developers/)
