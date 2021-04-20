@@ -23,6 +23,7 @@
 
 ## Books
 
+- [The TypeScript Handbook](https://www.typescriptlang.org/docs/handbook)
 - [Human Redux](https://read.reduxbook.com/) #react
 - [SurviveJS - Webpack Book](https://survivejs.com/webpack/foreword/)
 - [SurviveJS - React Book](https://survivejs.com/react/introduction/)
@@ -1151,6 +1152,7 @@
 
 ### General
 
+- [The Latest Ref Pattern in React](https://epicreact.dev/the-latest-ref-pattern-in-react/) #useLayoutEffect #useRef #useEffect #useMemo #useCallback
 - [useEncapsulation or Why Your React Components Should Only Use Custom Hooks](https://kyleshevlin.com/use-encapsulation)
 - [How State Works in React – Explained with Code Examples](https://www.freecodecamp.org/news/what-is-state-in-react-explained-with-examples/)
 - [React State Management Libraries and How to Choose](https://daveceddia.com/react-state-management/)
@@ -1430,6 +1432,7 @@
 
 ## Testing
 
+- [Load Fixtures from Cypress Custom Commands](https://glebbahmutov.com/blog/fixtures-in-custom-commands/)
 - [Introducing the Cypress Component Test Runner– new in 7.0.0](https://cypress.io/blog/2021/04/06/introducing-the-cypress-component-test-runner)
 - [Stop mocking fetch](https://kentcdodds.com/blog/stop-mocking-fetch) #msw #faker.js
 - [7 Ways to Debug Jest Tests in Terminal](https://pragmaticpineapple.com/7-ways-to-debug-jest-tests-in-terminal/)
