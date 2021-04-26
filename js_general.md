@@ -424,6 +424,7 @@
 
 ## Performance, memory
 
+- [Web Performance Recipes With Puppeteer](https://addyosmani.com/blog/puppeteer-recipes/)
 - [Enabling faster SPA navigation with Turbolinks](https://blog.logrocket.com/faster-spa-navigation-with-turbolinks/)
 - [Thoughts on device based code split in React](https://webup.org/blog/react-device-based-code-split/)
 - [Faster Web App Delivery with PRPL](https://addyosmani.com/blog/the-prpl-pattern/)
@@ -477,6 +478,10 @@
 ## Development
 
 - [ngrok](https://ngrok.com) // share localhost stuff via tunneling
+
+## Node.js
+
+- [Best Tricks to Make Your Node.js Web App Faster](https://javascript.plainenglish.io/best-tricks-to-make-your-node-js-web-app-faster-9e19dd28aa5b)
 
 ## Machine Learning/Deep Learning/Data Science
 
@@ -800,6 +805,7 @@
 
 ## Typescript
 
+- [Starting a TypeScript Project in 2021](https://www.metachris.com/2021/04/starting-a-typescript-project-in-2021/) #esbuild
 - [Using TypeScript Project References to share common code](https://dev.to/jameswallis/using-typescript-project-references-to-share-common-code-p8o)
 - [Build JavaScript applications using TypeScript](https://docs.microsoft.com/en-us/learn/paths/build-javascript-applications-typescript/) #course
 - [The Complete Guide to Immutability in TypeScript](https://levelup.gitconnected.com/the-complete-guide-to-immutability-in-typescript-99154f859fdb)
@@ -1152,6 +1158,7 @@
 
 ### General
 
+- [5 Key Lessons React Tutorials Don't Teach](https://reedbarger.hashnode.dev/5-key-lessons-react-tutorials-dont-teach)
 - [The Latest Ref Pattern in React](https://epicreact.dev/the-latest-ref-pattern-in-react/) #useLayoutEffect #useRef #useEffect #useMemo #useCallback
 - [useEncapsulation or Why Your React Components Should Only Use Custom Hooks](https://kyleshevlin.com/use-encapsulation)
 - [How State Works in React – Explained with Code Examples](https://www.freecodecamp.org/news/what-is-state-in-react-explained-with-examples/)
@@ -1432,6 +1439,7 @@
 
 ## Testing
 
+- [Cypress request and cookies](https://glebbahmutov.com/blog/cypress-request-and-cookies/)
 - [Load Fixtures from Cypress Custom Commands](https://glebbahmutov.com/blog/fixtures-in-custom-commands/)
 - [Introducing the Cypress Component Test Runner– new in 7.0.0](https://cypress.io/blog/2021/04/06/introducing-the-cypress-component-test-runner)
 - [Stop mocking fetch](https://kentcdodds.com/blog/stop-mocking-fetch) #msw #faker.js

@@ -64,6 +64,10 @@
 
 - [jlevy / the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
 
+## Python
+
+- [The Python Handbook](https://www.freecodecamp.org/news/the-python-handbook/) #book
+
 ## Git
 
 - [Managing your secrets in Git](https://dev.to/dailydotdev/managing-your-secrets-in-git-2fae)[git-crypt]
