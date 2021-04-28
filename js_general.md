@@ -76,7 +76,9 @@
 
 ## Video Courses
 
-- [Frontend Masters](https://frontendmasters.com/courses/) [legradi]
+- [Frontend Masters](https://frontendmasters.com/courses) #paid
+- [Vue Mastery](https://www.vuemastery.com) #paid #free
+- [The Gymnasium](https://thegymnasium.com/courses) #free
 
 ## Learning
 
@@ -424,6 +426,7 @@
 
 ## Performance, memory
 
+- [Top Metrics You Need to Understand When Measuring Front-end Performance](https://blog.asayer.io/top-metrics-you-need-to-understand-when-measuring-front-end-performance)
 - [Web Performance Recipes With Puppeteer](https://addyosmani.com/blog/puppeteer-recipes/)
 - [Enabling faster SPA navigation with Turbolinks](https://blog.logrocket.com/faster-spa-navigation-with-turbolinks/)
 - [Thoughts on device based code split in React](https://webup.org/blog/react-device-based-code-split/)
@@ -483,6 +486,10 @@
 
 - [Best Tricks to Make Your Node.js Web App Faster](https://javascript.plainenglish.io/best-tricks-to-make-your-node-js-web-app-faster-9e19dd28aa5b)
 
+### Related
+
+- [restify](http://restify.com/)
+
 ## Machine Learning/Deep Learning/Data Science
 
 - [JavaScript for Data Science](https://js4ds.org/)
@@ -516,8 +523,13 @@
 
 ## DOM
 
+- [HTML Sanitizer API](https://wicg.github.io/sanitizer-api/) #sanitize
 - [https://www.sitepoint.com/dom-manipulation-vanilla-javascript-no-jquery/](http://devboosts.com/2017/03/28/conventional-commits/)
 - [Convert String to DOM Nodes](https://davidwalsh.name/convert-html-stings-dom-nodes)
+
+### Related
+
+- [DOMPurify](https://github.com/cure53/DOMPurify) #sanitize
 
 ## Accessibility
 
