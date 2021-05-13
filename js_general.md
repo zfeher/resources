@@ -82,6 +82,7 @@
 
 ## Learning
 
+- [40 JavaScript Projects for Beginners – Easy Ideas to Get Started Coding JS](https://www.freecodecamp.org/news/javascript-projects-for-beginners/)
 - [Yare](https://yare.io) #game
 - [Frontend Masters Learning Roadmap](https://frontendmasters.com/guides/learning-roadmap/)
 - [JavaScript Questions](https://github.com/lydiahallie/javascript-questions)
@@ -154,6 +155,8 @@
 
 ## General
 
+- [Uncaught errors in Node.js and the browser](https://wanago.io/2021/05/10/uncaught-errors-node-js-browser/)
+- [How JavaScript works: 3 types of polymorphism](https://blog.sessionstack.com/how-javascript-works-3-types-of-polymorphism-f10ff4992be1)
 - [Declarative Shadow DOM](https://web.dev/declarative-shadow-dom/) #SSR
 - [5 Different Tools for Frontend Monitoring](https://blog.bitsrc.io/5-different-tools-for-frontend-monitoring-79db94014d)
 - [JavaScript: How Line Breaks and Missing Semicolons Can Break Your Code](https://javascript.plainenglish.io/javascript-how-line-breaks-and-missing-semicolons-can-break-your-code-58e031e7f235)
@@ -299,6 +302,8 @@
 
 ### Related
 
+- [fx](https://github.com/antonmedv/fx) #json
+- [zx](https://github.com/google/zx)
 - [Gitlet](http://gitlet.maryrosecook.com/) #git
 - [patch-package](https://github.com/ds300/patch-package) #avoid fork
 - [classNames](https://github.com/JedWatson/classnames)
@@ -426,6 +431,7 @@
 
 ## Performance, memory
 
+- [Optimizing Web Vitals using Lighthouse](https://web.dev/optimize-vitals-lighthouse/)
 - [Top Metrics You Need to Understand When Measuring Front-end Performance](https://blog.asayer.io/top-metrics-you-need-to-understand-when-measuring-front-end-performance)
 - [Web Performance Recipes With Puppeteer](https://addyosmani.com/blog/puppeteer-recipes/)
 - [Enabling faster SPA navigation with Turbolinks](https://blog.logrocket.com/faster-spa-navigation-with-turbolinks/)
@@ -1170,6 +1176,7 @@
 
 ### General
 
+- [Top 10 React Hook Libraries](https://blog.bitsrc.io/top-10-react-hook-libraries-ca284ab3ae1d)
 - [5 Key Lessons React Tutorials Don't Teach](https://reedbarger.hashnode.dev/5-key-lessons-react-tutorials-dont-teach)
 - [The Latest Ref Pattern in React](https://epicreact.dev/the-latest-ref-pattern-in-react/) #useLayoutEffect #useRef #useEffect #useMemo #useCallback
 - [useEncapsulation or Why Your React Components Should Only Use Custom Hooks](https://kyleshevlin.com/use-encapsulation)
@@ -1285,6 +1292,7 @@
 
 ### Related
 
+- [Mantine](https://mantine.dev/) #components #hooks
 - [Easy Peast](https://easy-peasy.dev/) #state management
 - [SWR](https://github.com/vercel/swr)
 - [Alpine.js](https://github.com/alpinejs/alpine)

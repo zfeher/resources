@@ -32,6 +32,8 @@
 
 ## CSS
 
+- [Learn CSS Grid by Building 5 Layouts in 17 minutes](https://www.freecodecamp.org/news/learn-css-grid-by-building-5-layouts/)
+- [Next Gen CSS: @container ](https://css-tricks.com/next-gen-css-container/)
 - [Say Hello To CSS Container Queries](https://ishadeed.com/article/say-hello-to-css-container-queries/)
 - [CSS Generators](https://denic.hashnode.dev/css-generators)
 - [CSS Auditing Tools](https://www.smashingmagazine.com/2021/03/css-auditing-tools/)
