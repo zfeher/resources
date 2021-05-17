@@ -155,6 +155,7 @@
 
 ## General
 
+- [Creating websites with prefers-reduced-data](https://polypane.app/blog/creating-websites-with-prefers-reduced-data/)
 - [Uncaught errors in Node.js and the browser](https://wanago.io/2021/05/10/uncaught-errors-node-js-browser/)
 - [How JavaScript works: 3 types of polymorphism](https://blog.sessionstack.com/how-javascript-works-3-types-of-polymorphism-f10ff4992be1)
 - [Declarative Shadow DOM](https://web.dev/declarative-shadow-dom/) #SSR
@@ -1572,6 +1573,7 @@
 
 ### Related Libs
 
+- [pnpm](https://pnpm.io/)
 - [Volta](https://volta.sh/)
 - [Verdaccio](https://github.com/verdaccio/verdaccio)
 - [Awesome npm scripts](https://github.com/RyanZim/awesome-npm-scripts)
@@ -1580,7 +1582,6 @@
 - [Lerna](https://lerna.js.org/)
 - [Size Limit](https://github.com/ai/size-limit)
 - [Yarn](https://yarnpkg.com/en/)
-- [pnpm](https://github.com/pnpm/pnpm)
 - [npm_lazy](https://github.com/mixu/npm_lazy)
 - [local-npm](https://github.com/nolanlawson/local-npm)
 - [Node Version Manager (NVM)](https://github.com/creationix/nvm)
