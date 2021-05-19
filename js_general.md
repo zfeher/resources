@@ -82,6 +82,7 @@
 
 ## Learning
 
+- [DOM Events](https://domevents.dev/)
 - [40 JavaScript Projects for Beginners – Easy Ideas to Get Started Coding JS](https://www.freecodecamp.org/news/javascript-projects-for-beginners/)
 - [Yare](https://yare.io) #game
 - [Frontend Masters Learning Roadmap](https://frontendmasters.com/guides/learning-roadmap/)
@@ -1177,6 +1178,7 @@
 
 ### General
 
+- [useQuery Instead of Fetch While Calling an API](https://javascript.plainenglish.io/usequery-instead-of-fetch-while-calling-an-api-ef12964457c5)
 - [Top 10 React Hook Libraries](https://blog.bitsrc.io/top-10-react-hook-libraries-ca284ab3ae1d)
 - [5 Key Lessons React Tutorials Don't Teach](https://reedbarger.hashnode.dev/5-key-lessons-react-tutorials-dont-teach)
 - [The Latest Ref Pattern in React](https://epicreact.dev/the-latest-ref-pattern-in-react/) #useLayoutEffect #useRef #useEffect #useMemo #useCallback
@@ -1293,6 +1295,7 @@
 
 ### Related
 
+- [React Query](https://react-query.tanstack.com/)
 - [Mantine](https://mantine.dev/) #components #hooks
 - [Easy Peast](https://easy-peasy.dev/) #state management
 - [SWR](https://github.com/vercel/swr)
@@ -1645,6 +1648,8 @@
 
 ### Related Libs
 
+- [BundlePhobia](https://bundlephobia.com)
+- [PackagePhobia](https://packagephobia.com/)
 - [Webpack Bundle Analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) #webpack
 - [whybundled](https://github.com/d4rkr00t/whybundled) #webpack
 - [Statoscope](https://github.com/smelukov/statoscope) #webpack
@@ -1660,7 +1665,6 @@
 - [pikapkg/pack](https://github.com/pikapkg/pack)
 - [devolution](https://github.com/theKashey/devolution)
 - [Rome](https://github.com/facebookexperimental/rome)
-- [BundlePhobia](https://bundlephobia.com)
 - [webpack-libs-optimizations](https://github.com/GoogleChromeLabs/webpack-libs-optimizations)
 - [prepack](https://github.com/facebook/prepack)
 - [Polyfill.io](https://polyfill.io/v2/docs/)
