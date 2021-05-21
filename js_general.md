@@ -82,6 +82,7 @@
 
 ## Learning
 
+- [Codewell](https://www.codewell.cc/) #challenges
 - [DOM Events](https://domevents.dev/)
 - [40 JavaScript Projects for Beginners – Easy Ideas to Get Started Coding JS](https://www.freecodecamp.org/news/javascript-projects-for-beginners/)
 - [Yare](https://yare.io) #game
@@ -433,6 +434,9 @@
 
 ## Performance, memory
 
+- [The Humble <img> Element And Core Web Vitals](https://www.smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/)
+- [Building a Faster Web Experience with the postTask Scheduler](https://medium.com/airbnb-engineering/building-a-faster-web-experience-with-the-posttask-scheduler-276b83454e91)
+- [5 steps to faster web fonts](https://iainbean.com/posts/2021/5-steps-to-faster-web-fonts/)
 - [Optimizing Web Vitals using Lighthouse](https://web.dev/optimize-vitals-lighthouse/)
 - [Top Metrics You Need to Understand When Measuring Front-end Performance](https://blog.asayer.io/top-metrics-you-need-to-understand-when-measuring-front-end-performance)
 - [Web Performance Recipes With Puppeteer](https://addyosmani.com/blog/puppeteer-recipes/)
@@ -825,6 +829,7 @@
 
 ## Typescript
 
+- [Tag hierarchies via Template Literal Types](https://ikoshelev.azurewebsites.net/search/id/16/Pragmatic-uses-of-TypeScript-type-system-03-Tag-hierarchies-via-Template-Literal-Types)
 - [Starting a TypeScript Project in 2021](https://www.metachris.com/2021/04/starting-a-typescript-project-in-2021/) #esbuild
 - [Using TypeScript Project References to share common code](https://dev.to/jameswallis/using-typescript-project-references-to-share-common-code-p8o)
 - [Build JavaScript applications using TypeScript](https://docs.microsoft.com/en-us/learn/paths/build-javascript-applications-typescript/) #course
@@ -1178,6 +1183,7 @@
 
 ### General
 
+- [React UI Libraries 2021](https://webkid.io/blog/react-ui-libraries-component-libraries-2021/)
 - [useQuery Instead of Fetch While Calling an API](https://javascript.plainenglish.io/usequery-instead-of-fetch-while-calling-an-api-ef12964457c5)
 - [Top 10 React Hook Libraries](https://blog.bitsrc.io/top-10-react-hook-libraries-ca284ab3ae1d)
 - [5 Key Lessons React Tutorials Don't Teach](https://reedbarger.hashnode.dev/5-key-lessons-react-tutorials-dont-teach)
@@ -1295,6 +1301,7 @@
 
 ### Related
 
+- [cassiozen/useStateMachine](https://github.com/cassiozen/useStateMachine)
 - [React Query](https://react-query.tanstack.com/)
 - [Mantine](https://mantine.dev/) #components #hooks
 - [Easy Peast](https://easy-peasy.dev/) #state management
