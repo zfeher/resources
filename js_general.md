@@ -8,6 +8,7 @@
 
 ### Related
 
+- [Marko](http://markojs.com)
 - [Nodes](https://nodes.io/) #visual programming
 - [Radi.js](https://github.com/radi-js/radi)
 - [Reason](https://reasonml.github.io)
@@ -16,7 +17,6 @@
 - [RunKit](https://runkit.com/home)
 - [HyperApp](https://hyperapp.dev/)
 - [Codesandbox](https://codesandbox.io)[playground][react]
-- [Marko](http://markojs.com)
 - [Svelte](https://svelte.technology)
 - [inferno](https://github.com/trueadm/inferno)[react][component][lib]
 - [Popper.js](https://popper.js.org)
@@ -391,6 +391,7 @@
 
 ### Related
 
+- [VueMS (Vue Micro Services)](https://vuems.ergonode.com/) #vue #nuxt
 - [MicroLib](https://github.com/module-federation/MicroLib)
 - [awesome-microfrontends](https://github.com/ChristianUlbrich/awesome-microfrontends)
 - [Piral](https://piral.io/)
@@ -1183,6 +1184,7 @@
 
 ### General
 
+- [How to manage global state with XState and React](https://dev.to/mpocock1/how-to-manage-global-state-with-xstate-and-react-3if5) #xstate
 - [React UI Libraries 2021](https://webkid.io/blog/react-ui-libraries-component-libraries-2021/)
 - [useQuery Instead of Fetch While Calling an API](https://javascript.plainenglish.io/usequery-instead-of-fetch-while-calling-an-api-ef12964457c5)
 - [Top 10 React Hook Libraries](https://blog.bitsrc.io/top-10-react-hook-libraries-ca284ab3ae1d)
