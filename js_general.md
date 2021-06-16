@@ -122,6 +122,7 @@
 
 ## Interview
 
+- [JS is Weird](https://jsisweird.com/) #test
 - [7 GitHub Repositories To Help You Crush Your Job Interviews](https://catalins.tech/7-github-repositories-to-help-you-crush-your-job-interviews)
 - [List of Github repositories - Sunil Kumar](https://twitter.com/sunilc_/status/1380181963231793156?s=09)
 - [10 Most Asked Questions About JavaScript](https://thedevpost.com/blog/10-most-asked-questions-about-javascript/)
@@ -157,6 +158,7 @@
 
 ## General
 
+- [Common Documentation Mistakes and How to Avoid Them](https://glebbahmutov.com/blog/common-documentation-mistakes-and-how-to-avoid-them/)
 - [Creating websites with prefers-reduced-data](https://polypane.app/blog/creating-websites-with-prefers-reduced-data/)
 - [Uncaught errors in Node.js and the browser](https://wanago.io/2021/05/10/uncaught-errors-node-js-browser/)
 - [How JavaScript works: 3 types of polymorphism](https://blog.sessionstack.com/how-javascript-works-3-types-of-polymorphism-f10ff4992be1)
@@ -305,6 +307,7 @@
 
 ### Related
 
+- [Threads.js](https://threads.js.org/)
 - [fx](https://github.com/antonmedv/fx) #json
 - [zx](https://github.com/google/zx)
 - [Gitlet](http://gitlet.maryrosecook.com/) #git
@@ -435,6 +438,7 @@
 
 ## Performance, memory
 
+- [Serving sharp images to high density screens](https://jakearchibald.com/2021/serving-sharp-images-to-high-density-screens/) #image #screen density #dpr #dppx
 - [The Humble <img> Element And Core Web Vitals](https://www.smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/)
 - [Building a Faster Web Experience with the postTask Scheduler](https://medium.com/airbnb-engineering/building-a-faster-web-experience-with-the-posttask-scheduler-276b83454e91)
 - [5 steps to faster web fonts](https://iainbean.com/posts/2021/5-steps-to-faster-web-fonts/)
@@ -482,6 +486,7 @@
 
 ### Related
 
+- [Squoosh](https://squoosh.app/)
 - [Yellow Lab Tools](https://yellowlab.tools/)
 - [Clinic.js Doctor](https://clinicjs.org/)
 - [Turbolinks](https://github.com/turbolinks/turbolinks)
@@ -830,6 +835,7 @@
 
 ## Typescript
 
+- [Advanced TypeScript: A Generic Function to Merge Object Arrays](https://javascript.plainenglish.io/advanced-typescript-a-generic-function-to-merge-object-arrays-cb0bd9a5c382)
 - [Tag hierarchies via Template Literal Types](https://ikoshelev.azurewebsites.net/search/id/16/Pragmatic-uses-of-TypeScript-type-system-03-Tag-hierarchies-via-Template-Literal-Types)
 - [Starting a TypeScript Project in 2021](https://www.metachris.com/2021/04/starting-a-typescript-project-in-2021/) #esbuild
 - [Using TypeScript Project References to share common code](https://dev.to/jameswallis/using-typescript-project-references-to-share-common-code-p8o)
@@ -974,6 +980,9 @@
 - [3 Code Splitting Patterns For VueJS and Webpack](http://vuejsdevelopers.com/2017/07/08/vue-js-3-ways-code-splitting-webpack/)[code splitting]
 - [Dynamic imports + common chunks](https://github.com/webpack/webpack/issues/4392)
 
+- [Watching for Changes in Vue.js Component Slot Content](https://medium.com/js-dojo/watching-for-changes-in-vue-js-component-slot-content-f50ec2a7df55)
+- [How To Build A Geocoding App In Vue.js Using Mapbox](https://www.smashingmagazine.com/2021/06/building-geocoding-app-vue-mapbox/) #geocoding #mapbox
+- [Stop using actions in Vuex](https://javascript.plainenglish.io/stop-using-actions-in-vuex-a14e23a7b0e6)
 - [Developing A Vue 3 Headless Component](https://www.maxgfeller.com/blog/vue-3-headless/)
 - [Reactivity In Vue](https://www.smashingmagazine.com/2021/03/reactivity-in-vue/)
 - [Creating a Chrome extension with Vue.js and Node.js](https://javascript.plainenglish.io/creating-a-chrome-extension-with-vue-js-and-node-13ddafcf0d84)
@@ -1184,6 +1193,8 @@
 
 ### General
 
+- [ECMAScript proposal: Import assertions](https://2ality.com/2021/01/import-assertions.html)
+- [The modern guide to React state patterns](https://blog.logrocket.com/modern-guide-react-state-patterns/) #useSWR #redux #xstate
 - [How to manage global state with XState and React](https://dev.to/mpocock1/how-to-manage-global-state-with-xstate-and-react-3if5) #xstate
 - [React UI Libraries 2021](https://webkid.io/blog/react-ui-libraries-component-libraries-2021/)
 - [useQuery Instead of Fetch While Calling an API](https://javascript.plainenglish.io/usequery-instead-of-fetch-while-calling-an-api-ef12964457c5)

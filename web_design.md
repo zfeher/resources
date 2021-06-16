@@ -169,6 +169,7 @@
 
 ### Related
 
+- [CSS Layout Generator](https://layout.bradwoods.io/)
 - [Reseter.css](https://github.com/krishdevdb/reseter.css)
 - [headless.ui](https://headlessui.dev/)
 - [Responsively.app](https://responsively.app/)
