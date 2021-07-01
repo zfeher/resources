@@ -1,5 +1,6 @@
 ## Unsorted
 
+- [SolidJS](SolidJS Official Release: The long road to 1.0)
 - [NeutralinoJs](https://neutralino.js.org/)
 - [Frogger in Hyperapp](https://medium.com/hyperapp/frogger-in-hyperapp-90c0a7cd23a4)
 - [How I built super fast JS framework](https://medium.com/@marcisbee/how-i-built-super-fast-js-framework-faster-than-react-ea99f0d03150)
@@ -8,6 +9,7 @@
 
 ### Related
 
+- [SolidJS](https://www.solidjs.com/)
 - [Marko](http://markojs.com)
 - [Nodes](https://nodes.io/) #visual programming
 - [Radi.js](https://github.com/radi-js/radi)
@@ -158,6 +160,9 @@
 
 ## General
 
+- [Why is NanoID Replacing UUID?](https://blog.bitsrc.io/why-is-nanoid-replacing-uuid-1b5100e62ed2)
+- [How to Cancel Pending API Requests to Show Correct Data](https://css-tricks.com/how-to-cancel-pending-api-requests-to-show-correct-data/) #AbortController
+- [Encoding data for POST requests](https://jakearchibald.com/2021/encoding-data-for-post-requests/) #URLSearchParams #FormData
 - [Common Documentation Mistakes and How to Avoid Them](https://glebbahmutov.com/blog/common-documentation-mistakes-and-how-to-avoid-them/)
 - [Creating websites with prefers-reduced-data](https://polypane.app/blog/creating-websites-with-prefers-reduced-data/)
 - [Uncaught errors in Node.js and the browser](https://wanago.io/2021/05/10/uncaught-errors-node-js-browser/)
@@ -980,6 +985,9 @@
 - [3 Code Splitting Patterns For VueJS and Webpack](http://vuejsdevelopers.com/2017/07/08/vue-js-3-ways-code-splitting-webpack/)[code splitting]
 - [Dynamic imports + common chunks](https://github.com/webpack/webpack/issues/4392)
 
+- [Should I Store This Data in Vuex – When Should I use Vuex?](https://markus.oberlehner.net/blog/should-i-store-this-data-in-vuex/)
+- [Building a Modal Dialog with Vue.js and Vuex](https://markus.oberlehner.net/blog/building-a-modal-dialog-with-vue-and-vuex/)
+- [React Context and Provider Pattern with the Vue 3 Composition API](https://markus.oberlehner.net/blog/context-and-provider-pattern-with-the-vue-3-composition-api/)
 - [Watching for Changes in Vue.js Component Slot Content](https://medium.com/js-dojo/watching-for-changes-in-vue-js-component-slot-content-f50ec2a7df55)
 - [How To Build A Geocoding App In Vue.js Using Mapbox](https://www.smashingmagazine.com/2021/06/building-geocoding-app-vue-mapbox/) #geocoding #mapbox
 - [Stop using actions in Vuex](https://javascript.plainenglish.io/stop-using-actions-in-vuex-a14e23a7b0e6)
@@ -1339,6 +1347,7 @@
 
 ## State Management
 
+- [Routing using state machines](https://sawyerh.medium.com/routing-using-state-machines-3c797988d68e)
 - [Beautiful State Machines](https://xstate-catalogue.com/) #XState
 - [How to Approach State Management in React, Vue and Angular](https://medium.com/javascript-in-plain-english/the-art-of-the-state-e19816732530)
 - [When To Use State Management In Front-end Applications?](https://ilikekillnerds.com/2019/08/when-to-use-state-management-in-front-end-applications/)
@@ -1611,6 +1620,7 @@
 
 ## Module loader/Module Bundler/Task Runner, CI, Build
 
+- [webpack or esbuild: Why not both?](https://blog.logrocket.com/webpack-or-esbuild-why-not-both/)
 - [Comparing the New Generation of Build Tools](https://css-tricks.com/comparing-the-new-generation-of-build-tools/)
 - [SurviveJS Webpack: Build Analysis](https://survivejs.com/webpack/optimizing/build-analysis/) #webpack
 - [IE11 and the Missing Polyfills](https://dev.to/thekashey/ie11-and-the-missing-polyfills-1cd9)
@@ -1668,6 +1678,7 @@
 
 ### Related Libs
 
+- [esbuild-loader](https://github.com/privatenumber/esbuild-loader)
 - [BundlePhobia](https://bundlephobia.com)
 - [PackagePhobia](https://packagephobia.com/)
 - [Webpack Bundle Analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) #webpack
