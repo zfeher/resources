@@ -124,6 +124,7 @@
 
 ## Interview
 
+- [JavaScript Interview Prep Cheatsheet – Ace Your Coding Interviews with These Concepts](https://www.freecodecamp.org/news/javascript-interview-prep-cheatsheet)
 - [JS is Weird](https://jsisweird.com/) #test
 - [7 GitHub Repositories To Help You Crush Your Job Interviews](https://catalins.tech/7-github-repositories-to-help-you-crush-your-job-interviews)
 - [List of Github repositories - Sunil Kumar](https://twitter.com/sunilc_/status/1380181963231793156?s=09)
@@ -160,6 +161,11 @@
 
 ## General
 
+- [Building A Dynamic Header With Intersection Observer](https://www.smashingmagazine.com/2021/07/dynamic-header-intersection-observer)
+- [How to convert arrays to human-readable lists in JavaScript](https://www.amitmerchant.com/how-to-convert-arrays-to-human-readable-lists-in-javascript)
+- [The Ultimate Guide to Browser-Side Storage](https://blog.openreplay.com/the-ultimate-guide-to-browser-side-storage)
+- [Detecting media query support in CSS and JavaScript](https://kilianvalkhof.com/2021/web/detecting-media-query-support-in-css-and-javascript) #CSS #media query
+- [8 Must-Have ESLint Plugins for your Node.js Application](https://javascript.plainenglish.io/8-must-have-eslint-plugins-for-your-node-js-application-392da0569372)
 - [Why is NanoID Replacing UUID?](https://blog.bitsrc.io/why-is-nanoid-replacing-uuid-1b5100e62ed2)
 - [How to Cancel Pending API Requests to Show Correct Data](https://css-tricks.com/how-to-cancel-pending-api-requests-to-show-correct-data/) #AbortController
 - [Encoding data for POST requests](https://jakearchibald.com/2021/encoding-data-for-post-requests/) #URLSearchParams #FormData
@@ -312,6 +318,7 @@
 
 ### Related
 
+- [filesize.js](https://filesizejs.com)
 - [Threads.js](https://threads.js.org/)
 - [fx](https://github.com/antonmedv/fx) #json
 - [zx](https://github.com/google/zx)
@@ -544,6 +551,10 @@
 - [What you didn’t know about JSON.parse](https://abdulapopoola.com/2018/02/26/what-you-didnt-know-about-json-parse/)
 - [What you didn’t know about JSON.Stringify](https://abdulapopoola.com/2017/02/27/what-you-didnt-know-about-json-stringify/)
 
+## Related
+
+- [FracturedJson](https://j-brooke.github.io/FracturedJson/) #formatter
+
 ## DOM
 
 - [HTML Sanitizer API](https://wicg.github.io/sanitizer-api/) #sanitize
@@ -556,6 +567,7 @@
 
 ## Accessibility
 
+- [Access Guide](https://accessguide.io/)
 - [Accessibility Testing with pa11y](https://bitsofco.de/pa11y/)
 - [10 guidelines to improve your web accessibility](https://aerolab.co/blog/web-accessibility/)
 - [9 tips to get bare minimum of web accessibility](https://medium.com/@realabhijeet4u/9-tips-to-get-bare-minimum-of-web-accessibility-739899a9437c)
@@ -607,6 +619,7 @@
 
 ### Related
 
+- [devcert](https://github.com/davewasmer/devcert)
 - [MagicLink](https://docs.magic.link/)
 - [mkcert: valid HTTPS certificates for localhost](https://blog.filippo.io/mkcert-valid-https-certificates-for-localhost/)
 
@@ -763,6 +776,7 @@
 
 ### Related Libs
 
+- [mem](https://github.com/sindresorhus/mem?utm_source=pocket_mylist)
 - [Clio](https://clio-lang.org/) #language
 - [purify-ts](https://gigobyte.github.io/purify/)
 - [mori](http://swannodette.github.io/mori/)
@@ -1201,6 +1215,7 @@
 
 ### General
 
+- [5 Packages to Optimize and Speed Up Your React App During Development](https://javascript.plainenglish.io/5-packages-to-optimize-and-speed-up-your-react-app-during-development-51d7e4297d8d)
 - [ECMAScript proposal: Import assertions](https://2ality.com/2021/01/import-assertions.html)
 - [The modern guide to React state patterns](https://blog.logrocket.com/modern-guide-react-state-patterns/) #useSWR #redux #xstate
 - [How to manage global state with XState and React](https://dev.to/mpocock1/how-to-manage-global-state-with-xstate-and-react-3if5) #xstate
