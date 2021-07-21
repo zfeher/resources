@@ -84,6 +84,7 @@
 
 ## Learning
 
+- [How To Learn Stuff Quickly](https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly)
 - [Codewell](https://www.codewell.cc/) #challenges
 - [DOM Events](https://domevents.dev/)
 - [40 JavaScript Projects for Beginners – Easy Ideas to Get Started Coding JS](https://www.freecodecamp.org/news/javascript-projects-for-beginners/)
@@ -590,6 +591,7 @@
 
 ## Security / Payment
 
+- [Web Authentication: Cookies vs. Tokens](https://blog.bitsrc.io/web-authentication-cookies-vs-tokens-8e47d5a96d34)
 - [Dealing with some CSRF attacks using the SameSite cookies](https://wanago.io/2020/12/21/csrf-attacks-same-site-cookies/)
 - [JavaScript Security Issues and Best Practices](https://blog.bitsrc.io/javascript-security-issues-and-best-practices-37e78df4dce4)
 - [Web Application Security Practices Every Developer Must Know](https://medium.com/javascript-in-plain-english/web-application-security-best-practices-881e3cfde2a1)[OWASP]
@@ -854,6 +856,7 @@
 
 ## Typescript
 
+- [TypeScript: Array.includes on narrow types](https://fettblog.eu/typescript-array-includes)
 - [Advanced TypeScript: A Generic Function to Merge Object Arrays](https://javascript.plainenglish.io/advanced-typescript-a-generic-function-to-merge-object-arrays-cb0bd9a5c382)
 - [Tag hierarchies via Template Literal Types](https://ikoshelev.azurewebsites.net/search/id/16/Pragmatic-uses-of-TypeScript-type-system-03-Tag-hierarchies-via-Template-Literal-Types)
 - [Starting a TypeScript Project in 2021](https://www.metachris.com/2021/04/starting-a-typescript-project-in-2021/) #esbuild
@@ -919,6 +922,7 @@
 
 ### Related
 
+- [TypeBox](https://github.com/sinclairzx81/typebox)
 - [airbnb/ts-migrate](https://github.com/airbnb/ts-migrate)
 - [ts-toolbelt](https://pirix-gh.github.io/ts-toolbelt/index.html)
 - [transitive-bullshit/functional-typescript](https://github.com/transitive-bullshit/functional-typescript)
@@ -1215,6 +1219,7 @@
 
 ### General
 
+- [When a Click is Not Just a Click](https://css-tricks.com/when-a-click-is-not-just-a-click)
 - [5 Packages to Optimize and Speed Up Your React App During Development](https://javascript.plainenglish.io/5-packages-to-optimize-and-speed-up-your-react-app-during-development-51d7e4297d8d)
 - [ECMAScript proposal: Import assertions](https://2ality.com/2021/01/import-assertions.html)
 - [The modern guide to React state patterns](https://blog.logrocket.com/modern-guide-react-state-patterns/) #useSWR #redux #xstate
@@ -1507,6 +1512,8 @@
 
 ## Testing
 
+- [Test Feature Flags Using Cypress and Flagsmith](https://glebbahmutov.com/blog/test-feature-flags)
+- [Cypress Live-Reload Tests on Code Changes](https://markus.oberlehner.net/blog/cypress-live-reload-tests-on-code-changes)
 - [Cypress request and cookies](https://glebbahmutov.com/blog/cypress-request-and-cookies/)
 - [Load Fixtures from Cypress Custom Commands](https://glebbahmutov.com/blog/fixtures-in-custom-commands/)
 - [Introducing the Cypress Component Test Runner– new in 7.0.0](https://cypress.io/blog/2021/04/06/introducing-the-cypress-component-test-runner)
@@ -1595,6 +1602,7 @@
 
 ## Package Management, Dependency Management
 
+- [TypeScript and native ESM on Node.js](https://2ality.com/2021/06/typescript-esm-nodejs.html) #package.json
 - [What is monorepo? (and should you use it?)](https://semaphoreci.com/blog/what-is-monorepo)
 - [How to deploy only changed packages in a Lerna Monorepo](https://itnext.io/how-to-deploy-only-changed-packages-in-a-lerna-monorepo-7e5fb234b32a)
 - [Is Monorepo for You? — 2020](https://blog.bitsrc.io/is-monorepo-for-you-2020-78cc1717a4f1)[monorepo]
