@@ -865,6 +865,7 @@
 
 ## Typescript
 
+- [TypeScript: Unexpected intersections](https://fettblog.eu/typescript-unexpected-intersections/)
 - [TypeScript: Array.includes on narrow types](https://fettblog.eu/typescript-array-includes)
 - [Advanced TypeScript: A Generic Function to Merge Object Arrays](https://javascript.plainenglish.io/advanced-typescript-a-generic-function-to-merge-object-arrays-cb0bd9a5c382)
 - [Tag hierarchies via Template Literal Types](https://ikoshelev.azurewebsites.net/search/id/16/Pragmatic-uses-of-TypeScript-type-system-03-Tag-hierarchies-via-Template-Literal-Types)
@@ -1231,6 +1232,7 @@
 
 ### General
 
+- [How to Use Promise.allSettled()](https://dmitripavlutin.com/promise-all-settled)
 - [react-tracked - so helpful tool](https://www.julian.io/articles/react-tracked.html)
 - [Make it work, Make it right and make it better.](https://javascript.plainenglish.io/broken-window-theory-in-software-development-b239d2bb6b97)
 - [When a Click is Not Just a Click](https://css-tricks.com/when-a-click-is-not-just-a-click)
@@ -1618,6 +1620,7 @@
 
 ## Package Management, Dependency Management
 
+- [Simple monorepos via npm workspaces and TypeScript project references](https://2ality.com/2021/07/simple-monorepos.html)
 - [TypeScript and native ESM on Node.js](https://2ality.com/2021/06/typescript-esm-nodejs.html) #package.json #typescript
 - [What is monorepo? (and should you use it?)](https://semaphoreci.com/blog/what-is-monorepo)
 - [How to deploy only changed packages in a Lerna Monorepo](https://itnext.io/how-to-deploy-only-changed-packages-in-a-lerna-monorepo-7e5fb234b32a)
