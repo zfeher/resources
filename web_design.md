@@ -32,7 +32,8 @@
 
 ## CSS
 
-- [Refactoring CSS: Introduction (Part 1)](https://www.smashingmagazine.com/2021/07/refactoring-css-introduction-part1/?utm_source=pocket_mylist)
+- [The State Of Mobile First and Desktop First](https://ishadeed.com/article/the-state-of-mobile-first-and-desktop-first)
+- [Refactoring CSS: Introduction (Part 1)](https://www.smashingmagazine.com/2021/07/refactoring-css-introduction-part1)
 - [Responsive images – when to use x or w units in the img srcset](http://www.js-craft.io/blog/responsive-images-when-to-use-x-or-w-units-in-the-img-srcset)
 - [web.dev: Learn CSS](https://web.dev/learn/css/)
 - [Learn CSS Grid by Building 5 Layouts in 17 minutes](https://www.freecodecamp.org/news/learn-css-grid-by-building-5-layouts/)

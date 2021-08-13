@@ -1013,6 +1013,8 @@
 - [3 Code Splitting Patterns For VueJS and Webpack](http://vuejsdevelopers.com/2017/07/08/vue-js-3-ways-code-splitting-webpack/)[code splitting]
 - [Dynamic imports + common chunks](https://github.com/webpack/webpack/issues/4392)
 
+- [Vue Components as Custom Elements](https://maximomussini.com/posts/vue-custom-elements)
+- [<Lazy> rendering in Vue to improve performance](https://medium.com/js-dojo/lazy-rendering-in-vue-to-improve-performance-dcccd445d5f) #IntersectionObserver #requestIdleCallback
 - [How to Structure a Large Scale Vue.js Application](https://vueschool.io/articles/vuejs-tutorials/how-to-structure-a-large-scale-vue-js-application/)
 - [ESLint and Prettier with Vite and Vue.js 3](https://vueschool.io/articles/vuejs-tutorials/eslint-and-prettier-with-vite-and-vue-js-3/)
 - [6 Tips for Building Large Scale Vue.js 3 Applications](https://vueschool.io/articles/vuejs-tutorials/6-tips-for-building-large-scale-vue-js-3-applications)
@@ -1530,6 +1532,8 @@
 
 ## Testing
 
+- [Loki: A Visual Regression Testing for Your Storybook Projects](https://javascript.plainenglish.io/loki-a-visual-regression-testing-journey-on-projects-that-use-storybook-1ff5a8530a51)
+- [Interaction Testing sneak peek](https://storybook.js.org/blog/interaction-testing-sneak-peek) #storybook
 - [Test Feature Flags Using Cypress and Flagsmith](https://glebbahmutov.com/blog/test-feature-flags)
 - [Cypress Live-Reload Tests on Code Changes](https://markus.oberlehner.net/blog/cypress-live-reload-tests-on-code-changes)
 - [Cypress request and cookies](https://glebbahmutov.com/blog/cypress-request-and-cookies/)
