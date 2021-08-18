@@ -32,6 +32,7 @@
 
 ## CSS
 
+- [Practical Uses of CSS Math Functions: calc, clamp, min, max](https://moderncss.dev/practical-uses-of-css-math-functions-calc-clamp-min-max)
 - [The State Of Mobile First and Desktop First](https://ishadeed.com/article/the-state-of-mobile-first-and-desktop-first)
 - [Refactoring CSS: Introduction (Part 1)](https://www.smashingmagazine.com/2021/07/refactoring-css-introduction-part1)
 - [Responsive images – when to use x or w units in the img srcset](http://www.js-craft.io/blog/responsive-images-when-to-use-x-or-w-units-in-the-img-srcset)
