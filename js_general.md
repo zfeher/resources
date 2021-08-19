@@ -84,6 +84,7 @@
 
 ## Learning
 
+- [SEO for Devs – Free 2-Week Course](https://seofordevs.com) #SEO
 - [Knights if the Flexbox Table](https://knightsoftheflexboxtable.com)
 - [Creating An Accessible Dialog From Scratch](https://www.smashingmagazine.com/2021/07/accessible-dialog-from-scratch)
 - [How To Learn Stuff Quickly](https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly)
@@ -457,6 +458,8 @@
 
 ## Performance, memory
 
+- [8 Performance Analysis Tools for Front-End Development](https://blog.bitsrc.io/8-performance-analysis-tools-for-front-end-development-1892c81acdfa)
+- [Why lab and field data can be different (and what to do about it)](https://web.dev/lab-and-field-data-differences)
 - [How to load a CSS file async](http://www.js-craft.io/blog/how-to-load-a-css-file-async)
 - [Serving sharp images to high density screens](https://jakearchibald.com/2021/serving-sharp-images-to-high-density-screens/) #image #screen density #dpr #dppx
 - [The Humble <img> Element And Core Web Vitals](https://www.smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/)
@@ -526,6 +529,7 @@
 
 ### Related
 
+- [lukeed/loadr](https://github.com/lukeed/loadr)
 - [restify](http://restify.com/)
 
 ## Machine Learning/Deep Learning/Data Science
@@ -1013,6 +1017,7 @@
 - [3 Code Splitting Patterns For VueJS and Webpack](http://vuejsdevelopers.com/2017/07/08/vue-js-3-ways-code-splitting-webpack/)[code splitting]
 - [Dynamic imports + common chunks](https://github.com/webpack/webpack/issues/4392)
 
+- [Optimizing the Performance of Your Vue Apps Using Web Workers](https://blog.openreplay.com/optimizing-the-performance-of-your-vue-apps-using-web-workers) #performance #webworker
 - [Vue Components as Custom Elements](https://maximomussini.com/posts/vue-custom-elements)
 - [<Lazy> rendering in Vue to improve performance](https://medium.com/js-dojo/lazy-rendering-in-vue-to-improve-performance-dcccd445d5f) #IntersectionObserver #requestIdleCallback
 - [How to Structure a Large Scale Vue.js Application](https://vueschool.io/articles/vuejs-tutorials/how-to-structure-a-large-scale-vue-js-application/)
@@ -1187,7 +1192,6 @@
 - [iView](https://github.com/iview/iview)
 - [Vuex Pathify](https://github.com/davestewart/vuex-pathify)
 - [VuePress](https://vuepress.vuejs.org/)
-- [v-lazy-image](https://github.com/alexjoverm/v-lazy-image)
 - [Quasar](https://github.com/quasarframework/quasar)
 - [vue-enterprise-boilerplate](https://github.com/chrisvfritz/vue-enterprise-boilerplate)
 - [vuex-loading](https://github.com/f/vuex-loading)
@@ -1724,6 +1728,7 @@
 
 ### Related Libs
 
+- [SWC](https://swc.rs)
 - [esbuild-loader](https://github.com/privatenumber/esbuild-loader)
 - [BundlePhobia](https://bundlephobia.com)
 - [PackagePhobia](https://packagephobia.com/)
