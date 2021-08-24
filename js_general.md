@@ -1386,6 +1386,7 @@
 
 ## React Native
 
+- [Why React Native Is The Right Solution For Enterprise Mobile App Development](https://javascript.plainenglish.io/why-react-native-is-the-right-solution-for-enterprise-mobile-app-development-39d441819e41)
 - [The React and React Native Event System Explained: A Harmonious Coexistence](https://levelup.gitconnected.com/how-exactly-does-react-handles-events-71e8b5e359f2?ref=reddit)
 - [React Native Quirks](https://codeburst.io/react-native-quirks-2fb1ae0bbf80)
 
