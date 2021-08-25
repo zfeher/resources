@@ -458,6 +458,7 @@
 
 ## Performance, memory
 
+- [Loading Third-Party JavaScript](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/loading-third-party-javascript)
 - [8 Performance Analysis Tools for Front-End Development](https://blog.bitsrc.io/8-performance-analysis-tools-for-front-end-development-1892c81acdfa)
 - [Why lab and field data can be different (and what to do about it)](https://web.dev/lab-and-field-data-differences)
 - [How to load a CSS file async](http://www.js-craft.io/blog/how-to-load-a-css-file-async)
