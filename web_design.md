@@ -32,6 +32,7 @@
 
 ## CSS
 
+- [CSS Pseudo Commas](https://css-tricks.com/css-pseudo-commas)
 - [The World of CSS Transforms](https://www.joshwcomeau.com/css/transforms)
 - [Practical Uses of CSS Math Functions: calc, clamp, min, max](https://moderncss.dev/practical-uses-of-css-math-functions-calc-clamp-min-max)
 - [The State Of Mobile First and Desktop First](https://ishadeed.com/article/the-state-of-mobile-first-and-desktop-first)

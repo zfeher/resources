@@ -1,6 +1,5 @@
 ## Unsorted
 
-- [SolidJS](SolidJS Official Release: The long road to 1.0)
 - [NeutralinoJs](https://neutralino.js.org/)
 - [Frogger in Hyperapp](https://medium.com/hyperapp/frogger-in-hyperapp-90c0a7cd23a4)
 - [How I built super fast JS framework](https://medium.com/@marcisbee/how-i-built-super-fast-js-framework-faster-than-react-ea99f0d03150)
@@ -9,7 +8,6 @@
 
 ### Related
 
-- [SolidJS](https://www.solidjs.com/)
 - [Marko](http://markojs.com)
 - [Nodes](https://nodes.io/) #visual programming
 - [Radi.js](https://github.com/radi-js/radi)
@@ -165,6 +163,7 @@
 
 ## General
 
+- [An Introduction to JQ](https://earthly.dev/blog/jq-select) #json #query
 - [Everything You Ever Wanted to Know About WebRTC](https://blog.openreplay.com/everything-you-ever-wanted-to-know-about-webrtc)
 - [JavaScript Promises: then(f,f) vs then(f).catch(f)](https://dmitripavlutin.com/javascript-promises-then-vs-then-catch)
 - [Building A Dynamic Header With Intersection Observer](https://www.smashingmagazine.com/2021/07/dynamic-header-intersection-observer)
@@ -686,6 +685,7 @@
 
 ## Functional Programming (FP)
 
+- [Introduction to the Solid JavaScript Library](https://css-tricks.com/introduction-to-the-solid-javascript-library)
 - [RxJS Operators In-Depth - Part 1](https://benlesh.com/posts/rxjs-operators-in-depth-part-1)
 - [Cube Composer](https://david-peter.de/cube-composer/)[game]
 - [A fool's scriptum on functional programming](https://github.com/kongware/scriptum)[course]
@@ -792,6 +792,7 @@
 
 ### Related Libs
 
+- [SolidJS](https://www.solidjs.com/)
 - [mem](https://github.com/sindresorhus/mem?utm_source=pocket_mylist)
 - [Clio](https://clio-lang.org/) #language
 - [purify-ts](https://gigobyte.github.io/purify/)
@@ -1239,6 +1240,8 @@
 
 ### General
 
+- [5 String Manipulation Libraries for JavaScript](https://blog.bitsrc.io/5-string-manipulation-libraries-for-javascript-9ca5da8b4eb8)
+- [Optimizing React apps: Hardcore edition](https://dev.to/wojtekmaj/optimizing-react-app-hardcore-edition-2h1)
 - [How to Use Promise.allSettled()](https://dmitripavlutin.com/promise-all-settled)
 - [react-tracked - so helpful tool](https://www.julian.io/articles/react-tracked.html)
 - [Make it work, Make it right and make it better.](https://javascript.plainenglish.io/broken-window-theory-in-software-development-b239d2bb6b97)
