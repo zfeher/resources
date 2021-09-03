@@ -32,6 +32,7 @@
 
 ## CSS
 
+- [Using counters in CSS to number elements automatically](https://www.wisdomgeek.com/development/web-development/using-counters-in-css-to-number-elements-automatically)
 - [CSS Pseudo Commas](https://css-tricks.com/css-pseudo-commas)
 - [The World of CSS Transforms](https://www.joshwcomeau.com/css/transforms)
 - [Practical Uses of CSS Math Functions: calc, clamp, min, max](https://moderncss.dev/practical-uses-of-css-math-functions-calc-clamp-min-max)

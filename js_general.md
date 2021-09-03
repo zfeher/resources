@@ -163,6 +163,7 @@
 
 ## General
 
+- [ES2022 feature: class static initialization blocks](https://2ality.com/2021/09/class-static-block.html)
 - [An Introduction to JQ](https://earthly.dev/blog/jq-select) #json #query
 - [Everything You Ever Wanted to Know About WebRTC](https://blog.openreplay.com/everything-you-ever-wanted-to-know-about-webrtc)
 - [JavaScript Promises: then(f,f) vs then(f).catch(f)](https://dmitripavlutin.com/javascript-promises-then-vs-then-catch)
@@ -378,6 +379,10 @@
 
 - [Serverless Framework](https://www.serverless.com/)
 - [Serverless UI](https://github.com/JakePartusch/serverlessui)
+
+## Hosting
+
+- [Top 5 Frontend Hosting Platforms in 2021](https://blog.bitsrc.io/top-5-frontend-hosting-platforms-in-2021-519b14758bd2)
 
 ## Micro frontends
 
@@ -871,6 +876,7 @@
 
 ## Typescript
 
+- [Type Guards and Control Flow Analysis in TypeScript 4.4](https://javascript.plainenglish.io/typescript-4-4-be-on-your-guard-7e3bb2e3ebbe)
 - [TypeScript: Unexpected intersections](https://fettblog.eu/typescript-unexpected-intersections/)
 - [TypeScript: Array.includes on narrow types](https://fettblog.eu/typescript-array-includes)
 - [Advanced TypeScript: A Generic Function to Merge Object Arrays](https://javascript.plainenglish.io/advanced-typescript-a-generic-function-to-merge-object-arrays-cb0bd9a5c382)
@@ -1019,6 +1025,7 @@
 - [3 Code Splitting Patterns For VueJS and Webpack](http://vuejsdevelopers.com/2017/07/08/vue-js-3-ways-code-splitting-webpack/)[code splitting]
 - [Dynamic imports + common chunks](https://github.com/webpack/webpack/issues/4392)
 
+- [Use Responsive Images with v-lazy-image](https://vuedose.tips/use-responsive-images-with-v-lazy-image)
 - [Optimizing the Performance of Your Vue Apps Using Web Workers](https://blog.openreplay.com/optimizing-the-performance-of-your-vue-apps-using-web-workers) #performance #webworker
 - [Vue Components as Custom Elements](https://maximomussini.com/posts/vue-custom-elements)
 - [<Lazy> rendering in Vue to improve performance](https://medium.com/js-dojo/lazy-rendering-in-vue-to-improve-performance-dcccd445d5f) #IntersectionObserver #requestIdleCallback
