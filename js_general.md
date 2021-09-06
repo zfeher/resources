@@ -126,6 +126,7 @@
 
 ## Interview
 
+- [Deep dive into an interview question: Array Nesting](https://yonatankra.com/deep-dive-into-an-interview-question-array-nesting)
 - [JavaScript Interview Prep Cheatsheet – Ace Your Coding Interviews with These Concepts](https://www.freecodecamp.org/news/javascript-interview-prep-cheatsheet)
 - [JS is Weird](https://jsisweird.com/) #test
 - [7 GitHub Repositories To Help You Crush Your Job Interviews](https://catalins.tech/7-github-repositories-to-help-you-crush-your-job-interviews)
@@ -163,6 +164,7 @@
 
 ## General
 
+- [Threats of Using Regular Expressions in JavaScript](https://blog.bitsrc.io/threats-of-using-regular-expressions-in-javascript-28ddccf5224c)
 - [ES2022 feature: class static initialization blocks](https://2ality.com/2021/09/class-static-block.html)
 - [An Introduction to JQ](https://earthly.dev/blog/jq-select) #json #query
 - [Everything You Ever Wanted to Know About WebRTC](https://blog.openreplay.com/everything-you-ever-wanted-to-know-about-webrtc)
@@ -1523,6 +1525,12 @@
 
 - [p5.js](https://p5js.org)
 - [Paper.js](http://paperjs.org/about/)
+
+## Image
+
+### Related
+
+- [jwagner/smartcrop.js](https://github.com/jwagner/smartcrop.js)
 
 ## Animation
 
