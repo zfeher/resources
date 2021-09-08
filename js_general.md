@@ -164,6 +164,7 @@
 
 ## General
 
+- [What’s New With DevTools: Cross-Browser Edition](https://www.smashingmagazine.com/2021/09/devtools-cross-browser-edition)
 - [Threats of Using Regular Expressions in JavaScript](https://blog.bitsrc.io/threats-of-using-regular-expressions-in-javascript-28ddccf5224c)
 - [ES2022 feature: class static initialization blocks](https://2ality.com/2021/09/class-static-block.html)
 - [An Introduction to JQ](https://earthly.dev/blog/jq-select) #json #query
@@ -536,6 +537,7 @@
 
 ### Related
 
+- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)
 - [lukeed/loadr](https://github.com/lukeed/loadr)
 - [restify](http://restify.com/)
 
@@ -800,7 +802,7 @@
 ### Related Libs
 
 - [SolidJS](https://www.solidjs.com/)
-- [mem](https://github.com/sindresorhus/mem?utm_source=pocket_mylist)
+- [mem](https://github.com/sindresorhus/mem)
 - [Clio](https://clio-lang.org/) #language
 - [purify-ts](https://gigobyte.github.io/purify/)
 - [mori](http://swannodette.github.io/mori/)
@@ -1377,6 +1379,7 @@
 
 ### Related
 
+- [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript)
 - [React Tracked](https://github.com/dai-shi/react-tracked)
 - [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react)
 - [cassiozen/useStateMachine](https://github.com/cassiozen/useStateMachine)
