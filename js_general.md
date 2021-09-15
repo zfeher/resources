@@ -164,6 +164,7 @@
 
 ## General
 
+- [Currency Calculations in JavaScript](https://www.honeybadger.io/blog/currency-money-calculations-in-javascript)
 - [What’s New With DevTools: Cross-Browser Edition](https://www.smashingmagazine.com/2021/09/devtools-cross-browser-edition)
 - [Threats of Using Regular Expressions in JavaScript](https://blog.bitsrc.io/threats-of-using-regular-expressions-in-javascript-28ddccf5224c)
 - [ES2022 feature: class static initialization blocks](https://2ality.com/2021/09/class-static-block.html)
@@ -1253,6 +1254,7 @@
 
 ### General
 
+- [Keep the React app responsive even during large screen updates with startTransition API introduced in React 18](https://blog.saeloun.com/2021/09/09/react-18-introduces-starttransition-api)
 - [5 String Manipulation Libraries for JavaScript](https://blog.bitsrc.io/5-string-manipulation-libraries-for-javascript-9ca5da8b4eb8)
 - [Optimizing React apps: Hardcore edition](https://dev.to/wojtekmaj/optimizing-react-app-hardcore-edition-2h1)
 - [How to Use Promise.allSettled()](https://dmitripavlutin.com/promise-all-settled)
@@ -1562,6 +1564,8 @@
 
 ## Testing
 
+- [Puppeteer, Selenium, Playwright, Cypress – how to choose?](https://www.testim.io/blog/puppeteer-selenium-playwright-cypress-how-to-choose)
+- [Cypress vs Selenium vs Playwright vs Puppeteer speed comparison](https://blog.checklyhq.com/cypress-vs-selenium-vs-playwright-vs-puppeteer-speed-comparison)
 - [Loki: A Visual Regression Testing for Your Storybook Projects](https://javascript.plainenglish.io/loki-a-visual-regression-testing-journey-on-projects-that-use-storybook-1ff5a8530a51)
 - [Interaction Testing sneak peek](https://storybook.js.org/blog/interaction-testing-sneak-peek) #storybook
 - [Test Feature Flags Using Cypress and Flagsmith](https://glebbahmutov.com/blog/test-feature-flags)
