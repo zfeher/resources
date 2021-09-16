@@ -1,5 +1,6 @@
 ## Unsorted
 
+- [Shoelace](https://shoelace.style) #web components
 - [NeutralinoJs](https://neutralino.js.org/)
 - [Frogger in Hyperapp](https://medium.com/hyperapp/frogger-in-hyperapp-90c0a7cd23a4)
 - [How I built super fast JS framework](https://medium.com/@marcisbee/how-i-built-super-fast-js-framework-faster-than-react-ea99f0d03150)
@@ -164,6 +165,7 @@
 
 ## General
 
+- [An Intro to JavaScript Proxy](https://css-tricks.com/an-intro-to-javascript-proxy)
 - [Currency Calculations in JavaScript](https://www.honeybadger.io/blog/currency-money-calculations-in-javascript)
 - [What’s New With DevTools: Cross-Browser Edition](https://www.smashingmagazine.com/2021/09/devtools-cross-browser-edition)
 - [Threats of Using Regular Expressions in JavaScript](https://blog.bitsrc.io/threats-of-using-regular-expressions-in-javascript-28ddccf5224c)
@@ -1254,6 +1256,8 @@
 
 ### General
 
+- [CSS Variables for React Devs](https://www.joshwcomeau.com/css/css-variables-for-react-devs)
+- [Compound Components In React](https://www.smashingmagazine.com/2021/08/compound-components-react/)
 - [Keep the React app responsive even during large screen updates with startTransition API introduced in React 18](https://blog.saeloun.com/2021/09/09/react-18-introduces-starttransition-api)
 - [5 String Manipulation Libraries for JavaScript](https://blog.bitsrc.io/5-string-manipulation-libraries-for-javascript-9ca5da8b4eb8)
 - [Optimizing React apps: Hardcore edition](https://dev.to/wojtekmaj/optimizing-react-app-hardcore-edition-2h1)
@@ -1658,6 +1662,7 @@
 
 ## Package Management, Dependency Management
 
+- [5 Best Practices to Choosing Third-Party NPM Packages](https://blog.bitsrc.io/5-best-practices-when-choosing-third-party-npm-packages-2198994357f9)
 - [Simple monorepos via npm workspaces and TypeScript project references](https://2ality.com/2021/07/simple-monorepos.html)
 - [TypeScript and native ESM on Node.js](https://2ality.com/2021/06/typescript-esm-nodejs.html) #package.json #typescript
 - [What is monorepo? (and should you use it?)](https://semaphoreci.com/blog/what-is-monorepo)
