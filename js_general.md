@@ -1256,6 +1256,8 @@
 
 ### General
 
+- [What the Heck Is Ref Forwarding?](https://javascript.plainenglish.io/what-the-heck-is-ref-forwarding-1fc434911122)
+- [Using Recoil instead of Redux For State Management In React Applications.](https://blog.openreplay.com/using-recoil-instead-of-redux-for-state-management-in-react-applications)
 - [CSS Variables for React Devs](https://www.joshwcomeau.com/css/css-variables-for-react-devs)
 - [Compound Components In React](https://www.smashingmagazine.com/2021/08/compound-components-react/)
 - [Keep the React app responsive even during large screen updates with startTransition API introduced in React 18](https://blog.saeloun.com/2021/09/09/react-18-introduces-starttransition-api)
@@ -1557,6 +1559,7 @@
 
 ### Related Libs
 
+- [Motion One](https://motion.dev/)
 - [Anime.js](https://github.com/juliangarnier/anime/)
 - [mo.js](http://mojs.io)
 - [Web Animations API](https://github.com/web-animations/web-animations-js)
