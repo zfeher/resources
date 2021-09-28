@@ -165,6 +165,7 @@
 
 ## General
 
+- [Your dark mode toggle is broken](https://kilianvalkhof.com/2020/design/your-dark-mode-toggle-is-broken/)
 - [An Intro to JavaScript Proxy](https://css-tricks.com/an-intro-to-javascript-proxy)
 - [Currency Calculations in JavaScript](https://www.honeybadger.io/blog/currency-money-calculations-in-javascript)
 - [What’s New With DevTools: Cross-Browser Edition](https://www.smashingmagazine.com/2021/09/devtools-cross-browser-edition)
@@ -405,6 +406,7 @@
 - [Developing and Deploying Micro-Frontends with single-spa](https://dev.to/thawkin3/developing-and-deploying-micro-frontends-with-single-spa-39ij)
 - [Micro-frontend Architecture in Action with six ways](https://dev.to/phodal/micro-frontend-architecture-in-action-4n60)
 
+- [Micro Frontends: 5 Common Mistakes to Avoid](https://blog.bitsrc.io/micro-frontends-5-common-mistakes-to-avoid-4a35a37cad3d)
 - [Event Sourcing Pattern for Real-Time Frontends](https://blog.bitsrc.io/event-sourcing-pattern-for-real-time-frontends-42359e6dd957)
 - [How We Build Micro Frontends](https://blog.bitsrc.io/how-we-build-micro-front-ends-d3eeeac0acfc)
 - [Revolutionizing Micro Frontends with Webpack 5, Module Federation and Bit](https://blog.bitsrc.io/revolutionizing-micro-frontends-with-webpack-5-module-federation-and-bit-99ff81ceb0)[webpack]
@@ -883,6 +885,7 @@
 
 ## Typescript
 
+- [Index Signatures in TypeScript](https://dmitripavlutin.com/typescript-index-signatures/)
 - [unknown vs any in TypeScript](https://dmitripavlutin.com/typescript-unknown-vs-any)
 - [Type Guards and Control Flow Analysis in TypeScript 4.4](https://javascript.plainenglish.io/typescript-4-4-be-on-your-guard-7e3bb2e3ebbe)
 - [TypeScript: Unexpected intersections](https://fettblog.eu/typescript-unexpected-intersections/)
@@ -1256,6 +1259,8 @@
 
 ### General
 
+- [what's new in react 18?](https://yagmurcetintas.com/journal/whats-new-in-react-18)
+- [React state with a fragmented store](https://aralroca.com/blog/react-fragmented-store)
 - [What the Heck Is Ref Forwarding?](https://javascript.plainenglish.io/what-the-heck-is-ref-forwarding-1fc434911122)
 - [Using Recoil instead of Redux For State Management In React Applications.](https://blog.openreplay.com/using-recoil-instead-of-redux-for-state-management-in-react-applications)
 - [CSS Variables for React Devs](https://www.joshwcomeau.com/css/css-variables-for-react-devs)
@@ -1519,7 +1524,7 @@
 
 ### Related
 
-- [sindresorhus/ky](https://github.com/sindresorhus/ky)
+- [sindresorhus/ky](https://github.com/sindresorhus/ky) #post #get #fetch
 
 ### Related
 
