@@ -470,6 +470,7 @@
 
 ## Performance, memory
 
+- [Explore JavaScript Dependencies With Lighthouse Treemap](https://sia.codes/posts/lighthouse-treemap)
 - [Loading Third-Party JavaScript](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/loading-third-party-javascript)
 - [8 Performance Analysis Tools for Front-End Development](https://blog.bitsrc.io/8-performance-analysis-tools-for-front-end-development-1892c81acdfa)
 - [Why lab and field data can be different (and what to do about it)](https://web.dev/lab-and-field-data-differences)
