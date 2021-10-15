@@ -165,6 +165,8 @@
 
 ## General
 
+- [Stop using loading spinners](https://dev.to/nandotherojo/stop-using-loading-spinners-pkh)
+- [Google Chrome Hidden Features Every Developer Should Know](https://blog.bitsrc.io/google-chrome-experimental-features-for-developers-a9a7cc9d1b30) #debug
 - [Your dark mode toggle is broken](https://kilianvalkhof.com/2020/design/your-dark-mode-toggle-is-broken/)
 - [An Intro to JavaScript Proxy](https://css-tricks.com/an-intro-to-javascript-proxy)
 - [Currency Calculations in JavaScript](https://www.honeybadger.io/blog/currency-money-calculations-in-javascript)
@@ -1181,6 +1183,7 @@
 
 ### Related
 
+- [VueDX](https://github.com/vuedx/languagetools)
 - [Pinia](https://pinia.esm.dev/) #state management
 - [Vue SFC Playground](https://sfc.vuejs.org)
 - [vue-promised](https://github.com/posva/vue-promised#usage)
@@ -1518,6 +1521,7 @@
 
 ## Networking
 
+- [How to win at CORS](https://jakearchibald.com/2021/cors) #cors
 - [Replace axios with a simple custom fetch wrapper](https://kentcdodds.com/blog/replace-axios-with-a-simple-custom-fetch-wrapper)
 - [Introducing Gretchen: Making Fetch Happen in TypeScript](https://www.truework.com/blog/engineering/2020-03-04-introducing-gretchen/)
 - [Using Fetch](https://css-tricks.com/using-fetch/)
@@ -1525,6 +1529,7 @@
 
 ### Related
 
+- [Rob--W/cors-anywhere](https://github.com/Rob--W/cors-anywhere)
 - [sindresorhus/ky](https://github.com/sindresorhus/ky) #post #get #fetch
 
 ### Related
@@ -1577,6 +1582,7 @@
 
 ## Testing
 
+- [7 Ways To Test Your Website On Safari Browser from Windows Device](https://www.ultimate-tech-news.com/7-ways-to-test-your-website-on-safari-browser-from-windows-device) #BrowserStack #LamdaTest #Browserling #CrossBrowserTesting #Sauce Labs
 - [Puppeteer, Selenium, Playwright, Cypress – how to choose?](https://www.testim.io/blog/puppeteer-selenium-playwright-cypress-how-to-choose)
 - [Cypress vs Selenium vs Playwright vs Puppeteer speed comparison](https://blog.checklyhq.com/cypress-vs-selenium-vs-playwright-vs-puppeteer-speed-comparison)
 - [Loki: A Visual Regression Testing for Your Storybook Projects](https://javascript.plainenglish.io/loki-a-visual-regression-testing-journey-on-projects-that-use-storybook-1ff5a8530a51)
