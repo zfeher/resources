@@ -700,8 +700,14 @@
   - [part 1](https://medium.com/javascript-inside/introduction-into-elm-77512c6c0baf)
   - [part 2](https://medium.com/javascript-inside/introduction-into-elm-67a422911ae5)
 
-## Functional Programming (FP)
+## Functional/Reactive Programming (FP)
 
+- [Higher-Kinded Data in TypeScript](https://ybogomolov.me/higher-kinded-data/)
+- [Intro to fp-ts, part 1: Higher-Kinded Types](https://ybogomolov.me/01-higher-kinded-types)
+- [Intro to fp-ts, part 2: Type Class Pattern](https://ybogomolov.me/02-type-classes/)
+- [Intro to fp-ts, part 3: Option and Either](https://ybogomolov.me/03-nullables-exceptions/)
+- [Intro to fp-ts, part 4: Tasks as an alternative to Promises](https://ybogomolov.me/04-tasks/)
+- []()
 - [Introduction to the Solid JavaScript Library](https://css-tricks.com/introduction-to-the-solid-javascript-library)
 - [RxJS Operators In-Depth - Part 1](https://benlesh.com/posts/rxjs-operators-in-depth-part-1)
 - [Cube Composer](https://david-peter.de/cube-composer/)[game]
@@ -809,6 +815,7 @@
 
 ### Related Libs
 
+- [marble](https://github.com/marblejs/marble?utm_source=pocket_mylist)
 - [SolidJS](https://www.solidjs.com/)
 - [mem](https://github.com/sindresorhus/mem)
 - [Clio](https://clio-lang.org/) #language
@@ -888,6 +895,7 @@
 
 ## Typescript
 
+- [Covariance and Contravariance in TypeScript](https://dmitripavlutin.com/typescript-covariance-contravariance/)
 - [Index Signatures in TypeScript](https://dmitripavlutin.com/typescript-index-signatures/)
 - [unknown vs any in TypeScript](https://dmitripavlutin.com/typescript-unknown-vs-any)
 - [Type Guards and Control Flow Analysis in TypeScript 4.4](https://javascript.plainenglish.io/typescript-4-4-be-on-your-guard-7e3bb2e3ebbe)
@@ -1263,6 +1271,8 @@
 
 ### General
 
+- [Introducing Sapling, A VS Code Extension For Traversing Your React Component Hierarchy](https://medium.com/@saplingextension/introducing-sapling-a-vs-code-extension-for-traversing-your-react-component-hierarchy-3ac94d95887e)
+- [Converting a React component to TypeScript](https://dev.to/mbarzeev/converting-a-react-component-to-typescript-15cl)
 - [what's new in react 18?](https://yagmurcetintas.com/journal/whats-new-in-react-18)
 - [React state with a fragmented store](https://aralroca.com/blog/react-fragmented-store)
 - [What the Heck Is Ref Forwarding?](https://javascript.plainenglish.io/what-the-heck-is-ref-forwarding-1fc434911122)
@@ -1582,6 +1592,7 @@
 
 ## Testing
 
+- [Dynamic API Tests Using Cypress-Each Plugin](https://glebbahmutov.com/blog/dynamic-api-tests-using-cypress-each)
 - [7 Ways To Test Your Website On Safari Browser from Windows Device](https://www.ultimate-tech-news.com/7-ways-to-test-your-website-on-safari-browser-from-windows-device) #BrowserStack #LamdaTest #Browserling #CrossBrowserTesting #Sauce Labs
 - [Puppeteer, Selenium, Playwright, Cypress – how to choose?](https://www.testim.io/blog/puppeteer-selenium-playwright-cypress-how-to-choose)
 - [Cypress vs Selenium vs Playwright vs Puppeteer speed comparison](https://blog.checklyhq.com/cypress-vs-selenium-vs-playwright-vs-puppeteer-speed-comparison)
