@@ -1271,6 +1271,9 @@
 
 ### General
 
+- [How to replace useState with useRef and be a winner](https://thoughtspile.github.io/2021/10/18/non-react-state)
+- [React & TypeScript: how to type hooks (a complete guide)](https://devtrium.com/posts/react-typescript-how-to-type-hooks) #TypeScript
+- [Are many useStates better than useState(object)?](https://thoughtspile.github.io/2021/10/11/usestate-object-vs-multiple)
 - [Introducing Sapling, A VS Code Extension For Traversing Your React Component Hierarchy](https://medium.com/@saplingextension/introducing-sapling-a-vs-code-extension-for-traversing-your-react-component-hierarchy-3ac94d95887e)
 - [Converting a React component to TypeScript](https://dev.to/mbarzeev/converting-a-react-component-to-typescript-15cl)
 - [what's new in react 18?](https://yagmurcetintas.com/journal/whats-new-in-react-18)
