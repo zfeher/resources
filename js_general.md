@@ -1191,6 +1191,7 @@
 
 ### Related
 
+- [vuex-composition-helpers](https://github.com/greenpress/vuex-composition-helpers) #TypeScript
 - [VueDX](https://github.com/vuedx/languagetools)
 - [Pinia](https://pinia.esm.dev/) #state management
 - [Vue SFC Playground](https://sfc.vuejs.org)
