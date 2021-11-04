@@ -165,6 +165,7 @@
 
 ## General
 
+- [Trie in Javascript: the Data Structure behind Autocomplete](https://stackfull.dev/trie-in-javascript-the-data-structure-behind-autocomplete)
 - [Stop using loading spinners](https://dev.to/nandotherojo/stop-using-loading-spinners-pkh)
 - [Google Chrome Hidden Features Every Developer Should Know](https://blog.bitsrc.io/google-chrome-experimental-features-for-developers-a9a7cc9d1b30) #debug
 - [Your dark mode toggle is broken](https://kilianvalkhof.com/2020/design/your-dark-mode-toggle-is-broken/)
@@ -1047,6 +1048,7 @@
 - [3 Code Splitting Patterns For VueJS and Webpack](http://vuejsdevelopers.com/2017/07/08/vue-js-3-ways-code-splitting-webpack/)[code splitting]
 - [Dynamic imports + common chunks](https://github.com/webpack/webpack/issues/4392)
 
+- [Template literal types in the Vuex](https://medium.com/@przemyslaw.jan.beigert/template-literal-types-in-the-vuex-e2faf6f0a8a8) #TypeScript
 - [Vue: When a computed property can be the wrong tool](https://dev.to/linusborg/vue-when-a-computed-property-can-be-the-wrong-tool-195j)
 - [Use Responsive Images with v-lazy-image](https://vuedose.tips/use-responsive-images-with-v-lazy-image)
 - [Optimizing the Performance of Your Vue Apps Using Web Workers](https://blog.openreplay.com/optimizing-the-performance-of-your-vue-apps-using-web-workers) #performance #webworker
