@@ -896,6 +896,7 @@
 
 ## Typescript
 
+- [Mastering TypeScript Template Literal Types](https://betterprogramming.pub/mastering-typescript-template-literal-types-f4131a94ffb1)
 - [Covariance and Contravariance in TypeScript](https://dmitripavlutin.com/typescript-covariance-contravariance/)
 - [Index Signatures in TypeScript](https://dmitripavlutin.com/typescript-index-signatures/)
 - [unknown vs any in TypeScript](https://dmitripavlutin.com/typescript-unknown-vs-any)
