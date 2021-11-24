@@ -896,6 +896,8 @@
 
 ## Typescript
 
+- [How to write a Constrained Identity Function (CIF) in TypeScript](https://kentcdodds.com/blog/how-to-write-a-constrained-identity-function-in-typescript)
+- [SnakeToCamel](https://twitter.com/wesbos/status/1463217078224269332) #camelize #snake case
 - [Mastering TypeScript Template Literal Types](https://betterprogramming.pub/mastering-typescript-template-literal-types-f4131a94ffb1)
 - [Covariance and Contravariance in TypeScript](https://dmitripavlutin.com/typescript-covariance-contravariance/)
 - [Index Signatures in TypeScript](https://dmitripavlutin.com/typescript-index-signatures/)
@@ -1275,6 +1277,7 @@
 
 ### General
 
+- [Remix.run](https://remix.run)
 - [How to replace useState with useRef and be a winner](https://thoughtspile.github.io/2021/10/18/non-react-state)
 - [React & TypeScript: how to type hooks (a complete guide)](https://devtrium.com/posts/react-typescript-how-to-type-hooks) #TypeScript
 - [Are many useStates better than useState(object)?](https://thoughtspile.github.io/2021/10/11/usestate-object-vs-multiple)
