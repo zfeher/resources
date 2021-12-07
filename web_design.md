@@ -179,6 +179,7 @@
 
 ### Related
 
+- [Floating UI](https://www.floating-ui.com/)
 - [MyDevice.io](https://www.mydevice.io/)
 - [CSS Layout Generator](https://layout.bradwoods.io/)
 - [Reseter.css](https://github.com/krishdevdb/reseter.css)

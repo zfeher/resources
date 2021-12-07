@@ -334,6 +334,7 @@
 
 ### Related
 
+- [MicroDiff](https://github.com/AsyncBanana/microdiff)
 - [filesize.js](https://filesizejs.com)
 - [Threads.js](https://threads.js.org/)
 - [fx](https://github.com/antonmedv/fx) #json
