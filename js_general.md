@@ -276,7 +276,7 @@
 - [ES6 Destructuring: The Complete Guide](https://codeburst.io/es6-destructuring-the-complete-guide-7f842d08b98f)
 - [Accessing the Clipboard in JavaScript Using the Async Clipboard API](https://alligator.io/js/async-clipboard-api/)
 - [These 6 essential tools will release, version, and maintain your NPM modules for you](https://hackernoon.com/these-6-essential-tools-will-maintain-your-npm-modules-for-you-4cbbee88e0cb)
-- [Lazy Loading Images and Video](https://developers.google.com/web/fundamentals/performance/lazy-loading-guidance/images-and-video/)
+- [Lazy Loading Images and Video](https://web.dev/fast/#lazy-load-images-and-video) #loading #IntersectionObserver
 - [Time-saving Chrome DevTools Shortcuts](https://www.lucidchart.com/techblog/2018/04/17/time-saving-chrome-devtools-shortcuts/)
 - [Master the JavaScript Interview: What’s the Difference Between Class & Prototypal Inheritance?](https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9)
 - [How to Handle Monetary Values in JavaScript](https://frontstuff.io/how-to-handle-monetary-values-in-javascript)[money]
@@ -527,6 +527,8 @@
 
 ### Related
 
+- [vanilla-lazyload](https://github.com/verlok/vanilla-lazyload)
+- [lazysizes](https://github.com/aFarkas/lazysizes)
 - [Squoosh](https://squoosh.app/)
 - [Yellow Lab Tools](https://yellowlab.tools/)
 - [Clinic.js Doctor](https://clinicjs.org/)
@@ -1055,6 +1057,7 @@
 - [Template literal types in the Vuex](https://medium.com/@przemyslaw.jan.beigert/template-literal-types-in-the-vuex-e2faf6f0a8a8) #TypeScript
 - [Vue: When a computed property can be the wrong tool](https://dev.to/linusborg/vue-when-a-computed-property-can-be-the-wrong-tool-195j)
 - [Use Responsive Images with v-lazy-image](https://vuedose.tips/use-responsive-images-with-v-lazy-image)
+- [Lazy load images using v-lazy-image Vue.js component](https://vuedose.tips/lazy-loading-images-with-v-lazy-image)
 - [Optimizing the Performance of Your Vue Apps Using Web Workers](https://blog.openreplay.com/optimizing-the-performance-of-your-vue-apps-using-web-workers) #performance #webworker
 - [Vue Components as Custom Elements](https://maximomussini.com/posts/vue-custom-elements)
 - [<Lazy> rendering in Vue to improve performance](https://medium.com/js-dojo/lazy-rendering-in-vue-to-improve-performance-dcccd445d5f) #IntersectionObserver #requestIdleCallback
@@ -1197,6 +1200,11 @@
 
 ### Related
 
+- [vue-progressive-image](https://github.com/MatteoGabriele/vue-progressive-image) #performance
+- [Vue Intersect](https://github.com/heavyy/vue-intersect) 
+- [vue-tiny-lazyload-img](https://github.com/mazipan/vue-tiny-lazyload-img) #performance
+- [Vue-Lazyload (v-lazy, v-lazy-container, lazy-component)](https://github.com/hilongjw/vue-lazyload) #performance
+- [v-lazy-component](https://github.com/RadKod/v-lazy-component) #performance
 - [vuex-composition-helpers](https://github.com/greenpress/vuex-composition-helpers) #TypeScript
 - [VueDX](https://github.com/vuedx/languagetools)
 - [Pinia](https://pinia.esm.dev/) #state management
@@ -1204,8 +1212,8 @@
 - [vue-promised](https://github.com/posva/vue-promised#usage)
 - [vueuse/motion](https://motion.vueuse.org/)
 - [OverVue](https://www.overvue.io/) #prototyping
-- [urql](https://github.com/FormidableLabs/urql)[GraphQL]
-- [SWRV](https://github.com/Kong/swrv)[SWR][GraphQL]
+- [urql](https://github.com/FormidableLabs/urql) #GraphQL
+- [SWRV](https://github.com/Kong/swrv) #SWR #GraphQL
 - [Vue-Tailwind](https://github.com/alfonsobries/vue-tailwind)
 - [vue-a11y/vue-axe](https://github.com/vue-a11y/vue-axe)
 - [ktsn/vue-auto-routing](https://github.com/ktsn/vue-auto-routing)
