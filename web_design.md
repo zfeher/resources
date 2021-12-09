@@ -32,6 +32,9 @@
 
 ## CSS
 
+- [Defensive CSS](https://ishadeed.com/article/defensive-css)
+- [Tailwind Cheat Sheet](https://nerdcave.com/tailwind-cheat-sheet)
+- [Tailwind CSS Cheat Sheet](https://flowbite.com/tools/tailwind-cheat-sheet)
 - [My Custom CSS Reset](https://www.joshwcomeau.com/css/custom-css-reset)
 - [The Future of CSS: Cascade Layers (CSS @layer)](https://www.bram.us/2021/09/15/the-future-of-css-cascade-layers-css-at-layer)
 - [A Primer On CSS Container Queries](https://www.smashingmagazine.com/2021/05/complete-guide-css-container-queries/)

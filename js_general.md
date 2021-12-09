@@ -1286,6 +1286,7 @@
 
 ### General
 
+- [React Server Components and Remix](https://remix.run/blog/react-server-components) #render #fetch #performance
 - [Remix.run](https://remix.run)
 - [How to replace useState with useRef and be a winner](https://thoughtspile.github.io/2021/10/18/non-react-state)
 - [React & TypeScript: how to type hooks (a complete guide)](https://devtrium.com/posts/react-typescript-how-to-type-hooks) #TypeScript
