@@ -165,6 +165,7 @@
 
 ## General
 
+- [free-for.dev](https://free-for.dev/)
 - [Trie in Javascript: the Data Structure behind Autocomplete](https://stackfull.dev/trie-in-javascript-the-data-structure-behind-autocomplete)
 - [Stop using loading spinners](https://dev.to/nandotherojo/stop-using-loading-spinners-pkh)
 - [Google Chrome Hidden Features Every Developer Should Know](https://blog.bitsrc.io/google-chrome-experimental-features-for-developers-a9a7cc9d1b30) #debug
@@ -899,6 +900,7 @@
 
 ## Typescript
 
+- [How not to learn TypeScript](https://fettblog.eu/how-not-to-learn-typescript)
 - [How to write a Constrained Identity Function (CIF) in TypeScript](https://kentcdodds.com/blog/how-to-write-a-constrained-identity-function-in-typescript)
 - [SnakeToCamel](https://twitter.com/wesbos/status/1463217078224269332) #camelize #snake case
 - [Mastering TypeScript Template Literal Types](https://betterprogramming.pub/mastering-typescript-template-literal-types-f4131a94ffb1)
@@ -973,6 +975,7 @@
 
 ### Related
 
+- [tsup](https://free-for.dev/#/?id=code-quality)
 - [TypeBox](https://github.com/sinclairzx81/typebox)
 - [airbnb/ts-migrate](https://github.com/airbnb/ts-migrate)
 - [ts-toolbelt](https://pirix-gh.github.io/ts-toolbelt/index.html)
@@ -1751,6 +1754,7 @@
 
 ## Module loader/Module Bundler/Task Runner, CI, Build
 
+- [Announcing Parcel CSS: A new CSS parser, compiler, and minifier written in Rust!](https://parceljs.org/blog/parcel-css)
 - [webpack or esbuild: Why not both?](https://blog.logrocket.com/webpack-or-esbuild-why-not-both/)
 - [Comparing the New Generation of Build Tools](https://css-tricks.com/comparing-the-new-generation-of-build-tools/)
 - [SurviveJS Webpack: Build Analysis](https://survivejs.com/webpack/optimizing/build-analysis/) #webpack

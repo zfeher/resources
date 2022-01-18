@@ -201,6 +201,7 @@
 
 ## HTML
 
+- [Form Validation Using JavaScript's Constraint Validation API](https://blog.openreplay.com/form-validation-using-javascript-s-constraint-validation-api)
 - [The anatomy of responsive images](https://jakearchibald.com/2015/anatomy-of-responsive-images/)
 - [An intro to responsive image optimization with HTML5 and Intersection Observer](https://www.freecodecamp.org/news/an-intro-to-responsive-image-optimization-with-html5-and-intersection-observer-2a4fbe1473c1/)
 - [How to Use The HTML5 Sectioning Elements](http://blog.teamtreehouse.com/use-html5-sectioning-elements)
