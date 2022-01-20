@@ -165,6 +165,7 @@
 
 ## General
 
+- [How to Copy to Clipboard in JavaScript with the Clipboard API](https://stackabuse.com/how-to-copy-to-clipboard-in-javascript-with-the-clipboard-api)
 - [free-for.dev](https://free-for.dev/)
 - [Trie in Javascript: the Data Structure behind Autocomplete](https://stackfull.dev/trie-in-javascript-the-data-structure-behind-autocomplete)
 - [Stop using loading spinners](https://dev.to/nandotherojo/stop-using-loading-spinners-pkh)
@@ -1289,6 +1290,7 @@
 
 ### General
 
+- [Remix vs Next.js](https://remix.run/blog/remix-vs-next)
 - [React Server Components and Remix](https://remix.run/blog/react-server-components) #render #fetch #performance
 - [Remix.run](https://remix.run)
 - [How to replace useState with useRef and be a winner](https://thoughtspile.github.io/2021/10/18/non-react-state)
