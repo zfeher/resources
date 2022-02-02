@@ -976,10 +976,10 @@
 
 ### Related
 
+- [ts-toolbelt](https://millsp.github.io/ts-toolbelt/)
 - [tsup](https://free-for.dev/#/?id=code-quality)
 - [TypeBox](https://github.com/sinclairzx81/typebox)
 - [airbnb/ts-migrate](https://github.com/airbnb/ts-migrate)
-- [ts-toolbelt](https://pirix-gh.github.io/ts-toolbelt/index.html)
 - [transitive-bullshit/functional-typescript](https://github.com/transitive-bullshit/functional-typescript)
 - [TypeWiz](https://github.com/urish/typewiz)
 
@@ -1756,6 +1756,7 @@
 
 ## Module loader/Module Bundler/Task Runner, CI, Build
 
+- [When should you leverage Module Federation, and how?](https://scriptedalchemy.medium.com/when-should-you-leverage-module-federation-and-how-2998b132c840)
 - [Announcing Parcel CSS: A new CSS parser, compiler, and minifier written in Rust!](https://parceljs.org/blog/parcel-css)
 - [webpack or esbuild: Why not both?](https://blog.logrocket.com/webpack-or-esbuild-why-not-both/)
 - [Comparing the New Generation of Build Tools](https://css-tricks.com/comparing-the-new-generation-of-build-tools/)
