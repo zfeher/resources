@@ -1001,6 +1001,7 @@
 
 ## Components
 
+- [Why Efficient Hydration in JavaScript Frameworks is so Challenging](https://dev.to/this-is-learning/why-efficient-hydration-in-javascript-frameworks-is-so-challenging-1ca3)
 - [Tailwind UI: Now with React + Vue support](https://blog.tailwindcss.com/tailwind-ui-now-with-react-and-vue-support)
 - [Headless UI: Unstyled, Accessible UI Components](https://blog.tailwindcss.com/headless-ui-unstyled-accessible-ui-components)
 - [Web Components Are Easier Than You Think](https://css-tricks.com/web-components-are-easier-than-you-think/)
