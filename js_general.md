@@ -976,6 +976,11 @@
 
 ### Related
 
+- [Yup](https://github.com/jquense/yup) #schema
+- [Zod](https://github.com/colinhacks/zod) #schema
+- [io-ts](https://github.com/gcanti/io-ts) #schema
+- [Ajv](https://ajv.js.org) #schema
+- [Runtypes](https://github.com/pelotom/runtypes) #schema
 - [ts-toolbelt](https://millsp.github.io/ts-toolbelt/)
 - [tsup](https://free-for.dev/#/?id=code-quality)
 - [TypeBox](https://github.com/sinclairzx81/typebox)
