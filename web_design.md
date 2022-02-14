@@ -1,7 +1,7 @@
 ## Unsorted
 
 - [The Intersection Observer API](https://blog.arnellebalane.com/the-intersection-observer-api-d441be0b088d)
-- [Intersection Observer: Track Elements Scrolling Into View](https://webdesign.tutsplus.com/tutorials/how-to-intersection-observer--cms-30250?utm_source=twitter&utm_medium=social&utm_campaign=social_twtr_tuts_web-design)
+- [Intersection Observer: Track Elements Scrolling Into View](https://webdesign.tutsplus.com/tutorials/how-to-intersection-observer--cms-30250)
 - [Observing Intersection Observers](https://davidwalsh.name/intersection-observers)
 - [Understanding the Critical Rendering Path](https://bitsofco.de/understanding-the-critical-rendering-path/)
 - [Best practices for prototyping websites](https://webflow.com/blog/best-practices-for-prototyping-websites)
@@ -32,6 +32,7 @@
 
 ## CSS
 
+- [CSS. Detect Device and Desktop without page size.](https://medium.com/@artuar1990/css-detect-devise-or-desktop-without-page-size-comparing-a9ff4e08d393)
 - [Defensive CSS](https://ishadeed.com/article/defensive-css)
 - [Tailwind Cheat Sheet](https://nerdcave.com/tailwind-cheat-sheet)
 - [Tailwind CSS Cheat Sheet](https://flowbite.com/tools/tailwind-cheat-sheet)
@@ -182,6 +183,7 @@
 
 ### Related
 
+- [frenic/csstype](https://github.com/frenic/csstype)
 - [Floating UI](https://www.floating-ui.com/)
 - [MyDevice.io](https://www.mydevice.io/)
 - [CSS Layout Generator](https://layout.bradwoods.io/)
@@ -201,6 +203,7 @@
 
 ## HTML
 
+- [Replace JavaScript Dialogs With the New HTML Dialog Element](https://css-tricks.com/replace-javascript-dialogs-html-dialog-element)
 - [Form Validation Using JavaScript's Constraint Validation API](https://blog.openreplay.com/form-validation-using-javascript-s-constraint-validation-api)
 - [The anatomy of responsive images](https://jakearchibald.com/2015/anatomy-of-responsive-images/)
 - [An intro to responsive image optimization with HTML5 and Intersection Observer](https://www.freecodecamp.org/news/an-intro-to-responsive-image-optimization-with-html5-and-intersection-observer-2a4fbe1473c1/)

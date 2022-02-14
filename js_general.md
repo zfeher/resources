@@ -165,6 +165,7 @@
 
 ## General
 
+- [Debugging JavaScript](https://flaviocopes.com/debugging)
 - [How to Copy to Clipboard in JavaScript with the Clipboard API](https://stackabuse.com/how-to-copy-to-clipboard-in-javascript-with-the-clipboard-api)
 - [free-for.dev](https://free-for.dev/)
 - [Trie in Javascript: the Data Structure behind Autocomplete](https://stackfull.dev/trie-in-javascript-the-data-structure-behind-autocomplete)
