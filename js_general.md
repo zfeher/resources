@@ -83,6 +83,7 @@
 
 ## Learning
 
+- [Front End Tables: Sorting, Filtering, and Pagination](https://www.taniarascia.com/front-end-tables-sort-filter-paginate/) #tutorial
 - [SEO for Devs – Free 2-Week Course](https://seofordevs.com) #SEO
 - [Knights if the Flexbox Table](https://knightsoftheflexboxtable.com)
 - [Creating An Accessible Dialog From Scratch](https://www.smashingmagazine.com/2021/07/accessible-dialog-from-scratch)
@@ -822,7 +823,7 @@
 
 ### Related Libs
 
-- [marble](https://github.com/marblejs/marble?utm_source=pocket_mylist)
+- [marble](https://github.com/marblejs/marble)
 - [SolidJS](https://www.solidjs.com/)
 - [mem](https://github.com/sindresorhus/mem)
 - [Clio](https://clio-lang.org/) #language
@@ -902,6 +903,7 @@
 
 ## Typescript
 
+- [Assertion Functions in TypeScript](https://mariusschulz.com/blog/assertion-functions-in-typescript)
 - [How not to learn TypeScript](https://fettblog.eu/how-not-to-learn-typescript)
 - [How to write a Constrained Identity Function (CIF) in TypeScript](https://kentcdodds.com/blog/how-to-write-a-constrained-identity-function-in-typescript)
 - [SnakeToCamel](https://twitter.com/wesbos/status/1463217078224269332) #camelize #snake case
@@ -1065,6 +1067,7 @@
 - [3 Code Splitting Patterns For VueJS and Webpack](http://vuejsdevelopers.com/2017/07/08/vue-js-3-ways-code-splitting-webpack/)[code splitting]
 - [Dynamic imports + common chunks](https://github.com/webpack/webpack/issues/4392)
 
+- [Danger of using v-html in Vue applications](https://medium.com/@bsalwiczek/danger-of-using-v-html-in-vue-applications-see-better-approach-3def415ba32b)
 - [Template literal types in the Vuex](https://medium.com/@przemyslaw.jan.beigert/template-literal-types-in-the-vuex-e2faf6f0a8a8) #TypeScript
 - [Vue: When a computed property can be the wrong tool](https://dev.to/linusborg/vue-when-a-computed-property-can-be-the-wrong-tool-195j)
 - [Use Responsive Images with v-lazy-image](https://vuedose.tips/use-responsive-images-with-v-lazy-image)
