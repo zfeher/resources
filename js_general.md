@@ -1300,6 +1300,7 @@
 
 ### General
 
+- [Understand the JavaScript Execution Mechanism Thoroughly This Time](https://javascript.plainenglish.io/this-time-thoroughly-understand-the-javascript-execution-mechanism-bc4a0139dc33)
 - [Remix vs Next.js](https://remix.run/blog/remix-vs-next)
 - [React Server Components and Remix](https://remix.run/blog/react-server-components) #render #fetch #performance
 - [Remix.run](https://remix.run)
@@ -1566,6 +1567,7 @@
 
 ## Networking
 
+- [Intercepting JavaScript Fetch API requests and responses](https://blog.logrocket.com/intercepting-javascript-fetch-api-requests-responses)
 - [How to win at CORS](https://jakearchibald.com/2021/cors) #cors
 - [Replace axios with a simple custom fetch wrapper](https://kentcdodds.com/blog/replace-axios-with-a-simple-custom-fetch-wrapper)
 - [Introducing Gretchen: Making Fetch Happen in TypeScript](https://www.truework.com/blog/engineering/2020-03-04-introducing-gretchen/)
@@ -1766,6 +1768,7 @@
 
 ## Module loader/Module Bundler/Task Runner, CI, Build
 
+- [Why and how to transpile dependencies of your JavaScript application](https://cube.dev/blog/dependencies-transpilation)
 - [When should you leverage Module Federation, and how?](https://scriptedalchemy.medium.com/when-should-you-leverage-module-federation-and-how-2998b132c840)
 - [Announcing Parcel CSS: A new CSS parser, compiler, and minifier written in Rust!](https://parceljs.org/blog/parcel-css)
 - [webpack or esbuild: Why not both?](https://blog.logrocket.com/webpack-or-esbuild-why-not-both/)
@@ -1826,6 +1829,7 @@
 
 ### Related Libs
 
+- [Optimize Plugin for Webpack](https://github.com/developit/optimize-plugin)
 - [WebpackRemoteTypesPlugin](https://github.com/ruanyl/webpack-remote-types-plugin) #webpack #module fedaration
 - [SWC](https://swc.rs)
 - [esbuild-loader](https://github.com/privatenumber/esbuild-loader)
