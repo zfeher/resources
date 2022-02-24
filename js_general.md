@@ -166,6 +166,8 @@
 
 ## General
 
+- [45 Front End Developer Tools](https://levelup.gitconnected.com/45-front-end-developer-tools-e496b9c3503)
+- [JavaScript: What is the meaning of this?](https://web.dev/javascript-this)
 - [Debugging JavaScript](https://flaviocopes.com/debugging)
 - [How to Copy to Clipboard in JavaScript with the Clipboard API](https://stackabuse.com/how-to-copy-to-clipboard-in-javascript-with-the-clipboard-api)
 - [free-for.dev](https://free-for.dev/)
