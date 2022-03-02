@@ -166,6 +166,7 @@
 
 ## General
 
+- [The Complete Guide to Localizing your App with JavaScript's Internationalization API](https://blog.openreplay.com/the-complete-guide-to-localizing-your-app-with-javascript-s-internationalization-api) #localization #internationalization #i18n
 - [45 Front End Developer Tools](https://levelup.gitconnected.com/45-front-end-developer-tools-e496b9c3503)
 - [JavaScript: What is the meaning of this?](https://web.dev/javascript-this)
 - [Debugging JavaScript](https://flaviocopes.com/debugging)
@@ -480,6 +481,7 @@
 
 ## Performance, memory
 
+- [Front-End Performance Checklist 2021](https://www.smashingmagazine.com/2021/01/front-end-performance-2021-free-pdf-checklist/)
 - [Explore JavaScript Dependencies With Lighthouse Treemap](https://sia.codes/posts/lighthouse-treemap)
 - [Loading Third-Party JavaScript](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/loading-third-party-javascript)
 - [8 Performance Analysis Tools for Front-End Development](https://blog.bitsrc.io/8-performance-analysis-tools-for-front-end-development-1892c81acdfa)
@@ -512,7 +514,6 @@
 - [Web Vitals - Essential metrics for a healthy site](https://web.dev/vitals/)[LCP][fid][CLS]
 - [Accurately measuring layout on the web](https://nolanlawson.com/2018/09/25/accurately-measuring-layout-on-the-web/)
 - [Is postMessage slow?](https://dassur.ma/things/is-postmessage-slow/)[web worker]
-- [Front-End Performance Checklist 2019 (PDF, Apple Pages, MS Word)](https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/)
 - [Taming huge collections of DOM nodes](https://codeburst.io/taming-huge-collections-of-dom-nodes-bebafdba332)
 - [17 JavaScript / node.js performance coding tips to make applications faster](http://voidcanvas.com/javascript-performant-coding-tips/)
 - [Isolating memory leaks with Chrome’s Allocation Timeline](https://blog.logrocket.com/isolating-memory-leaks-with-chromes-allocation-timeline-244fa9c48e8e)
@@ -1302,6 +1303,8 @@
 
 ### General
 
+- [How To Use React useRef Hook (with Examples)](https://upmostly.com/tutorials/how-to-react-useref-hook)
+- [Prefer Declarative State Updaters](https://kyleshevlin.com/prefer-declarative-state-updaters) #useState #hooks
 - [Understand the JavaScript Execution Mechanism Thoroughly This Time](https://javascript.plainenglish.io/this-time-thoroughly-understand-the-javascript-execution-mechanism-bc4a0139dc33)
 - [Remix vs Next.js](https://remix.run/blog/remix-vs-next)
 - [React Server Components and Remix](https://remix.run/blog/react-server-components) #render #fetch #performance
@@ -1631,6 +1634,8 @@
 
 ## Testing
 
+- [Node.js Integration Test Best Practices](https://github.com/testjavascript/nodejs-integration-tests-best-practices)
+- [Testing in production: using JSON Schema for 3rd party API response validation](https://kristiandupont.medium.com/testing-3rd-party-api-access-b2808494ccd)
 - [Dynamic API Tests Using Cypress-Each Plugin](https://glebbahmutov.com/blog/dynamic-api-tests-using-cypress-each)
 - [7 Ways To Test Your Website On Safari Browser from Windows Device](https://www.ultimate-tech-news.com/7-ways-to-test-your-website-on-safari-browser-from-windows-device) #BrowserStack #LamdaTest #Browserling #CrossBrowserTesting #Sauce Labs
 - [Puppeteer, Selenium, Playwright, Cypress – how to choose?](https://www.testim.io/blog/puppeteer-selenium-playwright-cypress-how-to-choose)
