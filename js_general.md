@@ -166,6 +166,7 @@
 
 ## General
 
+- [What are wrapper objects for primitive values?](https://2ality.com/2022/02/wrapper-objects.html)
 - [The Complete Guide to Localizing your App with JavaScript's Internationalization API](https://blog.openreplay.com/the-complete-guide-to-localizing-your-app-with-javascript-s-internationalization-api) #localization #internationalization #i18n
 - [45 Front End Developer Tools](https://levelup.gitconnected.com/45-front-end-developer-tools-e496b9c3503)
 - [JavaScript: What is the meaning of this?](https://web.dev/javascript-this)

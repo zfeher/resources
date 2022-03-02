@@ -32,6 +32,7 @@
 
 ## CSS
 
+- [New CSS Features In 2022](https://www.smashingmagazine.com/2022/03/new-css-features-2022)
 - [CSS. Detect Device and Desktop without page size.](https://medium.com/@artuar1990/css-detect-devise-or-desktop-without-page-size-comparing-a9ff4e08d393)
 - [Defensive CSS](https://ishadeed.com/article/defensive-css)
 - [Tailwind Cheat Sheet](https://nerdcave.com/tailwind-cheat-sheet)
