@@ -662,6 +662,8 @@
 
 ### Related
 
+- [Socket](https://socket.dev/)
+- [Snyk](https://snyk.io/)
 - [devcert](https://github.com/davewasmer/devcert)
 - [MagicLink](https://docs.magic.link/)
 - [mkcert: valid HTTPS certificates for localhost](https://blog.filippo.io/mkcert-valid-https-certificates-for-localhost/)
@@ -1776,6 +1778,7 @@
 
 ## Module loader/Module Bundler/Task Runner, CI, Build
 
+- [How to use webpack and HTML Webpack Plugin to generate HTML pages for multiple entries in 2 steps?](https://yonatankra.com/how-to-use-htmlwebpackplugin-for-multiple-entries)
 - [Why and how to transpile dependencies of your JavaScript application](https://cube.dev/blog/dependencies-transpilation)
 - [When should you leverage Module Federation, and how?](https://scriptedalchemy.medium.com/when-should-you-leverage-module-federation-and-how-2998b132c840)
 - [Announcing Parcel CSS: A new CSS parser, compiler, and minifier written in Rust!](https://parceljs.org/blog/parcel-css)
