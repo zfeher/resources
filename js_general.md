@@ -632,6 +632,7 @@
 
 ## Security / Payment
 
+- [What's Really Going On Inside Your node_modules Folder?](https://socket.dev/blog/inside-node-modules)
 - [Web Authentication: Cookies vs. Tokens](https://blog.bitsrc.io/web-authentication-cookies-vs-tokens-8e47d5a96d34)
 - [Dealing with some CSRF attacks using the SameSite cookies](https://wanago.io/2020/12/21/csrf-attacks-same-site-cookies/)
 - [JavaScript Security Issues and Best Practices](https://blog.bitsrc.io/javascript-security-issues-and-best-practices-37e78df4dce4)
@@ -909,6 +910,7 @@
 
 ## Typescript
 
+- [A complete guide to TypeScript’s never type](https://www.zhenghao.io/posts/ts-never)
 - [Assertion Functions in TypeScript](https://mariusschulz.com/blog/assertion-functions-in-typescript)
 - [How not to learn TypeScript](https://fettblog.eu/how-not-to-learn-typescript)
 - [How to write a Constrained Identity Function (CIF) in TypeScript](https://kentcdodds.com/blog/how-to-write-a-constrained-identity-function-in-typescript)
@@ -1306,6 +1308,7 @@
 
 ### General
 
+- [WebGPU — All of the cores, none of the canvas](https://surma.dev/things/webgpu)
 - [How To Use React useRef Hook (with Examples)](https://upmostly.com/tutorials/how-to-react-useref-hook)
 - [Prefer Declarative State Updaters](https://kyleshevlin.com/prefer-declarative-state-updaters) #useState #hooks
 - [Understand the JavaScript Execution Mechanism Thoroughly This Time](https://javascript.plainenglish.io/this-time-thoroughly-understand-the-javascript-execution-mechanism-bc4a0139dc33)
