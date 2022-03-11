@@ -166,6 +166,7 @@
 
 ## General
 
+- [How to design better APIs](https://r.bluethl.net/how-to-design-better-apis)
 - [What are wrapper objects for primitive values?](https://2ality.com/2022/02/wrapper-objects.html)
 - [The Complete Guide to Localizing your App with JavaScript's Internationalization API](https://blog.openreplay.com/the-complete-guide-to-localizing-your-app-with-javascript-s-internationalization-api) #localization #internationalization #i18n
 - [45 Front End Developer Tools](https://levelup.gitconnected.com/45-front-end-developer-tools-e496b9c3503)
@@ -405,6 +406,7 @@
 
 ## Micro frontends
 
+- [The Future of Micro-Frontends](https://betterprogramming.pub/the-future-of-micro-frontends-2f527f97d506)
 - [Micro Frontends](https://martinfowler.com/articles/micro-frontends.html)
 - [Micro Frontends](https://micro-frontends.org/)
 - [The BFF Pattern (Backend for Frontend): An Introduction](https://blog.bitsrc.io/bff-pattern-backend-for-frontend-an-introduction-e4fa965128bf)
@@ -1766,6 +1768,7 @@
 
 ### Related Libs
 
+- [Turborepo](https://turborepo.org/) #monorepo
 - [pnpm](https://pnpm.io/)
 - [Volta](https://volta.sh/)
 - [Verdaccio](https://github.com/verdaccio/verdaccio)
