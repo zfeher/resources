@@ -128,6 +128,7 @@
 
 ## Interview
 
+- [Tough Questions You Should Always Ask a Hiring Manager](https://lifehacker.com/tough-questions-you-should-always-ask-a-hiring-manager-1848418098)
 - [Deep dive into an interview question: Array Nesting](https://yonatankra.com/deep-dive-into-an-interview-question-array-nesting)
 - [JavaScript Interview Prep Cheatsheet – Ace Your Coding Interviews with These Concepts](https://www.freecodecamp.org/news/javascript-interview-prep-cheatsheet)
 - [JS is Weird](https://jsisweird.com/) #test
@@ -484,6 +485,7 @@
 
 ## Performance, memory
 
+- [Optimising Largest Contentful Paint](https://csswizardry.com/2022/03/optimising-largest-contentful-paint)
 - [Front-End Performance Checklist 2021](https://www.smashingmagazine.com/2021/01/front-end-performance-2021-free-pdf-checklist/)
 - [Explore JavaScript Dependencies With Lighthouse Treemap](https://sia.codes/posts/lighthouse-treemap)
 - [Loading Third-Party JavaScript](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/loading-third-party-javascript)
