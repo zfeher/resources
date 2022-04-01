@@ -32,6 +32,9 @@
 
 ## CSS
 
+- [Transitioning between 2 different elements with FLIP](https://jackyef.com/posts/transitioning-between-2-different-elements-with-flip)
+- [Animating the Unanimatable](https://www.joshwcomeau.com/react/animating-the-unanimatable/) #FLIP
+- [FLIP Your Animations](https://aerotwist.com/blog/flip-your-animations/)
 - [Resetting Inherited CSS with “Revert”](https://cloudfour.com/thinks/resetting-inherited-css-with-revert)
 - [New CSS Features In 2022](https://www.smashingmagazine.com/2022/03/new-css-features-2022)
 - [CSS. Detect Device and Desktop without page size.](https://medium.com/@artuar1990/css-detect-devise-or-desktop-without-page-size-comparing-a9ff4e08d393)

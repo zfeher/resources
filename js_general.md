@@ -1644,6 +1644,7 @@
 
 ## Testing
 
+- [How Cypress Freezes CSS Animations And You Can Too](https://glebbahmutov.com/blog/css-animations)
 - [Node.js Integration Test Best Practices](https://github.com/testjavascript/nodejs-integration-tests-best-practices)
 - [Testing in production: using JSON Schema for 3rd party API response validation](https://kristiandupont.medium.com/testing-3rd-party-api-access-b2808494ccd)
 - [Dynamic API Tests Using Cypress-Each Plugin](https://glebbahmutov.com/blog/dynamic-api-tests-using-cypress-each)
