@@ -128,6 +128,8 @@
 
 ## Interview
 
+- [10 Common JavaScript Interview Questions (and Answers)](https://blog.bitsrc.io/most-important-javascript-coding-challenge-aa14c956d2df)
+- [Top 10 JavaScript Interview Questions](https://javascript.plainenglish.io/top-10-javascript-interview-question-a1bf5dae41f5)
 - [Tough Questions You Should Always Ask a Hiring Manager](https://lifehacker.com/tough-questions-you-should-always-ask-a-hiring-manager-1848418098)
 - [Deep dive into an interview question: Array Nesting](https://yonatankra.com/deep-dive-into-an-interview-question-array-nesting)
 - [JavaScript Interview Prep Cheatsheet – Ace Your Coding Interviews with These Concepts](https://www.freecodecamp.org/news/javascript-interview-prep-cheatsheet)
@@ -485,6 +487,7 @@
 
 ## Performance, memory
 
+- [Optimising Core Web Vitals on SPAs](https://simonhearne.com/2022/core-web-vitals-on-spas) #LCP #CLS #FID #TBT
 - [Optimising Largest Contentful Paint](https://csswizardry.com/2022/03/optimising-largest-contentful-paint)
 - [Front-End Performance Checklist 2021](https://www.smashingmagazine.com/2021/01/front-end-performance-2021-free-pdf-checklist/)
 - [Explore JavaScript Dependencies With Lighthouse Treemap](https://sia.codes/posts/lighthouse-treemap)
@@ -914,6 +917,7 @@
 
 ## Typescript
 
+- [Secrets of ‘never’ Types in TypeScript](https://blog.bitsrc.io/secrets-of-never-types-in-typescript-de57795a34da)
 - [A complete guide to TypeScript’s never type](https://www.zhenghao.io/posts/ts-never)
 - [Assertion Functions in TypeScript](https://mariusschulz.com/blog/assertion-functions-in-typescript)
 - [How not to learn TypeScript](https://fettblog.eu/how-not-to-learn-typescript)
@@ -1079,6 +1083,7 @@
 - [3 Code Splitting Patterns For VueJS and Webpack](http://vuejsdevelopers.com/2017/07/08/vue-js-3-ways-code-splitting-webpack/)[code splitting]
 - [Dynamic imports + common chunks](https://github.com/webpack/webpack/issues/4392)
 
+- [Async with Composition API](https://antfu.me/posts/async-with-composition-api)
 - [Danger of using v-html in Vue applications](https://medium.com/@bsalwiczek/danger-of-using-v-html-in-vue-applications-see-better-approach-3def415ba32b)
 - [Template literal types in the Vuex](https://medium.com/@przemyslaw.jan.beigert/template-literal-types-in-the-vuex-e2faf6f0a8a8) #TypeScript
 - [Vue: When a computed property can be the wrong tool](https://dev.to/linusborg/vue-when-a-computed-property-can-be-the-wrong-tool-195j)
@@ -1312,6 +1317,7 @@
 
 ### General
 
+- [Jamstack Rendering Patterns: The Evolution](https://www.smashingmagazine.com/2022/04/jamstack-rendering-patterns-evolution)
 - [WebGPU — All of the cores, none of the canvas](https://surma.dev/things/webgpu)
 - [How To Use React useRef Hook (with Examples)](https://upmostly.com/tutorials/how-to-react-useref-hook)
 - [Prefer Declarative State Updaters](https://kyleshevlin.com/prefer-declarative-state-updaters) #useState #hooks

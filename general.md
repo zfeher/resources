@@ -214,6 +214,7 @@
 
   - Extensions
 
+    - [Preview.js](https://previewjs.com)
     - [Remote Repositories](https://marketplace.visualstudio.com/items?itemName=github.remotehub)
     - [Live Frame](https://marketplace.visualstudio.com/items?itemName=jevakallio.vscode-live-frame)
     - [Vite](https://marketplace.visualstudio.com/items?itemName=antfu.vite)
