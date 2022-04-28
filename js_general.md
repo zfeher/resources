@@ -1083,6 +1083,11 @@
 - [3 Code Splitting Patterns For VueJS and Webpack](http://vuejsdevelopers.com/2017/07/08/vue-js-3-ways-code-splitting-webpack/)[code splitting]
 - [Dynamic imports + common chunks](https://github.com/webpack/webpack/issues/4392)
 
+- [Developing A Vue 3 Headless Component](https://www.maxgfeller.com/blog/vue-3-headless/) #renderless
+- [Vue.js Headless Component](https://dev.to/fdietz/vue-js-headless-component-10ag) #renderless
+- [From my point of Vue: Headless components](https://dev.to/jesusantguerrero/from-my-point-of-vue-headless-components-2403) #renderless
+- [Composition API v Renderless Components - Let's use Vue 3's features to clean our components!](https://dev.to/thomasferro/composition-api-v-renderless-components-let-s-use-vue-3-s-features-to-clean-our-components-n25) #headless
+- [Renderless Components in Vue.js](https://adamwathan.me/renderless-components-in-vuejs/) #headless
 - [Async with Composition API](https://antfu.me/posts/async-with-composition-api)
 - [Danger of using v-html in Vue applications](https://medium.com/@bsalwiczek/danger-of-using-v-html-in-vue-applications-see-better-approach-3def415ba32b)
 - [Template literal types in the Vuex](https://medium.com/@przemyslaw.jan.beigert/template-literal-types-in-the-vuex-e2faf6f0a8a8) #TypeScript
@@ -1101,7 +1106,6 @@
 - [Watching for Changes in Vue.js Component Slot Content](https://medium.com/js-dojo/watching-for-changes-in-vue-js-component-slot-content-f50ec2a7df55)
 - [How To Build A Geocoding App In Vue.js Using Mapbox](https://www.smashingmagazine.com/2021/06/building-geocoding-app-vue-mapbox/) #geocoding #mapbox
 - [Stop using actions in Vuex](https://javascript.plainenglish.io/stop-using-actions-in-vuex-a14e23a7b0e6)
-- [Developing A Vue 3 Headless Component](https://www.maxgfeller.com/blog/vue-3-headless/)
 - [Reactivity In Vue](https://www.smashingmagazine.com/2021/03/reactivity-in-vue/)
 - [Creating a Chrome extension with Vue.js and Node.js](https://javascript.plainenglish.io/creating-a-chrome-extension-with-vue-js-and-node-13ddafcf0d84)
 - [Building large projects with Vue, Vite and Lerna](https://letsdebug.it/post/12-monorepo-with-vue-vite-lerna/)
@@ -1650,6 +1654,7 @@
 
 ## Testing
 
+- [JavaScript testing #1. Explaining types of tests. Basics of unit testing with Jest](https://wanago.io/2018/08/27/testing-javascript-tutorial-types-of-tests-of-unit-testing-with-jest)
 - [How Cypress Freezes CSS Animations And You Can Too](https://glebbahmutov.com/blog/css-animations)
 - [Node.js Integration Test Best Practices](https://github.com/testjavascript/nodejs-integration-tests-best-practices)
 - [Testing in production: using JSON Schema for 3rd party API response validation](https://kristiandupont.medium.com/testing-3rd-party-api-access-b2808494ccd)
