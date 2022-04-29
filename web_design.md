@@ -32,6 +32,7 @@
 
 ## CSS
 
+- [CSS Toggles Explainer & Proposal](https://css.oddbird.net/toggles/explainer)
 - [Transitioning between 2 different elements with FLIP](https://jackyef.com/posts/transitioning-between-2-different-elements-with-flip)
 - [Animating the Unanimatable](https://www.joshwcomeau.com/react/animating-the-unanimatable/) #FLIP
 - [FLIP Your Animations](https://aerotwist.com/blog/flip-your-animations/)
