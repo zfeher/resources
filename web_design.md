@@ -32,6 +32,7 @@
 
 ## CSS
 
+- [You Don’t Need A UI Framework](https://www.smashingmagazine.com/2022/05/you-dont-need-ui-framework/)
 - [CSS Toggles Explainer & Proposal](https://css.oddbird.net/toggles/explainer)
 - [Transitioning between 2 different elements with FLIP](https://jackyef.com/posts/transitioning-between-2-different-elements-with-flip)
 - [Animating the Unanimatable](https://www.joshwcomeau.com/react/animating-the-unanimatable/) #FLIP
