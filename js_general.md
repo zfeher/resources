@@ -128,6 +128,7 @@
 
 ## Interview
 
+- [Interview Officer: "Tell me about Cookies Session and Tokens". Me: "Emm..."](https://pitayan.com/posts/sessions-cookies-and-tokens)
 - [10 Common JavaScript Interview Questions (and Answers)](https://blog.bitsrc.io/most-important-javascript-coding-challenge-aa14c956d2df)
 - [Top 10 JavaScript Interview Questions](https://javascript.plainenglish.io/top-10-javascript-interview-question-a1bf5dae41f5)
 - [Tough Questions You Should Always Ask a Hiring Manager](https://lifehacker.com/tough-questions-you-should-always-ask-a-hiring-manager-1848418098)
@@ -169,6 +170,7 @@
 
 ## General
 
+- [Code Reviews 101 - The Basics](https://www.semasoftware.com/blog/code-reviews-101-the-basics)
 - [How to design better APIs](https://r.bluethl.net/how-to-design-better-apis)
 - [What are wrapper objects for primitive values?](https://2ality.com/2022/02/wrapper-objects.html)
 - [The Complete Guide to Localizing your App with JavaScript's Internationalization API](https://blog.openreplay.com/the-complete-guide-to-localizing-your-app-with-javascript-s-internationalization-api) #localization #internationalization #i18n
@@ -487,6 +489,8 @@
 
 ## Performance, memory
 
+- [Measuring web performance, How fast is fast?](https://medhatdawoud.net/blog/measuring-web-performance)
+- [How Partytown Eliminates Website Bloat From Third-Party Scripts](https://www.smashingmagazine.com/2022/04/partytown-eliminates-website-bloat-third-party-apps)
 - [Optimising Core Web Vitals on SPAs](https://simonhearne.com/2022/core-web-vitals-on-spas) #LCP #CLS #FID #TBT
 - [Optimising Largest Contentful Paint](https://csswizardry.com/2022/03/optimising-largest-contentful-paint)
 - [Front-End Performance Checklist 2021](https://www.smashingmagazine.com/2021/01/front-end-performance-2021-free-pdf-checklist/)
@@ -917,6 +921,7 @@
 
 ## Typescript
 
+- [Filtering arrays with TypeScript type guards](https://www.skovy.dev/blog/typescript-filter-array-with-type-guard)
 - [Secrets of ‘never’ Types in TypeScript](https://blog.bitsrc.io/secrets-of-never-types-in-typescript-de57795a34da)
 - [A complete guide to TypeScript’s never type](https://www.zhenghao.io/posts/ts-never)
 - [Assertion Functions in TypeScript](https://mariusschulz.com/blog/assertion-functions-in-typescript)
@@ -1060,6 +1065,7 @@
 
 ### Related
 
+- [Zag.js](https://zagjs.com)
 - [Litedom](https://litedom.js.org/)
 - [react-powerplug](https://github.com/renatorib/react-powerplug/)
 - [Storybook](https://storybook.js.org)
@@ -1083,6 +1089,12 @@
 - [3 Code Splitting Patterns For VueJS and Webpack](http://vuejsdevelopers.com/2017/07/08/vue-js-3-ways-code-splitting-webpack/)[code splitting]
 - [Dynamic imports + common chunks](https://github.com/webpack/webpack/issues/4392)
 
+- [Coding Better Composables (1/5)](https://www.vuemastery.com/blog/coding-better-composables-1-of-5)
+- [Coding Better Composables: Flexible Arguments (2/5)](https://www.vuemastery.com/blog/coding-better-composables-2-of-5)
+- [Coding Better Composables: Dynamic Returns (3/5)](https://www.vuemastery.com/blog/coding-better-composables-3-of-5)
+- [Coding Better Composables: Start with the Interface (4/5)](https://www.vuemastery.com/blog/coding-better-composables-4-of-5)
+- [Coding Better Composables: Async Without Await (5/5)](https://www.vuemastery.com/blog/coding-better-composables-5-of-5)
+- [Generically Typed Vue Components with Composition API](https://logaretm.com/blog/generic-type-components-with-composition-api)
 - [Developing A Vue 3 Headless Component](https://www.maxgfeller.com/blog/vue-3-headless/) #renderless
 - [Vue.js Headless Component](https://dev.to/fdietz/vue-js-headless-component-10ag) #renderless
 - [From my point of Vue: Headless components](https://dev.to/jesusantguerrero/from-my-point-of-vue-headless-components-2403) #renderless
@@ -1499,6 +1511,7 @@
 
 ## State Management
 
+- [Building data-centric apps with a reactive relational database](https://riffle.systems/essays/prelude)
 - [Routing using state machines](https://sawyerh.medium.com/routing-using-state-machines-3c797988d68e)
 - [Beautiful State Machines](https://xstate-catalogue.com/) #XState
 - [How to Approach State Management in React, Vue and Angular](https://medium.com/javascript-in-plain-english/the-art-of-the-state-e19816732530)
@@ -1754,6 +1767,7 @@
 
 ## Package Management, Dependency Management
 
+- [Lerna has gone. Which Monorepo is right for a Node.js BACKEND now?](https://medium.com/autodesk-tlv/lerna-has-gone-which-monorepo-is-right-for-a-node-js-backend-fc075cad51b0) #Nx #Turborepo
 - [5 Best Practices to Choosing Third-Party NPM Packages](https://blog.bitsrc.io/5-best-practices-when-choosing-third-party-npm-packages-2198994357f9)
 - [Simple monorepos via npm workspaces and TypeScript project references](https://2ality.com/2021/07/simple-monorepos.html)
 - [TypeScript and native ESM on Node.js](https://2ality.com/2021/06/typescript-esm-nodejs.html) #package.json #typescript

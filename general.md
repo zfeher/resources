@@ -214,6 +214,7 @@
 
   - Extensions
 
+    - [TypeScript Error Translator](https://marketplace.visualstudio.com/items?itemName=mattpocock.ts-error-translator)
     - [Preview.js](https://previewjs.com)
     - [Remote Repositories](https://marketplace.visualstudio.com/items?itemName=github.remotehub)
     - [Live Frame](https://marketplace.visualstudio.com/items?itemName=jevakallio.vscode-live-frame)
