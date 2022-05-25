@@ -22,7 +22,21 @@ find app/scripts -type f -name "*.js" | xargs sed -b -i -- '/\/\* eslint max-len
 find app/scripts -type f -name "*.js" | xargs sed -b -i -- 's/, max-len: \["error", 160\]//g'
 ```
 
+## Find stuff in files via grep
+
+```Bash
+# recursive grep, includes file names though
+grep -r -o "data-page-id=\".*\"" uat_F_20220517_001_STE_Pages_20220518/en-gb
+
+# find with xargs 1 line 
+find uat_F_20220517_001_STE_Pages_20220518/en-gb -type f | xargs -L 1 grep -o "data-page-id=\".*\""
+
+# find with -exec
+find uat_F_20220517_001_STE_Pages_20220518/en-gb -type f -exec grep -o "data-page-id=\".*\"" {} \;
+```
+
 ## Find files where first line includes pattern
+
 ```Bash
 head -n1 -v app/scripts/components/base-input/basic/index.js | egrep -B1 "\/* eslint" | egrep "==>"
 ```
