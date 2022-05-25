@@ -1333,6 +1333,7 @@
 
 ### General
 
+- [Writing local rules for ESLint](https://dev.to/jacobandrewsky/writing-local-rules-for-eslint-58bl) #codeshift
 - [Jamstack Rendering Patterns: The Evolution](https://www.smashingmagazine.com/2022/04/jamstack-rendering-patterns-evolution)
 - [WebGPU — All of the cores, none of the canvas](https://surma.dev/things/webgpu)
 - [How To Use React useRef Hook (with Examples)](https://upmostly.com/tutorials/how-to-react-useref-hook)
