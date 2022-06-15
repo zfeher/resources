@@ -170,6 +170,8 @@
 
 ## General
 
+- [Patterns for Building JavaScript Websites in 2022](https://dev.to/this-is-learning/patterns-for-building-javascript-websites-in-2022-5a93)
+- [Logging Solutions for Node.js](https://blog.bitsrc.io/logging-solutions-for-node-js-964487f169ea)
 - [Code Reviews 101 - The Basics](https://www.semasoftware.com/blog/code-reviews-101-the-basics)
 - [How to design better APIs](https://r.bluethl.net/how-to-design-better-apis)
 - [What are wrapper objects for primitive values?](https://2ality.com/2022/02/wrapper-objects.html)
@@ -348,6 +350,7 @@
 
 ### Related
 
+- [Plasmo](https://github.com/PlasmoHQ/plasmo) #browser extension
 - [MicroDiff](https://github.com/AsyncBanana/microdiff)
 - [filesize.js](https://filesizejs.com)
 - [Threads.js](https://threads.js.org/)
@@ -411,6 +414,7 @@
 
 ## Micro frontends
 
+- [Addressing Micro Frontend Criticisms & Environmental Differences](https://javascript.plainenglish.io/addressing-micro-frontend-criticisms-environmental-differences-4a231d7a1416)
 - [The Future of Micro-Frontends](https://betterprogramming.pub/the-future-of-micro-frontends-2f527f97d506)
 - [Micro Frontends](https://martinfowler.com/articles/micro-frontends.html)
 - [Micro Frontends](https://micro-frontends.org/)
@@ -921,6 +925,7 @@
 
 ## Typescript
 
+- [Introducing Deepkit Framework](https://deepkit.io/blog/introducing-deepkit-framework)
 - [Filtering arrays with TypeScript type guards](https://www.skovy.dev/blog/typescript-filter-array-with-type-guard)
 - [Secrets of ‘never’ Types in TypeScript](https://blog.bitsrc.io/secrets-of-never-types-in-typescript-de57795a34da)
 - [A complete guide to TypeScript’s never type](https://www.zhenghao.io/posts/ts-never)
@@ -1000,6 +1005,7 @@
 
 ### Related
 
+- [Deepkit](https://github.com/deepkit/deepkit-framework)
 - [Yup](https://github.com/jquense/yup) #schema
 - [Zod](https://github.com/colinhacks/zod) #schema
 - [io-ts](https://github.com/gcanti/io-ts) #schema
@@ -1030,6 +1036,7 @@
 
 ## Components
 
+- [Building Interoperable Web Components That Even Work With React](https://css-tricks.com/building-interoperable-web-components-react)
 - [Why Efficient Hydration in JavaScript Frameworks is so Challenging](https://dev.to/this-is-learning/why-efficient-hydration-in-javascript-frameworks-is-so-challenging-1ca3)
 - [Tailwind UI: Now with React + Vue support](https://blog.tailwindcss.com/tailwind-ui-now-with-react-and-vue-support)
 - [Headless UI: Unstyled, Accessible UI Components](https://blog.tailwindcss.com/headless-ui-unstyled-accessible-ui-components)
@@ -1768,6 +1775,8 @@
 
 ## Package Management, Dependency Management
 
+- [Sponsoring dependencies: The next step in open source sustainability](https://humanwhocodes.com/blog/2022/06/sponsoring-dependencies-open-source-sustainability)
+- [Monorepos in JavaScript & TypeScript](https://www.robinwieruch.de/javascript-monorepos)
 - [Lerna has gone. Which Monorepo is right for a Node.js BACKEND now?](https://medium.com/autodesk-tlv/lerna-has-gone-which-monorepo-is-right-for-a-node-js-backend-fc075cad51b0) #Nx #Turborepo
 - [5 Best Practices to Choosing Third-Party NPM Packages](https://blog.bitsrc.io/5-best-practices-when-choosing-third-party-npm-packages-2198994357f9)
 - [Simple monorepos via npm workspaces and TypeScript project references](https://2ality.com/2021/07/simple-monorepos.html)
@@ -1797,6 +1806,7 @@
 
 ### Related Libs
 
+- [qnm](https://github.com/ranyitz/qnm)
 - [Turborepo](https://turborepo.org/) #monorepo
 - [pnpm](https://pnpm.io/)
 - [Volta](https://volta.sh/)
@@ -1813,6 +1823,7 @@
 
 ## Module loader/Module Bundler/Task Runner, CI, Build
 
+- [You may not need a bundler for your NPM library](https://cmdcolin.github.io/posts/2022-05-27-youmaynotneedabundler)
 - [How to use webpack and HTML Webpack Plugin to generate HTML pages for multiple entries in 2 steps?](https://yonatankra.com/how-to-use-htmlwebpackplugin-for-multiple-entries)
 - [Why and how to transpile dependencies of your JavaScript application](https://cube.dev/blog/dependencies-transpilation)
 - [When should you leverage Module Federation, and how?](https://scriptedalchemy.medium.com/when-should-you-leverage-module-federation-and-how-2998b132c840)

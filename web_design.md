@@ -32,6 +32,7 @@
 
 ## CSS
 
+- [The Best JavaScript & CSS Animation Libraries for UI Designers](https://www.sitepoint.com/our-top-9-animation-libraries)
 - [State of CSS IO/22](https://web.dev/state-of-css-2022/)
 - [You Don’t Need A UI Framework](https://www.smashingmagazine.com/2022/05/you-dont-need-ui-framework/)
 - [CSS Toggles Explainer & Proposal](https://css.oddbird.net/toggles/explainer)
@@ -208,6 +209,10 @@
 - [BEM 2](https://en.bem.info)
 - [BEM 1](http://getbem.com)
 - [Atomic CSS](https://acss.io)
+
+## SVG
+
+- [Magical SVG Techniques](https://www.smashingmagazine.com/2022/05/magical-svg-techniques)
 
 ## HTML
 
