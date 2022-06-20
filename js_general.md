@@ -170,6 +170,7 @@
 
 ## General
 
+- [State Management: How to tell a bad boolean from a good boolean](https://stately.ai/blog/state-management-how-to-tell-a-bad-boolean-from-a-good-boolean)
 - [Patterns for Building JavaScript Websites in 2022](https://dev.to/this-is-learning/patterns-for-building-javascript-websites-in-2022-5a93)
 - [Logging Solutions for Node.js](https://blog.bitsrc.io/logging-solutions-for-node-js-964487f169ea)
 - [Code Reviews 101 - The Basics](https://www.semasoftware.com/blog/code-reviews-101-the-basics)
@@ -350,6 +351,7 @@
 
 ### Related
 
+- [What the f*ck JavaScript?](https://github.com/denysdovhan/wtfjs)
 - [Plasmo](https://github.com/PlasmoHQ/plasmo) #browser extension
 - [MicroDiff](https://github.com/AsyncBanana/microdiff)
 - [filesize.js](https://filesizejs.com)
