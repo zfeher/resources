@@ -1,5 +1,6 @@
 ## Unsorted
 
+- [Tauri](https://tauri.app/) #desktop
 - [Shoelace](https://shoelace.style) #web components
 - [NeutralinoJs](https://neutralino.js.org/)
 - [Frogger in Hyperapp](https://medium.com/hyperapp/frogger-in-hyperapp-90c0a7cd23a4)
@@ -24,6 +25,8 @@
 
 ## Books
 
+- [Every Layout](https://every-layout.dev) #css
+- [Vue Tips Collection](https://michaelnthiessen.com/vue-tips-collection)
 - [The TypeScript Handbook](https://www.typescriptlang.org/docs/handbook)
 - [Human Redux](https://read.reduxbook.com/) #react
 - [SurviveJS - Webpack Book](https://survivejs.com/webpack/foreword/)
@@ -128,6 +131,7 @@
 
 ## Interview
 
+- [CV/Resume checkup - Kelly Vaughn](https://twitter.com/kvlly/status/1538900194196062210?s=09&t=PAkKwXWEj0l6mVUAs84Prw)
 - [Interview Officer: "Tell me about Cookies Session and Tokens". Me: "Emm..."](https://pitayan.com/posts/sessions-cookies-and-tokens)
 - [10 Common JavaScript Interview Questions (and Answers)](https://blog.bitsrc.io/most-important-javascript-coding-challenge-aa14c956d2df)
 - [Top 10 JavaScript Interview Questions](https://javascript.plainenglish.io/top-10-javascript-interview-question-a1bf5dae41f5)
@@ -170,6 +174,7 @@
 
 ## General
 
+- [Precise Timing With Web Animations API](https://www.smashingmagazine.com/2022/06/precise-timing-web-animations-api)
 - [State Management: How to tell a bad boolean from a good boolean](https://stately.ai/blog/state-management-how-to-tell-a-bad-boolean-from-a-good-boolean)
 - [Patterns for Building JavaScript Websites in 2022](https://dev.to/this-is-learning/patterns-for-building-javascript-websites-in-2022-5a93)
 - [Logging Solutions for Node.js](https://blog.bitsrc.io/logging-solutions-for-node-js-964487f169ea)
@@ -1098,6 +1103,7 @@
 - [3 Code Splitting Patterns For VueJS and Webpack](http://vuejsdevelopers.com/2017/07/08/vue-js-3-ways-code-splitting-webpack/)[code splitting]
 - [Dynamic imports + common chunks](https://github.com/webpack/webpack/issues/4392)
 
+- [Vue2 to Vue3 Upgrade Guide](https://gogocode.io/en/docs/vue/vue2-to-vue3)
 - [Coding Better Composables (1/5)](https://www.vuemastery.com/blog/coding-better-composables-1-of-5)
 - [Coding Better Composables: Flexible Arguments (2/5)](https://www.vuemastery.com/blog/coding-better-composables-2-of-5)
 - [Coding Better Composables: Dynamic Returns (3/5)](https://www.vuemastery.com/blog/coding-better-composables-3-of-5)
@@ -1256,6 +1262,7 @@
 
 ### Related
 
+- [Vitest](https://vitest.dev)
 - [vue-progressive-image](https://github.com/MatteoGabriele/vue-progressive-image) #performance
 - [Vue Intersect](https://github.com/heavyy/vue-intersect) 
 - [vue-tiny-lazyload-img](https://github.com/mazipan/vue-tiny-lazyload-img) #performance

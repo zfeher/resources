@@ -216,6 +216,7 @@
 
 ## HTML
 
+- [Why You Should Use Picture Tag Instead of Img Tag](https://blog.bitsrc.io/why-you-should-use-picture-tag-instead-of-img-tag-b9841e86bf8b)
 - [Replace JavaScript Dialogs With the New HTML Dialog Element](https://css-tricks.com/replace-javascript-dialogs-html-dialog-element)
 - [Form Validation Using JavaScript's Constraint Validation API](https://blog.openreplay.com/form-validation-using-javascript-s-constraint-validation-api)
 - [The anatomy of responsive images](https://jakearchibald.com/2015/anatomy-of-responsive-images/)
