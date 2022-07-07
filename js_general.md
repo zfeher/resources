@@ -174,6 +174,7 @@
 
 ## General
 
+- [Executing shell commands from Node.js](https://2ality.com/2022/07/nodejs-child-process.html)
 - [Precise Timing With Web Animations API](https://www.smashingmagazine.com/2022/06/precise-timing-web-animations-api)
 - [State Management: How to tell a bad boolean from a good boolean](https://stately.ai/blog/state-management-how-to-tell-a-bad-boolean-from-a-good-boolean)
 - [Patterns for Building JavaScript Websites in 2022](https://dev.to/this-is-learning/patterns-for-building-javascript-websites-in-2022-5a93)
@@ -356,6 +357,7 @@
 
 ### Related
 
+- [Bun](https://bun.sh) #JavaScript runtime
 - [What the f*ck JavaScript?](https://github.com/denysdovhan/wtfjs)
 - [Plasmo](https://github.com/PlasmoHQ/plasmo) #browser extension
 - [MicroDiff](https://github.com/AsyncBanana/microdiff)
@@ -1349,6 +1351,7 @@
 
 ### General
 
+- [The new wave of React state management](https://frontendmastery.com/posts/the-new-wave-of-react-state-management)
 - [Writing local rules for ESLint](https://dev.to/jacobandrewsky/writing-local-rules-for-eslint-58bl) #codeshift
 - [Jamstack Rendering Patterns: The Evolution](https://www.smashingmagazine.com/2022/04/jamstack-rendering-patterns-evolution)
 - [WebGPU — All of the cores, none of the canvas](https://surma.dev/things/webgpu)
