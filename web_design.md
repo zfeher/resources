@@ -192,6 +192,8 @@
 
 ### Related
 
+- [Smol](https://smolcss.dev)
+- [Modern CSS Solutions](https://moderncss.dev/)
 - [frenic/csstype](https://github.com/frenic/csstype)
 - [Floating UI](https://www.floating-ui.com/)
 - [MyDevice.io](https://www.mydevice.io/)
