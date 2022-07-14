@@ -174,6 +174,7 @@
 
 ## General
 
+- [Never Use JSON.stringify() to Achieve Deep Copy. There is a Huge Pitfall.](https://javascript.plainenglish.io/never-use-json-stringify-to-achieve-deep-copy-there-is-a-huge-pitfall-41276bb47267)
 - [Executing shell commands from Node.js](https://2ality.com/2022/07/nodejs-child-process.html)
 - [Precise Timing With Web Animations API](https://www.smashingmagazine.com/2022/06/precise-timing-web-animations-api)
 - [State Management: How to tell a bad boolean from a good boolean](https://stately.ai/blog/state-management-how-to-tell-a-bad-boolean-from-a-good-boolean)
@@ -741,6 +742,7 @@
 
 ## Functional/Reactive Programming (FP)
 
+- [Functional Programming 101](https://github.com/readme/guides/functional-programming-basics)
 - [Higher-Kinded Data in TypeScript](https://ybogomolov.me/higher-kinded-data/)
 - [Intro to fp-ts, part 1: Higher-Kinded Types](https://ybogomolov.me/01-higher-kinded-types)
 - [Intro to fp-ts, part 2: Type Class Pattern](https://ybogomolov.me/02-type-classes/)
@@ -1351,6 +1353,9 @@
 
 ### General
 
+- [React Hooks: The Deep Cuts](https://css-tricks.com/react-hooks-the-deep-cuts)
+- [Applying SOLID principles in React](https://konstantinlebedev.com/solid-in-react/)
+- [Statements Vs. Expressions](https://www.joshwcomeau.com/javascript/statements-vs-expressions)
 - [The new wave of React state management](https://frontendmastery.com/posts/the-new-wave-of-react-state-management)
 - [Writing local rules for ESLint](https://dev.to/jacobandrewsky/writing-local-rules-for-eslint-58bl) #codeshift
 - [Jamstack Rendering Patterns: The Evolution](https://www.smashingmagazine.com/2022/04/jamstack-rendering-patterns-evolution)
@@ -1501,6 +1506,7 @@
 
 ### Related
 
+- [Absolutely Awesome React Components & Libraries](https://github.com/brillout/awesome-react-components)
 - [Stitcehs](https://stitches.dev/) #css-in-js
 - [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript)
 - [React Tracked](https://github.com/dai-shi/react-tracked)
