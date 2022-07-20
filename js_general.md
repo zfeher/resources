@@ -174,6 +174,7 @@
 
 ## General
 
+- [A New Pattern For The Jamstack: Segmented Rendering](https://www.smashingmagazine.com/2022/07/new-pattern-jamstack-segmented-rendering) #ssr #csr #ssg
 - [Never Use JSON.stringify() to Achieve Deep Copy. There is a Huge Pitfall.](https://javascript.plainenglish.io/never-use-json-stringify-to-achieve-deep-copy-there-is-a-huge-pitfall-41276bb47267)
 - [Executing shell commands from Node.js](https://2ality.com/2022/07/nodejs-child-process.html)
 - [Precise Timing With Web Animations API](https://www.smashingmagazine.com/2022/06/precise-timing-web-animations-api)
@@ -578,6 +579,7 @@
 
 ## Node.js
 
+- [Working with file system paths on Node.js](https://2ality.com/2022/07/nodejs-path.html)
 - [Best Tricks to Make Your Node.js Web App Faster](https://javascript.plainenglish.io/best-tricks-to-make-your-node-js-web-app-faster-9e19dd28aa5b)
 
 ### Related
@@ -1107,6 +1109,7 @@
 - [3 Code Splitting Patterns For VueJS and Webpack](http://vuejsdevelopers.com/2017/07/08/vue-js-3-ways-code-splitting-webpack/)[code splitting]
 - [Dynamic imports + common chunks](https://github.com/webpack/webpack/issues/4392)
 
+- [The new Provide and Inject in Vue 3](https://vuedose.tips/the-new-provide-inject-in-vue-3)
 - [Vue2 to Vue3 Upgrade Guide](https://gogocode.io/en/docs/vue/vue2-to-vue3)
 - [Coding Better Composables (1/5)](https://www.vuemastery.com/blog/coding-better-composables-1-of-5)
 - [Coding Better Composables: Flexible Arguments (2/5)](https://www.vuemastery.com/blog/coding-better-composables-2-of-5)
@@ -1631,6 +1634,7 @@
 
 ## Networking
 
+- [Streaming requests with the fetch API](https://developer.chrome.com/articles/fetch-streaming-requests)
 - [Intercepting JavaScript Fetch API requests and responses](https://blog.logrocket.com/intercepting-javascript-fetch-api-requests-responses)
 - [How to win at CORS](https://jakearchibald.com/2021/cors) #cors
 - [Replace axios with a simple custom fetch wrapper](https://kentcdodds.com/blog/replace-axios-with-a-simple-custom-fetch-wrapper)
@@ -1904,6 +1908,7 @@
 
 ### Related Libs
 
+- [bundlejs](https://bundlejs.com)
 - [Optimize Plugin for Webpack](https://github.com/developit/optimize-plugin)
 - [WebpackRemoteTypesPlugin](https://github.com/ruanyl/webpack-remote-types-plugin) #webpack #module fedaration
 - [SWC](https://swc.rs)
