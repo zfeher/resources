@@ -32,6 +32,7 @@
 
 ## CSS
 
+- [Avoiding <img> layout shifts: aspect-ratio vs width & height attributes](https://jakearchibald.com/2022/img-aspect-ratio/)
 - [Default flexbox stretching](https://defensivecss.dev/tip/default-flexbox-stretching)
 - [The Best JavaScript & CSS Animation Libraries for UI Designers](https://www.sitepoint.com/our-top-9-animation-libraries)
 - [State of CSS IO/22](https://web.dev/state-of-css-2022/)

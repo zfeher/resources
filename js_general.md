@@ -174,6 +174,7 @@
 
 ## General
 
+- [JavaScript Records & Tuples Proposal](https://github.com/tc39/proposal-record-tuple)
 - [A New Pattern For The Jamstack: Segmented Rendering](https://www.smashingmagazine.com/2022/07/new-pattern-jamstack-segmented-rendering) #ssr #csr #ssg
 - [Never Use JSON.stringify() to Achieve Deep Copy. There is a Huge Pitfall.](https://javascript.plainenglish.io/never-use-json-stringify-to-achieve-deep-copy-there-is-a-huge-pitfall-41276bb47267)
 - [Executing shell commands from Node.js](https://2ality.com/2022/07/nodejs-child-process.html)
@@ -584,6 +585,7 @@
 
 ### Related
 
+- [Fast Node Manager (fnm)](https://github.com/Schniz/fnm)
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)
 - [lukeed/loadr](https://github.com/lukeed/loadr)
 - [restify](http://restify.com/)
@@ -938,6 +940,8 @@
 
 ## Typescript
 
+- [Building attractive CLIs in TypeScript](https://blog.terrible.dev/Building-attractive-CLIs-in-JavaScript)
+- [The Most Asked TypeScript Questions on StackOverflow – Answered for Beginners](https://www.freecodecamp.org/news/the-top-stack-overflowed-typescript-questions-explained)
 - [Introducing Deepkit Framework](https://deepkit.io/blog/introducing-deepkit-framework)
 - [Filtering arrays with TypeScript type guards](https://www.skovy.dev/blog/typescript-filter-array-with-type-guard)
 - [Secrets of ‘never’ Types in TypeScript](https://blog.bitsrc.io/secrets-of-never-types-in-typescript-de57795a34da)
@@ -1828,6 +1832,7 @@
 
 ### Related Libs
 
+- [npm-check](https://github.com/dylang/npm-check)
 - [qnm](https://github.com/ranyitz/qnm)
 - [Turborepo](https://turborepo.org/) #monorepo
 - [pnpm](https://pnpm.io/)
