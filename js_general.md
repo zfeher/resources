@@ -174,6 +174,10 @@
 
 ## General
 
+- [ECMAScript Pattern Matching](https://github.com/tc39/proposal-pattern-matching)
+- [Awesome Bun](https://github.com/apvarun/awesome-bun)
+- [Node.js: checking if an ESM module is “main”](https://2ality.com/2022/07/nodejs-esm-main.html)
+- [Everything You Need to Know About JavaScript Import Maps](https://www.honeybadger.io/blog/import-maps)
 - [JavaScript Records & Tuples Proposal](https://github.com/tc39/proposal-record-tuple)
 - [A New Pattern For The Jamstack: Segmented Rendering](https://www.smashingmagazine.com/2022/07/new-pattern-jamstack-segmented-rendering) #ssr #csr #ssg
 - [Never Use JSON.stringify() to Achieve Deep Copy. There is a Huge Pitfall.](https://javascript.plainenglish.io/never-use-json-stringify-to-achieve-deep-copy-there-is-a-huge-pitfall-41276bb47267)
