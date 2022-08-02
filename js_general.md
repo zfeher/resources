@@ -131,6 +131,7 @@
 
 ## Interview
 
+- [Every job interview has a Q&A](https://twitter.com/austinbelcak/status/1545031410922274818?s=09&t=WQJg3kU3QA8k99HYQxNrNQ)
 - [CV/Resume checkup - Kelly Vaughn](https://twitter.com/kvlly/status/1538900194196062210?s=09&t=PAkKwXWEj0l6mVUAs84Prw)
 - [Interview Officer: "Tell me about Cookies Session and Tokens". Me: "Emm..."](https://pitayan.com/posts/sessions-cookies-and-tokens)
 - [10 Common JavaScript Interview Questions (and Answers)](https://blog.bitsrc.io/most-important-javascript-coding-challenge-aa14c956d2df)
@@ -584,7 +585,9 @@
 
 ## Node.js
 
+- [Node.js: creating ESM-based shell scripts for Unix and Windows](https://2ality.com/2022/07/nodejs-esm-shell-scripts.html)
 - [Working with file system paths on Node.js](https://2ality.com/2022/07/nodejs-path.html)
+- [Working with the file system on Node.js](https://2ality.com/2022/06/nodejs-file-system.html)
 - [Best Tricks to Make Your Node.js Web App Faster](https://javascript.plainenglish.io/best-tricks-to-make-your-node-js-web-app-faster-9e19dd28aa5b)
 
 ### Related
@@ -750,6 +753,7 @@
 
 ## Functional/Reactive Programming (FP)
 
+- [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon)
 - [Functional Programming 101](https://github.com/readme/guides/functional-programming-basics)
 - [Higher-Kinded Data in TypeScript](https://ybogomolov.me/higher-kinded-data/)
 - [Intro to fp-ts, part 1: Higher-Kinded Types](https://ybogomolov.me/01-higher-kinded-types)
@@ -944,6 +948,8 @@
 
 ## Typescript
 
+- [Use TypeScript Mapped Types Like a Pro](https://javascript.plainenglish.io/using-typescript-mapped-types-like-a-pro-be10aef5511a)
+- [Extract parameter types from string literal types with TypeScript](https://lihautan.com/extract-parameters-type-from-string-literal-types-with-typescript)
 - [Building attractive CLIs in TypeScript](https://blog.terrible.dev/Building-attractive-CLIs-in-JavaScript)
 - [The Most Asked TypeScript Questions on StackOverflow – Answered for Beginners](https://www.freecodecamp.org/news/the-top-stack-overflowed-typescript-questions-explained)
 - [Introducing Deepkit Framework](https://deepkit.io/blog/introducing-deepkit-framework)
@@ -1117,6 +1123,7 @@
 - [3 Code Splitting Patterns For VueJS and Webpack](http://vuejsdevelopers.com/2017/07/08/vue-js-3-ways-code-splitting-webpack/)[code splitting]
 - [Dynamic imports + common chunks](https://github.com/webpack/webpack/issues/4392)
 
+- [Vue.js challenges](https://vuejs-challenges.netlify.app)
 - [The new Provide and Inject in Vue 3](https://vuedose.tips/the-new-provide-inject-in-vue-3)
 - [Vue2 to Vue3 Upgrade Guide](https://gogocode.io/en/docs/vue/vue2-to-vue3)
 - [Coding Better Composables (1/5)](https://www.vuemastery.com/blog/coding-better-composables-1-of-5)
@@ -1364,6 +1371,8 @@
 
 ### General
 
+- [Ecma International approves ECMAScript 2022: What’s new?](https://2ality.com/2022/06/ecmascript-2022.html)
+- [ES2022 Features!](https://h3manth.com/ES2022)
 - [React Hooks: The Deep Cuts](https://css-tricks.com/react-hooks-the-deep-cuts)
 - [Applying SOLID principles in React](https://konstantinlebedev.com/solid-in-react/)
 - [Statements Vs. Expressions](https://www.joshwcomeau.com/javascript/statements-vs-expressions)
@@ -1805,6 +1814,7 @@
 
 ## Package Management, Dependency Management
 
+- [Monorepos in JavaScript & TypeScript](https://www.robinwieruch.de/javascript-monorepos)
 - [Sponsoring dependencies: The next step in open source sustainability](https://humanwhocodes.com/blog/2022/06/sponsoring-dependencies-open-source-sustainability)
 - [Monorepos in JavaScript & TypeScript](https://www.robinwieruch.de/javascript-monorepos)
 - [Lerna has gone. Which Monorepo is right for a Node.js BACKEND now?](https://medium.com/autodesk-tlv/lerna-has-gone-which-monorepo-is-right-for-a-node-js-backend-fc075cad51b0) #Nx #Turborepo
@@ -1854,6 +1864,7 @@
 
 ## Module loader/Module Bundler/Task Runner, CI, Build
 
+- [An in-depth perspective on webpack's bundling process](https://indepth.dev/posts/1482/an-in-depth-perspective-on-webpacks-bundling-process) #webpack
 - [You may not need a bundler for your NPM library](https://cmdcolin.github.io/posts/2022-05-27-youmaynotneedabundler)
 - [How to use webpack and HTML Webpack Plugin to generate HTML pages for multiple entries in 2 steps?](https://yonatankra.com/how-to-use-htmlwebpackplugin-for-multiple-entries)
 - [Why and how to transpile dependencies of your JavaScript application](https://cube.dev/blog/dependencies-transpilation)

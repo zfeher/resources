@@ -32,6 +32,8 @@
 
 ## CSS
 
+- [Modern CSS Challenges](https://challenges.moderncss.dev)
+- [Single Element Loaders: The Spinner](https://css-tricks.com/single-element-loaders-the-spinner/)
 - [The Unlocked Possibilities of the :has() Selector](https://blog.jim-nielsen.com/2022/unlocked-possibilities-of-has-selector)
 - [Avoiding <img> layout shifts: aspect-ratio vs width & height attributes](https://jakearchibald.com/2022/img-aspect-ratio/)
 - [Default flexbox stretching](https://defensivecss.dev/tip/default-flexbox-stretching)

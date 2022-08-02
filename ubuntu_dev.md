@@ -45,6 +45,8 @@ head -n1 -v app/scripts/components/base-input/basic/index.js | egrep -B1 "\/* es
 
 ```Bash
 find app/scripts/components/ -name "template.html" | xargs - L 1 sed -b -i -e $'1i<template>' -e $'$a</template>'
+
+find ./app/scripts -name "*.spec.js" | xargs sed -b -i -e $'1i import { describe, it, expect } from \'vitest\';'
 ```
 
 ## Remove first and last line with sed
