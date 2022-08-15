@@ -25,6 +25,7 @@
 
 ## Books
 
+- [Great (and Free!) Web Development Books You Can Get Online](https://css-tricks.com/web-development-books-you-can-get-for-free)
 - [Every Layout](https://every-layout.dev) #css
 - [Vue Tips Collection](https://michaelnthiessen.com/vue-tips-collection)
 - [The TypeScript Handbook](https://www.typescriptlang.org/docs/handbook)
@@ -175,6 +176,8 @@
 
 ## General
 
+- [Astro 1.0](https://astro.build/blog/astro-1) #framework #island
+- [Code Golfing Tips & Tricks: How to Minify your JavaScript Code](https://getbutterfly.com/code-golfing-tips-tricks-how-to-minify-your-javascript-code)
 - [ECMAScript Pattern Matching](https://github.com/tc39/proposal-pattern-matching)
 - [Awesome Bun](https://github.com/apvarun/awesome-bun)
 - [Node.js: checking if an ESM module is “main”](https://2ality.com/2022/07/nodejs-esm-main.html)
@@ -365,6 +368,7 @@
 
 ### Related
 
+- [Astro](https://github.com/withastro/astro)
 - [Bun](https://bun.sh) #JavaScript runtime
 - [What the f*ck JavaScript?](https://github.com/denysdovhan/wtfjs)
 - [Plasmo](https://github.com/PlasmoHQ/plasmo) #browser extension
@@ -567,6 +571,7 @@
 
 ### Related
 
+- [ai/size-limit](https://github.com/ai/size-limit) #statoscope
 - [vanilla-lazyload](https://github.com/verlok/vanilla-lazyload)
 - [lazysizes](https://github.com/aFarkas/lazysizes)
 - [Squoosh](https://squoosh.app/)
@@ -585,6 +590,7 @@
 
 ## Node.js
 
+- [Using web streams on Node.js](https://2ality.com/2022/06/web-streams-nodejs.html)
 - [Node.js: creating ESM-based shell scripts for Unix and Windows](https://2ality.com/2022/07/nodejs-esm-shell-scripts.html)
 - [Working with file system paths on Node.js](https://2ality.com/2022/07/nodejs-path.html)
 - [Working with the file system on Node.js](https://2ality.com/2022/06/nodejs-file-system.html)
@@ -668,6 +674,7 @@
 
 ## Security / Payment
 
+- [Cory House: 2022 Frontend security in 1 tweet](https://twitter.com/housecor/status/1558845973018906624?s=09&t=Xyc6EX5mizk8wOrKYzfShg)
 - [What's Really Going On Inside Your node_modules Folder?](https://socket.dev/blog/inside-node-modules)
 - [Web Authentication: Cookies vs. Tokens](https://blog.bitsrc.io/web-authentication-cookies-vs-tokens-8e47d5a96d34)
 - [Dealing with some CSRF attacks using the SameSite cookies](https://wanago.io/2020/12/21/csrf-attacks-same-site-cookies/)
@@ -918,6 +925,7 @@
 
 ## Progressive Web Apps / PWA
 
+- [Random notes around service workers development and testing](https://mmazzarolo.com/blog/2022-06-18-service-workers-tips-and-tricks)
 - [Now THAT’S What I Call Service Worker!](https://alistapart.com/article/now-thats-what-i-call-service-worker/)
 - [Progressive Web Apps in 2021](https://firt.dev/pwa-2021)
 - [Service Worker Lifecycle Explained](https://felixgerschau.com/service-worker-lifecycle-update/)
@@ -1032,6 +1040,7 @@
 
 ### Related
 
+- [tRPC](https://trpc.io) #api #typesafe
 - [Deepkit](https://github.com/deepkit/deepkit-framework)
 - [Yup](https://github.com/jquense/yup) #schema
 - [Zod](https://github.com/colinhacks/zod) #schema
@@ -1063,6 +1072,8 @@
 
 ## Components
 
+- [Building forms with custom elements](https://www.filamentgroup.com/lab/forms-with-custom-elements)
+- [Fast UI — Build a To-Do App with VanillaJS and Web Components](https://blog.bitsrc.io/fast-ui-building-a-to-do-app-with-vanillajs-and-web-components-7c260da3b912)
 - [Building Interoperable Web Components That Even Work With React](https://css-tricks.com/building-interoperable-web-components-react)
 - [Why Efficient Hydration in JavaScript Frameworks is so Challenging](https://dev.to/this-is-learning/why-efficient-hydration-in-javascript-frameworks-is-so-challenging-1ca3)
 - [Tailwind UI: Now with React + Vue support](https://blog.tailwindcss.com/tailwind-ui-now-with-react-and-vue-support)
@@ -1099,6 +1110,7 @@
 
 ### Related
 
+- [FAST](https://www.fast.design/) #microsoft #web components
 - [Zag.js](https://zagjs.com)
 - [Litedom](https://litedom.js.org/)
 - [react-powerplug](https://github.com/renatorib/react-powerplug/)
@@ -1123,6 +1135,7 @@
 - [3 Code Splitting Patterns For VueJS and Webpack](http://vuejsdevelopers.com/2017/07/08/vue-js-3-ways-code-splitting-webpack/)[code splitting]
 - [Dynamic imports + common chunks](https://github.com/webpack/webpack/issues/4392)
 
+- [How to Use SVG Elegantly in Vue.js](https://javascript.plainenglish.io/how-to-use-svg-elegantly-in-vue-js-b79e43510b35)
 - [Vue.js challenges](https://vuejs-challenges.netlify.app)
 - [The new Provide and Inject in Vue 3](https://vuedose.tips/the-new-provide-inject-in-vue-3)
 - [Vue2 to Vue3 Upgrade Guide](https://gogocode.io/en/docs/vue/vue2-to-vue3)

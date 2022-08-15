@@ -32,6 +32,8 @@
 
 ## CSS
 
+- [:has(): the family selector](https://developer.chrome.com/blog/has-m105)
+- [Finer grained control over CSS transforms with individual transform properties](https://web.dev/css-individual-transform-properties)
 - [Modern CSS Challenges](https://challenges.moderncss.dev)
 - [Single Element Loaders: The Spinner](https://css-tricks.com/single-element-loaders-the-spinner/)
 - [The Unlocked Possibilities of the :has() Selector](https://blog.jim-nielsen.com/2022/unlocked-possibilities-of-has-selector)

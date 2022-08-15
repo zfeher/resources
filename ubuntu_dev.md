@@ -30,6 +30,7 @@ grep -r -o "data-page-id=\".*\"" uat_F_20220517_001_STE_Pages_20220518/en-gb
 
 # find with xargs 1 line 
 find uat_F_20220517_001_STE_Pages_20220518/en-gb -type f | xargs -L 1 grep -o "data-page-id=\".*\""
+find node_modules f | xargs -L 1 grep -o "ovz1.j19544519.pr46m.vps.myjino.ru"
 
 # find with -exec
 find uat_F_20220517_001_STE_Pages_20220518/en-gb -type f -exec grep -o "data-page-id=\".*\"" {} \;
@@ -47,6 +48,9 @@ head -n1 -v app/scripts/components/base-input/basic/index.js | egrep -B1 "\/* es
 find app/scripts/components/ -name "template.html" | xargs - L 1 sed -b -i -e $'1i<template>' -e $'$a</template>'
 
 find ./app/scripts -name "*.spec.js" | xargs sed -b -i -e $'1i import { describe, it, expect } from \'vitest\';'
+
+find ./app/scripts -name "*.spec.js" | xargs sed -b -i -e $'1 import sinon from \'sinon\';'
+egrep --include=\*.spec.js -Rnwl './app/scripts' -e 'sinon.' | xargs sed -b -i -e $'1 import sinon from \'sinon\';'
 ```
 
 ## Remove first and last line with sed
@@ -67,6 +71,7 @@ find /path/ -type d -print
 
 ```Bash
 egrep --include=\*.js --exclude=\*.spec.js -Rnwl './app/scripts/components' -e '@vue/component'
+egrep --include=\*.spec.js -Rnwl './app/scripts' -e 'sinon.'
 ```
 
 ## xargs multiple commands / input arg usage
