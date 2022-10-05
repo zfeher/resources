@@ -176,6 +176,8 @@
 
 ## General
 
+- [Progressively enhance for a more resilient web](https://jjenzz.com/progressively-enhance-for-a-more-resilient-web)
+- [Modern client-side routing: the Navigation API](https://developer.chrome.com/docs/web-platform/navigation-api)
 - [Astro 1.0](https://astro.build/blog/astro-1) #framework #island
 - [Code Golfing Tips & Tricks: How to Minify your JavaScript Code](https://getbutterfly.com/code-golfing-tips-tricks-how-to-minify-your-javascript-code)
 - [ECMAScript Pattern Matching](https://github.com/tc39/proposal-pattern-matching)
@@ -514,6 +516,8 @@
 
 ## Performance, memory
 
+- [Ryan Florence Tweet](https://twitter.com/ryanflorence/status/1560274356579622914?s=09&t=YI1YE8CwCWY-ep9gaW_cWA) #CLS #lazy #webp
+- [Why Your Cached JavaScript Is Still Slow and Incurs Performance Overhead](https://www.webperf.tips/tip/cached-js-misconceptions)
 - [Measuring web performance, How fast is fast?](https://medhatdawoud.net/blog/measuring-web-performance)
 - [How Partytown Eliminates Website Bloat From Third-Party Scripts](https://www.smashingmagazine.com/2022/04/partytown-eliminates-website-bloat-third-party-apps)
 - [Optimising Core Web Vitals on SPAs](https://simonhearne.com/2022/core-web-vitals-on-spas) #LCP #CLS #FID #TBT
@@ -590,6 +594,7 @@
 
 ## Node.js
 
+- [Parsing command line arguments with util.parseArgs() in Node.js](https://2ality.com/2022/08/node-util-parseargs.html)
 - [Using web streams on Node.js](https://2ality.com/2022/06/web-streams-nodejs.html)
 - [Node.js: creating ESM-based shell scripts for Unix and Windows](https://2ality.com/2022/07/nodejs-esm-shell-scripts.html)
 - [Working with file system paths on Node.js](https://2ality.com/2022/07/nodejs-path.html)
@@ -670,6 +675,7 @@
 
 ### Related
 
+- [async](https://github.com/caolan/async)
 - [getify/CAF](https://github.com/getify/CAF)
 
 ## Security / Payment
@@ -956,6 +962,8 @@
 
 ## Typescript
 
+- [<Type>Level TypeScript](https://type-level-typescript.com/) #tutorial
+- [TotalTypeScript - Matt Pocock](https://www.totaltypescript.com/) #tutorial
 - [Use TypeScript Mapped Types Like a Pro](https://javascript.plainenglish.io/using-typescript-mapped-types-like-a-pro-be10aef5511a)
 - [Extract parameter types from string literal types with TypeScript](https://lihautan.com/extract-parameters-type-from-string-literal-types-with-typescript)
 - [Building attractive CLIs in TypeScript](https://blog.terrible.dev/Building-attractive-CLIs-in-JavaScript)
@@ -1072,6 +1080,8 @@
 
 ## Components
 
+- [Introducing Shoelace, a Framework-Independent Component-Based UX Library](https://css-tricks.com/shoelace-component-frameowrk-introduction/)
+- [Resumability, WTF?](https://dev.to/this-is-learning/resumability-wtf-2gcm)
 - [Building forms with custom elements](https://www.filamentgroup.com/lab/forms-with-custom-elements)
 - [Fast UI — Build a To-Do App with VanillaJS and Web Components](https://blog.bitsrc.io/fast-ui-building-a-to-do-app-with-vanillajs-and-web-components-7c260da3b912)
 - [Building Interoperable Web Components That Even Work With React](https://css-tricks.com/building-interoperable-web-components-react)
@@ -1110,6 +1120,7 @@
 
 ### Related
 
+- [Shoelace](https://css-tricks.com/shoelace-component-frameowrk-introduction)
 - [FAST](https://www.fast.design/) #microsoft #web components
 - [Zag.js](https://zagjs.com)
 - [Litedom](https://litedom.js.org/)
@@ -1135,6 +1146,7 @@
 - [3 Code Splitting Patterns For VueJS and Webpack](http://vuejsdevelopers.com/2017/07/08/vue-js-3-ways-code-splitting-webpack/)[code splitting]
 - [Dynamic imports + common chunks](https://github.com/webpack/webpack/issues/4392)
 
+- [How to Use .env Environment Variables in Vue.js](https://javascript.plainenglish.io/how-to-use-env-environment-variables-in-vue-js-790cdc10f7aa)
 - [How to Use SVG Elegantly in Vue.js](https://javascript.plainenglish.io/how-to-use-svg-elegantly-in-vue-js-b79e43510b35)
 - [Vue.js challenges](https://vuejs-challenges.netlify.app)
 - [The new Provide and Inject in Vue 3](https://vuedose.tips/the-new-provide-inject-in-vue-3)
@@ -1384,6 +1396,8 @@
 
 ### General
 
+- [Demystifying styled-components](https://www.joshwcomeau.com/react/demystifying-styled-components)
+- [Why React Re-Renders](https://www.joshwcomeau.com/react/why-react-re-renders)
 - [Ecma International approves ECMAScript 2022: What’s new?](https://2ality.com/2022/06/ecmascript-2022.html)
 - [ES2022 Features!](https://h3manth.com/ES2022)
 - [React Hooks: The Deep Cuts](https://css-tricks.com/react-hooks-the-deep-cuts)
@@ -1827,6 +1841,8 @@
 
 ## Package Management, Dependency Management
 
+- [Best practices for creating a modern npm package](https://snyk.io/blog/best-practices-create-modern-npm-package)
+- [Introducing the new npm Dependency Selector Syntax](https://github.blog/changelog/2022-08-03-introducing-the-new-npm-dependency-selector-syntax)
 - [Monorepos in JavaScript & TypeScript](https://www.robinwieruch.de/javascript-monorepos)
 - [Sponsoring dependencies: The next step in open source sustainability](https://humanwhocodes.com/blog/2022/06/sponsoring-dependencies-open-source-sustainability)
 - [Monorepos in JavaScript & TypeScript](https://www.robinwieruch.de/javascript-monorepos)

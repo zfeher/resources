@@ -32,6 +32,8 @@
 
 ## CSS
 
+- [Using :has() as a CSS Parent Selector and much more](https://webkit.org/blog/13096/css-has-pseudo-class)
+- [CSS generators that are so helpful](https://twitter.com/reactive_dude/status/1556908858639015939?s=21&t=jUf8t-DoPdhR4wB7iD3qkQ)
 - [:has(): the family selector](https://developer.chrome.com/blog/has-m105)
 - [Finer grained control over CSS transforms with individual transform properties](https://web.dev/css-individual-transform-properties)
 - [Modern CSS Challenges](https://challenges.moderncss.dev)
@@ -225,6 +227,7 @@
 
 ## HTML
 
+- [Quoting in HTML: Quotations, Citations, and Blockquotes](https://css-tricks.com/quoting-in-html-quotations-citations-and-blockquotes)
 - [Why You Should Use Picture Tag Instead of Img Tag](https://blog.bitsrc.io/why-you-should-use-picture-tag-instead-of-img-tag-b9841e86bf8b)
 - [Replace JavaScript Dialogs With the New HTML Dialog Element](https://css-tricks.com/replace-javascript-dialogs-html-dialog-element)
 - [Form Validation Using JavaScript's Constraint Validation API](https://blog.openreplay.com/form-validation-using-javascript-s-constraint-validation-api)
