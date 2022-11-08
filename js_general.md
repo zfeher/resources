@@ -766,6 +766,7 @@
 
 ## Functional/Reactive Programming (FP)
 
+- [Why would anyone need JavaScript generator functions?](https://jrsinclair.com/articles/2022/why-would-anyone-need-javascript-generator-functions/)
 - [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon)
 - [Functional Programming 101](https://github.com/readme/guides/functional-programming-basics)
 - [Higher-Kinded Data in TypeScript](https://ybogomolov.me/higher-kinded-data/)
@@ -1396,6 +1397,7 @@
 
 ### General
 
+- [Why We're Breaking Up with CSS-in-JS](https://dev.to/srmagura/why-were-breaking-up-wiht-css-in-js-4g9b)
 - [Demystifying styled-components](https://www.joshwcomeau.com/react/demystifying-styled-components)
 - [Why React Re-Renders](https://www.joshwcomeau.com/react/why-react-re-renders)
 - [Ecma International approves ECMAScript 2022: What’s new?](https://2ality.com/2022/06/ecmascript-2022.html)
@@ -1957,6 +1959,7 @@
 
 ### Related Libs
 
+- [vite-plugin-federation](https://github.com/originjs/vite-plugin-federation)
 - [bundlejs](https://bundlejs.com)
 - [Optimize Plugin for Webpack](https://github.com/developit/optimize-plugin)
 - [WebpackRemoteTypesPlugin](https://github.com/ruanyl/webpack-remote-types-plugin) #webpack #module fedaration
