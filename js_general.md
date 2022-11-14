@@ -680,6 +680,7 @@
 
 ## Security / Payment
 
+- [Node.js Security Best Practices](https://nodejs.org/en/docs/guides/security) #node.js
 - [Cory House: 2022 Frontend security in 1 tweet](https://twitter.com/housecor/status/1558845973018906624?s=09&t=Xyc6EX5mizk8wOrKYzfShg)
 - [What's Really Going On Inside Your node_modules Folder?](https://socket.dev/blog/inside-node-modules)
 - [Web Authentication: Cookies vs. Tokens](https://blog.bitsrc.io/web-authentication-cookies-vs-tokens-8e47d5a96d34)
