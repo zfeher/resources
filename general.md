@@ -204,6 +204,7 @@
 - [Visual Studio Code](https://code.visualstudio.com/)
 
   - [Awesome VSCode](https://github.com/viatsko/awesome-vscode)
+  - [Console Ninja](https://console-ninja.com/)
   - [8 VS Code Extensions Every Javascript Developer Should Use](https://blog.bitsrc.io/8-vs-code-extensions-every-javascript-developer-should-use-5ef798987e08)
   - [10 Essential VS Code Extensions for JavaScript Developers in 2019](https://hackernoon.com/10-essential-vs-code-extensions-for-javascript-developers-in-2019-e8320e3f421e)
   - [6 Awesome CSS Extensions for VS Code](https://scotch.io/bar-talk/6-awesome-css-extensions-for-vs-code)

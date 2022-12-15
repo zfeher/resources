@@ -372,7 +372,7 @@
 
 - [Astro](https://github.com/withastro/astro)
 - [Bun](https://bun.sh) #JavaScript runtime
-- [What the f*ck JavaScript?](https://github.com/denysdovhan/wtfjs)
+- [What the f\*ck JavaScript?](https://github.com/denysdovhan/wtfjs)
 - [Plasmo](https://github.com/PlasmoHQ/plasmo) #browser extension
 - [MicroDiff](https://github.com/AsyncBanana/microdiff)
 - [filesize.js](https://filesizejs.com)
@@ -767,6 +767,7 @@
 
 ## Functional/Reactive Programming (FP)
 
+- [What’s so great about functional programming anyway?](https://jrsinclair.com/articles/2022/whats-so-great-about-functional-programming-anyway)
 - [Why would anyone need JavaScript generator functions?](https://jrsinclair.com/articles/2022/why-would-anyone-need-javascript-generator-functions/)
 - [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon)
 - [Functional Programming 101](https://github.com/readme/guides/functional-programming-basics)
@@ -1188,9 +1189,9 @@
 - [Vue Enterprise Patterns - How to Build Components With Design System Variants And Share Variant Styles Using Variant Style Provider](https://theroadtoenterprise.com/blog/how-to-build-components-with-design-system-variants-and-share-variant-styles-using-variant-style-provider)
 - [Vue with TSX - the perfect duo!?](https://areknawo.com/vue-with-tsx-the-perfect-duo/)
 - [What to do when Vue hydration fails](https://blog.lichter.io/posts/vue-hydration-error/)
-- [Top 3 GraphQL Resources for Vue.js Developers in 2021](https://hasura.io/blog/top-3-graphql-resources-for-vuejs-developers/)[GraphQL][SWR][urql][JWT][Auth0][Firebase]
+- [Top 3 GraphQL Resources for Vue.js Developers in 2021](https://hasura.io/blog/top-3-graphql-resources-for-vuejs-developers/)[GraphQL][swr][urql][jwt][Auth0][firebase]
 - [What’s Coming To VueX?](https://www.smashingmagazine.com/2020/12/vuex-library/)
-- [Best Static Site Generators for Vue.js](https://blog.bitsrc.io/best-static-site-generators-for-vue-js-e273d52ea208)[Nuxt][Gridsome][VuePress][Saber]
+- [Best Static Site Generators for Vue.js](https://blog.bitsrc.io/best-static-site-generators-for-vue-js-e273d52ea208)[Nuxt][gridsome][VuePress][saber]
 - [How to make vue-router play nice with loading states](https://medium.com/bauer-kirch/how-to-make-vue-router-play-nice-with-loading-states-3f2ff6bfd633)
 - [Lazy-Loading Routes with Vue Router with a Progress Bar](https://stackabuse.com/lazy-loading-routes-with-vue-router/)[tutorial]
 - [Craft Better Looking Vue Apps Using Tailwind CSS](https://snipcart.com/blog/tailwind-vue-tutorial)
@@ -1313,7 +1314,7 @@
 
 - [Vitest](https://vitest.dev)
 - [vue-progressive-image](https://github.com/MatteoGabriele/vue-progressive-image) #performance
-- [Vue Intersect](https://github.com/heavyy/vue-intersect) 
+- [Vue Intersect](https://github.com/heavyy/vue-intersect)
 - [vue-tiny-lazyload-img](https://github.com/mazipan/vue-tiny-lazyload-img) #performance
 - [Vue-Lazyload (v-lazy, v-lazy-container, lazy-component)](https://github.com/hilongjw/vue-lazyload) #performance
 - [v-lazy-component](https://github.com/RadKod/v-lazy-component) #performance
@@ -1398,6 +1399,8 @@
 
 ### General
 
+- [What is React State Management?](https://javascript.plainenglish.io/what-is-react-state-management-1937c49de5c4)
+- [Optimizing Web Fonts in Next.js 13](https://www.lydiahallie.io/blog/optimizing-webfonts-in-nextjs-13) #Next
 - [Why We're Breaking Up with CSS-in-JS](https://dev.to/srmagura/why-were-breaking-up-wiht-css-in-js-4g9b)
 - [Demystifying styled-components](https://www.joshwcomeau.com/react/demystifying-styled-components)
 - [Why React Re-Renders](https://www.joshwcomeau.com/react/why-react-re-renders)
