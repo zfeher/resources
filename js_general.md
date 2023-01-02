@@ -176,6 +176,7 @@
 
 ## General
 
+- [A Hands-on Introduction to Fine-Grained Reactivity](https://dev.to/ryansolid/a-hands-on-introduction-to-fine-grained-reactivity-3ndf)
 - [Progressively enhance for a more resilient web](https://jjenzz.com/progressively-enhance-for-a-more-resilient-web)
 - [Modern client-side routing: the Navigation API](https://developer.chrome.com/docs/web-platform/navigation-api)
 - [Astro 1.0](https://astro.build/blog/astro-1) #framework #island
@@ -767,6 +768,7 @@
 
 ## Functional/Reactive Programming (FP)
 
+- [Mutative - 10x faster than Immer](https://dev.to/unadlib/mutative-10x-faster-than-immer-2060) #immutable
 - [What’s so great about functional programming anyway?](https://jrsinclair.com/articles/2022/whats-so-great-about-functional-programming-anyway)
 - [Why would anyone need JavaScript generator functions?](https://jrsinclair.com/articles/2022/why-would-anyone-need-javascript-generator-functions/)
 - [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon)
@@ -776,7 +778,6 @@
 - [Intro to fp-ts, part 2: Type Class Pattern](https://ybogomolov.me/02-type-classes/)
 - [Intro to fp-ts, part 3: Option and Either](https://ybogomolov.me/03-nullables-exceptions/)
 - [Intro to fp-ts, part 4: Tasks as an alternative to Promises](https://ybogomolov.me/04-tasks/)
-- []()
 - [Introduction to the Solid JavaScript Library](https://css-tricks.com/introduction-to-the-solid-javascript-library)
 - [RxJS Operators In-Depth - Part 1](https://benlesh.com/posts/rxjs-operators-in-depth-part-1)
 - [Cube Composer](https://david-peter.de/cube-composer/)[game]
@@ -884,6 +885,7 @@
 
 ### Related Libs
 
+- [Mutative](https://github.com/unadlib/mutative)
 - [marble](https://github.com/marblejs/marble)
 - [SolidJS](https://www.solidjs.com/)
 - [mem](https://github.com/sindresorhus/mem)
@@ -1399,6 +1401,7 @@
 
 ### General
 
+- [Top 7 React Animation Libraries in 2022](https://www.syncfusion.com/blogs/post/top-7-react-animation-libraries-in-2022.aspx)
 - [What is React State Management?](https://javascript.plainenglish.io/what-is-react-state-management-1937c49de5c4)
 - [Optimizing Web Fonts in Next.js 13](https://www.lydiahallie.io/blog/optimizing-webfonts-in-nextjs-13) #Next
 - [Why We're Breaking Up with CSS-in-JS](https://dev.to/srmagura/why-were-breaking-up-wiht-css-in-js-4g9b)
