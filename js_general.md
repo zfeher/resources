@@ -176,6 +176,9 @@
 
 ## General
 
+- [Ecma International approves ECMAScript 2022: What’s new?](https://2ality.com/2022/06/ecmascript-2022.html)
+- [AbortController is your friend](https://whistlr.info/2022/abortcontroller-is-your-friend/)
+- [A pipe operator for JavaScript: introduction and use cases](https://2ality.com/2022/01/pipe-operator.html)
 - [A Hands-on Introduction to Fine-Grained Reactivity](https://dev.to/ryansolid/a-hands-on-introduction-to-fine-grained-reactivity-3ndf)
 - [Progressively enhance for a more resilient web](https://jjenzz.com/progressively-enhance-for-a-more-resilient-web)
 - [Modern client-side routing: the Navigation API](https://developer.chrome.com/docs/web-platform/navigation-api)
@@ -438,6 +441,7 @@
 
 ## Micro frontends
 
+- [Micro-frontend dev](https://microfrontend.dev/)
 - [Addressing Micro Frontend Criticisms & Environmental Differences](https://javascript.plainenglish.io/addressing-micro-frontend-criticisms-environmental-differences-4a231d7a1416)
 - [The Future of Micro-Frontends](https://betterprogramming.pub/the-future-of-micro-frontends-2f527f97d506)
 - [Micro Frontends](https://martinfowler.com/articles/micro-frontends.html)
@@ -768,6 +772,7 @@
 
 ## Functional/Reactive Programming (FP)
 
+- [JavaScript function composition: What’s the big deal?](https://jrsinclair.com/articles/2022/javascript-function-composition-whats-the-big-deal)
 - [Mutative - 10x faster than Immer](https://dev.to/unadlib/mutative-10x-faster-than-immer-2060) #immutable
 - [What’s so great about functional programming anyway?](https://jrsinclair.com/articles/2022/whats-so-great-about-functional-programming-anyway)
 - [Why would anyone need JavaScript generator functions?](https://jrsinclair.com/articles/2022/why-would-anyone-need-javascript-generator-functions/)
