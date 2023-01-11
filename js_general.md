@@ -972,6 +972,7 @@
 
 ## Typescript
 
+- [Fun with Types](https://unicorn-utterances.com/posts/fun-with-types)
 - [<Type>Level TypeScript](https://type-level-typescript.com/) #tutorial
 - [TotalTypeScript - Matt Pocock](https://www.totaltypescript.com/) #tutorial
 - [Use TypeScript Mapped Types Like a Pro](https://javascript.plainenglish.io/using-typescript-mapped-types-like-a-pro-be10aef5511a)
@@ -1406,6 +1407,8 @@
 
 ### General
 
+- [Five Challenges to Building an Isomorphic JavaScript Library](https://doordash.engineering/2022/12/06/five-challenges-to-building-an-isomorphic-javascript-library)
+- [Data Binding in React](https://www.joshwcomeau.com/react/data-binding)
 - [Top 7 React Animation Libraries in 2022](https://www.syncfusion.com/blogs/post/top-7-react-animation-libraries-in-2022.aspx)
 - [What is React State Management?](https://javascript.plainenglish.io/what-is-react-state-management-1937c49de5c4)
 - [Optimizing Web Fonts in Next.js 13](https://www.lydiahallie.io/blog/optimizing-webfonts-in-nextjs-13) #Next
