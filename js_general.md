@@ -1407,6 +1407,10 @@
 
 ### General
 
+- [Your Guide to React.useCallback()](https://dmitripavlutin.com/react-usecallback/)
+- [How to useMemo and useCallback: you can remove most of them](https://www.developerway.com/posts/how-to-use-memo-use-callback)
+- [Understanding useMemo and useCallback](https://www.joshwcomeau.com/react/usememo-and-usecallback/)
+- [Practical React Query 1..19](https://tkdodo.eu/blog/practical-react-query)
 - [Five Challenges to Building an Isomorphic JavaScript Library](https://doordash.engineering/2022/12/06/five-challenges-to-building-an-isomorphic-javascript-library)
 - [Data Binding in React](https://www.joshwcomeau.com/react/data-binding)
 - [Top 7 React Animation Libraries in 2022](https://www.syncfusion.com/blogs/post/top-7-react-animation-libraries-in-2022.aspx)
