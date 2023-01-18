@@ -521,6 +521,7 @@
 
 ## Performance, memory
 
+- [The truth about CSS selector performance](https://blogs.windows.com/msedgedev/2023/01/17/the-truth-about-css-selector-performance)
 - [Ryan Florence Tweet](https://twitter.com/ryanflorence/status/1560274356579622914?s=09&t=YI1YE8CwCWY-ep9gaW_cWA) #CLS #lazy #webp
 - [Why Your Cached JavaScript Is Still Slow and Incurs Performance Overhead](https://www.webperf.tips/tip/cached-js-misconceptions)
 - [Measuring web performance, How fast is fast?](https://medhatdawoud.net/blog/measuring-web-performance)
@@ -741,6 +742,7 @@
 
 ### Related Libs
 
+- [Structura.js](https://giusepperaso.github.io/structura.js)
 - [unchanged](https://github.com/planttheidea/unchanged)
 - [immutadot](github.com/Zenika/immutadot)
 - [immer](https://github.com/mweststrate/immer)
@@ -772,6 +774,7 @@
 
 ## Functional/Reactive Programming (FP)
 
+- [Functional Reactive Programming with SolidJS and fp-ts](https://kajetan.dev/2023/functional-reactive-programming-with-solidjs-and-fpts)
 - [JavaScript function composition: What’s the big deal?](https://jrsinclair.com/articles/2022/javascript-function-composition-whats-the-big-deal)
 - [Mutative - 10x faster than Immer](https://dev.to/unadlib/mutative-10x-faster-than-immer-2060) #immutable
 - [What’s so great about functional programming anyway?](https://jrsinclair.com/articles/2022/whats-so-great-about-functional-programming-anyway)
@@ -890,6 +893,7 @@
 
 ### Related Libs
 
+- [TS-Pattern](https://github.com/gvergnaud/ts-pattern)
 - [Mutative](https://github.com/unadlib/mutative)
 - [marble](https://github.com/marblejs/marble)
 - [SolidJS](https://www.solidjs.com/)
@@ -1699,6 +1703,7 @@
 
 ## Networking
 
+- [Safe Data Fetching in Modern JavaScript](https://www.builder.io/blog/safe-data-fetching)
 - [Streaming requests with the fetch API](https://developer.chrome.com/articles/fetch-streaming-requests)
 - [Intercepting JavaScript Fetch API requests and responses](https://blog.logrocket.com/intercepting-javascript-fetch-api-requests-responses)
 - [How to win at CORS](https://jakearchibald.com/2021/cors) #cors
@@ -1896,6 +1901,7 @@
 
 ### Related Libs
 
+- [publint](https://publint.dev/)
 - [npm-check](https://github.com/dylang/npm-check)
 - [qnm](https://github.com/ranyitz/qnm)
 - [Turborepo](https://turborepo.org/) #monorepo
