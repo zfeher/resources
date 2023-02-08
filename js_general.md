@@ -176,6 +176,7 @@
 
 ## General
 
+- [Deep Cloning Objects in JavaScript, the Modern Way](https://www.builder.io/blog/structured-clone)
 - [Ecma International approves ECMAScript 2022: What’s new?](https://2ality.com/2022/06/ecmascript-2022.html)
 - [AbortController is your friend](https://whistlr.info/2022/abortcontroller-is-your-friend/)
 - [A pipe operator for JavaScript: introduction and use cases](https://2ality.com/2022/01/pipe-operator.html)
@@ -976,6 +977,8 @@
 
 ## Typescript
 
+- [Prettify](https://twitter.com/mattpocockuk/status/1622730173446557697)
+- [TypeScript Utility Types You Need to Know](https://dev.to/builderio/typescript-utility-types-you-need-to-know-14b7)
 - [Fun with Types](https://unicorn-utterances.com/posts/fun-with-types)
 - [<Type>Level TypeScript](https://type-level-typescript.com/) #tutorial
 - [TotalTypeScript - Matt Pocock](https://www.totaltypescript.com/) #tutorial
@@ -1411,6 +1414,7 @@
 
 ### General
 
+- [The self-fulfilling prophecy of React](https://joshcollinsworth.com/blog/self-fulfilling-prophecy-of-react)
 - [Your Guide to React.useCallback()](https://dmitripavlutin.com/react-usecallback/)
 - [How to useMemo and useCallback: you can remove most of them](https://www.developerway.com/posts/how-to-use-memo-use-callback)
 - [Understanding useMemo and useCallback](https://www.joshwcomeau.com/react/usememo-and-usecallback/)
