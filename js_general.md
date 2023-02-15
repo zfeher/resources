@@ -375,6 +375,7 @@
 
 ### Related
 
+- [WebContainers](https://webcontainers.io/)
 - [Astro](https://github.com/withastro/astro)
 - [Bun](https://bun.sh) #JavaScript runtime
 - [What the f\*ck JavaScript?](https://github.com/denysdovhan/wtfjs)
