@@ -375,6 +375,7 @@
 
 ### Related
 
+- [devalue](https://github.com/Rich-Harris/devalue) #JSON.stringify #JSON.parse
 - [WebContainers](https://webcontainers.io/)
 - [Astro](https://github.com/withastro/astro)
 - [Bun](https://bun.sh) #JavaScript runtime
@@ -895,6 +896,7 @@
 
 ### Related Libs
 
+- [effect](https://github.com/Effect-TS/effect)
 - [TS-Pattern](https://github.com/gvergnaud/ts-pattern)
 - [Mutative](https://github.com/unadlib/mutative)
 - [marble](https://github.com/marblejs/marble)
@@ -1067,6 +1069,7 @@
 
 ### Related
 
+- [ts-reset](https://github.com/total-typescript/ts-reset)
 - [tRPC](https://trpc.io) #api #typesafe
 - [Deepkit](https://github.com/deepkit/deepkit-framework)
 - [Yup](https://github.com/jquense/yup) #schema
@@ -1906,6 +1909,7 @@
 
 ### Related Libs
 
+- [dependency-cruiser](https://github.com/sverweij/dependency-cruiser)
 - [publint](https://publint.dev/)
 - [npm-check](https://github.com/dylang/npm-check)
 - [qnm](https://github.com/ranyitz/qnm)
