@@ -1418,6 +1418,7 @@
 
 ### General
 
+- [React Libraries for 2023](https://www.robinwieruch.de/react-libraries)
 - [The self-fulfilling prophecy of React](https://joshcollinsworth.com/blog/self-fulfilling-prophecy-of-react)
 - [Your Guide to React.useCallback()](https://dmitripavlutin.com/react-usecallback/)
 - [How to useMemo and useCallback: you can remove most of them](https://www.developerway.com/posts/how-to-use-memo-use-callback)
