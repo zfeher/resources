@@ -32,6 +32,7 @@
 
 ## CSS
 
+- [Awesome Tailwind CSS](https://github.com/aniftyco/awesome-tailwindcss)
 - [Using :has() as a CSS Parent Selector and much more](https://webkit.org/blog/13096/css-has-pseudo-class)
 - [CSS generators that are so helpful](https://twitter.com/reactive_dude/status/1556908858639015939?s=21&t=jUf8t-DoPdhR4wB7iD3qkQ)
 - [:has(): the family selector](https://developer.chrome.com/blog/has-m105)
@@ -201,6 +202,10 @@
 
 ### Related
 
+- [Linaria](https://linaria.dev/) #css-in-js #zero-runtime
+- [vanilla-extract](https://vanilla-extract.style/) #css-in-js #zero-runtime
+- [goober](https://github.com/cristianbote/goober) #css-in-js
+- [Stitches](https://stitches.dev/) #css-in-js
 - [Smol](https://smolcss.dev)
 - [Modern CSS Solutions](https://moderncss.dev/)
 - [frenic/csstype](https://github.com/frenic/csstype)

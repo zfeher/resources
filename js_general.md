@@ -176,6 +176,7 @@
 
 ## General
 
+- [JavaScript Import maps, Part 1: Introduction](https://spidermonkey.dev/blog/2023/02/23/javascript-import-maps-part-1-introduction.html)
 - [Deep Cloning Objects in JavaScript, the Modern Way](https://www.builder.io/blog/structured-clone)
 - [Ecma International approves ECMAScript 2022: What’s new?](https://2ality.com/2022/06/ecmascript-2022.html)
 - [AbortController is your friend](https://whistlr.info/2022/abortcontroller-is-your-friend/)
@@ -1069,6 +1070,7 @@
 
 ### Related
 
+- [Higher-Order TypeScript (HOTScript)](https://github.com/gvergnaud/hotscript)
 - [ts-reset](https://github.com/total-typescript/ts-reset)
 - [tRPC](https://trpc.io) #api #typesafe
 - [Deepkit](https://github.com/deepkit/deepkit-framework)
@@ -1587,6 +1589,11 @@
 
 ### Related
 
+- [usehooks-ts](https://usehooks-ts.com/) #hooks
+- [ahooks](https://ahooks.js.org/) #hooks
+- [@react-hookz/web](https://react-hookz.github.io/web/?path=/docs/home--page)
+- [useHooks(🐠)](https://usehooks.com/) #hooks
+- [awesome-react-hooks](https://github.com/rehooks/awesome-react-hooks)
 - [Absolutely Awesome React Components & Libraries](https://github.com/brillout/awesome-react-components)
 - [Stitcehs](https://stitches.dev/) #css-in-js
 - [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript)
@@ -1996,12 +2003,12 @@
 
 - [vite-plugin-federation](https://github.com/originjs/vite-plugin-federation)
 - [bundlejs](https://bundlejs.com)
+- [BundlePhobia](https://bundlephobia.com)
+- [PackagePhobia](https://packagephobia.com/)
 - [Optimize Plugin for Webpack](https://github.com/developit/optimize-plugin)
 - [WebpackRemoteTypesPlugin](https://github.com/ruanyl/webpack-remote-types-plugin) #webpack #module fedaration
 - [SWC](https://swc.rs)
 - [esbuild-loader](https://github.com/privatenumber/esbuild-loader)
-- [BundlePhobia](https://bundlephobia.com)
-- [PackagePhobia](https://packagephobia.com/)
 - [Webpack Bundle Analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) #webpack
 - [whybundled](https://github.com/d4rkr00t/whybundled) #webpack
 - [Statoscope](https://github.com/smelukov/statoscope) #webpack
