@@ -444,8 +444,9 @@
 
 - [Top 5 Frontend Hosting Platforms in 2021](https://blog.bitsrc.io/top-5-frontend-hosting-platforms-in-2021-519b14758bd2)
 
-## Micro frontends
+## Micro-frontend, microfrontend, micro frontend
 
+- [Module Federation Shared API](https://dev.to/infoxicator/module-federation-shared-api-ach) #webpack
 - [Micro-frontend dev](https://microfrontend.dev/)
 - [Addressing Micro Frontend Criticisms & Environmental Differences](https://javascript.plainenglish.io/addressing-micro-frontend-criticisms-environmental-differences-4a231d7a1416)
 - [The Future of Micro-Frontends](https://betterprogramming.pub/the-future-of-micro-frontends-2f527f97d506)
