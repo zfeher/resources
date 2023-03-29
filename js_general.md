@@ -376,6 +376,7 @@
 
 ### Related
 
+- [Signia](https://signia.tldraw.dev/) #signals #react
 - [devalue](https://github.com/Rich-Harris/devalue) #JSON.stringify #JSON.parse
 - [WebContainers](https://webcontainers.io/)
 - [Astro](https://github.com/withastro/astro)
@@ -525,6 +526,7 @@
 
 ## Performance, memory
 
+- [Inspect Source Code Performance with Deoptigate](https://www.builder.io/blog/deoptigate)
 - [The truth about CSS selector performance](https://blogs.windows.com/msedgedev/2023/01/17/the-truth-about-css-selector-performance)
 - [Ryan Florence Tweet](https://twitter.com/ryanflorence/status/1560274356579622914?s=09&t=YI1YE8CwCWY-ep9gaW_cWA) #CLS #lazy #webp
 - [Why Your Cached JavaScript Is Still Slow and Incurs Performance Overhead](https://www.webperf.tips/tip/cached-js-misconceptions)
@@ -981,6 +983,7 @@
 
 ## Typescript
 
+- [Consistent Type Imports and Exports: Why and How](https://typescript-eslint.io/blog/consistent-type-imports-and-exports-why-and-how/) #ESLint #TypeScript
 - [Prettify](https://twitter.com/mattpocockuk/status/1622730173446557697)
 - [TypeScript Utility Types You Need to Know](https://dev.to/builderio/typescript-utility-types-you-need-to-know-14b7)
 - [Fun with Types](https://unicorn-utterances.com/posts/fun-with-types)
@@ -1070,6 +1073,7 @@
 
 ### Related
 
+- [ArkType](https://github.com/arktypeio/arktype)
 - [Higher-Order TypeScript (HOTScript)](https://github.com/gvergnaud/hotscript)
 - [ts-reset](https://github.com/total-typescript/ts-reset)
 - [tRPC](https://trpc.io) #api #typesafe
