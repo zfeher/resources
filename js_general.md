@@ -984,6 +984,7 @@
 
 ## Typescript
 
+- [Discriminated Unions are a Frontend Dev's Best Friend](https://www.totaltypescript.com/discriminated-unions-are-a-devs-best-friend)
 - Building Complex Types in TypeScript [part1](https://medium.hexlabs.io/building-complex-types-in-typescript-bfdf5e131dbe), [part 2](https://medium.hexlabs.io/building-complex-types-in-typescript-804c973ce66f)
 - [Consistent Type Imports and Exports: Why and How](https://typescript-eslint.io/blog/consistent-type-imports-and-exports-why-and-how/) #ESLint #TypeScript
 - [Prettify](https://twitter.com/mattpocockuk/status/1622730173446557697)
