@@ -176,6 +176,7 @@
 
 ## General
 
+- [Import maps spec](https://html.spec.whatwg.org/multipage/webappapis.html#import-maps)
 - [JavaScript Import maps, Part 1: Introduction](https://spidermonkey.dev/blog/2023/02/23/javascript-import-maps-part-1-introduction.html)
 - [Deep Cloning Objects in JavaScript, the Modern Way](https://www.builder.io/blog/structured-clone)
 - [Ecma International approves ECMAScript 2022: What’s new?](https://2ality.com/2022/06/ecmascript-2022.html)
@@ -984,6 +985,7 @@
 
 ## Typescript
 
+- [Types in JavaScript With Zod and JSDoc](https://blog.jim-nielsen.com/2023/types-in-jsdoc-with-zod)
 - [Discriminated Unions are a Frontend Dev's Best Friend](https://www.totaltypescript.com/discriminated-unions-are-a-devs-best-friend)
 - Building Complex Types in TypeScript [part1](https://medium.hexlabs.io/building-complex-types-in-typescript-bfdf5e131dbe), [part 2](https://medium.hexlabs.io/building-complex-types-in-typescript-804c973ce66f)
 - [Consistent Type Imports and Exports: Why and How](https://typescript-eslint.io/blog/consistent-type-imports-and-exports-why-and-how/) #ESLint #TypeScript
