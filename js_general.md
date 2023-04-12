@@ -447,6 +447,8 @@
 
 ## Micro-frontend, microfrontend, micro frontend
 
+- [You Don't Need Another Library to Compose Micro Frontends at Run Time](https://blog.bitsrc.io/you-dont-need-another-library-to-compose-micro-frontends-at-run-time-e803077ade67)
+- [5 Different Techniques for Cross Micro Frontend Communication](https://sharvishi9118.medium.com/cross-micro-frontend-communication-techniques-a10fedc11c59)
 - [Module Federation Shared API](https://dev.to/infoxicator/module-federation-shared-api-ach) #webpack
 - [Micro-frontend dev](https://microfrontend.dev/)
 - [Addressing Micro Frontend Criticisms & Environmental Differences](https://javascript.plainenglish.io/addressing-micro-frontend-criticisms-environmental-differences-4a231d7a1416)
@@ -1429,6 +1431,8 @@
 
 ### General
 
+- [Writing Type-Safe Polymorphic React Components (Without Crashing TypeScript)](https://blog.andrewbran.ch/polymorphic-react-components)
+- [React forwardRef(): How to Pass Refs to Child Components](https://dmitripavlutin.com/react-forwardref)
 - [React Libraries for 2023](https://www.robinwieruch.de/react-libraries)
 - [The self-fulfilling prophecy of React](https://joshcollinsworth.com/blog/self-fulfilling-prophecy-of-react)
 - [Your Guide to React.useCallback()](https://dmitripavlutin.com/react-usecallback/)
