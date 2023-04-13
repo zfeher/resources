@@ -215,6 +215,8 @@
 
   - Extensions
 
+    - [Pretty TypeScript Errors](https://marketplace.visualstudio.com/items?itemName=yoavbls.pretty-ts-errors)
+    - [Total TypeScript](https://marketplace.visualstudio.com/items?itemName=mattpocock.ts-error-translator)
     - [TypeScript Error Translator](https://marketplace.visualstudio.com/items?itemName=mattpocock.ts-error-translator)
     - [Preview.js](https://previewjs.com)
     - [Remote Repositories](https://marketplace.visualstudio.com/items?itemName=github.remotehub)
