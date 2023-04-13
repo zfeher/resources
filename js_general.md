@@ -1,5 +1,6 @@
 ## Unsorted
 
+- [nano JSX](https://nanojsx.io/)
 - [Tauri](https://tauri.app/) #desktop
 - [Shoelace](https://shoelace.style) #web components
 - [NeutralinoJs](https://neutralino.js.org/)
@@ -987,6 +988,9 @@
 
 ## Typescript
 
+- [9 ways to use Exclude in TypeScript](https://www.totaltypescript.com/uses-for-exclude-type-helper)
+- [Demystifying Typescript Unions and Intersections](https://www.serverlessguru.com/blog/demystifying-typescript-unions-and-intersection)
+- [Testing with TypeScript is Painful: Here's a Solution](https://www.totaltypescript.com/testing-with-typescript-is-painful-heres-a-solution)
 - [Types in JavaScript With Zod and JSDoc](https://blog.jim-nielsen.com/2023/types-in-jsdoc-with-zod)
 - [Discriminated Unions are a Frontend Dev's Best Friend](https://www.totaltypescript.com/discriminated-unions-are-a-devs-best-friend)
 - Building Complex Types in TypeScript [part1](https://medium.hexlabs.io/building-complex-types-in-typescript-bfdf5e131dbe), [part 2](https://medium.hexlabs.io/building-complex-types-in-typescript-804c973ce66f)
@@ -1080,6 +1084,8 @@
 
 ### Related
 
+- [shoehorn](https://github.com/total-typescript/shoehorn)
+- [ts-toolbelt](https://millsp.github.io/ts-toolbelt/)
 - [ArkType](https://github.com/arktypeio/arktype)
 - [Higher-Order TypeScript (HOTScript)](https://github.com/gvergnaud/hotscript)
 - [ts-reset](https://github.com/total-typescript/ts-reset)
@@ -1090,7 +1096,6 @@
 - [io-ts](https://github.com/gcanti/io-ts) #schema
 - [Ajv](https://ajv.js.org) #schema
 - [Runtypes](https://github.com/pelotom/runtypes) #schema
-- [ts-toolbelt](https://millsp.github.io/ts-toolbelt/)
 - [tsup](https://free-for.dev/#/?id=code-quality)
 - [TypeBox](https://github.com/sinclairzx81/typebox)
 - [airbnb/ts-migrate](https://github.com/airbnb/ts-migrate)
@@ -1602,6 +1607,7 @@
 
 ### Related
 
+- [Magicast](https://github.com/unjs/magicast)
 - [usehooks-ts](https://usehooks-ts.com/) #hooks
 - [ahooks](https://ahooks.js.org/) #hooks
 - [@react-hookz/web](https://react-hookz.github.io/web/?path=/docs/home--page)
