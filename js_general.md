@@ -988,6 +988,8 @@
 
 ## Typescript
 
+- [TypeScript Advanced Types for Next.js: Examples and Best Practices In 2023](https://blog.bitsrc.io/typescript-advanced-types-for-next-js-examples-and-best-practices-in-2023-a3a3946a353e)
+- [Compile-time Immutability in TypeScript](https://www.sitepoint.com/compile-time-immutability-in-typescript)
 - [9 ways to use Exclude in TypeScript](https://www.totaltypescript.com/uses-for-exclude-type-helper)
 - [Demystifying Typescript Unions and Intersections](https://www.serverlessguru.com/blog/demystifying-typescript-unions-and-intersection)
 - [Testing with TypeScript is Painful: Here's a Solution](https://www.totaltypescript.com/testing-with-typescript-is-painful-heres-a-solution)
@@ -1436,6 +1438,7 @@
 
 ### General
 
+- [Breaking React Query's API on purpose](https://tkdodo.eu/blog/breaking-react-querys-api-on-purpose)
 - [Writing Type-Safe Polymorphic React Components (Without Crashing TypeScript)](https://blog.andrewbran.ch/polymorphic-react-components)
 - [React forwardRef(): How to Pass Refs to Child Components](https://dmitripavlutin.com/react-forwardref)
 - [React Libraries for 2023](https://www.robinwieruch.de/react-libraries)
@@ -1607,6 +1610,7 @@
 
 ### Related
 
+- [Awesome ChatGPT](https://github.com/sindresorhus/awesome-chatgpt)
 - [Magicast](https://github.com/unjs/magicast)
 - [usehooks-ts](https://usehooks-ts.com/) #hooks
 - [ahooks](https://ahooks.js.org/) #hooks
