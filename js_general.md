@@ -1438,6 +1438,7 @@
 
 ### General
 
+- [Grok React Server Component by Quizzes](https://betterprogramming.pub/grok-react-server-component-by-quizzes-df4417905bc4)
 - [Breaking React Query's API on purpose](https://tkdodo.eu/blog/breaking-react-querys-api-on-purpose)
 - [Writing Type-Safe Polymorphic React Components (Without Crashing TypeScript)](https://blog.andrewbran.ch/polymorphic-react-components)
 - [React forwardRef(): How to Pass Refs to Child Components](https://dmitripavlutin.com/react-forwardref)
