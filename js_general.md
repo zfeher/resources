@@ -1,5 +1,6 @@
 ## Unsorted
 
+- [VanJS](https://vanjs.org/)
 - [nano JSX](https://nanojsx.io/)
 - [Tauri](https://tauri.app/) #desktop
 - [Shoelace](https://shoelace.style) #web components
@@ -988,6 +989,7 @@
 
 ## Typescript
 
+- [Advanced Typescript: Typing Partially Applicable Functions](https://dev.to/ycmjason/typing-partially-applicable-functions-1oa4)
 - [TypeScript Advanced Types for Next.js: Examples and Best Practices In 2023](https://blog.bitsrc.io/typescript-advanced-types-for-next-js-examples-and-best-practices-in-2023-a3a3946a353e)
 - [Compile-time Immutability in TypeScript](https://www.sitepoint.com/compile-time-immutability-in-typescript)
 - [9 ways to use Exclude in TypeScript](https://www.totaltypescript.com/uses-for-exclude-type-helper)
@@ -1438,6 +1440,7 @@
 
 ### General
 
+- [React Server Components, Next.js App Router and examples](https://addyosmani.com/blog/react-server-components-app-router)
 - [Grok React Server Component by Quizzes](https://betterprogramming.pub/grok-react-server-component-by-quizzes-df4417905bc4)
 - [Breaking React Query's API on purpose](https://tkdodo.eu/blog/breaking-react-querys-api-on-purpose)
 - [Writing Type-Safe Polymorphic React Components (Without Crashing TypeScript)](https://blog.andrewbran.ch/polymorphic-react-components)
@@ -1447,7 +1450,7 @@
 - [Your Guide to React.useCallback()](https://dmitripavlutin.com/react-usecallback/)
 - [How to useMemo and useCallback: you can remove most of them](https://www.developerway.com/posts/how-to-use-memo-use-callback)
 - [Understanding useMemo and useCallback](https://www.joshwcomeau.com/react/usememo-and-usecallback/)
-- [Practical React Query 1..19](https://tkdodo.eu/blog/practical-react-query)
+- [Practical React Query 1..20](https://tkdodo.eu/blog/practical-react-query)
 - [Five Challenges to Building an Isomorphic JavaScript Library](https://doordash.engineering/2022/12/06/five-challenges-to-building-an-isomorphic-javascript-library)
 - [Data Binding in React](https://www.joshwcomeau.com/react/data-binding)
 - [Top 7 React Animation Libraries in 2022](https://www.syncfusion.com/blogs/post/top-7-react-animation-libraries-in-2022.aspx)
@@ -1807,6 +1810,8 @@
 
 ## Testing
 
+- [Your Jest tests might be wrong](https://jamiemagee.co.uk/blog/your-jest-tests-might-be-wrong)
+- [Complete guide on Playwright visual regression testing](https://lost-pixel.com/blog/post/playwright-visual-regression-testing)
 - [JavaScript testing #1. Explaining types of tests. Basics of unit testing with Jest](https://wanago.io/2018/08/27/testing-javascript-tutorial-types-of-tests-of-unit-testing-with-jest)
 - [How Cypress Freezes CSS Animations And You Can Too](https://glebbahmutov.com/blog/css-animations)
 - [Node.js Integration Test Best Practices](https://github.com/testjavascript/nodejs-integration-tests-best-practices)

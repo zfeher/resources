@@ -33,6 +33,7 @@
 
 ## CSS
 
+- [Modern CSS in Real Life](https://chriscoyier.net/2023/06/06/modern-css-in-real-life)
 - [Awesome Tailwind CSS](https://github.com/aniftyco/awesome-tailwindcss)
 - [Using :has() as a CSS Parent Selector and much more](https://webkit.org/blog/13096/css-has-pseudo-class)
 - [CSS generators that are so helpful](https://twitter.com/reactive_dude/status/1556908858639015939?s=21&t=jUf8t-DoPdhR4wB7iD3qkQ)
