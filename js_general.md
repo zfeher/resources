@@ -593,6 +593,7 @@
 
 ### Related
 
+- [KV.JS](https://github.com/HeyPuter/kv.js) #cache
 - [ai/size-limit](https://github.com/ai/size-limit) #statoscope
 - [vanilla-lazyload](https://github.com/verlok/vanilla-lazyload)
 - [lazysizes](https://github.com/aFarkas/lazysizes)
@@ -1810,6 +1811,7 @@
 
 ## Testing
 
+- [Loki](https://loki.js.org/) #visual regression
 - [Your Jest tests might be wrong](https://jamiemagee.co.uk/blog/your-jest-tests-might-be-wrong)
 - [Complete guide on Playwright visual regression testing](https://lost-pixel.com/blog/post/playwright-visual-regression-testing)
 - [JavaScript testing #1. Explaining types of tests. Basics of unit testing with Jest](https://wanago.io/2018/08/27/testing-javascript-tutorial-types-of-tests-of-unit-testing-with-jest)
