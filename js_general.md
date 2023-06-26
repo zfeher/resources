@@ -178,6 +178,7 @@
 
 ## General
 
+- [What is a CDN? An Unbiased Guide to Content Delivery Networks](https://calibreapp.com/blog/content-delivery-networks-guide)
 - [Import maps spec](https://html.spec.whatwg.org/multipage/webappapis.html#import-maps)
 - [JavaScript Import maps, Part 1: Introduction](https://spidermonkey.dev/blog/2023/02/23/javascript-import-maps-part-1-introduction.html)
 - [Deep Cloning Objects in JavaScript, the Modern Way](https://www.builder.io/blog/structured-clone)
@@ -990,6 +991,7 @@
 
 ## Typescript
 
+- [TypeScript 5.2's New Keyword: 'using'](https://www.totaltypescript.com/typescript-5-2-new-keyword-using)
 - [Advanced Typescript: Typing Partially Applicable Functions](https://dev.to/ycmjason/typing-partially-applicable-functions-1oa4)
 - [TypeScript Advanced Types for Next.js: Examples and Best Practices In 2023](https://blog.bitsrc.io/typescript-advanced-types-for-next-js-examples-and-best-practices-in-2023-a3a3946a353e)
 - [Compile-time Immutability in TypeScript](https://www.sitepoint.com/compile-time-immutability-in-typescript)
@@ -1439,8 +1441,14 @@
 
 ## React
 
+### Next
+
+- [Next.js Fetch: The Secret Weapon for Efficient Data Fetching](https://javascript.plainenglish.io/next-js-fetch-the-secret-weapon-for-efficient-data-fetching-992e9fdf0a09)
+
 ### General
 
+- [Using useMutation to make an advanced toggle in React](https://www.propelauth.com/post/using-usemutation-to-make-an-advanced-toggle-in-react) #react query
+- [Teleportation in React: Positioning, Stacking Context, and Portals](https://www.developerway.com/posts/positioning-and-portals-in-react)
 - [React Server Components, Next.js App Router and examples](https://addyosmani.com/blog/react-server-components-app-router)
 - [Grok React Server Component by Quizzes](https://betterprogramming.pub/grok-react-server-component-by-quizzes-df4417905bc4)
 - [Breaking React Query's API on purpose](https://tkdodo.eu/blog/breaking-react-querys-api-on-purpose)

@@ -33,6 +33,7 @@
 
 ## CSS
 
+- [Future CSS: State Container Queries](https://ishadeed.com/article/css-state-queries)
 - [Modern CSS in Real Life](https://chriscoyier.net/2023/06/06/modern-css-in-real-life)
 - [Awesome Tailwind CSS](https://github.com/aniftyco/awesome-tailwindcss)
 - [Using :has() as a CSS Parent Selector and much more](https://webkit.org/blog/13096/css-has-pseudo-class)
