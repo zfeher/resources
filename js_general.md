@@ -1443,6 +1443,8 @@
 
 ### Next
 
+- [Next.js Enterprise Boilerplate](https://github.com/Blazity/next-enterprise)
+- [Things you might not know about Next Image](https://dev.to/alex_barashkov/things-you-might-not-know-about-next-image-5go8)
 - [Next.js Fetch: The Secret Weapon for Efficient Data Fetching](https://javascript.plainenglish.io/next-js-fetch-the-secret-weapon-for-efficient-data-fetching-992e9fdf0a09)
 
 ### General
@@ -1623,6 +1625,7 @@
 
 ### Related
 
+- [Blitz.js](https://blitzjs.com/) #Next
 - [Awesome ChatGPT](https://github.com/sindresorhus/awesome-chatgpt)
 - [Magicast](https://github.com/unjs/magicast)
 - [usehooks-ts](https://usehooks-ts.com/) #hooks
