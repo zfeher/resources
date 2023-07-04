@@ -1895,6 +1895,7 @@
 
 ### Related Libs
 
+- [playwright-fluent](https://github.com/hdorgeval/playwright-fluent)
 - [Mock Service Worker (msw)](https://github.com/mswjs/msw)
 - [faker.js](https://github.com/Marak/Faker.js)
 - [Mocks Server](https://www.mocks-server.org/)
