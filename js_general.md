@@ -1177,6 +1177,12 @@
 
 ## Vue.js
 
+### Nuxt
+
+- [A guide to Nuxt server components](https://roe.dev/blog/nuxt-server-components)
+
+### General
+
 - [Vue Curated](https://curated.vuejs.org/)
 - [Awesome Vue.js](https://github.com/vuejs/awesome-vue)
 - [Awesome Accessibility Vue.js](https://github.com/vue-a11y/awesome-a11y-vue)
@@ -1443,6 +1449,7 @@
 
 ### Next
 
+- [How to build and deploy a modern-day Next.js application](https://dev.to/livecycle/how-to-build-and-deploy-a-modern-day-nextjs-application-mgn)
 - [Next.js Enterprise Boilerplate](https://github.com/Blazity/next-enterprise)
 - [Things you might not know about Next Image](https://dev.to/alex_barashkov/things-you-might-not-know-about-next-image-5go8)
 - [Next.js Fetch: The Secret Weapon for Efficient Data Fetching](https://javascript.plainenglish.io/next-js-fetch-the-secret-weapon-for-efficient-data-fetching-992e9fdf0a09)
@@ -1461,7 +1468,7 @@
 - [Your Guide to React.useCallback()](https://dmitripavlutin.com/react-usecallback/)
 - [How to useMemo and useCallback: you can remove most of them](https://www.developerway.com/posts/how-to-use-memo-use-callback)
 - [Understanding useMemo and useCallback](https://www.joshwcomeau.com/react/usememo-and-usecallback/)
-- [Practical React Query 1..20](https://tkdodo.eu/blog/practical-react-query)
+- [Practical React Query 1..22](https://tkdodo.eu/blog/practical-react-query)
 - [Five Challenges to Building an Isomorphic JavaScript Library](https://doordash.engineering/2022/12/06/five-challenges-to-building-an-isomorphic-javascript-library)
 - [Data Binding in React](https://www.joshwcomeau.com/react/data-binding)
 - [Top 7 React Animation Libraries in 2022](https://www.syncfusion.com/blogs/post/top-7-react-animation-libraries-in-2022.aspx)
