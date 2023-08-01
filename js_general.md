@@ -991,15 +991,41 @@
 
 ## Typescript
 
+- [Type vs Interface: Which Should You Use In 2023?](https://www.totaltypescript.com/type-vs-interface-which-should-you-use)
+- [Why You Can't Use Dot Notation On Types](https://www.totaltypescript.com/why-you-cant-use-dot-notation-on-types)
+- [Strongly Type useRef with ElementRef](https://www.totaltypescript.com/strongly-type-useref-with-elementref) #react
+- [Explained: Cannot use JSX unless the '--jsx' flag is provided](https://www.totaltypescript.com/cannot-use-jsx-unless-the-jsx-flag-is-provided) #react
+- [There Is No Such Thing As A Generic](https://www.totaltypescript.com/no-such-thing-as-a-generic)
+- [TypeScript Generics in 3 Easy Patterns](https://www.totaltypescript.com/typescript-generics-in-three-easy-patterns)
+- [How to Iterate Over Object Keys in TypeScript](https://www.totaltypescript.com/iterate-over-object-keys-in-typescript)
+- [Four Essential TypeScript Patterns You Can't Work Without](https://www.totaltypescript.com/four-essential-typescript-patterns)
+- [Type Argument Placeholders: TypeScript's Most Discussed Upcoming Feature](https://www.totaltypescript.com/type-argument-placeholders-typescript-5-2-most-discussed-feature)
+- [The Empty Object Type in TypeScript](https://www.totaltypescript.com/the-empty-object-type-in-typescript)
 - [TypeScript 5.2's New Keyword: 'using'](https://www.totaltypescript.com/typescript-5-2-new-keyword-using)
+- [Get Keys of an Object Where Values Are of a Given Type](https://www.totaltypescript.com/get-keys-of-an-object-where-values-are-of-a-given-type)
+- [How to Properly Type Window](https://www.totaltypescript.com/how-to-properly-type-window)
+- [Since TypeScript 5.1, React.FC is now "fine"](https://www.totaltypescript.com/you-can-stop-hating-react-fc) #react
+- [What is JSX.IntrinsicElements?](https://www.totaltypescript.com/what-is-jsx-intrinsicelements) #react
+- [Explained: 'React' refers to a UMD global](https://www.totaltypescript.com/react-refers-to-a-umd-global) #react
+- [React.ReactNode vs JSX.Element vs React.ReactElement](https://www.totaltypescript.com/jsx-element-vs-react-reactnode) #react
+- [Transform Any Union in TypeScript with the IIMT](https://www.totaltypescript.com/immediately-indexed-mapped-type)
+- [Where To Put Your Types in Application Code](https://www.totaltypescript.com/where-to-put-your-types-in-application-code)
+- [ComponentProps: React's Most Useful Type Helper](https://www.totaltypescript.com/react-component-props-type-helper) #react
+- [How to test your types](https://www.totaltypescript.com/how-to-test-your-types)
+- [Testing with TypeScript is Painful: Here's a Solution](https://www.totaltypescript.com/testing-with-typescript-is-painful-heres-a-solution)
+- [Const type parameters bring 'as const' to functions](https://www.totaltypescript.com/const-type-parameters)
+- [9 ways to use Exclude in TypeScript](https://www.totaltypescript.com/uses-for-exclude-type-helper)
+- [Discriminated Unions are a Frontend Dev's Best Friend](https://www.totaltypescript.com/discriminated-unions-are-a-devs-best-friend)
+- [Clarifying the `satisfies` Operator](https://www.totaltypescript.com/clarifying-the-satisfies-operator)
+- [Structure of a TypeScript Error](https://www.totaltypescript.com/structure-of-a-typescript-error)
+- [When should you use Zod?](https://www.totaltypescript.com/when-should-you-use-zod) #validation
+- [Writing string.replace in TypeScript](https://www.totaltypescript.com/writing-string-replace-in-typescript)
+- [Introducing Valibot, a < 1kb Zod Alternative](https://www.builder.io/blog/introducing-valibot) #schema #validation
 - [Advanced Typescript: Typing Partially Applicable Functions](https://dev.to/ycmjason/typing-partially-applicable-functions-1oa4)
 - [TypeScript Advanced Types for Next.js: Examples and Best Practices In 2023](https://blog.bitsrc.io/typescript-advanced-types-for-next-js-examples-and-best-practices-in-2023-a3a3946a353e)
 - [Compile-time Immutability in TypeScript](https://www.sitepoint.com/compile-time-immutability-in-typescript)
-- [9 ways to use Exclude in TypeScript](https://www.totaltypescript.com/uses-for-exclude-type-helper)
 - [Demystifying Typescript Unions and Intersections](https://www.serverlessguru.com/blog/demystifying-typescript-unions-and-intersection)
-- [Testing with TypeScript is Painful: Here's a Solution](https://www.totaltypescript.com/testing-with-typescript-is-painful-heres-a-solution)
 - [Types in JavaScript With Zod and JSDoc](https://blog.jim-nielsen.com/2023/types-in-jsdoc-with-zod)
-- [Discriminated Unions are a Frontend Dev's Best Friend](https://www.totaltypescript.com/discriminated-unions-are-a-devs-best-friend)
 - Building Complex Types in TypeScript [part1](https://medium.hexlabs.io/building-complex-types-in-typescript-bfdf5e131dbe), [part 2](https://medium.hexlabs.io/building-complex-types-in-typescript-804c973ce66f)
 - [Consistent Type Imports and Exports: Why and How](https://typescript-eslint.io/blog/consistent-type-imports-and-exports-why-and-how/) #ESLint #TypeScript
 - [Prettify](https://twitter.com/mattpocockuk/status/1622730173446557697)
@@ -1091,6 +1117,7 @@
 
 ### Related
 
+- [Valibot](https://github.com/fabian-hiller/valibot) #schema #validation
 - [shoehorn](https://github.com/total-typescript/shoehorn)
 - [ts-toolbelt](https://millsp.github.io/ts-toolbelt/)
 - [ArkType](https://github.com/arktypeio/arktype)
