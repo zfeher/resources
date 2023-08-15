@@ -33,6 +33,7 @@
 
 ## CSS
 
+- [An introduction to @scope in CSS](https://fullystacked.net/posts/scope-in-css)
 - [Future CSS: State Container Queries](https://ishadeed.com/article/css-state-queries)
 - [Modern CSS in Real Life](https://chriscoyier.net/2023/06/06/modern-css-in-real-life)
 - [Awesome Tailwind CSS](https://github.com/aniftyco/awesome-tailwindcss)
