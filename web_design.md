@@ -206,6 +206,7 @@
 
 ### Related
 
+- [Tailwind Variants](https://www.tailwind-variants.org/) #cva
 - [Linaria](https://linaria.dev/) #css-in-js #zero-runtime
 - [vanilla-extract](https://vanilla-extract.style/) #css-in-js #zero-runtime
 - [goober](https://github.com/cristianbote/goober) #css-in-js

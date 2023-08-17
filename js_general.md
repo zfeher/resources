@@ -178,6 +178,8 @@
 
 ## General
 
+- [Cleaning up import paths in JS/TS packages](https://socket.dev/blog/we-don-t-need-more-path-aliases) #paths #tsconfig #typescript #alias
+- [JavaScript waitFor Polling](https://davidwalsh.name/waitfor)
 - [What is a CDN? An Unbiased Guide to Content Delivery Networks](https://calibreapp.com/blog/content-delivery-networks-guide)
 - [Import maps spec](https://html.spec.whatwg.org/multipage/webappapis.html#import-maps)
 - [JavaScript Import maps, Part 1: Introduction](https://spidermonkey.dev/blog/2023/02/23/javascript-import-maps-part-1-introduction.html)
@@ -380,6 +382,7 @@
 
 ### Related
 
+- [knip](https://github.com/webpro/knip) #maintainability #cleanup #unused
 - [Signia](https://signia.tldraw.dev/) #signals #react
 - [devalue](https://github.com/Rich-Harris/devalue) #JSON.stringify #JSON.parse
 - [WebContainers](https://webcontainers.io/)
@@ -991,6 +994,7 @@
 
 ## Typescript
 
+- [DistributiveOmit](https://twitter.com/mattpocockuk/status/1690116197335904256?s=09&t=75oZuJh-lnPZHyknXuS8Ng)
 - [Type vs Interface: Which Should You Use In 2023?](https://www.totaltypescript.com/type-vs-interface-which-should-you-use)
 - [Why You Can't Use Dot Notation On Types](https://www.totaltypescript.com/why-you-cant-use-dot-notation-on-types)
 - [Strongly Type useRef with ElementRef](https://www.totaltypescript.com/strongly-type-useref-with-elementref) #react
@@ -1960,6 +1964,7 @@
 
 ## Package Management, Dependency Management
 
+- [Blogged Answers: My Experience Modernizing Packages to ESM](https://blog.isquaredsoftware.com/2023/08/esm-modernization-lessons/)
 - [Best practices for creating a modern npm package](https://snyk.io/blog/best-practices-create-modern-npm-package)
 - [Introducing the new npm Dependency Selector Syntax](https://github.blog/changelog/2022-08-03-introducing-the-new-npm-dependency-selector-syntax)
 - [Monorepos in JavaScript & TypeScript](https://www.robinwieruch.de/javascript-monorepos)
