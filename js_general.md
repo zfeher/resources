@@ -1487,6 +1487,8 @@
 
 ### General
 
+- [Everything I wish I knew before moving 50,000 lines of code to React Server Components](https://www.mux.com/blog/what-are-react-server-components) #RSC
+- [Effective TypeScript for React Applications](https://medium.com/@OneSignalDevs/effective-typescript-for-react-applications-634e6004a1d6)
 - [Using useMutation to make an advanced toggle in React](https://www.propelauth.com/post/using-usemutation-to-make-an-advanced-toggle-in-react) #react query
 - [Teleportation in React: Positioning, Stacking Context, and Portals](https://www.developerway.com/posts/positioning-and-portals-in-react)
 - [React Server Components, Next.js App Router and examples](https://addyosmani.com/blog/react-server-components-app-router)

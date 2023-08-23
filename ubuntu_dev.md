@@ -27,8 +27,9 @@ find app/scripts -type f -name "*.js" | xargs sed -b -i -- 's/, max-len: \["erro
 ```Bash
 # recursive grep, includes file names though
 grep -r -o "data-page-id=\".*\"" uat_F_20220517_001_STE_Pages_20220518/en-gb
+grep -r -o "@wizzair-onewizz/design-system-accordion" .
 
-# find with xargs 1 line 
+# find with xargs 1 line
 find uat_F_20220517_001_STE_Pages_20220518/en-gb -type f | xargs -L 1 grep -o "data-page-id=\".*\""
 find node_modules f | xargs -L 1 grep -o "ovz1.j19544519.pr46m.vps.myjino.ru"
 
@@ -75,27 +76,30 @@ egrep --include=\*.spec.js -Rnwl './app/scripts' -e 'sinon.'
 ```
 
 ## xargs multiple commands / input arg usage
+
 ```
 # -I can give a name to input arg to be used in commands
 cat foo.txt | xargs -I % sh -c 'echo %; mkdir %'
 ```
 
 ## Run script in the current shell
+
 ```Bash
 . ./somescript.sh
 ```
 
-
 ## Git
+
 ```Bash
 sudo add-apt-repository ppa:git-core/ppa
 sudo apt-get update
 sudo apt-get install git
 ```
+
 - [Bash completion](https://github.com/petervanderdoes/git-flow-completion/wiki/Install-Bash-git-completion)
 
-
 ## Git Flow
+
 - [Using git-flow to automate your git branching workflow](http://jeffkreeftmeijer.com/2010/why-arent-you-using-git-flow/)
 - [Bash ZSH completion AVH edition](https://github.com/petervanderdoes/git-flow-completion)
 - [Install AVH edition](https://github.com/petervanderdoes/gitflow-avh)
@@ -104,8 +108,8 @@ sudo apt-get install git
 - [Install](https://github.com/nvie/gitflow/wiki/Installation)
 - [Git Flow](https://github.com/nvie/gitflow)
 
-
 ## Python 2.7
+
 ```Bash
 # refreshing the repositories
 sudo apt update
@@ -118,7 +122,9 @@ sudo apt install python2.7 python-pip
 # installing python-pip for 3.6
 sudo apt install python3-pip
 ```
+
 **NOTE: Do not try to remove python 3.6 as it will screw up your system**
+
 ```Bash
 # for python 2.7
 pip2 install <package>
@@ -128,6 +134,7 @@ pip install <package>
 ```
 
 ### Resources
+
 - [Correct way to install python 2.7 on Ubuntu 17.10?](https://askubuntu.com/questions/981118/correct-way-to-install-python-2-7-on-ubuntu-17-10)
 - [How to Install Python 2.7.14 on Ubuntu & LinuxMint](https://tecadmin.net/install-python-2-7-on-ubuntu-and-linuxmint/)
 
@@ -136,18 +143,17 @@ pip install <package>
 ### [DiffMerge](https://sourcegear.com/diffmerge)
 
 ### [KDiff3](http://kdiff3.sourceforge.net)
+
 - [install 1](https://www.howtoinstall.co/en/ubuntu/xenial/kdiff3)
 - [install 2](http://opensourceforgeeks.blogspot.hu/2014/07/how-to-install-kdiff3-on-ubuntu.html)
 - [install 3](http://uniqueminds.co/2013/08/14/how-to-install-kdiff3-on-ubuntu.html)
 
-
 ## Node JS + NPM
+
 - [install 1](https://github.com/nodesource/distributions)
 - [install 2](https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-16-04)
 
-
 ## [NVM](https://github.com/creationix/nvm) - Node Version Manager
-
 
 ## [n](https://github.com/tj/n) - node version manager
 
@@ -159,6 +165,7 @@ PREFIX=$HOME make install  # will install to $home/bin/n
 ```
 
 Add the following to the end of $HOME/.bashrc
+
 ```Bash
 export N_PREFIX="$HOME"  # node versions will be installed under $HOME/n/versions
 ```
@@ -166,19 +173,21 @@ export N_PREFIX="$HOME"  # node versions will be installed under $HOME/n/version
 note: something happens with npm when switching between versions eg if you installed the latest npm in 6.x then switch to 7.x and back the version of npm will be reset to 3.x
 
 npm fix if needed (won't fix the problem above)
+
 ```Bash
 $ curl -0 -L https://npmjs.org/install.sh | sudo sh
 ```
 
 ## Pomodoro
+
 - [PomoDone](https://pomodoneapp.com/)
 - [Pomodoro Indicator](https://github.com/atareao/pomodoro-indicator)
 - [Tomighty](https://launchpad.net/~pwr22/+archive/ubuntu/tomighty)
 - [Tomate](https://github.com/eliostvs/tomate-gtk)
 - Pomodoro Chrome/Opera extensions ?
 
-
 ## OpenConnect
+
 ```Bash
 sudo apt-get install network-manager-openconnect-gnome # will be visible in GUI as well
 sudo openconnect vpn.acme.com
@@ -190,8 +199,8 @@ sudo openconnect vpn.acme.com
 - [install 4](http://ubuntuhandbook.org/index.php/2014/11/connect-cisco-anyconnect-vpn-ubuntu/)
 - [install 5](http://askubuntu.com/questions/627638/cisco-anyconnect-compatible-vpn-openconnect-in-ubuntu-15-04)
 
-
 ## VirtualBox
+
 - [How to install open-vm-tools-desktop On Ubuntu 16.04 Lts? ](https://www.devmanuals.net/install/ubuntu/ubuntu-16-04-LTS-Xenial-Xerus/how-to-install-open-vm-tools-desktop.html)
 - [How to Access Folders on Your Host Machine from an Ubuntu Virtual Machine in VirtualBox](http://www.howtogeek.com/187703/how-to-access-folders-on-your-host-machine-from-an-ubuntu-virtual-machine-in-virtualbox/)
 - [Resizing Virtual drive](http://askubuntu.com/questions/101715/resizing-virtual-drive/558215#558215)
