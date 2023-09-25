@@ -1487,6 +1487,7 @@
 
 ### General
 
+- [Streams—The definitive guide](https://web.dev/streams)
 - [The React Handbook](https://reacthandbook.dev)
 - [Everything I wish I knew before moving 50,000 lines of code to React Server Components](https://www.mux.com/blog/what-are-react-server-components) #RSC
 - [Effective TypeScript for React Applications](https://medium.com/@OneSignalDevs/effective-typescript-for-react-applications-634e6004a1d6)
