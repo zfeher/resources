@@ -791,6 +791,7 @@
 
 ## Functional/Reactive Programming (FP)
 
+- [Making Curry: JavaScript Functional Programming](https://dev.to/oculus42/making-curry-javascript-functional-programming-2d6e)
 - [Functional Reactive Programming with SolidJS and fp-ts](https://kajetan.dev/2023/functional-reactive-programming-with-solidjs-and-fpts)
 - [JavaScript function composition: What’s the big deal?](https://jrsinclair.com/articles/2022/javascript-function-composition-whats-the-big-deal)
 - [Mutative - 10x faster than Immer](https://dev.to/unadlib/mutative-10x-faster-than-immer-2060) #immutable
@@ -1487,6 +1488,7 @@
 
 ### General
 
+- [Headless Component: a pattern for composing React UIs](https://martinfowler.com/articles/headless-component.html)
 - [Streams—The definitive guide](https://web.dev/streams)
 - [The React Handbook](https://reacthandbook.dev)
 - [Everything I wish I knew before moving 50,000 lines of code to React Server Components](https://www.mux.com/blog/what-are-react-server-components) #RSC
