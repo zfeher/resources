@@ -9,11 +9,9 @@
 - [pkg](https://github.com/zeit/pkg)
 - [What Is RabbitMQ? What Does It Do For Me?](https://derickbailey.com/2016/10/12/what-is-rabbitmq-what-does-it-do-for-me/)
 
-
 ## Performance
 
 - [Put Your HTTP Requests on a Diet](https://medium.com/axiomzenteam/put-your-http-requests-on-a-diet-3e1e52333014)[gzip]
-
 
 ## API
 
@@ -22,7 +20,6 @@
 - [Insomnia REST](https://insomnia.rest)
 - [The Ultimate Guide to API Design](https://blog.qmo.io/ultimate-guide-to-api-design/)
 - [Postman](https://www.getpostman.com) [api][test][documentation]
-
 
 ## Fake data
 
@@ -33,14 +30,13 @@
 - [json-server](https://github.com/typicode/json-server)
 - [Faker.js](https://github.com/marak/Faker.js/)
 
-
 ## Microservices
 
 - [Designing a Microservices Architecture for Failure](https://blog.risingstack.com/designing-microservices-architecture-for-failure/)
 
-
 ## Node
 
+- [awesome-nodejs-security](https://github.com/lirantal/awesome-nodejs-security)
 - [12 Useful Packages Every Node.js Developer Should Know](https://medium.com/better-programming/12-useful-packages-every-node-js-developer-should-know-2746db760e)
 - [The new ECMAScript module support in Node.js 12](http://2ality.com/2019/04/nodejs-esm-impl.html)
 - [Node.js Best Practices](https://github.com/i0natan/nodebestpractices)
@@ -50,12 +46,10 @@
 - [Node.js at Scale - Node.js Garbage Collection Explained](https://blog.risingstack.com/node-js-at-scale-node-js-garbage-collection/)
 - [6 of the Most Exciting ES6 Features in Node.js v6 LTS](https://nodesource.com/blog/six-of-the-most-exciting-es6-features-in-node-js-v6-lts)
 
-
 ## HTTP
 
 - [A Comprehensive Guide To HTTP/2 Server Push](https://www.smashingmagazine.com/2017/04/guide-http2-server-push/)
 - [What you need to know about HTTP/2](https://web-crunch.com/what-you-need-to-know-about-http2/)
-
 
 ## Testing
 
