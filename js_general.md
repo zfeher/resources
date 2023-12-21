@@ -178,6 +178,7 @@
 
 ## General
 
+- [Mastering DOM manipulation with vanilla JavaScript](https://phuoc.ng/collection/html-dom)
 - [Cleaning up import paths in JS/TS packages](https://socket.dev/blog/we-don-t-need-more-path-aliases) #paths #tsconfig #typescript #alias
 - [JavaScript waitFor Polling](https://davidwalsh.name/waitfor)
 - [What is a CDN? An Unbiased Guide to Content Delivery Networks](https://calibreapp.com/blog/content-delivery-networks-guide)
@@ -1231,6 +1232,7 @@
 - [3 Code Splitting Patterns For VueJS and Webpack](http://vuejsdevelopers.com/2017/07/08/vue-js-3-ways-code-splitting-webpack/)[code splitting]
 - [Dynamic imports + common chunks](https://github.com/webpack/webpack/issues/4392)
 
+- [Vue 3 Velocity: The Cache Busting Blueprint](https://medium.com/@khalidoghli7/vue-3-velocity-the-cache-busting-blueprint-704cfa80ae3c)
 - [How to Use .env Environment Variables in Vue.js](https://javascript.plainenglish.io/how-to-use-env-environment-variables-in-vue-js-790cdc10f7aa)
 - [How to Use SVG Elegantly in Vue.js](https://javascript.plainenglish.io/how-to-use-svg-elegantly-in-vue-js-b79e43510b35)
 - [Vue.js challenges](https://vuejs-challenges.netlify.app)
@@ -1505,7 +1507,7 @@
 - [Your Guide to React.useCallback()](https://dmitripavlutin.com/react-usecallback/)
 - [How to useMemo and useCallback: you can remove most of them](https://www.developerway.com/posts/how-to-use-memo-use-callback)
 - [Understanding useMemo and useCallback](https://www.joshwcomeau.com/react/usememo-and-usecallback/)
-- [Practical React Query 1..22](https://tkdodo.eu/blog/practical-react-query)
+- [Practical React Query 1..23](https://tkdodo.eu/blog/practical-react-query)
 - [Five Challenges to Building an Isomorphic JavaScript Library](https://doordash.engineering/2022/12/06/five-challenges-to-building-an-isomorphic-javascript-library)
 - [Data Binding in React](https://www.joshwcomeau.com/react/data-binding)
 - [Top 7 React Animation Libraries in 2022](https://www.syncfusion.com/blogs/post/top-7-react-animation-libraries-in-2022.aspx)
