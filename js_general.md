@@ -27,6 +27,7 @@
 
 ## Books
 
+- [Developer Experience - Addy Osmani](https://dx.addy.ie/)
 - [Great (and Free!) Web Development Books You Can Get Online](https://css-tricks.com/web-development-books-you-can-get-for-free)
 - [Every Layout](https://every-layout.dev) #css
 - [Vue Tips Collection](https://michaelnthiessen.com/vue-tips-collection)
@@ -178,6 +179,8 @@
 
 ## General
 
+- [Understanding Short Polling, Long Polling, Server Sent Events and Web Sockets](https://dev.to/shameel/understanding-short-polling-long-polling-server-sent-events-and-web-sockets-20kh)
+- [You’ve Got Options for Removing Event Listeners](https://macarthur.me/posts/options-for-removing-event-listeners)
 - [Mastering DOM manipulation with vanilla JavaScript](https://phuoc.ng/collection/html-dom)
 - [Cleaning up import paths in JS/TS packages](https://socket.dev/blog/we-don-t-need-more-path-aliases) #paths #tsconfig #typescript #alias
 - [JavaScript waitFor Polling](https://davidwalsh.name/waitfor)
@@ -383,6 +386,7 @@
 
 ### Related
 
+- [oxlint](https://oxc-project.github.io/docs/guide/usage/linter.html)
 - [knip](https://github.com/webpro/knip) #maintainability #cleanup #unused
 - [Signia](https://signia.tldraw.dev/) #signals #react
 - [devalue](https://github.com/Rich-Harris/devalue) #JSON.stringify #JSON.parse
@@ -1123,6 +1127,7 @@
 
 ### Related
 
+- [tsdocs.dev](https://tsdocs.dev)
 - [Valibot](https://github.com/fabian-hiller/valibot) #schema #validation
 - [shoehorn](https://github.com/total-typescript/shoehorn)
 - [ts-toolbelt](https://millsp.github.io/ts-toolbelt/)
@@ -1212,7 +1217,12 @@
 
 ### Nuxt
 
+- [Nuxt Icon](https://www.vuemastery.com/blog/nuxt-icon)
 - [A guide to Nuxt server components](https://roe.dev/blog/nuxt-server-components)
+
+### Pinia
+
+- [Top 5 mistakes to avoid when using Pinia](https://masteringpinia.com/blog/top-5-mistakes-to-avoid-when-using-pinia)
 
 ### General
 
@@ -1232,6 +1242,8 @@
 - [3 Code Splitting Patterns For VueJS and Webpack](http://vuejsdevelopers.com/2017/07/08/vue-js-3-ways-code-splitting-webpack/)[code splitting]
 - [Dynamic imports + common chunks](https://github.com/webpack/webpack/issues/4392)
 
+- [Vue.js Performance Series - Filip Rakowski](https://vueschool.io/articles/series/vue-js-performance/)
+- [Intuitive Vue Console Logging for Reactive Objects](https://serko.dev/post/vue-reactive-objects-console-display)
 - [Vue 3 Velocity: The Cache Busting Blueprint](https://medium.com/@khalidoghli7/vue-3-velocity-the-cache-busting-blueprint-704cfa80ae3c)
 - [How to Use .env Environment Variables in Vue.js](https://javascript.plainenglish.io/how-to-use-env-environment-variables-in-vue-js-790cdc10f7aa)
 - [How to Use SVG Elegantly in Vue.js](https://javascript.plainenglish.io/how-to-use-svg-elegantly-in-vue-js-b79e43510b35)
@@ -1396,6 +1408,8 @@
 
 ### Related
 
+- [radix-vue](https://github.com/radix-vue/radix-vue)
+- [shadcn-vue](https://github.com/radix-vue/shadcn-vue)
 - [Vitest](https://vitest.dev)
 - [vue-progressive-image](https://github.com/MatteoGabriele/vue-progressive-image) #performance
 - [Vue Intersect](https://github.com/heavyy/vue-intersect)
@@ -1490,6 +1504,7 @@
 
 ### General
 
+- [Things you forgot (or never knew) because of React](https://joshcollinsworth.com/blog/antiquated-react)
 - [Headless Component: a pattern for composing React UIs](https://martinfowler.com/articles/headless-component.html)
 - [Streams—The definitive guide](https://web.dev/streams)
 - [The React Handbook](https://reacthandbook.dev)
@@ -1972,6 +1987,7 @@
 
 ## Package Management, Dependency Management
 
+- [5 JavaScript Build Systems for 2024](https://binaraprabhanga.medium.com/5-javascript-build-systems-for-2024-dcdbc6c13636)
 - [Blogged Answers: My Experience Modernizing Packages to ESM](https://blog.isquaredsoftware.com/2023/08/esm-modernization-lessons/)
 - [Best practices for creating a modern npm package](https://snyk.io/blog/best-practices-create-modern-npm-package)
 - [Introducing the new npm Dependency Selector Syntax](https://github.blog/changelog/2022-08-03-introducing-the-new-npm-dependency-selector-syntax)
