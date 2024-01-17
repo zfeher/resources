@@ -27,6 +27,7 @@
 
 ## Books
 
+- [The JavaScript DOM Manipulation Handbook](https://www.freecodecamp.org/news/the-javascript-dom-manipulation-handbook)
 - [Developer Experience - Addy Osmani](https://dx.addy.ie/)
 - [Great (and Free!) Web Development Books You Can Get Online](https://css-tricks.com/web-development-books-you-can-get-for-free)
 - [Every Layout](https://every-layout.dev) #css
