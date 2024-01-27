@@ -1215,16 +1215,24 @@
 - [Storybook](https://storybook.js.org)
 - [Bit](https://github.com/teambit/bit)
 
-## Vue.js
+## Nuxt
 
-### Nuxt
-
+- [The BEST way to proxy your API in Nuxt](https://www.youtube.com/watch?v=J4E5uYz5AY8)
+- [Nuxt Monorepo for Large-Scale Vue Web Application](https://serko.dev/post/nuxt-3-monorepo)
+- [Lazy Hydration and Server Components in Nuxt – Vue.js 3 Performance](https://vueschool.io/articles/vuejs-tutorials/lazy-hydration-and-server-components-in-nuxt-vue-js-3-performance)
+- [Understanding and Measuring Nuxt Performance – Vue.js 3 Performance](https://vueschool.io/articles/vuejs-tutorials/understanding-and-measuring-nuxt-performance-vue-js-3-performance)
 - [Nuxt Icon](https://www.vuemastery.com/blog/nuxt-icon)
 - [A guide to Nuxt server components](https://roe.dev/blog/nuxt-server-components)
 
-### Pinia
+### Related
+
+[nuxt-lazy-hydrate](https://github.com/Baroshem/nuxt-lazy-hydrate)
+
+## Pinia
 
 - [Top 5 mistakes to avoid when using Pinia](https://masteringpinia.com/blog/top-5-mistakes-to-avoid-when-using-pinia)
+
+## Vue.js
 
 ### General
 
