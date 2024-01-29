@@ -1217,6 +1217,8 @@
 
 ## Nuxt
 
+- [7 New Features in Nuxt 3.9](https://masteringnuxt.com/blog/7-new-features-in-nuxt-3-9)
+- [Nuxt 3.9](https://nuxt.com/blog/v3-9)
 - [The BEST way to proxy your API in Nuxt](https://www.youtube.com/watch?v=J4E5uYz5AY8)
 - [Nuxt Monorepo for Large-Scale Vue Web Application](https://serko.dev/post/nuxt-3-monorepo)
 - [Lazy Hydration and Server Components in Nuxt – Vue.js 3 Performance](https://vueschool.io/articles/vuejs-tutorials/lazy-hydration-and-server-components-in-nuxt-vue-js-3-performance)
