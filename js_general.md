@@ -1002,6 +1002,7 @@
 
 ## Typescript
 
+- [Method Shorthand Syntax Considered Harmful](https://www.totaltypescript.com/method-shorthand-syntax-considered-harmful)
 - [DistributiveOmit](https://twitter.com/mattpocockuk/status/1690116197335904256?s=09&t=75oZuJh-lnPZHyknXuS8Ng)
 - [Type vs Interface: Which Should You Use In 2023?](https://www.totaltypescript.com/type-vs-interface-which-should-you-use)
 - [Why You Can't Use Dot Notation On Types](https://www.totaltypescript.com/why-you-cant-use-dot-notation-on-types)
@@ -1228,7 +1229,8 @@
 
 ### Related
 
-[nuxt-lazy-hydrate](https://github.com/Baroshem/nuxt-lazy-hydrate)
+- [nuxt/html-validator](https://html-validator.nuxtjs.org)
+- [nuxt-lazy-hydrate](https://github.com/Baroshem/nuxt-lazy-hydrate)
 
 ## Pinia
 
