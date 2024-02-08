@@ -1229,6 +1229,7 @@
 
 ### Related
 
+- [Nuxt Build Cache](https://github.com/pi0/nuxt-build-cache)
 - [nuxt/html-validator](https://html-validator.nuxtjs.org)
 - [nuxt-lazy-hydrate](https://github.com/Baroshem/nuxt-lazy-hydrate)
 
