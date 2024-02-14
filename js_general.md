@@ -1218,6 +1218,7 @@
 
 ## Nuxt
 
+- [Introducing @nx/nuxt: Enhanced Nuxt.js Support in Nx](https://blog.nrwl.io/introducing-nx-nuxt-enhanced-nuxt-js-support-in-nx-01eac78034fc)
 - [7 New Features in Nuxt 3.9](https://masteringnuxt.com/blog/7-new-features-in-nuxt-3-9)
 - [Nuxt 3.9](https://nuxt.com/blog/v3-9)
 - [The BEST way to proxy your API in Nuxt](https://www.youtube.com/watch?v=J4E5uYz5AY8)
@@ -1257,6 +1258,7 @@
 - [3 Code Splitting Patterns For VueJS and Webpack](http://vuejsdevelopers.com/2017/07/08/vue-js-3-ways-code-splitting-webpack/)[code splitting]
 - [Dynamic imports + common chunks](https://github.com/webpack/webpack/issues/4392)
 
+- [SSR Safe Dynamic IDs in Vue](https://michaelnthiessen.com/ssr-safe-dynamic-ids) #directive #useId
 - [Vue.js Performance Series - Filip Rakowski](https://vueschool.io/articles/series/vue-js-performance/)
 - [Intuitive Vue Console Logging for Reactive Objects](https://serko.dev/post/vue-reactive-objects-console-display)
 - [Vue 3 Velocity: The Cache Busting Blueprint](https://medium.com/@khalidoghli7/vue-3-velocity-the-cache-busting-blueprint-704cfa80ae3c)
