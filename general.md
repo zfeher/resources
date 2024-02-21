@@ -202,6 +202,7 @@
 
 ### related
 
+- [difftastic](https://difftastic.wilfred.me.uk/)
 - [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy)
 
 ## Editor/IDE

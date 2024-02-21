@@ -459,6 +459,7 @@
 
 ## Micro-frontend, microfrontend, micro frontend
 
+- [Application Shell for React Micro Frontends](https://blog.bitsrc.io/application-shell-for-react-micro-frontends-daa944caa8f3) #bit
 - [Module Federation gets upgraded, and Rspack supports it.](https://scriptedalchemy.medium.com/emodule-federation-gets-upgraded-and-rspack-supports-it-5ddb0d1e9546)
 - [You Don't Need Another Library to Compose Micro Frontends at Run Time](https://blog.bitsrc.io/you-dont-need-another-library-to-compose-micro-frontends-at-run-time-e803077ade67)
 - [5 Different Techniques for Cross Micro Frontend Communication](https://sharvishi9118.medium.com/cross-micro-frontend-communication-techniques-a10fedc11c59)
