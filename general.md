@@ -77,6 +77,7 @@
 
 ## Git
 
+- [Useful Global Git Configurations](https://dev.to/markadel/useful-global-git-configurations-2ce2)
 - A Guide To Undoing Mistakes With Git: [part 1](https://www.smashingmagazine.com/2021/05/undoing-mistakes-git-part1/), [part 2](https://www.smashingmagazine.com/2021/05/undoing-mistakes-git-part2/)
 - [Managing your secrets in Git](https://dev.to/dailydotdev/managing-your-secrets-in-git-2fae)[git-crypt]
 - [gitmoji](https://gitmoji.carloscuesta.me/)

@@ -1003,6 +1003,7 @@
 
 ## Typescript
 
+- [Microsoft: TS Performance](https://github.com/microsoft/TypeScript/wiki/Performance)
 - [Method Shorthand Syntax Considered Harmful](https://www.totaltypescript.com/method-shorthand-syntax-considered-harmful)
 - [DistributiveOmit](https://twitter.com/mattpocockuk/status/1690116197335904256?s=09&t=75oZuJh-lnPZHyknXuS8Ng)
 - [Type vs Interface: Which Should You Use In 2023?](https://www.totaltypescript.com/type-vs-interface-which-should-you-use)
