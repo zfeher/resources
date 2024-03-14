@@ -1003,6 +1003,8 @@
 
 ## Typescript
 
+- [Array<T> vs T[]: Which is better?](https://www.totaltypescript.com/array-types-in-typescript)
+- [How To Type Array.reduce](https://www.totaltypescript.com/how-to-type-array-reduce)
 - [Microsoft: TS Performance](https://github.com/microsoft/TypeScript/wiki/Performance)
 - [Method Shorthand Syntax Considered Harmful](https://www.totaltypescript.com/method-shorthand-syntax-considered-harmful)
 - [DistributiveOmit](https://twitter.com/mattpocockuk/status/1690116197335904256?s=09&t=75oZuJh-lnPZHyknXuS8Ng)
