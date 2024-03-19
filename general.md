@@ -1,5 +1,6 @@
 ## General
 
+- [Feature Toggles (aka Feature Flags)](https://martinfowler.com/articles/feature-toggles.html)
 - [The Pull Request Paradox: Merge Faster by Promoting Your PR](https://linearb.io/blog/the-pull-request-paradox-merge-faster-by-promoting-your-pr)
 - [What Is CICD? What’s Important and How to Get It Right](https://stackify.com/what-is-cicd-whats-important-and-how-to-get-it-right/)
 - [Improving Code Quality using Pull Requests](https://dev.to/arminaskatilius/improving-code-quality-using-pull-requests-2e9i)
