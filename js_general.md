@@ -442,17 +442,6 @@
 - [Collections.js](http://www.collectionsjs.com)
 - [Moment.js](https://momentjs.com)
 
-## Serverless (Cloud Computing)
-
-- [Introducing Amazon S3 Object Lambda – Use Your Code to Process Data as It Is Being Retrieved from S3](https://aws.amazon.com/blogs/aws/introducing-amazon-s3-object-lambda-use-your-code-to-process-data-as-it-is-being-retrieved-from-s3/)
-- [What is Serverless?](https://medium.com/javascript-in-plain-english/what-is-serverless-550dd9340042)
-- [Serverless Can Help You To Focus](https://hackernoon.com/serverless-can-do-that-7nw32mk)[serverless]
-
-### Related
-
-- [Serverless Framework](https://www.serverless.com/)
-- [Serverless UI](https://github.com/JakePartusch/serverlessui)
-
 ## Hosting
 
 - [Top 5 Frontend Hosting Platforms in 2021](https://blog.bitsrc.io/top-5-frontend-hosting-platforms-in-2021-519b14758bd2)
@@ -544,6 +533,7 @@
 
 ## Performance, memory
 
+- [Optimizing Javascript for fun and for profit](https://romgrk.com/posts/optimizing-javascript)
 - [Inspect Source Code Performance with Deoptigate](https://www.builder.io/blog/deoptigate)
 - [The truth about CSS selector performance](https://blogs.windows.com/msedgedev/2023/01/17/the-truth-about-css-selector-performance)
 - [Ryan Florence Tweet](https://twitter.com/ryanflorence/status/1560274356579622914?s=09&t=YI1YE8CwCWY-ep9gaW_cWA) #CLS #lazy #webp
@@ -1003,6 +993,8 @@
 
 ## Typescript
 
+- [Type Predicate Inference: The TS 5.5 Feature No One Expected](https://www.totaltypescript.com/type-predicate-inference)
+- [NoInfer: TypeScript 5.4's New Utility Type](https://www.totaltypescript.com/noinfer)
 - [Array<T> vs T[]: Which is better?](https://www.totaltypescript.com/array-types-in-typescript)
 - [How To Type Array.reduce](https://www.totaltypescript.com/how-to-type-array-reduce)
 - [Microsoft: TS Performance](https://github.com/microsoft/TypeScript/wiki/Performance)
