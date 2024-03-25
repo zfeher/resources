@@ -448,6 +448,7 @@
 
 ## Micro-frontend, microfrontend, micro frontend
 
+- [Top 10 Micro Frontend Anti-Patterns ](https://dev.to/florianrappl/top-10-micro-frontend-anti-patterns-3809)
 - [Application Shell for React Micro Frontends](https://blog.bitsrc.io/application-shell-for-react-micro-frontends-daa944caa8f3) #bit
 - [Module Federation gets upgraded, and Rspack supports it.](https://scriptedalchemy.medium.com/emodule-federation-gets-upgraded-and-rspack-supports-it-5ddb0d1e9546)
 - [You Don't Need Another Library to Compose Micro Frontends at Run Time](https://blog.bitsrc.io/you-dont-need-another-library-to-compose-micro-frontends-at-run-time-e803077ade67)
@@ -1215,6 +1216,7 @@
 
 ## Nuxt
 
+- [How to deal with caching and dynamic content in Nuxt?](https://dev.to/vue-storefront/how-to-deal-with-caching-and-dynamic-content-2ilk)
 - [Introducing @nx/nuxt: Enhanced Nuxt.js Support in Nx](https://blog.nrwl.io/introducing-nx-nuxt-enhanced-nuxt-js-support-in-nx-01eac78034fc)
 - [7 New Features in Nuxt 3.9](https://masteringnuxt.com/blog/7-new-features-in-nuxt-3-9)
 - [Nuxt 3.9](https://nuxt.com/blog/v3-9)
@@ -2058,6 +2060,7 @@
 
 ## Module loader/Module Bundler/Task Runner, CI, Build
 
+- [Kuto, a reverse JS bundler](https://samthor.au/2024/kuto)
 - [An in-depth perspective on webpack's bundling process](https://indepth.dev/posts/1482/an-in-depth-perspective-on-webpacks-bundling-process) #webpack
 - [You may not need a bundler for your NPM library](https://cmdcolin.github.io/posts/2022-05-27-youmaynotneedabundler)
 - [How to use webpack and HTML Webpack Plugin to generate HTML pages for multiple entries in 2 steps?](https://yonatankra.com/how-to-use-htmlwebpackplugin-for-multiple-entries)

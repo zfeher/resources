@@ -54,3 +54,7 @@
 ## Testing
 
 - [Dredd — HTTP API Testing Framework](http://dredd.readthedocs.io/en/latest/)
+
+## Tools
+
+- [httpie](https://httpie.io) #api #test
