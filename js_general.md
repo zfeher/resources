@@ -994,6 +994,7 @@
 
 ## Typescript
 
+- [`any` Considered Harmful, Except For These Cases](https://www.totaltypescript.com/any-considered-harmful)
 - [Don't use return types, unless...](https://www.totaltypescript.com/tips/dont-use-return-types-unless)
 - [Type Predicate Inference: The TS 5.5 Feature No One Expected](https://www.totaltypescript.com/type-predicate-inference)
 - [NoInfer: TypeScript 5.4's New Utility Type](https://www.totaltypescript.com/noinfer)
