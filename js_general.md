@@ -1258,6 +1258,7 @@
 - [3 Code Splitting Patterns For VueJS and Webpack](http://vuejsdevelopers.com/2017/07/08/vue-js-3-ways-code-splitting-webpack/)[code splitting]
 - [Dynamic imports + common chunks](https://github.com/webpack/webpack/issues/4392)
 
+- [Vue.js Nation 2024: Unlocking Reusability Generically Typed Vue.js Components by Abdelrahman Awad](https://www.youtube.com/watch?v=IZtW8xUGbeQ) #TS #typescript #generics
 - [SSR Safe Dynamic IDs in Vue](https://michaelnthiessen.com/ssr-safe-dynamic-ids) #directive #useId
 - [Vue.js Performance Series - Filip Rakowski](https://vueschool.io/articles/series/vue-js-performance/)
 - [Intuitive Vue Console Logging for Reactive Objects](https://serko.dev/post/vue-reactive-objects-console-display)
