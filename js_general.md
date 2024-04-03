@@ -180,6 +180,7 @@
 
 ## General
 
+- [JavaScript Signals standard proposal](https://github.com/proposal-signals/proposal-signals)
 - [Understanding Short Polling, Long Polling, Server Sent Events and Web Sockets](https://dev.to/shameel/understanding-short-polling-long-polling-server-sent-events-and-web-sockets-20kh)
 - [You’ve Got Options for Removing Event Listeners](https://macarthur.me/posts/options-for-removing-event-listeners)
 - [Mastering DOM manipulation with vanilla JavaScript](https://phuoc.ng/collection/html-dom)
@@ -1259,6 +1260,7 @@
 - [3 Code Splitting Patterns For VueJS and Webpack](http://vuejsdevelopers.com/2017/07/08/vue-js-3-ways-code-splitting-webpack/)[code splitting]
 - [Dynamic imports + common chunks](https://github.com/webpack/webpack/issues/4392)
 
+- [Optimizing Image Integration in Vite with Vue: A Comprehensive Guide](https://medium.com/@emperorbrains/optimizing-image-integration-in-vite-with-vue-a-comprehensive-guide-bbf6d4e8beb0)
 - [Vue.js Nation 2024: Unlocking Reusability Generically Typed Vue.js Components by Abdelrahman Awad](https://www.youtube.com/watch?v=IZtW8xUGbeQ) #TS #typescript #generics
 - [SSR Safe Dynamic IDs in Vue](https://michaelnthiessen.com/ssr-safe-dynamic-ids) #directive #useId
 - [Vue.js Performance Series - Filip Rakowski](https://vueschool.io/articles/series/vue-js-performance/)
