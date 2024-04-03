@@ -791,6 +791,8 @@
 
 ## Functional/Reactive Programming (FP)
 
+- [Typescript code with and without Effect](https://www.sandromaglione.com/articles/typescript-code-with-and-without-effect)
+- [Complete introduction to using Effect in Typescript](https://www.sandromaglione.com/articles/complete-introduction-to-using-effect-in-typescript)
 - [Making Curry: JavaScript Functional Programming](https://dev.to/oculus42/making-curry-javascript-functional-programming-2d6e)
 - [Functional Reactive Programming with SolidJS and fp-ts](https://kajetan.dev/2023/functional-reactive-programming-with-solidjs-and-fpts)
 - [JavaScript function composition: What’s the big deal?](https://jrsinclair.com/articles/2022/javascript-function-composition-whats-the-big-deal)
@@ -995,6 +997,7 @@
 
 ## Typescript
 
+- [Covariant, Contravariant, and Invariant in Typescript](https://www.sandromaglione.com/articles/covariant-contravariant-and-invariant-in-typescript)
 - [`any` Considered Harmful, Except For These Cases](https://www.totaltypescript.com/any-considered-harmful)
 - [Don't use return types, unless...](https://www.totaltypescript.com/tips/dont-use-return-types-unless)
 - [Type Predicate Inference: The TS 5.5 Feature No One Expected](https://www.totaltypescript.com/type-predicate-inference)
