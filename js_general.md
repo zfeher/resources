@@ -997,6 +997,7 @@
 
 ## Typescript
 
+- [How To Strongly Type process.env](https://www.totaltypescript.com/how-to-strongly-type-process-env)
 - [Covariant, Contravariant, and Invariant in Typescript](https://www.sandromaglione.com/articles/covariant-contravariant-and-invariant-in-typescript)
 - [`any` Considered Harmful, Except For These Cases](https://www.totaltypescript.com/any-considered-harmful)
 - [Don't use return types, unless...](https://www.totaltypescript.com/tips/dont-use-return-types-unless)
