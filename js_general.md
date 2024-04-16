@@ -791,6 +791,7 @@
 
 ## Functional/Reactive Programming (FP)
 
+- [Encoding HKTs in TypeScript (Once Again)](https://www.matechs.com/blog/encoding-hkts-in-typescript-once-again) #higher kinded types
 - [Typescript code with and without Effect](https://www.sandromaglione.com/articles/typescript-code-with-and-without-effect)
 - [Complete introduction to using Effect in Typescript](https://www.sandromaglione.com/articles/complete-introduction-to-using-effect-in-typescript)
 - [Making Curry: JavaScript Functional Programming](https://dev.to/oculus42/making-curry-javascript-functional-programming-2d6e)
