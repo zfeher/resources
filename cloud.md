@@ -10,6 +10,9 @@
 
 ## AWS
 
+- [Lambda layer: not a package manager, but a deployment optimization](https://theburningmonk.com/2021/05/lambda-layer-not-a-package-manager-but-a-deployment-optimization/)
+- [AWS Lambda Use Cases: When to use Lambda layers](https://lumigo.io/blog/lambda-layers-when-to-use-it/)
+- [Enhancing security for Lambda function URLs](https://dev.to/aws-builders/enhancing-security-for-lambda-function-urls-55dc)
 - [Security in AWS: IAM Best Practices and Advanced Techniques](https://dev.to/aws-builders/security-in-aws-iam-best-practices-and-advanced-techniques-25ac)
 - [Introducing Amazon S3 Object Lambda – Use Your Code to Process Data as It Is Being Retrieved from S3](https://aws.amazon.com/blogs/aws/introducing-amazon-s3-object-lambda-use-your-code-to-process-data-as-it-is-being-retrieved-from-s3/)
 - [Build modern full-stack applications on AWS](https://sst.dev/)

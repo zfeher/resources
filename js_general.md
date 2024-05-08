@@ -1265,6 +1265,7 @@
 - [3 Code Splitting Patterns For VueJS and Webpack](http://vuejsdevelopers.com/2017/07/08/vue-js-3-ways-code-splitting-webpack/)[code splitting]
 - [Dynamic imports + common chunks](https://github.com/webpack/webpack/issues/4392)
 
+- [Better Stores in Pinia with Vue3 — Global Stores, Nesting and Accessing Vue Router in Pinia](https://blog.theletstream.com/better-stores-in-pinia-with-vue3-global-stores-nesting-and-accessing-vue-router-in-pinia-0064a6f22ed6)
 - [Optimizing Image Integration in Vite with Vue: A Comprehensive Guide](https://medium.com/@emperorbrains/optimizing-image-integration-in-vite-with-vue-a-comprehensive-guide-bbf6d4e8beb0)
 - [Vue.js Nation 2024: Unlocking Reusability Generically Typed Vue.js Components by Abdelrahman Awad](https://www.youtube.com/watch?v=IZtW8xUGbeQ) #TS #typescript #generics
 - [SSR Safe Dynamic IDs in Vue](https://michaelnthiessen.com/ssr-safe-dynamic-ids) #directive #useId
