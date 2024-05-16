@@ -449,7 +449,9 @@
 
 ## Micro-frontend, microfrontend, micro frontend
 
-- [Top 10 Micro Frontend Anti-Patterns ](https://dev.to/florianrappl/top-10-micro-frontend-anti-patterns-3809)
+- [Luca Mezzalira – Micro frontends anti patterns | Øredev 2022](https://www.youtube.com/watch?v=DaxJuB8AYqM)
+- [Micro-frontends in context](https://increment.com/frontend/micro-frontends-in-context/)
+- [Top 10 Micro Frontend Anti-Patterns](https://dev.to/florianrappl/top-10-micro-frontend-anti-patterns-3809)
 - [Application Shell for React Micro Frontends](https://blog.bitsrc.io/application-shell-for-react-micro-frontends-daa944caa8f3) #bit
 - [Module Federation gets upgraded, and Rspack supports it.](https://scriptedalchemy.medium.com/emodule-federation-gets-upgraded-and-rspack-supports-it-5ddb0d1e9546)
 - [You Don't Need Another Library to Compose Micro Frontends at Run Time](https://blog.bitsrc.io/you-dont-need-another-library-to-compose-micro-frontends-at-run-time-e803077ade67)
