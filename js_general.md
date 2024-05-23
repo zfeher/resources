@@ -705,6 +705,8 @@
 
 ## Security / Payment
 
+- [Password Management: Passwordless Login](https://dev.to/gearoidotreasaigh/password-management-passwordless-login-1j5)
+- [Password Management: The Basics](https://dev.to/gearoidotreasaigh/password-management-the-basics-4d40)
 - [Node.js Security Best Practices](https://nodejs.org/en/docs/guides/security) #node.js
 - [Cory House: 2022 Frontend security in 1 tweet](https://twitter.com/housecor/status/1558845973018906624?s=09&t=Xyc6EX5mizk8wOrKYzfShg)
 - [What's Really Going On Inside Your node_modules Folder?](https://socket.dev/blog/inside-node-modules)
@@ -1225,6 +1227,7 @@
 
 ## Nuxt
 
+- [Modular site architecture with Nuxt layers](https://davestewart.co.uk/blog/nuxt-layers)
 - [How to deal with caching and dynamic content in Nuxt?](https://dev.to/vue-storefront/how-to-deal-with-caching-and-dynamic-content-2ilk)
 - [Introducing @nx/nuxt: Enhanced Nuxt.js Support in Nx](https://blog.nrwl.io/introducing-nx-nuxt-enhanced-nuxt-js-support-in-nx-01eac78034fc)
 - [7 New Features in Nuxt 3.9](https://masteringnuxt.com/blog/7-new-features-in-nuxt-3-9)
@@ -1238,6 +1241,7 @@
 
 ### Related
 
+- [nuxt-layers-utils](https://github.com/davestewart/nuxt-layers-utils)
 - [Nuxt Fonts](https://github.com/nuxt/fonts)
 - [Nuxt Build Cache](https://github.com/pi0/nuxt-build-cache)
 - [nuxt/html-validator](https://html-validator.nuxtjs.org)
