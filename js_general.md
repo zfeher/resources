@@ -1227,6 +1227,7 @@
 
 ## Nuxt
 
+- [Getting a grip on Nuxt's auto-import functionality](https://davestewart.co.uk/blog/nuxt-auto-import)
 - [Modular site architecture with Nuxt layers](https://davestewart.co.uk/blog/nuxt-layers)
 - [How to deal with caching and dynamic content in Nuxt?](https://dev.to/vue-storefront/how-to-deal-with-caching-and-dynamic-content-2ilk)
 - [Introducing @nx/nuxt: Enhanced Nuxt.js Support in Nx](https://blog.nrwl.io/introducing-nx-nuxt-enhanced-nuxt-js-support-in-nx-01eac78034fc)
@@ -2020,6 +2021,7 @@
 
 ## Package Management, Dependency Management
 
+- [Monorepo Maestros](https://www.shew.dev/monorepos)
 - [5 JavaScript Build Systems for 2024](https://binaraprabhanga.medium.com/5-javascript-build-systems-for-2024-dcdbc6c13636)
 - [Blogged Answers: My Experience Modernizing Packages to ESM](https://blog.isquaredsoftware.com/2023/08/esm-modernization-lessons/)
 - [Best practices for creating a modern npm package](https://snyk.io/blog/best-practices-create-modern-npm-package)
