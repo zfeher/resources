@@ -36,6 +36,7 @@
 
 ## Node
 
+- [10 modern Node.js runtime features to start using in 2024](https://snyk.io/blog/10-modern-node-js-runtime-features)
 - [Poor Express Authentication Patterns in Node.js and How to Avoid Them](https://www.lirantal.com/blog/poor-express-authentication-patterns-nodejs)
 - [awesome-nodejs-security](https://github.com/lirantal/awesome-nodejs-security)
 - [12 Useful Packages Every Node.js Developer Should Know](https://medium.com/better-programming/12-useful-packages-every-node-js-developer-should-know-2746db760e)

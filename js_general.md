@@ -180,6 +180,8 @@
 
 ## General
 
+- [ECMAScript 2024 feature: Promise.withResolvers()](https://2ality.com/2024/05/proposal-promise-with-resolvers.html)
+- [ECMAScript 2024 features: resizing and transferring ArrayBuffers](https://2ality.com/2024/06/array-buffers-es2024.html)
 - [JavaScript Signals standard proposal](https://github.com/proposal-signals/proposal-signals)
 - [Understanding Short Polling, Long Polling, Server Sent Events and Web Sockets](https://dev.to/shameel/understanding-short-polling-long-polling-server-sent-events-and-web-sockets-20kh)
 - [You’ve Got Options for Removing Event Listeners](https://macarthur.me/posts/options-for-removing-event-listeners)
@@ -1538,6 +1540,7 @@
 
 ### General
 
+- [EpicWebDev: React Server Components](https://react-server-components.epicweb.dev/)
 - [Things you forgot (or never knew) because of React](https://joshcollinsworth.com/blog/antiquated-react)
 - [Headless Component: a pattern for composing React UIs](https://martinfowler.com/articles/headless-component.html)
 - [Streams—The definitive guide](https://web.dev/streams)
