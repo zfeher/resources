@@ -1244,6 +1244,8 @@
 
 ### Related
 
+- [nuxt-hydration](https://www.npmjs.com/package/nuxt-hydration)
+- [nuxt-delay-hydration](https://nuxt.com/modules/delay-hydration)
 - [nuxt-layers-utils](https://github.com/davestewart/nuxt-layers-utils)
 - [Nuxt Fonts](https://github.com/nuxt/fonts)
 - [Nuxt Build Cache](https://github.com/pi0/nuxt-build-cache)
