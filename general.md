@@ -56,6 +56,8 @@
 
 ## Infrastructure, DevOps
 
+- [Building a Bulletproof CI/CD Pipeline: A Comprehensive Guide](https://dev.to/gauri1504/building-a-bulletproof-cicd-pipeline-a-comprehensive-guide-3jg3)
+
 ### Related
 
 - [Preevy](https://preevy.dev/) #preview environment

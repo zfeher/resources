@@ -682,6 +682,7 @@
 
 ## Accessibility
 
+- [Web accessibility, how to design web pages for everyone](https://dev.to/dionarodrigues/web-accessibility-how-to-design-web-pages-for-everyone-4k75)
 - [Creating an accessible autocomplete experience](https://react-spectrum.adobe.com/blog/building-a-combobox.html)
 - [Access Guide](https://accessguide.io/)
 - [Accessibility Testing with pa11y](https://bitsofco.de/pa11y/)

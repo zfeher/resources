@@ -10,6 +10,8 @@
 
 ## AWS
 
+- [AWS Lambda – use the invocation context to better handle slow HTTP responses](https://theburningmonk.com/2018/01/aws-lambda-use-the-invocation-context-to-better-handle-slow-http-responses)
+- [Simplifying Serverless Architecture with Terraform and AWS Lambda](https://dev.to/etorralbab/simplifying-serverless-architecture-with-terraform-and-aws-lambda-2o7n) #API Gateway
 - [Why you should use ephemeral environments when you do serverless](https://theburningmonk.com/2019/09/why-you-should-use-temporary-stacks-when-you-do-serverless)
 - [Lambda layer: not a package manager, but a deployment optimization](https://theburningmonk.com/2021/05/lambda-layer-not-a-package-manager-but-a-deployment-optimization/)
 - [AWS Lambda Use Cases: When to use Lambda layers](https://lumigo.io/blog/lambda-layers-when-to-use-it/)
