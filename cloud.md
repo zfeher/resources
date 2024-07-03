@@ -8,8 +8,14 @@
 
 - [Leapp](https://www.leapp.cloud/) #credentials
 
+## Terraform
+
+- [How to Manage Terraform Locals](https://dev.to/env0/how-to-manage-terraform-locals-4onb)
+
 ## AWS
 
+- [Step Functions: combine Standard and Express workflows for fun & profit](https://theburningmonk.com/2023/09/combine-standard-and-express-workflows-for-fun-profit)
+- [Static IP for Lambda: ingress, egress and bypassing the dreaded NAT Gateway](https://theburningmonk.com/2023/09/static-ip-for-lambda-ingress-egress-and-bypassing-the-dreaded-nat-gateway)
 - [AWS Lambda – use the invocation context to better handle slow HTTP responses](https://theburningmonk.com/2018/01/aws-lambda-use-the-invocation-context-to-better-handle-slow-http-responses)
 - [Simplifying Serverless Architecture with Terraform and AWS Lambda](https://dev.to/etorralbab/simplifying-serverless-architecture-with-terraform-and-aws-lambda-2o7n) #API Gateway
 - [Why you should use ephemeral environments when you do serverless](https://theburningmonk.com/2019/09/why-you-should-use-temporary-stacks-when-you-do-serverless)
