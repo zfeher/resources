@@ -540,6 +540,7 @@
 
 ## Performance, memory
 
+- [Investigating INP issues](https://www.stefanjudis.com/blog/investigating-inp-issues)
 - [Optimizing Javascript for fun and for profit](https://romgrk.com/posts/optimizing-javascript)
 - [Inspect Source Code Performance with Deoptigate](https://www.builder.io/blog/deoptigate)
 - [The truth about CSS selector performance](https://blogs.windows.com/msedgedev/2023/01/17/the-truth-about-css-selector-performance)
@@ -799,6 +800,9 @@
 
 ## Functional/Reactive Programming (FP)
 
+- [Functional Patterns: The Monoid](https://dev.to/if-els/functional-patterns-the-monoid-22ef)
+- [Functional Patterns: Composition and Implicitness](https://dev.to/if-els/functional-patterns-composition-and-implicitness-4n08)
+- [Functional Patterns: Interfaces and Functors](https://dev.to/if-els/functional-patterns-interfaces-and-functors-359e)
 - [Encoding HKTs in TypeScript (Once Again)](https://www.matechs.com/blog/encoding-hkts-in-typescript-once-again) #higher kinded types
 - [Typescript code with and without Effect](https://www.sandromaglione.com/articles/typescript-code-with-and-without-effect)
 - [Complete introduction to using Effect in Typescript](https://www.sandromaglione.com/articles/complete-introduction-to-using-effect-in-typescript)
@@ -1278,6 +1282,9 @@
 - [3 Code Splitting Patterns For VueJS and Webpack](http://vuejsdevelopers.com/2017/07/08/vue-js-3-ways-code-splitting-webpack/)[code splitting]
 - [Dynamic imports + common chunks](https://github.com/webpack/webpack/issues/4392)
 
+- [Mark Raw Optimization](https://patak.dev/vue/mark-raw-optimization.html) #useManualRefHistory
+- [History and Persistence](https://patak.dev/vue/history-and-persistence.html)
+- [Ignorable watch](https://patak.dev/vue/ignorable-watch.html) #useRefHistory
 - [Better Stores in Pinia with Vue3 — Global Stores, Nesting and Accessing Vue Router in Pinia](https://blog.theletstream.com/better-stores-in-pinia-with-vue3-global-stores-nesting-and-accessing-vue-router-in-pinia-0064a6f22ed6)
 - [Optimizing Image Integration in Vite with Vue: A Comprehensive Guide](https://medium.com/@emperorbrains/optimizing-image-integration-in-vite-with-vue-a-comprehensive-guide-bbf6d4e8beb0)
 - [Vue.js Nation 2024: Unlocking Reusability Generically Typed Vue.js Components by Abdelrahman Awad](https://www.youtube.com/watch?v=IZtW8xUGbeQ) #TS #typescript #generics
