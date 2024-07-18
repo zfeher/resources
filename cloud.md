@@ -14,6 +14,7 @@
 
 ## AWS
 
+- [What’s the most serverless way to wait for a slow HTTP response?](https://theburningmonk.com/2023/08/whats-the-most-serverless-way-to-wait-for-a-slow-http-response)
 - [Step Functions: combine Standard and Express workflows for fun & profit](https://theburningmonk.com/2023/09/combine-standard-and-express-workflows-for-fun-profit)
 - [Static IP for Lambda: ingress, egress and bypassing the dreaded NAT Gateway](https://theburningmonk.com/2023/09/static-ip-for-lambda-ingress-egress-and-bypassing-the-dreaded-nat-gateway)
 - [AWS Lambda – use the invocation context to better handle slow HTTP responses](https://theburningmonk.com/2018/01/aws-lambda-use-the-invocation-context-to-better-handle-slow-http-responses)

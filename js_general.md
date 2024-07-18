@@ -540,6 +540,8 @@
 
 ## Performance, memory
 
+- [How To Improve INP: Yield Patterns](https://kurtextrem.de/posts/improve-inp)
+- [Optimizing INP for a React App & Performance Learnings](https://www.iamtk.co/optimizing-inp-for-a-react-app-and-performance-learnings)
 - [Investigating INP issues](https://www.stefanjudis.com/blog/investigating-inp-issues)
 - [Optimizing Javascript for fun and for profit](https://romgrk.com/posts/optimizing-javascript)
 - [Inspect Source Code Performance with Deoptigate](https://www.builder.io/blog/deoptigate)
@@ -1931,6 +1933,7 @@
 
 ## Testing
 
+- [Why "page.goto()" is slowing down your Playwright tests](https://www.checklyhq.com/blog/why-page-goto-is-slowing-down-your-playwright-test)
 - [Loki](https://loki.js.org/) #visual regression
 - [Your Jest tests might be wrong](https://jamiemagee.co.uk/blog/your-jest-tests-might-be-wrong)
 - [Complete guide on Playwright visual regression testing](https://lost-pixel.com/blog/post/playwright-visual-regression-testing)
