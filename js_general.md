@@ -1237,6 +1237,8 @@
 
 ## Nuxt
 
+- [Caching in Nitro](https://www.youtube.com/watch?v=KN5e2Hh6uC0)
+- [Route Rules in Nuxt - SSR, SSG, ISR and more](https://www.youtube.com/watch?v=Fp04Kw4nBE8)
 - [Getting a grip on Nuxt's auto-import functionality](https://davestewart.co.uk/blog/nuxt-auto-import)
 - [Modular site architecture with Nuxt layers](https://davestewart.co.uk/blog/nuxt-layers)
 - [How to deal with caching and dynamic content in Nuxt?](https://dev.to/vue-storefront/how-to-deal-with-caching-and-dynamic-content-2ilk)
