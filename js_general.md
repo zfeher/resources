@@ -180,6 +180,7 @@
 
 ## General
 
+- [JS Dates Are About to Be Fixed](https://docs.timetime.in/blog/js-dates-finally-fixed/)
 - [ECMAScript 2024 feature: Promise.withResolvers()](https://2ality.com/2024/05/proposal-promise-with-resolvers.html)
 - [ECMAScript 2024 features: resizing and transferring ArrayBuffers](https://2ality.com/2024/06/array-buffers-es2024.html)
 - [JavaScript Signals standard proposal](https://github.com/proposal-signals/proposal-signals)
@@ -1237,6 +1238,7 @@
 
 ## Nuxt
 
+- [What is BFF?! (With Nuxt, Nitro and h3)](https://www.youtube.com/watch?v=Zli-u9kxw0w)
 - [Caching in Nitro](https://www.youtube.com/watch?v=KN5e2Hh6uC0)
 - [Route Rules in Nuxt - SSR, SSG, ISR and more](https://www.youtube.com/watch?v=Fp04Kw4nBE8)
 - [Getting a grip on Nuxt's auto-import functionality](https://davestewart.co.uk/blog/nuxt-auto-import)
