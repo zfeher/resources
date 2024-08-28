@@ -2042,6 +2042,7 @@
 
 ## Package Management, Dependency Management
 
+- [How To Create An NPM Package](https://www.totaltypescript.com/how-to-create-an-npm-package)
 - [Monorepo Maestros](https://www.shew.dev/monorepos)
 - [5 JavaScript Build Systems for 2024](https://binaraprabhanga.medium.com/5-javascript-build-systems-for-2024-dcdbc6c13636)
 - [Blogged Answers: My Experience Modernizing Packages to ESM](https://blog.isquaredsoftware.com/2023/08/esm-modernization-lessons/)
