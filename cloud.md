@@ -10,6 +10,7 @@
 
 ## Terraform
 
+- [Terraform Tactics: A Guide to Mastering Terraform Commands for DevOps](https://dev.to/haythammostafa/terraform-tactics-a-guide-to-mastering-terraform-commands-for-devops-49ma)
 - [How to Manage Terraform Locals](https://dev.to/env0/how-to-manage-terraform-locals-4onb)
 
 ## AWS
