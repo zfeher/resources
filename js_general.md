@@ -180,6 +180,7 @@
 
 ## General
 
+- [Don't Sleep on AbortController](https://kettanaito.com/blog/dont-sleep-on-abort-controller)
 - [JS Dates Are About to Be Fixed](https://docs.timetime.in/blog/js-dates-finally-fixed/)
 - [ECMAScript 2024 feature: Promise.withResolvers()](https://2ality.com/2024/05/proposal-promise-with-resolvers.html)
 - [ECMAScript 2024 features: resizing and transferring ArrayBuffers](https://2ality.com/2024/06/array-buffers-es2024.html)
