@@ -15,6 +15,7 @@
 
 ## AWS
 
+- [Here is one of the most misunderstood aspects of AWS Lambda](https://theburningmonk.com/2024/11/here-is-one-of-the-most-misunderstood-aspects-of-aws-lambda)
 - [What’s the most serverless way to wait for a slow HTTP response?](https://theburningmonk.com/2023/08/whats-the-most-serverless-way-to-wait-for-a-slow-http-response)
 - [Step Functions: combine Standard and Express workflows for fun & profit](https://theburningmonk.com/2023/09/combine-standard-and-express-workflows-for-fun-profit)
 - [Static IP for Lambda: ingress, egress and bypassing the dreaded NAT Gateway](https://theburningmonk.com/2023/09/static-ip-for-lambda-ingress-egress-and-bypassing-the-dreaded-nat-gateway)
@@ -37,3 +38,7 @@
 
 - [Serverless Framework](https://www.serverless.com/)
 - [Serverless UI](https://github.com/JakePartusch/serverlessui)
+
+## Docker
+
+- [Mastering Docker: Essential Best Practices for Efficiency and Security👮🏻](https://dev.to/devops_descent/mastering-docker-essential-best-practices-for-efficiency-and-security-34ij)

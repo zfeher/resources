@@ -542,6 +542,7 @@
 
 ## Performance, memory
 
+- [The most effective ways to improve Core Web Vitals](https://web.dev/articles/top-cwv)
 - [How To Improve INP: Yield Patterns](https://kurtextrem.de/posts/improve-inp)
 - [Optimizing INP for a React App & Performance Learnings](https://www.iamtk.co/optimizing-inp-for-a-react-app-and-performance-learnings)
 - [Investigating INP issues](https://www.stefanjudis.com/blog/investigating-inp-issues)

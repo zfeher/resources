@@ -33,6 +33,8 @@
 
 ## CSS
 
+- [Centering things: a solved problem?](https://fullystacked.net/centering-things)
+- [Overflow Clip](https://ishadeed.com/article/overflow-clip)
 - [CSS Length Units](https://css-tricks.com/css-length-units)
 - [The Gap](https://ishadeed.com/article/the-gap/)
 - [An Interactive Guide to CSS Container Queries](https://ishadeed.com/article/css-container-query-guide)
