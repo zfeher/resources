@@ -91,6 +91,7 @@
 
 ## Learning
 
+- [200 Project Ideas from Beginner to Advanced with Open Source Contributions](https://dev.to/kishansheth/200-project-ideas-from-beginner-to-advanced-with-open-source-contributions-3g6a)
 - [Front End Tables: Sorting, Filtering, and Pagination](https://www.taniarascia.com/front-end-tables-sort-filter-paginate/) #tutorial
 - [SEO for Devs – Free 2-Week Course](https://seofordevs.com) #SEO
 - [Knights if the Flexbox Table](https://knightsoftheflexboxtable.com)
@@ -454,6 +455,7 @@
 
 ## Micro-frontend, microfrontend, micro frontend
 
+- [Incremental adoption of micro-frontends with Cloudflare Workers](https://blog.cloudflare.com/fragment-piercing)
 - [Luca Mezzalira – Micro frontends anti patterns | Øredev 2022](https://www.youtube.com/watch?v=DaxJuB8AYqM)
 - [Micro-frontends in context](https://increment.com/frontend/micro-frontends-in-context/)
 - [Top 10 Micro Frontend Anti-Patterns](https://dev.to/florianrappl/top-10-micro-frontend-anti-patterns-3809)
@@ -2016,6 +2018,7 @@
 
 ### Related Libs
 
+- [Faker](https://fakerjs.dev)
 - [playwright-fluent](https://github.com/hdorgeval/playwright-fluent)
 - [Mock Service Worker (msw)](https://github.com/mswjs/msw)
 - [faker.js](https://github.com/Marak/Faker.js)
@@ -2047,6 +2050,7 @@
 
 ## Package Management, Dependency Management
 
+- [Guide to the package.json exports field](https://hirok.io/posts/package-json-exports)
 - [How To Create An NPM Package](https://www.totaltypescript.com/how-to-create-an-npm-package)
 - [Monorepo Maestros](https://www.shew.dev/monorepos)
 - [5 JavaScript Build Systems for 2024](https://binaraprabhanga.medium.com/5-javascript-build-systems-for-2024-dcdbc6c13636)
