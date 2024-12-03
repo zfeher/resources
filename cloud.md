@@ -15,6 +15,11 @@
 
 ## AWS
 
+- [How to reprocess Lambda dead-letter queue messages on-demand](https://theburningmonk.com/2024/01/how-would-you-reprocess-lambda-dead-letter-queue-messages-on-demand)
+- [EventBridge best practice: why you should wrap events in event envelopes](https://theburningmonk.com/2024/11/eventbridge-best-practice-why-you-should-wrap-events-in-event-envelopes)
+- [How to handle client errors gracefully with AppSync and Lambda](https://theburningmonk.com/2021/06/how-to-handle-client-errors-gracefully-with-appsync-and-lambda)
+- [When to use Light Events vs. Rich Events in Event-Driven Architectures](https://theburningmonk.com/2024/11/when-to-use-light-events-vs-rich-events-in-event-driven-architectures)
+- [Choreography vs Orchestration in the land of serverless](https://theburningmonk.com/2020/08/choreography-vs-orchestration-in-the-land-of-serverless/)
 - [Here is one of the most misunderstood aspects of AWS Lambda](https://theburningmonk.com/2024/11/here-is-one-of-the-most-misunderstood-aspects-of-aws-lambda)
 - [What’s the most serverless way to wait for a slow HTTP response?](https://theburningmonk.com/2023/08/whats-the-most-serverless-way-to-wait-for-a-slow-http-response)
 - [Step Functions: combine Standard and Express workflows for fun & profit](https://theburningmonk.com/2023/09/combine-standard-and-express-workflows-for-fun-profit)
