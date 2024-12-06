@@ -179,6 +179,10 @@
 
 - [JS Foundation](https://js.foundation)
 
+## AI (Artificial Intelligence) / Machine Learning
+
+- [The 70% problem: Hard truths about AI-assisted coding](https://addyo.substack.com/p/the-70-problem-hard-truths-about)
+
 ## General
 
 - [Don't Sleep on AbortController](https://kettanaito.com/blog/dont-sleep-on-abort-controller)
@@ -544,6 +548,7 @@
 
 ## Performance, memory
 
+- [Caching Header Best Practices](https://simonhearne.com/2022/caching-header-best-practices)
 - [The most effective ways to improve Core Web Vitals](https://web.dev/articles/top-cwv)
 - [How To Improve INP: Yield Patterns](https://kurtextrem.de/posts/improve-inp)
 - [Optimizing INP for a React App & Performance Learnings](https://www.iamtk.co/optimizing-inp-for-a-react-app-and-performance-learnings)
