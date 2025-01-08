@@ -2047,6 +2047,7 @@
 
 ## Offline Apps
 
+- [What Every Developer Should Know About Offline-First Apps](https://devstarterpacks.com/blog/what-every-developer-should-know-about-offline-first-apps)
 - [How to Build Offline-smart Web Apps with Hoodie](https://www.codementor.io/offlinefirst/tutorial/build-offline-smart-web-apps-with-hoodie)
 
 ## Dependencies
