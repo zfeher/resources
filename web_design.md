@@ -33,6 +33,7 @@
 
 ## CSS
 
+- [New Front-End Features For Designers In 2025](https://www.smashingmagazine.com/2024/12/new-front-end-features-for-designers-in-2025)
 - [CSS Wrapped 2024](https://chrome.dev/css-wrapped-2024/)
 - [A Framework for Evaluating Browser Support](https://www.joshwcomeau.com/css/browser-support)
 - [Centering things: a solved problem?](https://fullystacked.net/centering-things)

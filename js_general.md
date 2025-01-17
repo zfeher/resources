@@ -185,6 +185,7 @@
 
 ## General
 
+- [ECMAScript feature: import attributes](https://2ality.com/2025/01/import-attributes.html)
 - [Don't Sleep on AbortController](https://kettanaito.com/blog/dont-sleep-on-abort-controller)
 - [JS Dates Are About to Be Fixed](https://docs.timetime.in/blog/js-dates-finally-fixed/)
 - [ECMAScript 2024 feature: Promise.withResolvers()](https://2ality.com/2024/05/proposal-promise-with-resolvers.html)
@@ -1299,6 +1300,7 @@
 - [3 Code Splitting Patterns For VueJS and Webpack](http://vuejsdevelopers.com/2017/07/08/vue-js-3-ways-code-splitting-webpack/)[code splitting]
 - [Dynamic imports + common chunks](https://github.com/webpack/webpack/issues/4392)
 
+- [How to Use the Variant Props Pattern in Vue](https://alexop.dev/posts/vue-typescript-variant-props-type-safe-props)
 - [Mark Raw Optimization](https://patak.dev/vue/mark-raw-optimization.html) #useManualRefHistory
 - [History and Persistence](https://patak.dev/vue/history-and-persistence.html)
 - [Ignorable watch](https://patak.dev/vue/ignorable-watch.html) #useRefHistory
