@@ -460,6 +460,10 @@
 
 ## Micro-frontend, microfrontend, micro frontend
 
+- [Meet Harmony: A practical solution for composability](https://bit.dev/blog/meet-harmony-a-practical-solution-for-composability) #bit
+- [How to organize and split your frontend applications](https://www.simplefrontend.dev/blog/how-to-organize-and-split-frontend-applications/)
+- [Radically Simple Web Architecture — A Web Application Blueprint for Startups and Small Enterprises](https://medium.com/@alexander.heerens/radically-simple-web-architecture-a-web-application-blueprint-for-startups-and-small-enterprises-f503a5f36381)
+- [2023-01: You Might Not Need Module Federation: Orchestrate your Microfrontends at Runtime with Import Maps](https://www.mercedes-benz.io/blog/2023-01-05-you-might-not-need-module-federation-orchestrate-your-microfrontends-at-runtime-with-import-maps)
 - [Incremental adoption of micro-frontends with Cloudflare Workers](https://blog.cloudflare.com/fragment-piercing)
 - [Luca Mezzalira – Micro frontends anti patterns | Øredev 2022](https://www.youtube.com/watch?v=DaxJuB8AYqM)
 - [Micro-frontends in context](https://increment.com/frontend/micro-frontends-in-context/)
@@ -549,6 +553,7 @@
 
 ## Performance, memory
 
+- [There are a lot of ways to break up long tasks in JavaScript.](https://macarthur.me/posts/long-tasks/)
 - [Caching Header Best Practices](https://simonhearne.com/2022/caching-header-best-practices)
 - [The most effective ways to improve Core Web Vitals](https://web.dev/articles/top-cwv)
 - [How To Improve INP: Yield Patterns](https://kurtextrem.de/posts/improve-inp)
@@ -1023,6 +1028,7 @@
 
 ## Typescript
 
+- [Computing with tuples in TypeScript](https://2ality.com/2025/01/typescript-tuples.html)
 - [How ts-pattern can improve your code readability?](https://dev.to/tauantcamargo/how-ts-pattern-can-improve-your-code-readability-37dd)
 - [How To Strongly Type process.env](https://www.totaltypescript.com/how-to-strongly-type-process-env)
 - [Covariant, Contravariant, and Invariant in Typescript](https://www.sandromaglione.com/articles/covariant-contravariant-and-invariant-in-typescript)
@@ -1590,7 +1596,7 @@
 - [Your Guide to React.useCallback()](https://dmitripavlutin.com/react-usecallback/)
 - [How to useMemo and useCallback: you can remove most of them](https://www.developerway.com/posts/how-to-use-memo-use-callback)
 - [Understanding useMemo and useCallback](https://www.joshwcomeau.com/react/usememo-and-usecallback/)
-- [Practical React Query 1..23](https://tkdodo.eu/blog/practical-react-query)
+- [Practical React Query 1..28](https://tkdodo.eu/blog/practical-react-query)
 - [Five Challenges to Building an Isomorphic JavaScript Library](https://doordash.engineering/2022/12/06/five-challenges-to-building-an-isomorphic-javascript-library)
 - [Data Binding in React](https://www.joshwcomeau.com/react/data-binding)
 - [Top 7 React Animation Libraries in 2022](https://www.syncfusion.com/blogs/post/top-7-react-animation-libraries-in-2022.aspx)
@@ -2058,6 +2064,7 @@
 
 ## Package Management, Dependency Management
 
+- [Tutorial: publishing ESM-based npm packages with TypeScript](https://2ality.com/2025/02/typescript-esm-packages.html)
 - [Guide to the package.json exports field](https://hirok.io/posts/package-json-exports)
 - [How To Create An NPM Package](https://www.totaltypescript.com/how-to-create-an-npm-package)
 - [Monorepo Maestros](https://www.shew.dev/monorepos)
@@ -2097,8 +2104,10 @@
 
 ### Related Libs
 
-- [dependency-cruiser](https://github.com/sverweij/dependency-cruiser)
+- [arethetypeswrong.github.io](https://github.com/arethetypeswrong/arethetypeswrong.github.io)
 - [publint](https://publint.dev/)
+- [Madge](https://github.com/pahen/madge)
+- [dependency-cruiser](https://github.com/sverweij/dependency-cruiser)
 - [npm-check](https://github.com/dylang/npm-check)
 - [qnm](https://github.com/ranyitz/qnm)
 - [Turborepo](https://turborepo.org/) #monorepo
