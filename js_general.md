@@ -27,6 +27,7 @@
 
 ## Books
 
+- [Exploring TypeScript: TS 5.8 edition](https://exploringjs.com/ts/)
 - [The JavaScript DOM Manipulation Handbook](https://www.freecodecamp.org/news/the-javascript-dom-manipulation-handbook)
 - [Developer Experience - Addy Osmani](https://dx.addy.ie/)
 - [Great (and Free!) Web Development Books You Can Get Online](https://css-tricks.com/web-development-books-you-can-get-for-free)
@@ -1028,6 +1029,8 @@
 
 ## Typescript
 
+- [Learn Zod So You Can Trust Your Data and Your Types](https://didoesdigital.com/blog/zod-overview)
+- [Ideas for making TypeScript better at testing types](https://2ality.com/2025/04/testing-types-typescript.html)
 - [Computing with tuples in TypeScript](https://2ality.com/2025/01/typescript-tuples.html)
 - [How ts-pattern can improve your code readability?](https://dev.to/tauantcamargo/how-ts-pattern-can-improve-your-code-readability-37dd)
 - [How To Strongly Type process.env](https://www.totaltypescript.com/how-to-strongly-type-process-env)
@@ -2074,7 +2077,6 @@
 - [Introducing the new npm Dependency Selector Syntax](https://github.blog/changelog/2022-08-03-introducing-the-new-npm-dependency-selector-syntax)
 - [Monorepos in JavaScript & TypeScript](https://www.robinwieruch.de/javascript-monorepos)
 - [Sponsoring dependencies: The next step in open source sustainability](https://humanwhocodes.com/blog/2022/06/sponsoring-dependencies-open-source-sustainability)
-- [Monorepos in JavaScript & TypeScript](https://www.robinwieruch.de/javascript-monorepos)
 - [Lerna has gone. Which Monorepo is right for a Node.js BACKEND now?](https://medium.com/autodesk-tlv/lerna-has-gone-which-monorepo-is-right-for-a-node-js-backend-fc075cad51b0) #Nx #Turborepo
 - [5 Best Practices to Choosing Third-Party NPM Packages](https://blog.bitsrc.io/5-best-practices-when-choosing-third-party-npm-packages-2198994357f9)
 - [Simple monorepos via npm workspaces and TypeScript project references](https://2ality.com/2021/07/simple-monorepos.html)

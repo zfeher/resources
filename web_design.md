@@ -33,6 +33,7 @@
 
 ## CSS
 
+- [First Look at The Modern attr()](https://ishadeed.com/article/modern-attr/)
 - [New CSS Features You Should Know](https://medium.com/@onix_react/new-css-features-you-should-know-958ed1d34464)
 - [New Front-End Features For Designers In 2025](https://www.smashingmagazine.com/2024/12/new-front-end-features-for-designers-in-2025)
 - [CSS Wrapped 2024](https://chrome.dev/css-wrapped-2024/)
