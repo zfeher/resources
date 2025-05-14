@@ -1259,6 +1259,8 @@
 
 ## Nuxt
 
+- [Components in a DIFFERENT FOLDER?](https://www.youtube.com/watch?v=aAjfywmbfkM)
+- [Fetch ONCE and share data between Nuxt and Nitro!]( https://www.youtube.com/watch?v=0hx38jAzd68) #event.context
 - [What is BFF?! (With Nuxt, Nitro and h3)](https://www.youtube.com/watch?v=Zli-u9kxw0w)
 - [Caching in Nitro](https://www.youtube.com/watch?v=KN5e2Hh6uC0)
 - [Route Rules in Nuxt - SSR, SSG, ISR and more](https://www.youtube.com/watch?v=Fp04Kw4nBE8)
