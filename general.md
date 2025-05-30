@@ -161,6 +161,7 @@
     - `git merge @{upstream}` can be used instead `git merge origin/master`
   - `git branch -vv` check setup remote tracking branches
   - `git branch -r --sort=-committerdate --format='%(committerdate) %(refname)'` show remote branches ordered by modification date
+  - `git branch --merged origin/master | grep -v "main" | grep -v "master" | xargs git branch -d` delete merged branches
   - `git push origin --delete serverfix` delete remote branch serverfix
     - `git push origin :serverfix` delete remote branch serverfix
   - `git pull --rebase` pull rebase instead pull merge
