@@ -186,6 +186,7 @@
 
 ## General
 
+- [A JavaScript Developer's Guide to Go](https://prateeksurana.me/blog/guide-to-go-for-javascript-developers/)
 - [ECMAScript feature: import attributes](https://2ality.com/2025/01/import-attributes.html)
 - [Don't Sleep on AbortController](https://kettanaito.com/blog/dont-sleep-on-abort-controller)
 - [JS Dates Are About to Be Fixed](https://docs.timetime.in/blog/js-dates-finally-fixed/)
@@ -729,6 +730,7 @@
 
 ## Security / Payment
 
+- [The lethal trifecta for AI agents: private data, untrusted content, and external communication](https://simonwillison.net/2025/Jun/16/the-lethal-trifecta) #AI
 - [Password Management: Passwordless Login](https://dev.to/gearoidotreasaigh/password-management-passwordless-login-1j5)
 - [Password Management: The Basics](https://dev.to/gearoidotreasaigh/password-management-the-basics-4d40)
 - [Node.js Security Best Practices](https://nodejs.org/en/docs/guides/security) #node.js
@@ -1259,6 +1261,7 @@
 
 ## Nuxt
 
+- [Powering multi-tenant applications with Nuxt](https://www.adamdehaven.com/articles/powering-multi-tenant-applications-with-nuxt)
 - [Components in a DIFFERENT FOLDER?](https://www.youtube.com/watch?v=aAjfywmbfkM)
 - [Fetch ONCE and share data between Nuxt and Nitro!]( https://www.youtube.com/watch?v=0hx38jAzd68) #event.context
 - [What is BFF?! (With Nuxt, Nitro and h3)](https://www.youtube.com/watch?v=Zli-u9kxw0w)
