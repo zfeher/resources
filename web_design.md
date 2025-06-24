@@ -33,6 +33,7 @@
 
 ## CSS
 
+- [Animating zooming using CSS: transform order is important… sometimes](https://jakearchibald.com/2025/animating-zooming/)
 - [A new way to style gaps in CSS](https://developer.chrome.com/blog/gap-decorations)
 - [First Look at The Modern attr()](https://ishadeed.com/article/modern-attr/)
 - [New CSS Features You Should Know](https://medium.com/@onix_react/new-css-features-you-should-know-958ed1d34464)

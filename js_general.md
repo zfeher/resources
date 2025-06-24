@@ -182,6 +182,7 @@
 
 ## AI (Artificial Intelligence) / Machine Learning
 
+- [LangGraph for complex workflows](https://surma.dev/things/langgraph)
 - [The 70% problem: Hard truths about AI-assisted coding](https://addyo.substack.com/p/the-70-problem-hard-truths-about)
 
 ## General
