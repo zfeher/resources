@@ -33,6 +33,7 @@
 
 ## CSS
 
+- [An Interactive Guide to Flexbox - Josh](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox)
 - [Animating zooming using CSS: transform order is important… sometimes](https://jakearchibald.com/2025/animating-zooming/)
 - [A new way to style gaps in CSS](https://developer.chrome.com/blog/gap-decorations)
 - [First Look at The Modern attr()](https://ishadeed.com/article/modern-attr/)
