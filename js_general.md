@@ -463,6 +463,7 @@
 
 ## Micro-frontend, microfrontend, micro frontend
 
+- [How I use AI to set the right guardrails](https://preview.mailerlite.io/emails/webview/893059/160628399497282708)
 - [Meet Harmony: A practical solution for composability](https://bit.dev/blog/meet-harmony-a-practical-solution-for-composability) #bit
 - [How to organize and split your frontend applications](https://www.simplefrontend.dev/blog/how-to-organize-and-split-frontend-applications/)
 - [Radically Simple Web Architecture — A Web Application Blueprint for Startups and Small Enterprises](https://medium.com/@alexander.heerens/radically-simple-web-architecture-a-web-application-blueprint-for-startups-and-small-enterprises-f503a5f36381)
@@ -512,6 +513,7 @@
 
 ### Related
 
+- [TSArch](https://github.com/ts-arch/ts-arch)
 - [VueMS (Vue Micro Services)](https://vuems.ergonode.com/) #vue #nuxt
 - [MicroLib](https://github.com/module-federation/MicroLib)
 - [awesome-microfrontends](https://github.com/ChristianUlbrich/awesome-microfrontends)

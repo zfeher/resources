@@ -33,6 +33,8 @@
 
 ## CSS
 
+- [A Friendly Introduction to SVG](https://www.joshwcomeau.com/svg/friendly-introduction-to-svg)
+- [The Surprising Truth About Pixels and Accessibility](https://www.joshwcomeau.com/css/surprising-truth-about-pixels-and-accessibility)
 - [An Interactive Guide to Flexbox - Josh](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox)
 - [Animating zooming using CSS: transform order is important… sometimes](https://jakearchibald.com/2025/animating-zooming/)
 - [A new way to style gaps in CSS](https://developer.chrome.com/blog/gap-decorations)
