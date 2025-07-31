@@ -1264,6 +1264,7 @@
 
 ## Nuxt
 
+- [Nuxt performance](https://nuxt.com/docs/4.x/guide/best-practices/performance)
 - [Powering multi-tenant applications with Nuxt](https://www.adamdehaven.com/articles/powering-multi-tenant-applications-with-nuxt)
 - [Components in a DIFFERENT FOLDER?](https://www.youtube.com/watch?v=aAjfywmbfkM)
 - [Fetch ONCE and share data between Nuxt and Nitro!]( https://www.youtube.com/watch?v=0hx38jAzd68) #event.context
@@ -1317,6 +1318,7 @@
 - [3 Code Splitting Patterns For VueJS and Webpack](http://vuejsdevelopers.com/2017/07/08/vue-js-3-ways-code-splitting-webpack/)[code splitting]
 - [Dynamic imports + common chunks](https://github.com/webpack/webpack/issues/4392)
 
+- [How to Test Vue Composables: A Comprehensive Guide with Vitest](https://alexop.dev/posts/how-to-test-vue-composables/) #test
 - [How to Use the Variant Props Pattern in Vue](https://alexop.dev/posts/vue-typescript-variant-props-type-safe-props)
 - [Mark Raw Optimization](https://patak.dev/vue/mark-raw-optimization.html) #useManualRefHistory
 - [History and Persistence](https://patak.dev/vue/history-and-persistence.html)

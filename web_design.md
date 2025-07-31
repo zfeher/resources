@@ -33,6 +33,7 @@
 
 ## CSS
 
+- [CSS conditionals with the new if() function](https://developer.chrome.com/blog/if-article)
 - [A Friendly Introduction to SVG](https://www.joshwcomeau.com/svg/friendly-introduction-to-svg)
 - [The Surprising Truth About Pixels and Accessibility](https://www.joshwcomeau.com/css/surprising-truth-about-pixels-and-accessibility)
 - [An Interactive Guide to Flexbox - Josh](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox)
