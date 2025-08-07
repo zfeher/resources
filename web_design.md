@@ -33,6 +33,8 @@
 
 ## CSS
 
+- [Creating a scroll-spy with 2 lines of CSS](https://una.im/scroll-target-group)
+- [Friends at Last: Tailwind & CSS…whodathunkit?!](https://thathtml.blog/2025/08/tailwind-and-css-friends-at-last)
 - [CSS conditionals with the new if() function](https://developer.chrome.com/blog/if-article)
 - [A Friendly Introduction to SVG](https://www.joshwcomeau.com/svg/friendly-introduction-to-svg)
 - [The Surprising Truth About Pixels and Accessibility](https://www.joshwcomeau.com/css/surprising-truth-about-pixels-and-accessibility)
