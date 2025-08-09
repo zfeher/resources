@@ -27,6 +27,7 @@
 
 ## Books
 
+- [Temporal Cookbook](https://tc39.es/proposal-temporal/docs/cookbook.html?futuredate=2025-08-14#how-many-days-until-a-future-date)
 - [Exploring TypeScript: TS 5.8 edition](https://exploringjs.com/ts/)
 - [The JavaScript DOM Manipulation Handbook](https://www.freecodecamp.org/news/the-javascript-dom-manipulation-handbook)
 - [Developer Experience - Addy Osmani](https://dx.addy.ie/)
