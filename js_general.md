@@ -188,6 +188,7 @@
 
 ## General
 
+- [JavaScript Standards Update: What’s New in ECMAScript 2025](https://thenewstack.io/javascript-standards-update-whats-new-in-ecmascript-2025/)
 - [A JavaScript Developer's Guide to Go](https://prateeksurana.me/blog/guide-to-go-for-javascript-developers/)
 - [ECMAScript feature: import attributes](https://2ality.com/2025/01/import-attributes.html)
 - [Don't Sleep on AbortController](https://kettanaito.com/blog/dont-sleep-on-abort-controller)
@@ -1265,6 +1266,7 @@
 
 ## Nuxt
 
+- [Efficient Data Fetching In Nuxt With useAsyncData](https://www.debugbear.com/blog/nuxt-useasyncdata)
 - [Nuxt performance](https://nuxt.com/docs/4.x/guide/best-practices/performance)
 - [Powering multi-tenant applications with Nuxt](https://www.adamdehaven.com/articles/powering-multi-tenant-applications-with-nuxt)
 - [Components in a DIFFERENT FOLDER?](https://www.youtube.com/watch?v=aAjfywmbfkM)
@@ -1319,6 +1321,7 @@
 - [3 Code Splitting Patterns For VueJS and Webpack](http://vuejsdevelopers.com/2017/07/08/vue-js-3-ways-code-splitting-webpack/)[code splitting]
 - [Dynamic imports + common chunks](https://github.com/webpack/webpack/issues/4392)
 
+- [Bulletproof Watchers in Vue](https://michaelnthiessen.com/bulletproof-watchers-in-vue)
 - [How to Test Vue Composables: A Comprehensive Guide with Vitest](https://alexop.dev/posts/how-to-test-vue-composables/) #test
 - [How to Use the Variant Props Pattern in Vue](https://alexop.dev/posts/vue-typescript-variant-props-type-safe-props)
 - [Mark Raw Optimization](https://patak.dev/vue/mark-raw-optimization.html) #useManualRefHistory

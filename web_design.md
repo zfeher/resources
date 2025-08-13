@@ -31,8 +31,13 @@
 - [Using the Paint Timing API](https://css-tricks.com/paint-timing-api/)
 - [Performant Web Animations and Interactions: Achieving 60 FPS](https://blog.algolia.com/performant-web-animations/)
 
+## Learn
+
+- [CSS-Questions](https://css-questions.com/)
+
 ## CSS
 
+- [Better CSS layouts: Time.com Hero Section](https://ishadeed.com/article/time-layout/)
 - [Less Absolute Positioning With Modern CSS](https://ishadeed.com/article/less-absolute-positioning-modern-css)
 - [Creating a scroll-spy with 2 lines of CSS](https://una.im/scroll-target-group)
 - [Friends at Last: Tailwind & CSS…whodathunkit?!](https://thathtml.blog/2025/08/tailwind-and-css-friends-at-last)
