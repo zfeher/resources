@@ -37,6 +37,7 @@
 
 ## CSS
 
+- [CSS-only scrollspy effect using scroll-marker-group and :target-current](https://www.sarasoueidan.com/blog/css-scrollspy)
 - [A gentle introduction to anchor positioning](https://webkit.org/blog/17240/a-gentle-introduction-to-anchor-positioning)
 - [Better CSS layouts: Time.com Hero Section](https://ishadeed.com/article/time-layout/)
 - [Less Absolute Positioning With Modern CSS](https://ishadeed.com/article/less-absolute-positioning-modern-css)

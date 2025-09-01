@@ -188,6 +188,7 @@
 
 ## General
 
+- [Big O](https://samwho.dev/big-o/)
 - [JavaScript Standards Update: What’s New in ECMAScript 2025](https://thenewstack.io/javascript-standards-update-whats-new-in-ecmascript-2025/)
 - [A JavaScript Developer's Guide to Go](https://prateeksurana.me/blog/guide-to-go-for-javascript-developers/)
 - [ECMAScript feature: import attributes](https://2ality.com/2025/01/import-attributes.html)
@@ -515,6 +516,7 @@
 
 ### Related
 
+- [Web Fragments](https://web-fragments.dev)
 - [TSArch](https://github.com/ts-arch/ts-arch)
 - [VueMS (Vue Micro Services)](https://vuems.ergonode.com/) #vue #nuxt
 - [MicroLib](https://github.com/module-federation/MicroLib)
