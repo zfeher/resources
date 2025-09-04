@@ -37,6 +37,8 @@
 
 ## CSS
 
+- [Reduce web font size](https://web.dev/articles/reduce-webfont-size)
+- [How I set up Glyphhanger on macOS for optimizing and converting font files for the Web](https://www.sarasoueidan.com/blog/glyphhanger/)
 - [CSS-only scrollspy effect using scroll-marker-group and :target-current](https://www.sarasoueidan.com/blog/css-scrollspy)
 - [A gentle introduction to anchor positioning](https://webkit.org/blog/17240/a-gentle-introduction-to-anchor-positioning)
 - [Better CSS layouts: Time.com Hero Section](https://ishadeed.com/article/time-layout/)
@@ -234,6 +236,7 @@
 
 ### Related
 
+- [Fallback Font Generator](https://screenspan.net/fallback)
 - [Tailwind Variants](https://www.tailwind-variants.org/) #cva
 - [Linaria](https://linaria.dev/) #css-in-js #zero-runtime
 - [vanilla-extract](https://vanilla-extract.style/) #css-in-js #zero-runtime

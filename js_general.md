@@ -2123,6 +2123,7 @@
 
 ### Related Libs
 
+- [Lage](https://github.com/microsoft/lage)
 - [arethetypeswrong.github.io](https://github.com/arethetypeswrong/arethetypeswrong.github.io)
 - [publint](https://publint.dev/)
 - [Madge](https://github.com/pahen/madge)
