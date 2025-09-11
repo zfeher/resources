@@ -15,6 +15,7 @@
 
 ## API
 
+- [Everything I know about good API design](https://www.seangoedecke.com/good-api-design/)
 - [Building an API Gateway using Node.js](https://blog.risingstack.com/building-an-api-gateway-using-nodejs/)
 - [slate](https://github.com/lord/slate) [api][documentation]
 - [Insomnia REST](https://insomnia.rest)

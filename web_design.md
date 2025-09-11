@@ -37,6 +37,8 @@
 
 ## CSS
 
+- [What are OKLCH colors?](https://jakub.kr/components/oklch-colors)
+- [The Fundamentals of CSS Alignment](https://css-tip.com/explore/alignment/)
 - [Reduce web font size](https://web.dev/articles/reduce-webfont-size)
 - [How I set up Glyphhanger on macOS for optimizing and converting font files for the Web](https://www.sarasoueidan.com/blog/glyphhanger/)
 - [CSS-only scrollspy effect using scroll-marker-group and :target-current](https://www.sarasoueidan.com/blog/css-scrollspy)
