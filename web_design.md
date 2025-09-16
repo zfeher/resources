@@ -37,6 +37,8 @@
 
 ## CSS
 
+- [You no longer need JavaScript](https://lyra.horse/blog/2025/08/you-dont-need-js)
+- [View Transitions: What Could Possibly Go Wrong?](https://vtbag.dev/tips/view-transition-fails-and-fixes/)
 - [What are OKLCH colors?](https://jakub.kr/components/oklch-colors)
 - [The Fundamentals of CSS Alignment](https://css-tip.com/explore/alignment/)
 - [Reduce web font size](https://web.dev/articles/reduce-webfont-size)
