@@ -1292,6 +1292,7 @@
 
 ### Related
 
+- [Awesome Nuxt](https://awesome-nuxt.dev)
 - [nuxt-hydration](https://www.npmjs.com/package/nuxt-hydration)
 - [nuxt-delay-hydration](https://nuxt.com/modules/delay-hydration)
 - [nuxt-layers-utils](https://github.com/davestewart/nuxt-layers-utils)

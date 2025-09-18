@@ -37,6 +37,11 @@
 
 ## CSS
 
+- [5 Useful CSS functions using the new @function rule](https://una.im/5-css-functions)
+- [Another article about centering in CSS](https://piccalil.li/blog/another-article-about-centering-in-css)
+- [An Interactive Guide to SVG Paths](https://www.joshwcomeau.com/svg/interactive-guide-to-paths/)
+- [The Basics of Anchor Positioning](https://ishadeed.com/article/anchor-positioning/)
+- [Color Shifting in CSS](https://www.joshwcomeau.com/animation/color-shifting/)
 - [You no longer need JavaScript](https://lyra.horse/blog/2025/08/you-dont-need-js)
 - [View Transitions: What Could Possibly Go Wrong?](https://vtbag.dev/tips/view-transition-fails-and-fixes/)
 - [What are OKLCH colors?](https://jakub.kr/components/oklch-colors)
