@@ -1273,7 +1273,7 @@
 - [Nuxt performance](https://nuxt.com/docs/4.x/guide/best-practices/performance)
 - [Powering multi-tenant applications with Nuxt](https://www.adamdehaven.com/articles/powering-multi-tenant-applications-with-nuxt)
 - [Components in a DIFFERENT FOLDER?](https://www.youtube.com/watch?v=aAjfywmbfkM)
-- [Fetch ONCE and share data between Nuxt and Nitro!]( https://www.youtube.com/watch?v=0hx38jAzd68) #event.context
+- [Fetch ONCE and share data between Nuxt and Nitro!](https://www.youtube.com/watch?v=0hx38jAzd68) #event.context
 - [What is BFF?! (With Nuxt, Nitro and h3)](https://www.youtube.com/watch?v=Zli-u9kxw0w)
 - [Caching in Nitro](https://www.youtube.com/watch?v=KN5e2Hh6uC0)
 - [Route Rules in Nuxt - SSR, SSG, ISR and more](https://www.youtube.com/watch?v=Fp04Kw4nBE8)
@@ -2085,6 +2085,7 @@
 
 ## Package Management, Dependency Management
 
+- [Best Practices on Publishing npm Packages](https://e18e.dev/docs/publishing.html)
 - [Tutorial: publishing ESM-based npm packages with TypeScript](https://2ality.com/2025/02/typescript-esm-packages.html)
 - [Guide to the package.json exports field](https://hirok.io/posts/package-json-exports)
 - [How To Create An NPM Package](https://www.totaltypescript.com/how-to-create-an-npm-package)

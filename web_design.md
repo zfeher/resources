@@ -37,6 +37,10 @@
 
 ## CSS
 
+- [How much do you really know about media queries?](https://frontendmasters.com/blog/learn-media-queries)
+- [What You Need to Know about Modern CSS (2025 Edition)](https://frontendmasters.com/blog/what-you-need-to-know-about-modern-css-2025-edition/)
+- [Getting Creative With shape-outside](https://css-tricks.com/getting-creative-with-shape-outside)
+- [A pragmatic guide to modern CSS colours - part one](https://piccalil.li/blog/a-pragmatic-guide-to-modern-css-colours-part-one)
 - [5 Useful CSS functions using the new @function rule](https://una.im/5-css-functions)
 - [Another article about centering in CSS](https://piccalil.li/blog/another-article-about-centering-in-css)
 - [An Interactive Guide to SVG Paths](https://www.joshwcomeau.com/svg/interactive-guide-to-paths/)

@@ -37,6 +37,7 @@
 
 ## Node
 
+- [15 Recent Node.js Features that Replace Popular npm Packages](https://nodesource.com/blog/nodejs-features-replacing-npm-packages)
 - [10 modern Node.js runtime features to start using in 2024](https://snyk.io/blog/10-modern-node-js-runtime-features)
 - [Poor Express Authentication Patterns in Node.js and How to Avoid Them](https://www.lirantal.com/blog/poor-express-authentication-patterns-nodejs)
 - [awesome-nodejs-security](https://github.com/lirantal/awesome-nodejs-security)
